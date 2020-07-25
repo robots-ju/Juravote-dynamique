@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-<?php $icon = "./IMG/Logo/JuraVote/Icon.png"; ?>
-
 <head>
     <link rel="shortcut icon" href="<?php echo $icon; ?>"/>
     <title>JuraVote | Accueil</title>
@@ -12,15 +10,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!--CSS-->
-    <link rel="stylesheet" href="00css/normalize.css">
-    <link rel="stylesheet" href="00css/uikit.min.css"/>
+    <link rel="stylesheet" href="./CSS/main.css">
+    <link rel="stylesheet" href="./CSS/uikit.min.css"/>
     <link rel="stylesheet" href="index.css"/>
-    <link rel="stylesheet" href="00css/main.css"/>
+    <link rel="stylesheet" href="./CSS/main.css"/>
 
     <!--JS-->
-    <script src="00js/uikit.min.js"></script>
-    <script src="00js/uikit-icons.min.js"></script>
+    <script src="./JS/uikit.min.js"></script>
+    <script src="./JS/uikit-icons.min.js"></script>
     
+    <!--PHP-->
+    <?php include("variables.php") ?>
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166072477-1"></script>
     <script>
@@ -36,3 +37,31 @@
     </script>
 
 </head>
+
+<body>
+
+
+    <head>
+        <div class="navbar-normal">
+            <?php require("./Includes/Navbar/navbar.php"); ?>
+        </div>
+
+        <div class="navbar-mobile">
+            <?php include("./Includes/Navbar/navbar-mobile.php") ?>
+        </div>
+    </head>
+
+
+
+    <main>
+
+    </main>
+
+
+
+    <footer>
+
+    </footer>
+
+
+</body>

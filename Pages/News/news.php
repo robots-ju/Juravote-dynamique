@@ -1,1 +1,1 @@
-php
+<?php include_once("../../Includes/Navbar/navbar.php")?>

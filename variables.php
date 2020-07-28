@@ -46,4 +46,27 @@
 
     //réseaux sociaux :
     $iconDisord = "./IMG/Logo/ResauxSociaux/Discord.png";
+
+
+//FICHIERS
+    //CSS
+    $cssMain = "./CSS/main.css";
+    $cssUikitMin = "./CSS/uikit.min.css";
+    $cssNormalize ="./CSS/normalize.css";
+
+    //JS
+    $jsUikit = "./JS/uikit.js";
+    $jsUikitMin = "./JS/uikit.min.js";
+    $jsUikitIcons ="./JS/uikit-icons.js";
+    $jsUikitIconsMin ="./JS/uikit-icons.min.js";
+
+
+
+//INCLUDES
+    //navbar
+    $navbar = "./Includes/Navbar/navbar.php";
+    $navbarMobile = "./Includes/Navbar/navbar-mobile.php";
+
+    //footer
+    $footer = "./Includes/Footer/footer.php";
 ?>

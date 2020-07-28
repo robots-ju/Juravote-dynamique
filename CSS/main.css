@@ -85,10 +85,6 @@ and (min-width: 950px) {
     main {
         padding-top: 0;
     }
-
-    .footer {
-        height: 600px;
-    }
 }
 
 @media (max-width: 500px) {

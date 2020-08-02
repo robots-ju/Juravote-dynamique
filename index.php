@@ -48,14 +48,14 @@
         <main>
         
 
-        <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-expand@s uk-margin" uk-grid>
+        <div class="uk-card uk-card-hover uk-grid-collapse uk-child-width-1-2@m uk-child-width-1-1@s uk-padding" uk-grid>
             <div class="uk-card-media-left uk-cover-container">
-                <img src="<?php echo $juravoteLogo ?>" width="200" height="200" alt="" uk-cover>
+                <img src="<?php echo $juravoteLogoIcon ?>" width="200" height="200" alt="Juravote">
             </div>
             <div>
                 <div class="uk-card-body">
-                    <h3 class="uk-card-title">Media Left</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                    <h3 class="uk-card-title">Bienvenue sur Juravote !</h3>
+                    <p>Nous vous souhaitons une agréable visite et restons à disposition pour toute proposition ou question !</p>
                 </div>
             </div>
         </div>
@@ -64,13 +64,43 @@
 
 
             <div class="uk-width-1-1@m">
-                
+             
             </div>
 
 
-            <div class="uk-width-1-6@m">
-                <div class="uk-card uk-card-default uk-card-body">
-
+            <div class="uk-width-auto">
+                <div class="uk-card uk-card-hover uk-card-body">
+                    <h3 class="uk-heading-divider">Prochains événements</h3>
+                    <div class="uk-card uk-card-hover uk-card-header uk-width-1-1">
+                        <div class="uk-card-badge uk-label">27.09</div>
+                        <div class="uk-card-body">
+                        <h3 class="uk-card-title">Votations fédérales</h3>
+                        </div>
+                    </div>
+                    <div class="uk-card uk-card-hover uk-card-header uk-width-1-1">
+                        <div class="uk-card-badge uk-label">27.09</div>
+                        <div class="uk-card-body">
+                        <h3 class="uk-card-title">Votation Delémont</h3>
+                        </div>
+                    </div>
+                    <div class="uk-card uk-card-hover uk-card-header uk-width-1-1">
+                        <div class="uk-card-badge uk-label">27.09</div>
+                        <div class="uk-card-body">
+                        <h3 class="uk-card-title">Elections Lajoux</h3>
+                        </div>
+                    </div>
+                    <div class="uk-card uk-card-hover uk-card-header uk-width-1-1">
+                        <div class="uk-card-badge uk-label">18.10</div>
+                        <div class="uk-card-body">
+                        <h3 class="uk-card-title">Elections Jura</h3>
+                        </div>
+                    </div>
+                    <div class="uk-card uk-card-hover uk-card-header uk-width-1-1">
+                        <div class="uk-card-badge uk-label">18.10</div>
+                        <div class="uk-card-body">
+                        <h3 class="uk-card-title">Elections Jura</h3>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -80,15 +110,15 @@
 
 
                     <div class="uk-width-1-1@m">
-                        <div class="uk-card uk-card-default uk-card-body">
-
+                        <div class="uk-card uk-card-hover uk-card-body">
+                            <p>Soutiens Juravote</p>
                         </div>
                     </div>
 
 
                     <div class="uk-width-1-1@m">
-                        <div class="uk-card uk-card-default uk-card-body">
-
+                        <div class="uk-card uk-card-hover uk-card-body">
+                            <p>Actualités</p>
                         </div>
                     </div>
 
@@ -98,8 +128,8 @@
 
 
             <div class="uk-width-1-6@m">
-                <div class="uk-card uk-card-default uk-card-body">
-
+                <div class="uk-card uk-card-hover uk-card-body">
+                    <p>Section 4</p>
                 </div>
             </div>
 

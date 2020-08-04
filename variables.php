@@ -23,6 +23,7 @@
     $juravoteLogo = "./IMG/Logo/JuraVote/Logo.png";
     $juravoteIcon = "./IMG/Logo/JuraVote/Icon.png";
     $juravoteLogoIcon = "./IMG/Logo/JuraVote/LogoIcon.png";
+    $juravoteTwitter = "./IMG/Logo/ReseauxSociaux/Bannieres/Twitter.png";
 
     //partis :
     $pcsi = "./IMG/Logo/partis/CS-POP.png";
@@ -45,8 +46,10 @@
     $pouvoirFederal = "./IMG/Logo/Pouvoirs/federal.png";
 
     //réseaux sociaux :
-    $iconDisord = "./IMG/Logo/ResauxSociaux/Discord.png";
+    $iconDiscord = "./IMG/Logo/ResauxSociaux/Discord.png";
 
+    //divers
+    $ChappuisGabrielM = "./IMG/ChappuisGabrielM.png";
 
 //FICHIERS
     //CSS

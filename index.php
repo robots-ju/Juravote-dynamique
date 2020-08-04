@@ -174,7 +174,7 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="#" target="blank">
+                        <a href="https://www.develier.ch/fr/Vivre/Actualites/News/Assemblee-communale-du-lundi-17-aout-2020.html" target="blank">
                             <div class="uk-card uk-card-hover uk-card-header uk-width-1-1">
                                 <div class="uk-card-badge uk-label" style="background-color: #D20603;">17.08</div>
                                 <div class="uk-card-body">
@@ -182,7 +182,7 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="#" target="blank">
+                        <a href="https://muriaux.ch/officiel/assemblee/" target="blank">
                             <div class="uk-card uk-card-hover uk-card-header uk-width-1-1">
                                 <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.08</div>
                                 <div class="uk-card-body">
@@ -190,7 +190,7 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="#" target="blank">
+                        <a href="http://www.damphreux.ch/index.html" target="blank">
                             <div class="uk-card uk-card-hover uk-card-header uk-width-1-1">
                                 <div class="uk-card-badge uk-label" style="background-color: #D20603;">20.08</div>
                                 <div class="uk-card-body">
@@ -198,7 +198,7 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="#" target="blank">
+                        <a href="https://www.lesbois.ch/fr/Autorites-politiques/Conseil-general/Ordres-du-jour-des-seances.html" target="blank">
                             <div class="uk-card uk-card-hover uk-card-header uk-width-1-1">
                                 <div class="uk-card-badge uk-label" style="background-color: #D20603;">24.08</div>
                                 <div class="uk-card-body">
@@ -206,7 +206,7 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="#" target="blank">
+                        <a href="http://www.courchapoix.ch/cpx/" target="blank">
                             <div class="uk-card uk-card-hover uk-card-header uk-width-1-1">
                                 <div class="uk-card-badge uk-label" style="background-color: #D20603;">31.08</div>
                                 <div class="uk-card-body">
@@ -214,7 +214,7 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="#" target="blank">
+                        <a href="https://www.boncourt.ch/ADMINISTRATION/ORGANISATION/Assemblee-communale-et-commissions" target="blank">
                             <div class="uk-card uk-card-hover uk-card-header uk-width-1-1">
                                 <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.09</div>
                                 <div class="uk-card-body">

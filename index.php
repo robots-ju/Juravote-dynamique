@@ -65,7 +65,6 @@
                 </div>
 
                 <div class="uk-grid-match" uk-grid>
-                    <div class="uk-width-1-1@m"></div>
                     <div class="uk-width-auto">
                         <div class="uk-card uk-card-hover uk-card-body">
                             <h3 class="uk-heading-divider">Prochains événements</h3>

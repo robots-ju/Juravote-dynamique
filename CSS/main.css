@@ -97,7 +97,7 @@ and (min-width: 950px) {
 /****NAVBAR-MOBILE****/
 /*********************/
 nav.uk-navbar-container:not(.uk-navbar-transparent) {
-    background-color: #D20603;
+    background-color: #990000;
 }
 
 .uk-navbar-toggle,

@@ -37,7 +37,7 @@
                     </li>
                     <li id="Actualites">
 
-                        <a class="uk-button uk-button-text" href="#">Actualit&eacute;s politiques</a>
+                        <a class="uk-button uk-button-text" href="#">Actualités politiques</a>
 
                     </li>
                     <li id="archives">

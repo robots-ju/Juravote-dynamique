@@ -3,73 +3,73 @@
 
 //IMAGES
     //communes :
-    $communeBonfol = "./IMG/Logo/Communes/Bonfol.png";
-    $communeCourtetelle = "./IMG/Logo/Communes/Courtetelle.png";
-    $communeDelemont = "./IMG/Logo/Communes/Delemont.png";
-    $communeDevelier = "./IMG/Logo/Communes/Develier.png";
-    $communeGenevez = "./IMG/Logo/Communes/Genevez.png";
-    $communeHauteSorne = "./IMG/Logo/Communes/HauteSorne.png";
-    $communeLajoux = "./IMG/Logo/Communes/Lajoux.png";
-    $communeLesBois = "./IMG/Logo/Communes/LesBois.png";
-    $communePorrentruy = "./IMG/Logo/Communes/Porrentruy.png";
-    $communeValTerbi = "./IMG/Logo/Communes/ValTerbi.png";
+    $communeBonfol = "/Juravote-dynamique/IMG/Logo/Communes/Bonfol.png";
+    $communeCourtetelle = "/Juravote-dynamique/IMG/Logo/Communes/Courtetelle.png";
+    $communeDelemont = "/Juravote-dynamique/IMG/Logo/Communes/Delemont.png";
+    $communeDevelier = "/Juravote-dynamique/IMG/Logo/Communes/Develier.png";
+    $communeGenevez = "/Juravote-dynamique/IMG/Logo/Communes/Genevez.png";
+    $communeHauteSorne = "/Juravote-dynamique/IMG/Logo/Communes/HauteSorne.png";
+    $communeLajoux = "/Juravote-dynamique/IMG/Logo/Communes/Lajoux.png";
+    $communeLesBois = "/Juravote-dynamique/IMG/Logo/Communes/LesBois.png";
+    $communePorrentruy = "/Juravote-dynamique/IMG/Logo/Communes/Porrentruy.png";
+    $communeValTerbi = "/Juravote-dynamique/IMG/Logo/Communes/ValTerbi.png";
 
     //districts :
-    $districtDelemont = "./IMG/Logo/Districts/Delemont.png";
-    $districtFranchesMontagnes = "./IMG/Logo/Districts/Franches-montagnes.png";
-    $districtPorrentruy = "./IMG/Logo/Districts/Porrentruy.png";
+    $districtDelemont = "/Juravote-dynamique/IMG/Logo/Districts/Delemont.png";
+    $districtFranchesMontagnes = "/Juravote-dynamique/IMG/Logo/Districts/Franches-montagnes.png";
+    $districtPorrentruy = "/Juravote-dynamique/IMG/Logo/Districts/Porrentruy.png";
 
     //juravote :
-    $juravoteLogo = "./IMG/Logo/JuraVote/Logo.png";
-    $juravoteIcon = "./IMG/Logo/JuraVote/Icon.png";
-    $juravoteLogoIcon = "./IMG/Logo/JuraVote/LogoIcon.png";
-    $juravoteTwitter = "./IMG/Logo/ReseauxSociaux/Bannieres/Twitter.png";
+    $juravoteLogo = "/Juravote-dynamique/IMG/Logo/JuraVote/Logo.png";
+    $juravoteIcon = "/Juravote-dynamique/IMG/Logo/JuraVote/Icon.png";
+    $juravoteLogoIcon = "/Juravote-dynamique/IMG/Logo/JuraVote/LogoIcon.png";
+    $juravoteTwitter = "/Juravote-dynamique/IMG/Logo/ReseauxSociaux/Bannieres/Twitter.png";
 
     //partis :
-    $pcsi = "./IMG/Logo/partis/CS-POP.png";
-    $lega = "./IMG/Logo/partis/LEGA.png";
-    $pbd = "./IMG/Logo/partis/PBD.png";
-    $pcsi = "./IMG/Logo/partis/PCSI.png";
-    $pdc = "./IMG/Logo/partis/PDC.png";
-    $pev = "./IMG/Logo/partis/PEV.png";
-    $plr = "./IMG/Logo/partis/PLR.png";
-    $ps = "./IMG/Logo/partis/PS.png";
-    $pst = "./IMG/Logo/partis/PST.png";
-    $pvl = "./IMG/Logo/partis/PVL.png";
-    $sol = "./IMG/Logo/partis/SOL.png";
-    $udc = "./IMG/Logo/partis/UDC.png";
-    $verts = "./IMG/Logo/partis/Verts.png";
+    $pcsi = "/Juravote-dynamique/IMG/Logo/partis/CS-POP.png";
+    $lega = "/Juravote-dynamique/IMG/Logo/partis/LEGA.png";
+    $pbd = "/Juravote-dynamique/IMG/Logo/partis/PBD.png";
+    $pcsi = "/Juravote-dynamique/IMG/Logo/partis/PCSI.png";
+    $pdc = "/Juravote-dynamique/IMG/Logo/partis/PDC.png";
+    $pev = "/Juravote-dynamique/IMG/Logo/partis/PEV.png";
+    $plr = "/Juravote-dynamique/IMG/Logo/partis/PLR.png";
+    $ps = "/Juravote-dynamique/IMG/Logo/partis/PS.png";
+    $pst = "/Juravote-dynamique/IMG/Logo/partis/PST.png";
+    $pvl = "/Juravote-dynamique/IMG/Logo/partis/PVL.png";
+    $sol = "/Juravote-dynamique/IMG/Logo/partis/SOL.png";
+    $udc = "/Juravote-dynamique/IMG/Logo/partis/UDC.png";
+    $verts = "/Juravote-dynamique/IMG/Logo/partis/Verts.png";
 
     //pouvoirs :
-    $pouvoirCommunal = "./IMG/Logo/Pouvoirs/communal.png";
-    $pouvoirCantonal = "./IMG/Logo/Pouvoirs/cantonal.png";
-    $pouvoirFederal = "./IMG/Logo/Pouvoirs/federal.png";
+    $pouvoirCommunal = "/Juravote-dynamique/IMG/Logo/Pouvoirs/communal.png";
+    $pouvoirCantonal = "/Juravote-dynamique/IMG/Logo/Pouvoirs/cantonal.png";
+    $pouvoirFederal = "/Juravote-dynamique/IMG/Logo/Pouvoirs/federal.png";
 
     //réseaux sociaux :
-    $iconDiscord = "./IMG/Logo/ResauxSociaux/Discord.png";
+    $iconDiscord = "/Juravote-dynamique/IMG/Logo/ResauxSociaux/Discord.png";
 
     //divers
-    $ChappuisGabrielM = "./IMG/ChappuisGabrielM.png";
+    $ChappuisGabrielM = "/Juravote-dynamique/IMG/ChappuisGabrielM.png";
 
 //FICHIERS
     //CSS
-    $cssMain = "./CSS/main.css";
-    $cssUikitMin = "./CSS/uikit.min.css";
-    $cssNormalize ="./CSS/normalize.css";
+    $cssMain = "/Juravote-dynamique/CSS/main.css";
+    $cssUikitMin = "/Juravote-dynamique/CSS/uikit.min.css";
+    $cssNormalize ="/Juravote-dynamique/CSS/normalize.css";
 
     //JS
-    $jsUikit = "./JS/uikit.js";
-    $jsUikitMin = "./JS/uikit.min.js";
-    $jsUikitIcons ="./JS/uikit-icons.js";
-    $jsUikitIconsMin ="./JS/uikit-icons.min.js";
+    $jsUikit = "/Juravote-dynamique/JS/uikit.js";
+    $jsUikitMin = "/Juravote-dynamique/JS/uikit.min.js";
+    $jsUikitIcons ="/Juravote-dynamique/JS/uikit-icons.js";
+    $jsUikitIconsMin ="/Juravote-dynamique/JS/uikit-icons.min.js";
 
 
 
 //INCLUDES
     //navbar
-    $navbar = "./Includes/Navbar/navbar.php";
-    $navbarMobile = "./Includes/Navbar/navbar-mobile.php";
+    $navbar = "/Juravote-dynamique/Includes/Navbar/navbar.php";
+    $navbarMobile = "/Juravote-dynamique/Includes/Navbar/navbar-mobile.php";
 
     //footer
-    $footer = "./Includes/Footer/footer.php";
+    $footer = "/Juravote-dynamique/Includes/Footer/footer.php";
 ?>

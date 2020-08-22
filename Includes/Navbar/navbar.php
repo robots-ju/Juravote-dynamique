@@ -10,21 +10,21 @@
         
                 <ul class="uk-navbar-nav">
                     <li id="Accueil">
-                        <a href="#">Accueil</a>
+                        <a href="/Juravote-dynamique/index.php">Accueil</a>
                     </li>
                     <li id="News">
-                        <a href="#">Actualités politiques</a>
+                        <a href="/Juravote-dynamique/Pages/Actualites/actualites.php">Actualités politiques</a>
                     </li>
                     <li id="Votations">
-                        <a href="#">Prochaines votations et élections</a>
+                        <a href="/Juravote-dynamique/Pages/Votations et Elections/accueilVE.php">Prochaines votations et élections</a>
                     </li>
                     <li id="Resultats">
-                        <a href="#">Archives des résultats</a></li>
+                        <a href="/Juravote-dynamique/Pages/Resultats/resultats.php">Archives des résultats</a></li>
                     <li id="Instances">
-                        <a href="#">Instances politiques</a>
+                        <a href="/Juravote-dynamique/Pages/Instances/instances.php">Instances politiques</a>
                     </li>                
                     <li id="Equipe">
-                        <a href="#">L'équipe Juravote</a>
+                        <a href="/Juravote-dynamique/Pages/Equipe/equipe.php">L'équipe Juravote</a>
                     </li>
                 </ul>
             </div>

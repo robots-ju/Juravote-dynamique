@@ -32,13 +32,8 @@
 
             gtag('config', 'UA-166072477-1');
         </script>
-
-        <style>
-            body{
-                background-color: #F5F5F5;
-            }
-        </style>
     </head>
+
     <body>
         <header>
             <div class="navbar-normal">
@@ -67,9 +62,6 @@
 
 
                 <div class="uk-grid-match uk-flex" uk-grid>
-
-
-
                     <div class="uk-width-expand@m">
                         <div class="uk-text-center" uk-grid>
                             <div class="uk-width-auto">
@@ -80,7 +72,7 @@
                                             <div class="uk-card-header">
                                                 <div class="uk-grid-small uk-flex-middle" uk-grid>
                                                     <div class="uk-width-auto">
-                                                        <img class="uk-border-circle" width="50" height="50" src="<?php echo $ChappuisGabrielM ?>">
+                                                        <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
                                                     </div>
                                                     <div class="uk-width-expand">
                                                         <h3 class="uk-card-title uk-margin-remove-bottom">Gabriel M. Chappuis</h3>
@@ -97,7 +89,7 @@
                                             <div class="uk-card-header">
                                                 <div class="uk-grid-small uk-flex-middle" uk-grid>
                                                     <div class="uk-width-auto">
-                                                        <img class="uk-border-circle" width="50" height="50" src="<?php echo $ChappuisGabrielM ?>">
+                                                        <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
                                                     </div>
                                                     <div class="uk-width-expand">
                                                         <h3 class="uk-card-title uk-margin-remove-bottom">Jean-Bernard Vallat</h3>

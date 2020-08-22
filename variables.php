@@ -49,7 +49,7 @@
     $iconDiscord = "/Juravote-dynamique/IMG/Logo/ResauxSociaux/Discord.png";
 
     //divers
-    $ChappuisGabrielM = "/Juravote-dynamique/IMG/ChappuisGabrielM.png";
+    $inconnu = "/Juravote-dynamique/IMG/personnalite/inconnu.png";
 
 //FICHIERS
     //CSS

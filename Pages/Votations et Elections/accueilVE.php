@@ -95,6 +95,40 @@
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
+                        <a href="./communales/communales.html">
+                            <div class="uk-card-body">
+                                <div class="uk-grid-small uk-flex-column" uk-grid>
+                                    <div class="uk-width-auto">
+                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                    </div>
+                                    <div class="uk-width-expand">
+                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations Val-Terbi - 27 septembre 2020</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover">
+                        <a href="./communales/communales.html">
+                            <div class="uk-card-body">
+                                <div class="uk-grid-small uk-flex-column" uk-grid>
+                                    <div class="uk-width-auto">
+                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                    </div>
+                                    <div class="uk-width-expand">
+                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations Les Bois - 27 septembre 2020</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover">
                         <a href="../04Elections/communales/communales.html">
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
@@ -119,6 +153,70 @@
                                     </div>
                                     <div class="uk-width-expand">
                                         <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Elections cantonales - 18 octobre 2020</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover">
+                        <a href="../04Elections/communales/communales.html">
+                            <div class="uk-card-body">
+                                <div class="uk-grid-small uk-flex-column" uk-grid>
+                                    <div class="uk-width-auto">
+                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                    </div>
+                                    <div class="uk-width-expand">
+                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Bonfol - 18 octobre 2020</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover">
+                        <a href="../04Elections/communales/communales.html">
+                            <div class="uk-card-body">
+                                <div class="uk-grid-small uk-flex-column" uk-grid>
+                                    <div class="uk-width-auto">
+                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                    </div>
+                                    <div class="uk-width-expand">
+                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Châtillon - 18 octobre 2020</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover">
+                        <a href="../04Elections/communales/communales.html">
+                            <div class="uk-card-body">
+                                <div class="uk-grid-small uk-flex-column" uk-grid>
+                                    <div class="uk-width-auto">
+                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                    </div>
+                                    <div class="uk-width-expand">
+                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Courtedoux - 18 octobre 2020</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover">
+                        <a href="../04Elections/communales/communales.html">
+                            <div class="uk-card-body">
+                                <div class="uk-grid-small uk-flex-column" uk-grid>
+                                    <div class="uk-width-auto">
+                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                    </div>
+                                    <div class="uk-width-expand">
+                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Movelier - 18 octobre 2020</h3>
                                     </div>
                                 </div>
                             </div>

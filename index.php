@@ -58,15 +58,12 @@
                         </div>
                     </div>
                 </div>
-
-
-
                 <div class="uk-grid-match uk-flex" uk-grid>
                     <div class="uk-width-expand@m">
                         <div class="uk-text-center" uk-grid>
                             <div class="uk-width-auto">
                                 <div class="uk-card uk-card-body">
-                                    <h3 class="uk-heading-divider">Soutiens Juravote</h3>
+                                    <h3 class="uk-heading-divider">Soutiens de Juravote</h3>
                                     <div class="uk-text-center" uk-grid>
                                         <div class="uk-card uk-width-1-2@m">
                                             <div class="uk-card-header">
@@ -94,6 +91,22 @@
                                                     <div class="uk-width-expand">
                                                         <h3 class="uk-card-title uk-margin-remove-bottom">Jean-Bernard Vallat</h3>
                                                         <p class="uk-text-meta uk-margin-remove-top">Maire de Haute-Sorne</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="uk-card-body">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                                            </div>      
+                                        </div>
+                                        <div class="uk-card uk-width-1-2@m">
+                                            <div class="uk-card-header">
+                                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                                    <div class="uk-width-auto">
+                                                        <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                                    </div>
+                                                    <div class="uk-width-expand">
+                                                        <h3 class="uk-card-title uk-margin-remove-bottom">François Brahier-Jeckelmann</h3>
+                                                        <p class="uk-text-meta uk-margin-remove-top">Maire de Lajoux</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -136,9 +149,17 @@
                             </a>
                             <a href="#">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Elections Jura</h3>
+                                        <h3 class="uk-card-title uk-align-left">Votations Val-Terbi</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="#">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Votation Les Bois</h3>
                                     </div>
                                 </div>
                             </a>
@@ -150,6 +171,54 @@
                                     </div>
                                 </div>
                             </a>
+                            <a href="#">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Elections Bonfol</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="#">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Elections Châtillon</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="#">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Elections Courtedoux</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="#">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Elections Movelier</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="#">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">08.11</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Elections Jura</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="#">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">29.11</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Votations fédérales</h3>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
 
@@ -157,46 +226,6 @@
                     <div class="uk-width-1-4@m">
                         <div class="uk-card uk-card-body uk-padding-remove">
                             <h3 class="uk-heading-divider">Législatifs communaux</h3>
-                            <a href="http://www.courrendlin.ch/Decouvrez-le-site-internet-de-la-Municipalite-de-Courrendlin-Canton-du-Jura-Suisse.html" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Courrendlin</h3>
-                                    </div>
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">17.08</div>
-                                </div>
-                            </a>
-                            <a href="https://www.develier.ch/fr/Vivre/Actualites/News/Assemblee-communale-du-lundi-17-aout-2020.html" target="blank">  
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">17.08</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Develier</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="https://muriaux.ch/officiel/assemblee/" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.08</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Muriaux</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="http://www.damphreux.ch/index.html" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">20.08</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Damphreux</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="https://www.lesbois.ch/fr/Autorites-politiques/Conseil-general/Ordres-du-jour-des-seances.html" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">24.08</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Les Bois</h3>
-                                    </div>
-                                </div>
-                            </a>
                             <a href="http://www.courchapoix.ch/cpx/" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">31.08</div>
@@ -210,6 +239,62 @@
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.09</div>
                                     <div class="uk-card-body">
                                         <h3 class="uk-card-title uk-align-left">Boncourt</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="#" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">La Chaux-des-Breuleux</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="#" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Fahy</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="#" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">03.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Châtillon</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="#" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">03.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Pleigne</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="#" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">03.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Cornol</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="#" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">07.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Mettembert</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="#" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">16.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Movelier</h3>
                                     </div>
                                 </div>
                             </a>

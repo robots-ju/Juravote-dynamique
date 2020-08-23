@@ -16,16 +16,16 @@
                         <div>
                             <p>Autorités politiques (Canton du Jura)</p>
                             <ul class="uk-nav uk-nav-default grid-nav">
-                                <li><a class="uk-button uk-button-text" href="#">Gouvernement jurassien</a></li>
-                                <li><a class="uk-button uk-button-text" href="#">Parlement jurassien</a></li>
-                                <li><a class="uk-button uk-button-text" href="#">Représentants-es aux Chambres fédérales</a></li>  
+                                <li><a class="uk-button uk-button-text" href="/Juravote-dynamique/Pages/Instances/GouvernementJU/2016_2020/GouvernementJU.php">Gouvernement jurassien</a></li>
+                                <li><a class="uk-button uk-button-text" href="/Juravote-dynamique/Pages/Instances/ParlementJU/2016_2020/ParlementJU.php">Parlement jurassien</a></li>
+                                <li><a class="uk-button uk-button-text" href="/Juravote-dynamique/Pages/Instances/ParlementCH/2020_2023/ParlementCH.php">Représentants-es aux Chambres fédérales</a></li>  
                             </ul>
                         </div>
                         <div>
                             <p>Autres pages</p>
                             <ul class="uk-nav uk-nav-default grid-nav">
-                                <li><a class="uk-button uk-button-text" href=".#">Partis politiques suisses</a></li>
-                                <li><a class="uk-button uk-button-text" href="#">Partis politiques jurassiens</a></li>
+                                <li><a class="uk-button uk-button-text" href="/Juravote-dynamique/Pages/Instances/PartisCH/2020_2023/PartisCH.php">Partis politiques suisses</a></li>
+                                <li><a class="uk-button uk-button-text" href="/Juravote-dynamique/Pages/Instances/PartisJU/2016_2020/PartisJU.php">Partis politiques jurassiens</a></li>
                             </ul>
                         </div>
                     </div>

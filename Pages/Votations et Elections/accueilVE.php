@@ -85,7 +85,7 @@
                                         <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
                                     </div>
                                     <div class="uk-width-expand">
-                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations communales - 27 septembre 2020</h3>
+                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Delémont - 27 septembre 2020</h3>
                                     </div>
                                 </div>
                             </div>
@@ -102,7 +102,7 @@
                                         <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
                                     </div>
                                     <div class="uk-width-expand">
-                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Elections communales - 27 septembre 2020</h3>
+                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Elections Lajoux - 27 septembre 2020</h3>
                                     </div>
                                 </div>
                             </div>

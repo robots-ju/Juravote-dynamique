@@ -48,7 +48,7 @@
     </div>
 </header>
 <main>
-<section style="padding: 2%">
+    <section style="padding: 2%">
         <h1 class="uk-heading-large">Conseil fédéral</h1>
         <hr>
 

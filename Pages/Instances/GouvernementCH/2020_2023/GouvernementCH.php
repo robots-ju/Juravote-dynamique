@@ -60,7 +60,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalite/GouvernementCH/2020_2023/SimonettaSommaruga.jpg"
+                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/SimonettaSommaruga.jpg"
                                      alt="Simonetta Sommaruga">
                             </div>
                         </div>
@@ -80,7 +80,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalite/GouvernementCH/2020_2023/IgnazioCassis.jpg"
+                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/IgnazioCassis.jpg"
                                      alt="Ignazio Cassis">
                             </div>
                         </div>
@@ -99,7 +99,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalite/GouvernementCH/2020_2023/AlainBerset.jpg"
+                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/AlainBerset.jpg"
                                      alt="Alain Berset">
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalite/GouvernementCH/2020_2023/KarinKeller.jpg"
+                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/KarinKeller.jpg"
                                      alt="Karin Keller-Sutter">
                             </div>
                         </div>
@@ -137,7 +137,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalite/GouvernementCH/2020_2023/ViolaAmherd.jpg"
+                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/ViolaAmherd.jpg"
                                      alt="Viola Amherd">
                             </div>
                         </div>
@@ -157,7 +157,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalite/GouvernementCH/2020_2023/UeliMaurer.jpg"
+                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/UeliMaurer.jpg"
                                      alt="Ueli Maurer">
                             </div>
                         </div>
@@ -176,7 +176,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalite/GouvernementCH/2020_2023/GuyParmelin.jpg"
+                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/GuyParmelin.jpg"
                                      alt="Guy Parmelin">
                             </div>
                         </div>
@@ -196,7 +196,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalite/GouvernementCH/2020_2023/WaltherThurnherr.jpg"
+                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/WaltherThurnherr.jpg"
                                      alt="Walter Thurnherr">
                             </div>
                         </div>

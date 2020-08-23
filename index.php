@@ -75,7 +75,7 @@
                                                         <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
                                                     </div>
                                                     <div class="uk-width-expand">
-                                                        <h3 class="uk-card-title uk-margin-remove-bottom">Gabriel M. Chappuis</h3>
+                                                        <h3 class="uk-card-title uk-margin-remove-bottom">Gabriel Chappuis</h3>
                                                         <p class="uk-text-meta uk-margin-remove-top">Maire de Develier</p>
                                                     </div>
                                                 </div>

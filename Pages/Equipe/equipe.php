@@ -63,6 +63,7 @@
                                                     <div class="uk-width-expand">
                                                         <h3 class="uk-card-title uk-margin-remove-bottom">Morgan Chételat</h3>
                                                         <p class="uk-text-meta uk-margin-remove-top">Informatique</p>
+                                                        <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
                                                     </div>
                                                 </div>
                                             </div>  
@@ -76,7 +77,7 @@
                                                     </div>
                                                     <div class="uk-width-expand">
                                                         <h3 class="uk-card-title uk-margin-remove-bottom">Gael Fleury</h3>
-                                                        <p class="uk-text-meta uk-margin-remove-top">pas grand chose</p>
+                                                        <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
                                                     </div>
                                                 </div>
                                             </div>    
@@ -91,6 +92,7 @@
                                                     <div class="uk-width-expand">
                                                         <h3 class="uk-card-title uk-margin-remove-bottom">Gwenaël Girard</h3>
                                                         <p class="uk-text-meta uk-margin-remove-top">Design / Marketing</p>
+                                                        <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
                                                     </div>
                                                 </div>
                                             </div>    
@@ -133,6 +135,7 @@
                                                     <div class="uk-width-expand">
                                                         <h3 class="uk-card-title uk-margin-remove-bottom">Daniel Renaud</h3>
                                                         <p class="uk-text-meta uk-margin-remove-top">Chef de projet</p>
+                                                        <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
                                                     </div>
                                                 </div>
                                             </div>    

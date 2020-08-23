@@ -59,7 +59,7 @@
                 <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Conseil_federal/conseil_federal.html">
+                            <a href="GouvernementCH/2020_2023/GouvernementCH.php">
                                 <div class="uk-card-body">
                                     <div class="uk-grid-small uk-flex-column" uk-grid>
                                         <div class="uk-width-auto">
@@ -76,7 +76,7 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Assemblee_federale/assemblee_federale.html">
+                            <a href="ParlementCH/2020_2023/ParlementCH.php">
                                 <div class="uk-card-body">
                                     <div class="uk-grid-small uk-flex-column" uk-grid>
                                         <div class="uk-width-auto">
@@ -93,7 +93,7 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="presentations_federales.html">
+                            <a href="PartisCH/2020_2023/PartisCH.php">
                                 <div class="uk-card-body">
                                     <div class="uk-grid-small uk-flex-column" uk-grid>
                                         <div class="uk-width-auto">
@@ -116,7 +116,7 @@
                 <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Gouvernement_jurassien/gouvernement_jurassien.html">
+                            <a href="GouvernementJU/2016_2020/GouvernementJU.php">
                                 <div class="uk-card-body">
                                     <div class="uk-grid-small uk-flex-column" uk-grid>
                                         <div class="uk-width-auto">
@@ -133,7 +133,7 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Parlement_jurassien/parlement_jurassien.html">
+                            <a href="ParlementJU/2016_2020/ParlementJU.php">
                                 <div class="uk-card-body">
                                     <div class="uk-grid-small uk-flex-column" uk-grid>
                                         <div class="uk-width-auto">
@@ -150,7 +150,7 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="presentations_cantonales.html">
+                            <a href="PartisJU/2016_2020/PartisJU.php">
                                 <div class="uk-card-body">
                                     <div class="uk-grid-small uk-flex-column" uk-grid>
                                         <div class="uk-width-auto">
@@ -173,7 +173,7 @@
                 <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Executifs_communaux/00Districts.html">
+                            <a href="GouvernementCO/Districts.php">
                                 <div class="uk-card-body">
                                     <div class="uk-grid-small uk-flex-column" uk-grid>
                                         <div class="uk-width-auto">
@@ -189,7 +189,7 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Legislatifs_communaux/legislatifCommunes.html">
+                            <a href="ParlementCO/ParlementCO.php">
                                 <div class="uk-card-body">
                                     <div class="uk-grid-small uk-flex-column" uk-grid>
                                         <div class="uk-width-auto">

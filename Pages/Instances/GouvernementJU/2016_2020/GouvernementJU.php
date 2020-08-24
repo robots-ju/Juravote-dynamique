@@ -49,7 +49,7 @@
 </header>
 <main>
 <section style="padding: 2%">
-        <h1 class="uk-heading-large">Gouvernement jurassien</h1>
+        <h1 class="uk-heading-large">Gouvernement jurassien 2016 - 2020</h1>
         <hr>
         <div class="conteneur_cartes">
             <div class="uk-child-width-1-3@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>

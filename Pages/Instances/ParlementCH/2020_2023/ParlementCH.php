@@ -49,7 +49,7 @@
 </header>
 <main>
 <section style="padding: 2%">
-        <h1 class="uk-heading-large">Assemblée fédérale (représentants Jurassiens)</h1>
+        <h1 class="uk-heading-large">Assemblée fédérale (Jura) 2020 - 2023</h1>
         <hr>
         <div class="uk-child-width-1-4@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
             

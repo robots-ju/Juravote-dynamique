@@ -60,7 +60,7 @@
             <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="./federales/federales.html">
+                        <a href="Votations/VotationsCH/accueil.php">
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">

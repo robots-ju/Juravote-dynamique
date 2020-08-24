@@ -82,7 +82,7 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                        <img width="150" height="150" src="../../IMG/Logo/Communes/Delemont.png" alt="commune">
                                     </div>
                                     <div class="uk-width-expand">
                                         <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Delémont - 27 septembre 2020</h3>
@@ -99,7 +99,7 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                        <img width="150" height="150" src="../../IMG/Logo/Communes/ValTerbi.png" alt="commune">
                                     </div>
                                     <div class="uk-width-expand">
                                         <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations Val-Terbi - 27 septembre 2020</h3>
@@ -116,7 +116,7 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                        <img width="150" height="150" src="../../IMG/Logo/Communes/LesBois.png" alt="commune">
                                     </div>
                                     <div class="uk-width-expand">
                                         <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations Les Bois - 27 septembre 2020</h3>
@@ -133,7 +133,7 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                        <img width="150" height="150" src="../../IMG/Logo/Communes/Lajoux.png" alt="commune">
                                     </div>
                                     <div class="uk-width-expand">
                                         <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Elections Lajoux - 27 septembre 2020</h3>
@@ -165,7 +165,7 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                        <img width="150" height="150" src="../../IMG/Logo/Communes/Bonfol.png" alt="commune">
                                     </div>
                                     <div class="uk-width-expand">
                                         <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Bonfol - 18 octobre 2020</h3>
@@ -181,7 +181,7 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                        <img width="150" height="150" src="../../IMG/Logo/Communes/Chatillon.png" alt="commune">
                                     </div>
                                     <div class="uk-width-expand">
                                         <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Châtillon - 18 octobre 2020</h3>
@@ -197,7 +197,7 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                        <img width="150" height="150" src="../../IMG/Logo/Communes/Courtedoux.png" alt="commune">
                                     </div>
                                     <div class="uk-width-expand">
                                         <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Courtedoux - 18 octobre 2020</h3>
@@ -213,7 +213,7 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="commune">
+                                        <img width="150" height="150" src="../../IMG/Logo/Communes/Movelier.png" alt="commune">
                                     </div>
                                     <div class="uk-width-expand">
                                         <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Movelier - 18 octobre 2020</h3>

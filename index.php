@@ -203,7 +203,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="Pages/Votations et Elections/Elections/ElectionsJU/Gouvernement_20201108.php">
+                            <!--<a href="Pages/Votations et Elections/Elections/ElectionsJU/Gouvernement_20201108.php">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">08.11</div>
                                     <div class="uk-card-body">
@@ -215,10 +215,10 @@
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">29.11</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Votations fédérales (à venir)</h3>
+                                        <h3 class="uk-card-title uk-align-left">Votations fédérales</h3>
                                     </div>
                                 </div>
-                            </a>
+                            </a>-->
                         </div>
                     </div>
 

@@ -183,7 +183,7 @@
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Elections Châtillon</h3>
+                                        <h3 class="uk-card-title uk-align-left">Election Châtillon</h3>
                                     </div>
                                 </div>
                             </a>

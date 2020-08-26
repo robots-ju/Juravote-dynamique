@@ -78,7 +78,7 @@
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="./communales/communales.html">
+                        <a href="Votations/VotationsCO/Delemont_20200927/ComplexeScolaire.php">
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
@@ -95,7 +95,7 @@
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="./communales/communales.html">
+                        <a href="Votations/VotationsCO/ValTerbi_20200927/Accueil.php">
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
@@ -112,7 +112,7 @@
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="./communales/communales.html">
+                        <a href="Votations/VotationsCO/LesBois_20200927/Accueil.php">
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
@@ -129,7 +129,7 @@
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="../04Elections/communales/communales.html">
+                        <a href="Elections/ElectionsCO/Lajoux_20200927/Accueil.php">
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
@@ -145,7 +145,7 @@
                 </div>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="../04Elections/cantonales/cantonales.html">
+                        <a href="Elections/ElectionsJU/Accueil.php">
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
@@ -161,7 +161,7 @@
                 </div>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="../04Elections/communales/communales.html">
+                        <a href="Elections/ElectionsCO/Bonfol_20201018/VicePresidentAssemblee.php">
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
@@ -177,7 +177,7 @@
                 </div>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="../04Elections/communales/communales.html">
+                        <a href="Elections/ElectionsCO/Chatillon_20201018/MembreCommissionEcole.php">
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
@@ -193,7 +193,7 @@
                 </div>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="../04Elections/communales/communales.html">
+                        <a href="Elections/ElectionsCO/Courtedoux_20201018/VicePresidentAssemblee.php">
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
@@ -209,7 +209,7 @@
                 </div>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="../04Elections/communales/communales.html">
+                        <a href="Elections/ElectionsCO/Movelier_20201018/MembreCercleScolaire.php">
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">

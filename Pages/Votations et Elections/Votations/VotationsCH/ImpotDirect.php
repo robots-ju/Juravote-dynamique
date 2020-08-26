@@ -52,7 +52,7 @@
 </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Modification de la loi sur l'Impôt Direct</h1>
+        <h1 class="uk-heading-large">Modification de la loi sur l'impôt direct</h1>
         <hr>
         <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%">
             <button class="uk-button uk-button-default" type="button">Résumé</button>
@@ -86,7 +86,7 @@
                         "steps": 40
                     }, {
                         "name": "PVL",
-                        "steps": 40
+                        "steps": 10
                     }, {
                         "name": "PDC",
                         "steps": 40
@@ -377,17 +377,6 @@
         </ul>
 </main>
 </body>
-
-
-<footer>
-    <div class="footer">
-    <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
-    </div>
-</footer>
-</html>
-</main>
-</body>
-
 
 <footer>
     <div class="footer">

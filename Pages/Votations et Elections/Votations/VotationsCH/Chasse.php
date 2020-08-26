@@ -83,10 +83,10 @@
                         "steps": 10
                     }, {
                         "name": "PEV",
-                        "steps": 40
+                        "steps": 10
                     }, {
                         "name": "PVL",
-                        "steps": 40
+                        "steps": 10
                     }, {
                         "name": "PDC",
                         "steps": 40

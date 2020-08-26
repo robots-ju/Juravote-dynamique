@@ -77,10 +77,10 @@
 
                     chart.data = [{
                         "name": "Verts",
-                        "steps": 10
+                        "steps": 40
                     }, {
                         "name": "PS",
-                        "steps": 10
+                        "steps": 40
                     }, {
                         "name": "PEV",
                         "steps": 40
@@ -95,10 +95,10 @@
                         "steps": 40
                     }, {
                         "name": "PLR",
-                        "steps": 40
+                        "steps": 10
                     }, {
                         "name": "UDC",
-                        "steps": 40
+                        "steps": 10
                     }];
 
                     var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());

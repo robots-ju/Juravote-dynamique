@@ -63,7 +63,27 @@
         <ul class="uk-switcher uk-margin">
             <li> 
                 <h1>Description de la votation</h1>
-                <p>Texte...</p>
+                    <p>Le Conseil fédéral et le Parlement veulent faire passer de 10 100 à 25 000 francs
+                    la déduction maximale possible pour les frais de garde par des tiers. Cette mesure
+                    permettra de mieux concilier famille et travail, d’adapter la déduction fiscale aux
+                    dépenses réelles engendrées par la garde des enfants par des tiers et d’assurer,
+                    dans l’intérêt de l’économie nationale, la présence sur le marché de forces de travail
+                    qualifiées (souvent obligées de réduire leur taux d’occupation ou d’arrêter de travailler
+                    pour des raisons fiscales).</p>
+                    <p>Le Parlement a décidé par ailleurs d’augmenter de 6500 à 10 000 francs la déduction
+                    générale pour enfant, indépendamment des modalités de prise en charge, en tenant
+                    compte des dépenses auxquelles les familles doivent faire face pour leurs enfants
+                    (nourriture, logement, vêtements, etc.).</p>
+                    <p>Un référendum a été lancé contre cette modification de la loi. Les auteurs du référendum
+                    critiquent le projet qui, à leur avis, entraînera une diminution des recettes fiscales,
+                    qui manqueront dans d’autres secteurs ou pour des prestations dont la classe moyenne pourrait
+                    elle aussi bénéficier. Ils soulignent en outre que ces déductions fiscales bénéficieront
+                    uniquement aux familles dont le revenu est élevé, y compris celles qui n’ont pas de coûts
+                    externes pour la garde de leurs enfants, et pas aux familles de la classe moyenne.</p>
+
+                <h1>La question qui vous est posée :</h1>
+                    <b><p>Acceptez-vous la modification du 27 septembre 2019 de la loi fédérale sur
+                    l’impôt fédéral direct (LIFD) (déduction fiscale des frais de garde des enfants par des tiers) ?</p></b>
             </li>
             <li>
                 <div id="chartdiv"></div>
@@ -179,198 +199,177 @@
                 </script>
             </li>  
             <li>            
-            <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>
+            <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>L’augmentation des frais de garde par des tiers est essentielle, car les frais de crèches, etc.,
+                        dépassent nettement les possibilités de déduction et ne représentent aucune incitation financière au retour au travail.</p>
+                    </div>
+                </div>
+
+                <div>
+                <div class="uk-card uk-card-default uk-card-body">
+                        <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
+                        <h3 class="uk-card-title"></h3>                           
+                        <p>La charge financière pesant sur les familles augmente.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Les familles ayant un revenu mensuel brut à partir d’env. 7'500 francs bénéficient
+                        de l’augmentation de la déduction pour enfants. Ce sont ces mêmes familles qui
+                        supportent de lourdes charges et qui ne bénéficient généralement pas de tarifs
+                        favorables ou de réductions de primes. </p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                    <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Les allègements fiscaux conduisent toujours à des pertes fiscales,
+                        c’est pourquoi les bonnes personnes doivent être concernées par ces
+                        allègements – les familles. Les pertes sont, au vu des excédents annuels
+                        élevés, supportables pour la Confédération.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Les coûts sont supportables.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>La classe moyenne en profite.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Lutte contre la pénurie de personnel qualifié</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Le seuil de progression sera relevé et cela incitera les femmes à reprendre
+                        une activité professionnelle après leur grossesse.</p>
                     </div>
                 </div>
             </li>
             <li>
             <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>
-            <div>
+                <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Un cadeau aux familles les plus riches.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Les 370 millions doivent être investis pour une véritable politique familiale progressiste.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Pertes pour les cantons, déjà mis sous pression par RFFA.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>On ne prête qu'aux plus riches.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Le projet est conçu pour briser la progression de l'impôt et empêcher ainsi l'imposition équitable des
+                        revenus les plus élevés.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge-pvl uk-border-rounded">PVL</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Ce projet n'améliore pas la comptabilité entre vie de famille et vie professionnelle, mais réduit la charge
+                        fiscale pour les parents ayant des revenus élevés.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "NON"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Ce projet est une arnaque. 370 millions de francs seraient gaspillés chaque année, sans aucun
+                        des effets désirés.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "NON"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Ce projet ne fait rien pour l'économie ou le marché du travail.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "NON"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Ne promeut ni la conciliation famille/travail, ni l'égalité.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "NON"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Politique clientéliste au nom des familles et des professionnels.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "NON"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Pas adapté à la classe moyenne.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "NON"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Ce projet est coûteux et inutile.</p>
                     </div>
                 </div>
             </li>

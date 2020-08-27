@@ -71,8 +71,9 @@
                     L'initiative interdit par ailleurs à la Suisse de contracter de nouvelles obligations de droit international qui
                     accorderaient un régime de libre circulation des personnes à des ressortissants étrangers.
                 </p>
-                <p><a href="https://www.ejpd.admin.ch/ejpd/fr/home/aktuell/abstimmungen/begrenzungsinitiative/faq.html" target="_blank">
-                    Plus d'infos sur le site de la Confédération suisse</a> (ouvre une nouvelle page)</p>
+            
+                <h1>La question qui vous est posée :</h1>
+                    <b><p>Acceptez-vous l’initiative populaire « Pour une immigration modérée (initiative de limitation) » ?</p></b>
             </li>
             <li>
                 <div id="chartdiv"></div>

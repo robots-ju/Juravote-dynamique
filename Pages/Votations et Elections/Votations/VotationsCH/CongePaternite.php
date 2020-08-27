@@ -63,7 +63,11 @@
         <ul class="uk-switcher uk-margin">
             <li> 
                 <h1>Description de la votation</h1>
-                <p>Texte...</p>
+                    <p>Texte...</p>
+
+                <h1>La question qui vous est posée :</h1>
+                    <b><p>Acceptez-vous la modification du 27 septembre 2019 de la loi fédérale sur les allocations pour
+                    perte de gain en cas de service et de maternité (loi sur les allocations pour perte de gain, LAPG) ?</p></b>
             </li>
             <li>
                 <div id="chartdiv"></div>

@@ -64,14 +64,17 @@
         <ul class="uk-switcher uk-margin">
             <li> 
                 <h1>Description de la votation</h1>
-                <p>Le but du projet consiste à renouveler les avions actuels, qui arriveront en fin de vie dans les années 2030.
-                Le montant de 24 milliards servira à l'achat des avions (6 milliards) et à leur entretien durant toute leur
-                durée de vie.</p>
-                <p>Le référendum a été lancé par les Verts et le Parti socialiste. Le comité référendaire est convaincu que des économies
-                doivent être réalisées également dans l'armée suisse et que certaines montants doivent être utilisées ailleurs. De plus,
-                la Suisse n'a pas besoin d'appareils si coûteux.</p>
-                <p>A l'inverse, les partis du centre et la droite, ainsi que le Conseil fédéral et le Parlement, relèvent que le montant
-                est inscrit au budget habituel de l'armée, et que la Suisse doit être prête à se protéger contre des menaces extérieures.</p>
+                    <p>Le but du projet consiste à renouveler les avions actuels, qui arriveront en fin de vie dans les années 2030.
+                    Le montant de 24 milliards servira à l'achat des avions (6 milliards) et à leur entretien durant toute leur
+                    durée de vie.</p>
+                    <p>Le référendum a été lancé par les Verts et le Parti socialiste. Le comité référendaire est convaincu que des économies
+                    doivent être réalisées également dans l'armée suisse et que certaines montants doivent être utilisées ailleurs. De plus,
+                    la Suisse n'a pas besoin d'appareils si coûteux.</p>
+                    <p>A l'inverse, les partis du centre et la droite, ainsi que le Conseil fédéral et le Parlement, relèvent que le montant
+                    est inscrit au budget habituel de l'armée, et que la Suisse doit être prête à se protéger contre des menaces extérieures.</p>
+            
+                <h1>La question qui vous est posée :</h1>
+                    <b><p>Acceptez-vous l’arrêté fédéral du 20 décembre 2019 relatif à l’acquisition de nouveaux avions de combat ?</p></b>
             </li>
             <li>
                 <div id="chartdiv"></div>

@@ -63,13 +63,16 @@
         <ul class="uk-switcher uk-margin">
             <li> 
                 <h1>Description de la votation</h1>
-                <p>La loi actuelle remonte à 1985 et la situation a évolué depuis cette année-là. La loi révisée sur la chasse permet de mieux
-                protéger différents animaux sauvages et leurs biotopes. Elle offre par ailleurs une solution pragmatique pour gérer la cohabitation
-                avec le loup, de retour en Suisse depuis 1995. La loi révisée a pour objectif d'atténuer les conflits liés à la population de
-                loups en expansion.</p>
-                <p>Pour les opposants, cette révision a suscité un débat sans fin et des oppositions dans tous les partis. Ce que cela signifie
-                qu'elle ne satisfait à peu près personne. La révision initialement prévue devait être modérée et ne porter que sur quelques
-                points de la loi. Or, elle compromet l'ensemble du dispositif de protection des espèces.</p>
+                    <p>La loi actuelle remonte à 1985 et la situation a évolué depuis cette année-là. La loi révisée sur la chasse permet de mieux
+                    protéger différents animaux sauvages et leurs biotopes. Elle offre par ailleurs une solution pragmatique pour gérer la cohabitation
+                    avec le loup, de retour en Suisse depuis 1995. La loi révisée a pour objectif d'atténuer les conflits liés à la population de
+                    loups en expansion.</p>
+                    <p>Pour les opposants, cette révision a suscité un débat sans fin et des oppositions dans tous les partis. Ce que cela signifie
+                    qu'elle ne satisfait à peu près personne. La révision initialement prévue devait être modérée et ne porter que sur quelques
+                    points de la loi. Or, elle compromet l'ensemble du dispositif de protection des espèces.</p>
+                <h1>La question qui vous est posée :</h1>
+                    <b><p>Acceptez-vous la modification du 27 septembre 2019 de la loi fédérale sur la chasse et la protection des
+                    mammifères et oiseaux sauvages (loi sur la chasse, LChP) ?</p></b>
             </li>
             <li>
                 <div id="chartdiv"></div>

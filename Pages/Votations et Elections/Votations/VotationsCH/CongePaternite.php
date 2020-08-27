@@ -63,7 +63,28 @@
         <ul class="uk-switcher uk-margin">
             <li> 
                 <h1>Description de la votation</h1>
-                    <p>Texte...</p>
+                    <p>Actuellement, à la naissance d’un enfant, les mères qui travaillent ont droit à un congé payé de 14 semaines, 
+                    tandis que les pères n’ont droit qu’à un ou deux jours.</p>
+
+                    <p>À l’initiative populaire « Pour un congé de paternité raisonnable – en faveur de toute la famille »,
+                    qui prévoit un congé de quatre semaines pour tous les pères qui travaillent, le Conseil fédéral et le
+                    Parlement ont présenté un contre-projet qui prévoit un congé de paternité de deux semaines pour permettre
+                    à tous les pères de participer à l’éducation des enfants et de décharger les mères.</p>
+
+                    <p>Le contre-projet soumis à votation prévoit d’introduire un congé de paternité de deux semaines à
+                    prendre dans les six mois suivant la naissance de l’enfant. Comme pour le congé de maternité, l’allocation
+                    pour perte de gain correspondra à 80 % du revenu (au maximum 196 francs par jour), à condition que le père ait
+                    travaillé au moins cinq mois pendant les neuf mois précédant la naissance. Les indépendants en profiteront également.</p>
+
+                    <p>Dans la foulée, l’initiative populaire « Pour un congé de paternité raisonnable – en faveur de toute la famille »
+                    a été retirée à la condition que le contre-projet soumis à votation le 27 septembre entre en vigueur.</p>
+
+                    <p>Un comité référendaire s’oppose au contre-projet indirect du Conseil fédéral et du Parlement en avançant que
+                    cette nouvelle assurance sociale est trop chère et qu’elle fait augmenter les déductions sociales, réduisant ainsi
+                    le salaire de tous les travailleurs.</p>
+
+                    <p>Le Conseil fédéral et le Parlement sont d’avis que le congé de paternité est financièrement supportable, même
+                    pour les petites et moyennes entreprises.</p>                    
 
                 <h1>La question qui vous est posée :</h1>
                     <b><p>Acceptez-vous la modification du 27 septembre 2019 de la loi fédérale sur les allocations pour
@@ -186,212 +207,187 @@
             <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Aujourd'hui, les pères veulent prendre leurs responsabilités</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Une société est aussi forte que ses familles - le coronavirus l'a montré</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Le congé paternité est du temps de travail, pas des vacances.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Le congé paternité est une solution abordable.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Le congé paternité est largement soutenu.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>La Suisse est un pays en développement en matière de politique familiale.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Le congé paternité facilite le retour au travail des femmes.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Le congé paternité est un petit pas vers l'égalité.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>De nos jours, les pères doivent être présents dès la sortie de l'hôpital.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Un moment central pour la répartition des rôles dans la famille.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Le congé paternité est particulièrement bénéfique pour les bébés.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité du "OUI"</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Le congé de paternité comme un droit pour tous (!) les salariés.</p>
                     </div>
                 </div>
             </li>
             <li>
-            <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>
+            <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>NON à la hausse constante des ponctions sur les salaires!</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>NON pour éviter que les grands groupes déplacent leurs coûts sur les petits!</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>NON à de nouvelles charges pour les PME, les arts et métiers!</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>NON à de nouvelles charges imposées à nos institutions sociales endettées!</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>NON parce qu’il n’est pas tolérable que tous paient pour un petit nombre!</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>NON parce que l’Etat n’a pas à se mêler encore plus des affaires des familles!</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Le congé paternité de deux semaines imposé par l’État n’est pas la solution souhaitée par le PLR.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>En outre, les coûts induits auraient constitué un défi supplémentaire pour les PME dans le cadre de la
+                        crise actuelle.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Ce qu’il faut maintenant c’est un congé parental qui permette aux couples de s’organiser
+                        comme ils l’entendent, de manière flexible.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Un congé parental de 16 semaines offre une solution flexible et ne bétonne pas les anciens modèles.</p>
                     </div>
                 </div>
             </li>
         </ul>
 </main>
 </body>
-
-
-<footer>
-    <div class="footer">
-    <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
-    </div>
-</footer>
-</html>
-</main>
-</body>
-
 
 <footer>
     <div class="footer">

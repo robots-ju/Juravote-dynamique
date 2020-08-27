@@ -330,17 +330,6 @@
 </main>
 </body>
 
-
-<footer>
-    <div class="footer">
-    <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
-    </div>
-</footer>
-</html>
-</main>
-</body>
-
-
 <footer>
     <div class="footer">
     <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>

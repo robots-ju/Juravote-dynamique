@@ -14,8 +14,6 @@
     <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
     <link rel="stylesheet" href="../../../../index.css"/>
     <link rel="stylesheet" href="../../../../badges.css"/>
-    <link rel="stylesheet" href="../../instances.css"/>
-    <link rel="stylesheet" href="../GouvernementCH.css"/>
     
     <script src="<?php echo $jsUikit ?>"></script>
     <script src="<?php echo $jsUikitIcons ?>"></script>

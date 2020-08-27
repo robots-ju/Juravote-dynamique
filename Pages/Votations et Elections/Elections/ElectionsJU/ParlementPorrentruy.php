@@ -2,18 +2,18 @@
 <html lang="fr">
 <head>
 
-    <?php include '../../../../../variables.php'; ?>
+    <?php include '../../../../variables.php'; ?>
 
     <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-    <title>JuraVote | Votation Les Bois du 27 septembre 2020</title>
+    <title>JuraVote | Elections cantonales du 18 octobre 2020</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="stylesheet" href="<?php echo $cssNormalize; ?>">
     <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
     <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
-    <link rel="stylesheet" href="../../../../../index.css"/>
-    <link rel="stylesheet" href="../../../../../badges.css"/>
+    <link rel="stylesheet" href="../../../../index.css"/>
+    <link rel="stylesheet" href="../../../../badges.css"/>
     
     <script src="<?php echo $jsUikit ?>"></script>
     <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -38,16 +38,16 @@
 <body>
 <header>
     <div class="navbar-normal">
-        <?php include "../../../../../Includes/Navbar/navbar.php"; ?>
+        <?php include "../../../../Includes/Navbar/navbar.php"; ?>
     </div>
 
     <div>
-    <?php include "../../../../../Includes/Navbar/navbar-mobile.php"; ?>
+    <?php include "../../../../Includes/Navbar/navbar-mobile.php"; ?>
     </div>
 </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Votations des Bois du 27 septembre 2020</h1>
+        <h1 class="uk-heading-large">Elections cantonales du 18 octobre 2020</h1>
         <hr>
         <p class="uk-text-center">Les informations seront bientôt disponibles !</p>
     </section>

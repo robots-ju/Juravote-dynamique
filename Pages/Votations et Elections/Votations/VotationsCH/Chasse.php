@@ -63,7 +63,13 @@
         <ul class="uk-switcher uk-margin">
             <li> 
                 <h1>Description de la votation</h1>
-                <p>Texte...</p>
+                <p>La loi actuelle remonte à 1985 et la situation a évolué depuis cette année-là. La loi révisée sur la chasse permet de mieux
+                protéger différents animaux sauvages et leurs biotopes. Elle offre par ailleurs une solution pragmatique pour gérer la cohabitation
+                avec le loup, de retour en Suisse depuis 1995. La loi révisée a pour objectif d'atténuer les conflits liés à la population de
+                loups en expansion.</p>
+                <p>Pour les opposants, cette révision a suscité un débat sans fin et des oppositions dans tous les partis. Ce que cela signifie
+                qu'elle ne satisfait à peu près personne. La révision initialement prévue devait être modérée et ne porter que sur quelques
+                points de la loi. Or, elle compromet l'ensemble du dispositif de protection des espèces.</p>
             </li>
             <li>
                 <div id="chartdiv"></div>
@@ -179,198 +185,141 @@
                 </script>
             </li>  
             <li>            
-            <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>
+            <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil fédéral</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Les animaux sauvages seront mieux protégés.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil fédéral</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>La Confédération apporte un soutien financier aux cantons pur la valorisation des biotopes d'animaux sauvages.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil fédéral</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Certaines espèces sauvages d'animaux ne pourront plus être chassées.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil fédéral</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>La loi imposera aux cantons et aux paysans de construire des clotûres respectueuses afin d'éviter les accidents
+                        et les blessures d'animaux.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil fédéral</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Les mesures contribuent à la cohabitation à long terme de l'homme et du loup.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>La loi garantir équilibre et sécurité entre les animaux, les paysages et l'humain.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Elle promeut la diversité des espèces.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Elle protège le paysage rural.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Elle permet le maintien de pratiques nécessaires.</p>
                     </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
+                </div>               
             </li>
             <li>
-            <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>
-            <div>
+            <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+                <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Il serait désormais possible de tuer des animaux protégés considérés
+                        comme indésirables avant même qu’ils n’aient causé le moindre dommage.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Les cantons pourraient dorénavant ordonner des tirs sans avoir à en référer à quiconque.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Le Conseil fédéral serait en droit d’élargir à tout moment la liste des animaux protégés
+                        qui peuvent être régulés, sans avoir à obtenir l’aval du Parlement ou du peuple.</p>
+                    </div>
+                </div>                
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-body">
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                        <h3 class="uk-card-title"></h3>                            
+                        <p>La bécasse des bois, le lièvre brun et le tétras lyre peuvent ainsi être chassés.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>La révision de loi est inutile et compliquée.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Le lynx et le loup empêchent un abroutissement excessif des jeunes arbres par les cerfs et les chevreuils.
+                        Ils font partie de l’écosystème et contribuent à l’existence de forêts de protection diversifiées et stables.
+                        Une régulation préventive de ces animaux porte atteinte à la forêt et s’avère contreproductive du point de
+                        vue de la gestion forestière.</p>
                     </div>
                 </div>
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
+                        <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                         <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="uk-card-badge uk-label badge uk-border-rounded"></div>
-                        <h3 class="uk-card-title"></h3>                            
-                        <p></p>
+                        <p>Un NON à la loi révisée garantit la protection des espèces et permet d’éviter que l’on assiste à un
+                        foisonnement de solutions cantonales entraînant une gestion disparate et incohérente de la faune sauvage.</p>
                     </div>
                 </div>
             </li>

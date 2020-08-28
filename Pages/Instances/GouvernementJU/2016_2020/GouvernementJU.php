@@ -79,7 +79,7 @@
                             <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                 <div class="uk-width-auto uk-first-column">
                                     <img class="uk-border-circle photo-personne"
-                                            src="../../../../IMG/Personnalites/GouvernementJU/2016_2020/NathalieBarthoulod.jpg"
+                                            src="<?php echo $NathalieBarthoulot ?>"
                                             alt="Nathalie Barthoulot">
                                 </div>
                             </div>

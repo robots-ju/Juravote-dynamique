@@ -48,7 +48,7 @@
 </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Elections cantonales du 18 octobre 2020</h1>
+        <h1 class="uk-heading-large">Election du Gouvernement jurassien (1er tour) - 18 octobre 2020</h1>
         <hr>
 
         <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
@@ -59,7 +59,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="#"
+                                     src="<?php echo $DavidEray ?>"
                                      alt="David Eray">
                             </div>
                         </div>
@@ -77,7 +77,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="#"
+                                     src="<?php echo $JacquesGerber ?>"
                                      alt="Jacques Gerber">
                             </div>
                         </div>
@@ -95,7 +95,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="#"
+                                     src="<?php echo $MartialCourtet ?>"
                                      alt="Martial Courtet">
                             </div>
                         </div>
@@ -113,7 +113,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="#"
+                                     src="<?php echo $inconnu ?>"
                                      alt="Stephane Babey">
                             </div>
                         </div>
@@ -131,7 +131,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="#"
+                                     src="<?php echo $NathalieBarthoulot ?>"
                                      alt="Nathalie Barthoulot">
                             </div>
                         </div>
@@ -149,7 +149,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="#"
+                                     src="<?php echo $RosalieBeuret ?>"
                                      alt="Rosalie Beuret Siess">
                             </div>
                         </div>
@@ -167,7 +167,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="#"
+                                     src="<?php echo $inconnu ?>"
                                      alt="Francisco Pires">
                             </div>
                         </div>
@@ -185,7 +185,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="#"
+                                     src="<?php echo $inconnu ?>"
                                      alt="Brigitte Favre">
                             </div>
                         </div>
@@ -203,7 +203,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="#"
+                                     src="<?php echo $inconnu ?>"
                                      alt="Didier Spies">
                             </div>
                         </div>
@@ -221,7 +221,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="#"
+                                     src="<?php echo $inconnu ?>"
                                      alt="Céline Robert-Charrue Linder">
                             </div>
                         </div>
@@ -239,7 +239,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="#"
+                                     src="<?php echo $inconnu ?>"
                                      alt="Vincent Schmitt">
                             </div>
                         </div>
@@ -257,7 +257,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="#"
+                                     src="<?php echo $inconnu ?>"
                                      alt="Emilie Moreau">
                             </div>
                         </div>
@@ -275,7 +275,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="#"
+                                     src="<?php echo $inconnu ?>"
                                      alt="Alain Beuret">
                             </div>
                         </div>

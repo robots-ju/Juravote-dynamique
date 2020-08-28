@@ -49,7 +49,30 @@
     $iconDiscord = "/Juravote-dynamique/IMG/Logo/ResauxSociaux/Discord.png";
 
     //divers
-    $inconnu = "/Juravote-dynamique/IMG/personnalite/inconnu.png";
+    $inconnu = "/Juravote-dynamique/IMG/Personnalites/inconnu.png";
+
+    //GouvernementJU2016_2020
+    $DavidEray = "/Juravote-dynamique/IMG/Personnalites/GouvernementJU/2016_2020/DavidEray.jpg";
+    $GladisWinkler = "/Juravote-dynamique/IMG/Personnalites/GouvernementJU/2016_2020/GladisWinklerDocourt.jpg";
+    $JacquesGerber = "/Juravote-dynamique/IMG/Personnalites/GouvernementJU/2016_2020/JacquesGerber.jpg";
+    $MartialCourtet = "/Juravote-dynamique/IMG/Personnalites/GouvernementJU/2016_2020/MartialCourtet.jpg";
+    $NathalieBarthoulot = "/Juravote-dynamique/IMG/Personnalites/GouvernementJU/2016_2020/NathalieBarthoulot.jpg";
+    $RosalieBeuret = "/Juravote-dynamique/IMG/Personnalites/GouvernementJU/2016_2020/RosalieBeuret.jpg";
+
+    //GouvernementCH2020_2023
+
+
+    //GouvernementsCO2019_2023
+
+
+    //ParlementJU2016_2020
+
+
+    //ParlementCH2020_2023
+
+
+    //ParlementsCO2019_2023
+
 
 //FICHIERS
     //CSS

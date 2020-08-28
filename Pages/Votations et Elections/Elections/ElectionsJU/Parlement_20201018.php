@@ -55,7 +55,7 @@
                     <a href="ParlementDelemont.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $districtDelemont ?>" alt="Objet 1">
+                                <img class="illustration" src="<?php echo $districtDelemont ?>" alt="District de Delémont">
                             </div>
                         </div>
                         <div class="uk-card-body">
@@ -74,7 +74,7 @@
                     <a href="ParlementPorrentruy.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $districtPorrentruy ?>" alt="Objet 2">
+                                <img width="150" height="150" class="illustration" src="<?php echo $districtPorrentruy ?>" alt="District de Porrentruy">
                             </div>
                         </div>
                         <div class="uk-card-body">
@@ -93,7 +93,7 @@
                     <a href="ParlementFM.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $districtFranchesMontagnes ?>" alt="Objet 3">
+                                <img class="illustration" src="<?php echo $districtFranchesMontagnes ?>" alt="District des Franches-Montagnes">
                             </div>
                         </div>
                         <div class="uk-card-body">

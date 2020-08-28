@@ -60,7 +60,7 @@
                             <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                 <div class="uk-width-auto uk-first-column">
                                     <img class="uk-border-circle photo-personne"
-                                            src="../../../../IMG/Personnalites/GouvernementJU/2016_2020/MartialCourtet.jpg "
+                                            src="<?php echo $MartialCourtet ?>"
                                             alt="Martial Courtet">
                                 </div>
                             </div>
@@ -98,7 +98,7 @@
                             <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                 <div class="uk-width-auto uk-first-column">
                                     <img class="uk-border-circle photo-personne"
-                                            src="../../../../IMG/Personnalites/GouvernementJU/2016_2020/DavidEray.jpg"
+                                            src="<?php echo $DavidEray ?>"
                                             alt="David Eray">
                                 </div>
                             </div>
@@ -117,7 +117,7 @@
                             <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                 <div class="uk-width-auto uk-first-column">
                                     <img class="uk-border-circle photo-personne"
-                                            src="../../../../IMG/Personnalites/GouvernementJU/2016_2020/JacquesGerber.jpg"
+                                            src="<?php echo $JacquesGerber ?>"
                                             alt="Jacques Gerber">
                                 </div>
                             </div>
@@ -136,7 +136,7 @@
                             <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                 <div class="uk-width-auto uk-first-column">
                                     <img class="uk-border-circle photo-personne"
-                                            src="../../../../IMG/Personnalites/GouvernementJU/2016_2020/RosalieBeuret.jpg"
+                                            src="<?php echo $RosalieBeuret ?>"
                                             alt="Rosalie Beuret Siess">
                                 </div>
                             </div>
@@ -155,7 +155,7 @@
                             <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                 <div class="uk-width-auto uk-first-column">
                                     <img class="uk-border-circle photo-personne"
-                                            src="../../../../IMG/Personnalites/GouvernementJU/2016_2020/GladyWinklerDocourt.jpg"
+                                            src="<?php echo $GladisWinkler ?>"
                                             alt="Gladys Winkler Docourt">
                                 </div>
                             </div>

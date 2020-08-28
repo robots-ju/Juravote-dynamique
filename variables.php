@@ -46,10 +46,11 @@
     $pouvoirFederal = "/Juravote-dynamique/IMG/Logo/Pouvoirs/federal.png";
 
     //réseaux sociaux :
-    $iconDiscord = "/Juravote-dynamique/IMG/Logo/ResauxSociaux/Discord.png";
+    $iconDiscord = "/Juravote-dynamique/IMG/Logo/ReseauxSociaux/Discord.png";
 
     //divers
     $inconnu = "/Juravote-dynamique/IMG/Personnalites/inconnu.png";
+    $ElectionsJU = "/Juravote-dynamique/IMG/ElectionsJU.png";
 
     //GouvernementJU2016_2020
     $DavidEray = "/Juravote-dynamique/IMG/Personnalites/GouvernementJU/2016_2020/DavidEray.jpg";

@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
     <link rel="stylesheet" href="../../../../index.css"/>
     <link rel="stylesheet" href="../../../../badges.css"/>
+    <link rel="stylesheet" href="../elections.css"/>
     
     <script src="<?php echo $jsUikit ?>"></script>
     <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -49,7 +50,335 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Elections cantonales du 18 octobre 2020</h1>
         <hr>
-        <p class="uk-text-center">Les informations seront bientôt disponibles !</p>
+        <div class="switcher-buttons uk-text-left" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%">
+            <button class="uk-button uk-button-default" type="button">En bref</button>
+            <button class="uk-button uk-button-default" type="button">Liste des candidats-es</button>
+            <button class="uk-button uk-button-default" type="button">Présentation des candidats-es</button>
+        </div>  
+        <ul class="uk-switcher uk-margin">
+            <li>   
+                <h1>Les élections cantonales en bref</h1>
+                <p>xx candidats-es sont en lice pour l'Election au Parlement Jurassien (District de Delémont). Ces xx personnalités proviennent de
+                xx formations politiques pour décrocher les 30 sièges au sein du législatif.
+                </p>
+                <p>Les élus-es seront connus-es à la fin du scrutin, le 18 octobre prochain.
+                </p>
+            </li>  
+            <li>
+            <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Marcelle Luchinger Fleury">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Marcelle Luchinger Fleury</h3>
+                            <p class="uk-text-center text-fonction">1955 - Courroux - Consultante indépendante</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Vivien Schmid">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Vivien Schmid</h3>
+                            <p class="uk-text-center text-fonction">1998 - Delémont - Etudiant HEG</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Michelle Müller">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Michèle Müller</h3>
+                            <p class="uk-text-center text-fonction">1951 - Courrendlin - Femme au foyer</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Loïc Schindeholz">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Loïc Schindelholz</h3>
+                            <p class="uk-text-center text-fonction">1999 - Delémont - Employé de commerce</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Sonia Hänni-Béguelin">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Sonia Hänni-Béguelin</h3>
+                            <p class="uk-text-center text-fonction">1972 - Develier - Vendeuse</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Matthieu Saner">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Matthieu Saner</h3>
+                            <p class="uk-text-center text-fonction">1980 - Delémont - Directeur informatique</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Christine Domont">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Christine Domont</h3>
+                            <p class="uk-text-center text-fonction">1973 - Delémont - Infirmière</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Michel Friche">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Michel Friche</h3>
+                            <p class="uk-text-center text-fonction">1950 - Delémont - Employé de commerce retraité</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Germaine Buchwalder">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Germaine Buchwalder</h3>
+                            <p class="uk-text-center text-fonction">1949 - Delémont - Vendeuse</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Martin Braichet">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Martin Braichet</h3>
+                            <p class="uk-text-center text-fonction">1988 - Montavon - Responsable ADECCO RH SA</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="André Henzelin">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">André Henzelin</h3>
+                            <p class="uk-text-center text-fonction">1949 - Delémont - Cadre bancaire retraité</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Jean-Pierre Girard">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Jean-Pierre Girard</h3>
+                            <p class="uk-text-center text-fonction">1966 - Glovelier - Agriculteur</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Yann Rufer">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Yann Rufer</h3>
+                            <p class="uk-text-center text-fonction">1979 - Rossemaison - Cadre bancaire</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Alain Schweingruber">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Alain Schweingruber</h3>
+                            <p class="uk-text-center text-fonction">1952 - Boécourt - Avocat</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Alain Graf">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Alain Graf</h3>
+                            <p class="uk-text-center text-fonction">1970 - Courfaivre - Directeur RH</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="NOM">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
+                            <p class="uk-text-center text-fonction">INFOS</p>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            </li>
+
+            <li>
+
+            </li>
+
+        </ul>
+            
     </section>
 </main>
 </body>

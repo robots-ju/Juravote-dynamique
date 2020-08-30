@@ -160,9 +160,31 @@
 
 //FICHIERS
     //CSS
-    $cssMain = "/Juravote-dynamique/CSS/main.css";
-    $cssUikitMin = "/Juravote-dynamique/CSS/uikit.min.css";
+    $cssMain = "/Juravote-dynamique/CSS/main.css";    
     $cssNormalize ="/Juravote-dynamique/CSS/normalize.css";
+    $cssUikit = "/Juravote-dynamique/CSS/uikit.css";
+    $cssUikitMin = "/Juravote-dynamique/CSS/uikit.min.css";
+    $cssUikitRTL = "/Juravote-dynamique/CSS/uikit-rtl.css";
+    $cssUikitRTLMin = "/Juravote-dynamique/CSS/uikit-rtl.min.css";
+    $cssbadges = "/Juravote-dynamique/badges.css";
+
+    $cssactualites = "/Juravote-dynamique/Pages/Actualites/actualites.css";
+    $cssequipe = "/Juravote-dynamique/Pages/Equipe/equipe.css";
+    $cssinstances = "/Juravote-dynamique/Pages/Instances/instances.css";
+    $cssgouvernementCH = "/Juravote-dynamique/Pages/Instances/GouvernementCH/GouvernementCH.css";
+    $cssgouvernementCO = "/Juravote-dynamique/Pages/Instances/GouvernementCO/GouvernementCO.css";
+    $cssgouvernementJU = "/Juravote-dynamique/Pages/Instances/GouvernementJU/GouvernementJU.css";
+    $cssparlementCH = "/Juravote-dynamique/Pages/Instances/ParlementCH/ParlementCH.css";
+    $cssparlementCO = "/Juravote-dynamique/Pages/Instances/ParlementCO/ParlementCO.css";
+    $cssparlementJU = "/Juravote-dynamique/Pages/Instances/ParlementJU/ParlementJU.css";
+    $csspartisCH = "/Juravote-dynamique/Pages/Instances/PartisCH/PartisCH.css";
+    $csspartisJU = "/Juravote-dynamique/Pages/Instances/PartisJU/PartisJU.css";
+
+    $cssresultats = "/Juravote-dynamique/Pages/Resultats/resultats.css";
+
+    $cssaccueilVotationsElections = "/Juravote-dynamique/Pages/Votations et Elections/accueilVE.css";
+    $csselections = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css";
+    $cssvotations = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css";
 
     //JS
     $jsUikit = "/Juravote-dynamique/JS/uikit.js";
@@ -170,7 +192,14 @@
     $jsUikitIcons ="/Juravote-dynamique/JS/uikit-icons.js";
     $jsUikitIconsMin ="/Juravote-dynamique/JS/uikit-icons.min.js";
 
+    //AMCHARTS4
+    $JScharts = "Juravote-dynamique/JS/amcharts4/charts.js";
+    $JScore = "Juravote-dynamique/JS/amcharts4/core.js";
+    $JSmaps = "Juravote-dynamique/JS/amcharts4/maps.js";
 
+    //GEODATA
+    $JSworldLow = "Juravote-dynamique/JS/geodata/worldLow.js";
+    $JSswitzerlandHigh = "Juravote-dynamique/JS/geodata/switzerlandHigh.js";
 
 //INCLUDES
     //navbar

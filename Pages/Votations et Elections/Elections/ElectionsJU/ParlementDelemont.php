@@ -650,7 +650,7 @@
                 <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -673,7 +673,7 @@
                 <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC-JDC</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -696,7 +696,7 @@
                 <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -719,7 +719,7 @@
                 <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV-Jura</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -730,8 +730,103 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Silvio Mittempergher</h3>
+                                <p class="uk-text-center text-fonction">1967 - Châtillon - Paysagiste</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV-Jura</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Philippe Siraut</h3>
+                                <p class="uk-text-center text-fonction">1961 - Delémont - Ingénieur</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV-Jura</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Frédéric Nicolet</h3>
+                                <p class="uk-text-center text-fonction">1975 - Rossemaison - Ingénieur</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV-Jura</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Thomas Dennert</h3>
+                                <p class="uk-text-center text-fonction">1959 - Vermes - Agriculteur-vigneron</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV-Jura</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Sébastien Wüthrich</h3>
+                                <p class="uk-text-center text-fonction">1983 - Courtételle - Physicien</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV-Jura</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Manon Otge</h3>
+                                <p class="uk-text-center text-fonction">1993 - Châtillon - Horlogère</p>
                             </div>
                         </div>
                     </div>

@@ -372,11 +372,277 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Ulrich Rubli</h3>
+                                <p class="uk-text-center text-fonction">1960 - Delémont - Chef de service</p>
                             </div>
                         </div>
                     </div>  
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Alain Fleury</h3>
+                                <p class="uk-text-center text-fonction">1974 - Courroux - Inspecteur OSEE</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Jean-Claude Finger</h3>
+                                <p class="uk-text-center text-fonction">1951 - Courtételle - Ingénieur électrique HES retraité</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Pascal Beuret</h3>
+                                <p class="uk-text-center text-fonction">1970 - Courtételle - Entrepreneur</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Alexis Schouller</h3>
+                                <p class="uk-text-center text-fonction">1988 - Bassecourt - Employé de commerce</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Nicolas Kocher</h3>
+                                <p class="uk-text-center text-fonction">1990 - Delémont - Economiste HEG</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Pierre-Xavier Meury</h3>
+                                <p class="uk-text-center text-fonction">1956 - Delémont - Géologue</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Patrick parrat</h3>
+                                <p class="uk-text-center text-fonction">1987 - Courroux - Responsable marque SEAT</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Nicolas Eichenberger</h3>
+                                <p class="uk-text-center text-fonction">1973 - Boécourt - Chimiste</p>
+                            </div>
+                        </div>
+                    </div>
+    
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Pierre Chételat</h3>
+                                <p class="uk-text-center text-fonction">1962 - Delémont - Architecte</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Vincent Froté</h3>
+                                <p class="uk-text-center text-fonction">1958 - Delémont - Conseiller en prévoyance</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Florian Chételat</h3>
+                                <p class="uk-text-center text-fonction">1986 - Pleigne - Informaticien</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Stéphane Brosy</h3>
+                                <p class="uk-text-center text-fonction">1964 - Pleigne - Entrepreneur</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Daniel Renaud</h3>
+                                <p class="uk-text-center text-fonction">2000 - Develier - Employé de commerce</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Christophe Günter</h3>
+                                <p class="uk-text-center text-fonction">1971 - Delémont - Ingéneieur ETS</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </li>
 

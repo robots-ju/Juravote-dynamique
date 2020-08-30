@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <link rel="stylesheet" href="Includes/Navbar/navbar.css">
+        <link rel="stylesheet" href="navbar.css">
         <base target="_parent">
     </head>
     <body>

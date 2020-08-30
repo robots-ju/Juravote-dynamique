@@ -186,6 +186,8 @@
     $csselections = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css";
     $cssvotations = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css";
 
+    //HTML
+
     //JS
     $jsUikit = "/Juravote-dynamique/JS/uikit.js";
     $jsUikitMin = "/Juravote-dynamique/JS/uikit.min.js";

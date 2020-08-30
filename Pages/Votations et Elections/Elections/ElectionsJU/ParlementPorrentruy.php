@@ -62,7 +62,7 @@
         <ul class="uk-switcher uk-margin">
             <li>   
                 <h1>Les élections cantonales en bref</h1>
-                <p>138 candidats-es sont en lice pour l'Election au Parlement Jurassien (District des Franches-Montagnes). Ces 138 personnalités proviennent de
+                <p>138 candidats-es sont en lice pour l'Election au Parlement Jurassien (District de Porrentruy). Ces 138 personnalités proviennent de
                 7 formations politiques pour décrocher les 20 sièges au sein du législatif.
                 </p>
                 <p>Les élus-es seront connus-es à la fin du scrutin, le 18 octobre prochain.

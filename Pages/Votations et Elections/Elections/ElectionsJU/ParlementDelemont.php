@@ -73,7 +73,7 @@
                 </p>
             </li>  
             <li>
-                <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
@@ -716,7 +716,7 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV-Jura</div>
@@ -926,10 +926,10 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Avenir de Bohneur</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -940,8 +940,103 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Julien Gunzinger</h3>
+                                <p class="uk-text-center text-fonction">1972 - Delémont - Indépendant</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Avenir de Bohneur</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Pascal Prince</h3>
+                                <p class="uk-text-center text-fonction">1969 - Courrendlin - Agent de train</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Avenir de Bohneur</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Isabelle Widmer</h3>
+                                <p class="uk-text-center text-fonction">1973 - Courrendlin - Pédicure</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Avenir de Bohneur</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Nils Karlsson</h3>
+                                <p class="uk-text-center text-fonction">1982 - Bassecourt - Ingénieur EPF-étudiant médecine</p>
+                            </div>
+                        </div>
+                    </div>  
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Avenir de Bohneur</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">Nancy Chappuis</h3>
+                                <p class="uk-text-center text-fonction">1976 - Delémont - Horlogère</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Avenir de Bohneur</div>
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                    <div class="uk-width-auto uk-first-column">
+                                        <img class="uk-border-circle photo-personne"
+                                            src="<?php echo $inconnu ?>"
+                                            alt="NOM">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title-center text-rouge-fonce">David Sciascia</h3>
+                                <p class="uk-text-center text-fonction">1990 - Delémont</p>
                             </div>
                         </div>
                     </div>

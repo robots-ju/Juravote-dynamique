@@ -505,7 +505,7 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Patrick parrat</h3>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Patrick Parrat</h3>
                                 <p class="uk-text-center text-fonction">1987 - Courroux - Responsable marque SEAT</p>
                             </div>
                         </div>

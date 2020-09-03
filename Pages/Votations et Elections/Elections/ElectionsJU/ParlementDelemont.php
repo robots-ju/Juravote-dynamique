@@ -4223,8 +4223,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Alain Beuret</h3>
+                                <p class="uk-text-center text-fonction">1978 - Delémont - Architecte EPFL</p>
                             </div>
                         </div>
                     </div>
@@ -4242,8 +4242,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Sébastien Lovis</h3>
+                                <p class="uk-text-center text-fonction">1974 - Saulcy - Conseiller de vente</p>
                             </div>
                         </div>
                     </div>
@@ -4261,8 +4261,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Saskia Borne</h3>
+                                <p class="uk-text-center text-fonction">1999 - Glovelier - Assistante socio-éducative</p>
                             </div>
                         </div>
                     </div>
@@ -4280,8 +4280,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Anne Ceppi</h3>
+                                <p class="uk-text-center text-fonction">1956 - Bassecourt - Docteur-vétérinaire</p>
                             </div>
                         </div>
                     </div>
@@ -4299,8 +4299,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Morgan Beuret</h3>
+                                <p class="uk-text-center text-fonction">1986 - Courtételle - Chef de projet en industriallisation</p>
                             </div>
                         </div>
                     </div>
@@ -4318,8 +4318,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Philippe Seuret</h3>
+                                <p class="uk-text-center text-fonction">1955 - Châtillon - Mécanicien / Conseiller communal</p>
                             </div>
                         </div>
                     </div>
@@ -4337,8 +4337,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Fernando Pereira</h3>
+                                <p class="uk-text-center text-fonction">1971 - Delémont - Dessinateur en bâtiment</p>
                             </div>
                         </div>
                     </div>
@@ -4356,8 +4356,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Marc-Aurèle Chételat</h3>
+                                <p class="uk-text-center text-fonction">1970 - Boécourt - Gestionnaire en assurances</p>
                             </div>
                         </div>
                     </div>
@@ -4375,8 +4375,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Fabio Bianchini</h3>
+                                <p class="uk-text-center text-fonction">1977 - Delémont - Conseiller en assurances</p>
                             </div>
                         </div>
                     </div>
@@ -4394,8 +4394,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Sandra Leuenberger</h3>
+                                <p class="uk-text-center text-fonction">1973 - Delémont - Masseuse</p>
                             </div>
                         </div>
                     </div>
@@ -4413,8 +4413,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Raoul Jaeggi</h3>
+                                <p class="uk-text-center text-fonction">1969 - Bassecourt - Informaticien</p>
                             </div>
                         </div>
                     </div>
@@ -4432,8 +4432,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Christelle Gnoni</h3>
+                                <p class="uk-text-center text-fonction">1975 - Develier - Vendeuse</p>
                             </div>
                         </div>
                     </div>
@@ -4451,8 +4451,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Taylan Sirimsi</h3>
+                                <p class="uk-text-center text-fonction">1994 - Courroux - Termineur en horlogerie</p>
                             </div>
                         </div>
                     </div>
@@ -4470,8 +4470,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Célien Jeandupeux</h3>
+                                <p class="uk-text-center text-fonction">1982 - Develier - Responsable des ventes</p>
                             </div>
                         </div>
                     </div>
@@ -4489,8 +4489,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Christian Wirz</h3>
+                                <p class="uk-text-center text-fonction">1955 - Delémont - Sommelier ASSP</p>
                             </div>
                         </div>
                     </div>
@@ -4508,8 +4508,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Virginie Gaschen Ostertag</h3>
+                                <p class="uk-text-center text-fonction">1981 - Courtételle - Assistante RH</p>
                             </div>
                         </div>
                     </div>
@@ -4527,8 +4527,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Jérôme Abatte</h3>
+                                <p class="uk-text-center text-fonction">1990 - Vicques - Horloger</p>
                             </div>
                         </div>
                     </div>
@@ -4546,8 +4546,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Blerin Rustemi</h3>
+                                <p class="uk-text-center text-fonction">1990 - Delémont - Platrier peintre</p>
                             </div>
                         </div>
                     </div>
@@ -4565,8 +4565,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Yvette Allimann</h3>
+                                <p class="uk-text-center text-fonction">1959 - Glovelier - Communicatrice technique</p>
                             </div>
                         </div>
                     </div>
@@ -4584,8 +4584,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Armend Gaschi</h3>
+                                <p class="uk-text-center text-fonction">1987 - Delémont - Chef d'entreprise</p>
                             </div>
                         </div>
                     </div>
@@ -4603,8 +4603,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Oezge Aydogan</h3>
+                                <p class="uk-text-center text-fonction">1997 - Courroux - Vendeuse</p>
                             </div>
                         </div>
                     </div>
@@ -4622,8 +4622,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Ermal Rudaj</h3>
+                                <p class="uk-text-center text-fonction">1991 - Delémont - Indépendant</p>
                             </div>
                         </div>
                     </div>
@@ -4641,8 +4641,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Océane Gnoni</h3>
+                                <p class="uk-text-center text-fonction">2001 - Develier - Apprentie</p>
                             </div>
                         </div>
                     </div>
@@ -4660,8 +4660,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Gregory Chevalier</h3>
+                                <p class="uk-text-center text-fonction">1977 - Vicques - Maître nageur</p>
                             </div>
                         </div>
                     </div>
@@ -4679,8 +4679,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Belinda Karakusch</h3>
+                                <p class="uk-text-center text-fonction">1999 - Courfaivre - Terminatrice en horlogerie</p>
                             </div>
                         </div>
                     </div>
@@ -4698,8 +4698,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Rémy Petitcuenot</h3>
+                                <p class="uk-text-center text-fonction">1989 - Bassecourt - Charpentier</p>
                             </div>
                         </div>
                     </div>
@@ -4717,8 +4717,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Stève Chételat</h3>
+                                <p class="uk-text-center text-fonction">1977 - Courchapoix - Secrétaire indépendant</p>
                             </div>
                         </div>
                     </div>
@@ -4736,8 +4736,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Catherine Monnin</h3>
+                                <p class="uk-text-center text-fonction">1976 - Boécourt - Employée de commerce</p>
                             </div>
                         </div>
                     </div>
@@ -4755,8 +4755,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Axel Amsler</h3>
+                                <p class="uk-text-center text-fonction">1981 - Boécourt - Gérand adjoint de Caisse Pensions</p>
                             </div>
                         </div>
                     </div>
@@ -4774,8 +4774,8 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Sylvie Joliat</h3>
+                                <p class="uk-text-center text-fonction">1965 - Delémont - Garde-bains</p>
                             </div>
                         </div>
                     </div>

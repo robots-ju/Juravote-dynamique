@@ -1798,7 +1798,7 @@
                 <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -1809,15 +1809,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Tania Schindeholz</h3>
+                                <p class="uk-text-center text-fonction">1985 - Delémont - Cheffe de projets en promotion de la santé</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -1828,15 +1828,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">René Grossmann</h3>
+                                <p class="uk-text-center text-fonction">1966 - Courrendlin - Enseignant au CEJEF</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -1847,15 +1847,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Maria Teresa Sepulveda Rebetez</h3>
+                                <p class="uk-text-center text-fonction">1952 - Delémont - Infirmière et enseignante retraitée</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -1866,15 +1866,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Rémy Meury</h3>
+                                <p class="uk-text-center text-fonction">1959 - Delémont - Secrétaire syndical</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -1885,15 +1885,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Julie Soranzo</h3>
+                                <p class="uk-text-center text-fonction">1998 - Delémont - Etudiante HEVS-TS</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -1904,15 +1904,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Vincent Nicoulin</h3>
+                                <p class="uk-text-center text-fonction">1994 - Delémont - Etudiant en sciences sociales et politiques</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -1923,15 +1923,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Guite Theurillat</h3>
+                                <p class="uk-text-center text-fonction">1947 - Delémont - Formatrice d'adultes</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -1942,15 +1942,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">André Parrat</h3>
+                                <p class="uk-text-center text-fonction">1960 - Delémont - Travailleur social</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -1961,15 +1961,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Marie Thiévent</h3>
+                                <p class="uk-text-center text-fonction">1954 - Delémont - Enseignante retraitée</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -1980,15 +1980,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Jean Parrat</h3>
+                                <p class="uk-text-center text-fonction">1958 - Delémont - Hygiéniste du travail</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -1999,15 +1999,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Auriane Venzin</h3>
+                                <p class="uk-text-center text-fonction">1994 - Vicques - Educatrice sociale</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2018,15 +2018,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Christophe Schaffter</h3>
+                                <p class="uk-text-center text-fonction">1966 - Delémont - Avocat</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2037,15 +2037,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Mérane Woudman</h3>
+                                <p class="uk-text-center text-fonction">1990 - Delémont - Helpdesk Specialist</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2056,15 +2056,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Hervé Schaller</h3>
+                                <p class="uk-text-center text-fonction">1979 - Delémont - Dessinateur en bâtiment</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2075,15 +2075,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Corinne Zahno</h3>
+                                <p class="uk-text-center text-fonction">1980 - Delémont - Infirmière</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2094,15 +2094,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Florence Berdat</h3>
+                                <p class="uk-text-center text-fonction">1965 - Delémont - Assistante socio-éducative</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2113,15 +2113,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Gabriel Villemin</h3>
+                                <p class="uk-text-center text-fonction">1975 - Delémont - Horticulteur-paysagiste</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2132,15 +2132,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Liza Crétin</h3>
+                                <p class="uk-text-center text-fonction">1975 - Courfaivre - Enseignante</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2151,15 +2151,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Jean-Marc Voisard</h3>
+                                <p class="uk-text-center text-fonction">1960 - Boécourt - Enseignant école professionnelle</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2170,15 +2170,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Esther Gelso</h3>
+                                <p class="uk-text-center text-fonction">1955 - Delémont - Secrétaire</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2189,15 +2189,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Jordan Willemin</h3>
+                                <p class="uk-text-center text-fonction">1994 - Bassecourt - Ingénieur électricien</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2208,15 +2208,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Estelle Kamber</h3>
+                                <p class="uk-text-center text-fonction">1969 - Delémont - Psychologue et praticienne-form. en travail social</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2227,15 +2227,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Luc Bron</h3>
+                                <p class="uk-text-center text-fonction">1973 - Mervelier - Architecte</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2246,15 +2246,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Sengül Köker</h3>
+                                <p class="uk-text-center text-fonction">1955 - Delémont - Interprète communautaire</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2265,15 +2265,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Jérôme Corbat</h3>
+                                <p class="uk-text-center text-fonction">1962 - Delémont - Agent administratif</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2284,15 +2284,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Janka Mosimann</h3>
+                                <p class="uk-text-center text-fonction">1992 - Delémont - Employée de commerce</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2303,15 +2303,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Thierry Cortat</h3>
+                                <p class="uk-text-center text-fonction">1958 - Delémont - Agent technico-commercial</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2322,15 +2322,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Chloé Parrat</h3>
+                                <p class="uk-text-center text-fonction">1988 - Delémont - Spécialiste en santé sexuelle</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2341,15 +2341,15 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Sacha Crétin</h3>
+                                <p class="uk-text-center text-fonction">2000 - Courfaivre - Etudiant</p>
                             </div>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -2360,11 +2360,11 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Cécile Perrouelle</h3>
+                                <p class="uk-text-center text-fonction">1984 - Delémont - Infirmière</p>
                             </div>
                         </div>
-                    </div>
+                    </div>                    
                 </div>
             </li>
 

@@ -168,6 +168,8 @@
     $cssUikitRTLMin = "/Juravote-dynamique/CSS/uikit-rtl.min.css";
     $cssbadges = "/Juravote-dynamique/badges.css";
 
+    $cssIndex = "/Juravote-dynamique/index.css";
+
     $cssactualites = "/Juravote-dynamique/Pages/Actualites/actualites.css";
 
     $cssequipe = "/Juravote-dynamique/Pages/Equipe/equipe.css";
@@ -268,6 +270,25 @@
     //GEODATA
     $JSworldLow = "Juravote-dynamique/JS/geodata/worldLow.js";
     $JSswitzerlandHigh = "Juravote-dynamique/JS/geodata/switzerlandHigh.js";
+
+    //SITES DES COMMUNES
+        //AJOIE
+        $siteBoncourt = "https://www.boncourt.ch/";
+        $siteCornol = "http://www.cornol.ch/fr/";
+        $siteFahy = "http://www.fahy.ch/";
+
+        //DELEMONT
+        $siteCourchapoix = "http://www.courchapoix.ch/cpx/";
+        $siteChatillon = "https://chatillon.ch/";
+        $siteMettembert = "";
+        $siteMovelier = "https://www.movelier.ch/";
+        $sitePleigne = "http://www.pleigne.ch/fr/Administration-et-services.html";
+
+        //FM
+        $siteBreuleux = "https://www.breuleux.ch/";
+        
+
+    
 
 //INCLUDES
     //navbar

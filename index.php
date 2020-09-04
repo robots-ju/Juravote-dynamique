@@ -11,7 +11,7 @@
         <link rel="stylesheet" href="<?php echo $cssNormalize; ?>">
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
-        <link rel="stylesheet" href="./index.css"/>
+        <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -123,7 +123,7 @@
                     <div class="uk-width-1-4@m uk-flex-first@m">
                         <div class="uk-card uk-card-body uk-padding-remove">
                             <h3 class="uk-heading-divider">Prochains événements</h3>
-                            <a href="Pages/Votations et Elections/Votations/VotationsCH/accueil.php">
+                            <a href="<?php echo $PHPvotationsCHaccueil ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
@@ -131,7 +131,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="Pages/Votations et Elections/Votations/VotationsCO/Delemont_20200927/ComplexeScolaire.php">   
+                            <a href="<?php echo $PHPvotationsDelemont ?>">   
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
@@ -139,7 +139,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="Pages/Votations et Elections/Elections/ElectionsCO/Lajoux_20200927/Accueil.php">
+                            <a href="<?php echo $PHPelectionLajoux ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
@@ -147,7 +147,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/Accueil.php">
+                            <a href="<?php echo $PHPvotationValTerbiAccueil ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
@@ -155,7 +155,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="Pages/Votations et Elections/Votations/VotationsCO/LesBois_20200927/Accueil.php">
+                            <a href="<?php echo $PHPvotationLesBoisAccueil ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
@@ -163,7 +163,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="Pages/Votations et Elections/Elections/ElectionsJU/Accueil.php">
+                            <a href="<?php echo $PHPelectionsJUaccueil ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
                                     <div class="uk-card-body">
@@ -171,7 +171,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="Pages/Votations et Elections/Elections/ElectionsCO/Bonfol_20201018/VicePresidentAssemblee.php">
+                            <a href="<?php echo $PHPelectionBonfol ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
                                     <div class="uk-card-body">
@@ -179,7 +179,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="Pages/Votations et Elections/Elections/ElectionsCO/Chatillon_20201018/MembreCommissionEcole.php">
+                            <a href="<?php echo $PHPelectionChatillon ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
                                     <div class="uk-card-body">
@@ -187,7 +187,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="Pages/Votations et Elections/Elections/ElectionsCO/Courtedoux_20201018/VicePresidentAssemblee.php">
+                            <a href="<?php echo $PHPelectionCourtedoux ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
                                     <div class="uk-card-body">
@@ -195,7 +195,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="Pages/Votations et Elections/Elections/ElectionsCO/Movelier_20201018/MembreCercleScolaire.php">
+                            <a href="<?php echo $PHPelectionMovelier ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
                                     <div class="uk-card-body">
@@ -203,7 +203,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <!--<a href="Pages/Votations et Elections/Elections/ElectionsJU/Gouvernement_20201108.php">
+                            <!--<a href="<?php echo $PHPelectionsJUGouvernement2 ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">08.11</div>
                                     <div class="uk-card-body">
@@ -211,7 +211,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="#">
+                            <a href="<?php echo $fichier ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">29.11</div>
                                     <div class="uk-card-body">
@@ -226,7 +226,7 @@
                     <div class="uk-width-1-4@m">
                         <div class="uk-card uk-card-body uk-padding-remove">
                             <h3 class="uk-heading-divider">Législatifs communaux</h3>
-                            <a href="http://www.courchapoix.ch/cpx/" target="blank">
+                            <a href="<?php echo $siteCourchapoix ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">31.08</div>
                                     <div class="uk-card-body">
@@ -234,7 +234,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://www.boncourt.ch/ADMINISTRATION/ORGANISATION/Assemblee-communale-et-commissions" target="blank">
+                            <a href="<?php echo $siteBoncourt ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.09</div>
                                     <div class="uk-card-body">
@@ -242,7 +242,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="#" target="blank">
+                            <a href="<?php echo $siteBreuleux ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.09</div>
                                     <div class="uk-card-body">
@@ -250,7 +250,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="#" target="blank">
+                            <a href="<?php echo $siteFahy ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.09</div>
                                     <div class="uk-card-body">
@@ -258,7 +258,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="#" target="blank">
+                            <a href="<?php echo $siteChâtillon ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">03.09</div>
                                     <div class="uk-card-body">
@@ -266,7 +266,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="#" target="blank">
+                            <a href="<?php echo $sitePleigne ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">03.09</div>
                                     <div class="uk-card-body">
@@ -274,7 +274,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="#" target="blank">
+                            <a href="<?php echo $siteCornol ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">03.09</div>
                                     <div class="uk-card-body">
@@ -282,7 +282,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="#" target="blank">
+                            <a href="<?php echo $siteMettembert ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">07.09</div>
                                     <div class="uk-card-body">
@@ -290,7 +290,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="#" target="blank">
+                            <a href="<?php echo $siteMovelier ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">16.09</div>
                                     <div class="uk-card-body">

@@ -1,1 +1,42 @@
-css
+a {
+    text-decoration: none !important;
+}
+
+.titre {
+    color: #990000;
+    text-align: center;
+}
+
+.logo {
+    width: 100%;
+}
+
+.uk-grid-small {
+ text-align: center;
+}
+
+.switcher-buttons {
+    text-align: center;
+}
+
+.switcher-buttons button {
+    margin-top: 2%;
+}
+
+@media (max-width: 600px) {
+    .cards {
+        text-align: center;
+    }
+
+    .titre {
+        font-size: 2rem;
+    }
+
+    .titre-switcher {
+        font-size: 0.7rem;
+    }
+
+    .chevron-down {
+        height: 50%;
+    }
+}

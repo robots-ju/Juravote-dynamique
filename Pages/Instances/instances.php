@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="<?php echo $cssNormalize; ?>">
     <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
     <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
-    <link rel="stylesheet" href="../index.css"/>
+    <link rel="stylesheet" href="../../index.css"/>
     <link rel="stylesheet" href="instances.css"/>
     
     <script src="<?php echo $jsUikit ?>"></script>

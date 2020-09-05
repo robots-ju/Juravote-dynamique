@@ -1,19 +1,17 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-
-        <?php include '../../variables.php'; ?>
+        <?php include './variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Résultats</title>
+        <title>JuraVote | Accueil</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="stylesheet" href="<?php echo $cssNormalize; ?>">
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
-        <link rel="stylesheet" href="../../index.css"/>
-        <link rel="stylesheet" href="resultats.css"/>
+        <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -38,11 +36,11 @@
     <body>
         <header>
             <div class="navbar-normal">
-                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+                <?php include "./Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include "./Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
     <main>
@@ -175,7 +173,7 @@
 
     <footer>
         <div class="footer">
-        <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+            <?php include "/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </html>

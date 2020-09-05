@@ -23,20 +23,12 @@ a {
     margin-top: 2%;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     .cards {
         text-align: center;
     }
 
     .titre {
         font-size: 2rem;
-    }
-
-    .titre-switcher {
-        font-size: 0.7rem;
-    }
-
-    .chevron-down {
-        height: 50%;
     }
 }

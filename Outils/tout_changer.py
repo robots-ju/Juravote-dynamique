@@ -31,7 +31,7 @@ for x in all_files("..","php"):
     start=ctn.find("<head>")
     end=ctn.find("</head>")
     ctn=ctn[:start]+"""<head>
-        <?php include './variables.php'; ?>
+        <?php include '/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Accueil</title>
@@ -67,11 +67,11 @@ for x in all_files("..","php"):
     end=ctn.find("</header>")
     ctn=ctn[:start]+"""<header>
             <div class="navbar-normal">
-                <?php include "./Includes/Navbar/navbar.php"; ?>
+                <?php include "/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include "./Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include "/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         """+ctn[end:]
     start=ctn.find("<footer>")

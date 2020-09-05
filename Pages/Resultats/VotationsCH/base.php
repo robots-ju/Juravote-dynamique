@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <?php include './variables.php'; ?>
+        <?php include '/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Accueil</title>
@@ -37,11 +37,11 @@
         <!-- Barre de navigation -->
         <header>
             <div class="navbar-normal">
-                <?php include "./Includes/Navbar/navbar.php"; ?>
+                <?php include "/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include "./Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include "/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
         <main>

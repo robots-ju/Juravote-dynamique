@@ -588,7 +588,7 @@
                     </script>
                 </li>  
                 <li>            
-                <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil de ville</div>

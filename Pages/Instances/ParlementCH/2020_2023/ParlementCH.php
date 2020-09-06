@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-        <?php include '/Juravote-dynamique/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Accueil</title>
@@ -12,6 +12,9 @@
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssinstances; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssbadges; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssparlementCH; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -36,11 +39,11 @@
 <body>
 <header>
             <div class="navbar-normal">
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
 <main>
@@ -57,7 +60,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementCH/2020_2023/CharlesJuillard.jpg"
+                                     src="<?php echo $CharlesJuillard; ?>"
                                      alt="Charles Juillard">
                             </div>
                         </div>
@@ -76,7 +79,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementCH/2020_2023/Jean-PaulGschwind.jpg"
+                                     src="<?php echo $JeanPaulGschwind; ?>"
                                      alt="Jean-Paul Gschwind">
                             </div>
                         </div>
@@ -95,7 +98,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementCH/2020_2023/ElisabethBaume.jpg"
+                                     src="<?php echo $ElisabethBaumeSchneider; ?>"
                                      alt="Elisabeth Baume-Schneider">
                             </div>
                         </div>
@@ -114,7 +117,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementCH/2020_2023/Pierre-AlainFridez.jpg"
+                                     src="<?php echo $PierreAlainFridez; ?>"
                                      alt="Pierre-Alain Fridez">
                             </div>
                         </div>
@@ -133,7 +136,7 @@
 
 <footer>
         <div class="footer">
-            <?php include "/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </html>

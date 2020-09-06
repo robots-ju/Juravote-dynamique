@@ -34,24 +34,28 @@
         </script>
     </head>
 <body>
-<header>
-            <div class="navbar-normal">
-                <?php include "../../Includes/Navbar/navbar.php"; ?>
-            </div>
+    <header>
+        <div class="navbar-normal">
+            <?php include "../../Includes/Navbar/navbar.php"; ?>
+        </div>
 
-            <div>
-                <?php include "../../Includes/Navbar/navbar-mobile.php"; ?>
-            </div>
-        </header>
-<main>
-    <section style="padding-left: 10%; padding-right: 10%; padding-top: 2%;">
-        <div class="uk-grid" uk-grid>
+        <div>
+            <?php include "../../Includes/Navbar/navbar-mobile.php"; ?>
+        </div>
+    </header>
+    <main>
+        <section style="padding-top: 2%; padding-left: 2%; padding-right: 2%;">
+            <h1 class="uk-heading-large">Actualités politiques</h1>
+        </section>
+        <hr>
+        <h3 class="uk-text-center">Cette section sera disponible prochainement !</h3>
+        <!--<div class="uk-grid" uk-grid>
             <section class="page  uk-width-expand@m uk-width-auto@s" style="padding-left: 2%; padding-bottom: 2%;">
                 <h1 class="uk-heading-large">Actualités politiques</h1>
                 <hr>
                 <div class="switcher-buttons uk-text-center" uk-switcher="animation: uk-animation-fade; toggle: > *">
                     <button class="uk-button uk-button-default" type="button">Page 1</button>
-                    <!--<button class="uk-button uk-button-default" type="button">Page 2</button>
+                    <button class="uk-button uk-button-default" type="button">Page 2</button>
                     <button class="uk-button uk-button-default" type="button">Page 3</button>
                     <button class="uk-button uk-button-default" type="button">Page 4</button>
                     <button class="uk-button uk-button-default" type="button">Page 5</button>
@@ -61,7 +65,7 @@
                     <button class="uk-button uk-button-default" type="button">Page 9</button>
                     <button class="uk-button uk-button-default" type="button">Page 10</button>
                     <button class="uk-button uk-button-default" type="button">Page 11</button>
-                    <button class="uk-button uk-button-default" type="button">Page 12</button>-->
+                    <button class="uk-button uk-button-default" type="button">Page 12</button>
                 </div>  
                 <ul class="uk-switcher uk-margin">
                     <li>
@@ -71,27 +75,27 @@
                                     <div class="uk-card-header">
                                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                                             <div class="uk-width-auto">
-                                                <!--<img class="uk-border-circle" width="40" height="40" src="#">-->
+                                                <img class="uk-border-circle" width="40" height="40" src="#">
                                             </div>
                                             <div class="uk-width-expand">
                                                 <h3 class="uk-card-title uk-margin-remove-bottom">Titre</h3>
-                                               <!--<p class="uk-text-meta uk-margin-remove-top"><time datetime="2020-06-05T16:00">05 juin 2020</time></p>-->
+                                               <p class="uk-text-meta uk-margin-remove-top"><time datetime="2020-06-05T16:00">05 juin 2020</time></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="uk-card-body uk-text-justify">
                                         <p>Texte</p>
                                     </div>
-                                    <!--<div class="uk-card-footer">
+                                    <div class="uk-card-footer">
                                         <a href="#" class="uk-button uk-button-text">Read more</a>
-                                    </div>-->
+                                    </div>
                                 </div>
                             </div>
                         </div>                           
                     </li>
                 </ul>         
             </section>   
-    </section>
+    </section>-->
 </main>
 </body>
 

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-        <?php include '/Juravote-dynamique/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Conseil fédéral 2020 - 2023</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -12,6 +12,9 @@
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssinstances; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssbadges; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssgouvernementCH; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -36,11 +39,11 @@
 <body>
 <header>
             <div class="navbar-normal">
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
 <main>
@@ -56,7 +59,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/SimonettaSommaruga.jpg"
+                                     src="<?php echo $SimonettaSommaruga; ?>"
                                      alt="Simonetta Sommaruga">
                             </div>
                         </div>
@@ -76,7 +79,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/IgnazioCassis.jpg"
+                                     src="<?php echo $IgnazioCassis; ?>"
                                      alt="Ignazio Cassis">
                             </div>
                         </div>
@@ -95,7 +98,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/AlainBerset.jpg"
+                                     src="<?php echo $AlainBerset; ?>"
                                      alt="Alain Berset">
                             </div>
                         </div>
@@ -114,7 +117,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/KarinKeller.jpg"
+                                     src="<?php echo $KarinKellerSuter; ?>"
                                      alt="Karin Keller-Sutter">
                             </div>
                         </div>
@@ -133,7 +136,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/ViolaAmherd.jpg"
+                                     src="<?php echo $ViolaAmherd; ?>"
                                      alt="Viola Amherd">
                             </div>
                         </div>
@@ -153,7 +156,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/UeliMaurer.jpg"
+                                     src="<?php echo $UeliMaurer; ?>"
                                      alt="Ueli Maurer">
                             </div>
                         </div>
@@ -172,7 +175,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/GuyParmelin.jpg"
+                                     src="<?php echo $GuyParmelin; ?>"
                                      alt="Guy Parmelin">
                             </div>
                         </div>
@@ -192,7 +195,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/GouvernementCH/2020_2023/WaltherThurnherr.jpg"
+                                     src="<?php echo $WaltherThurnherr; ?>"
                                      alt="Walter Thurnherr">
                             </div>
                         </div>
@@ -212,7 +215,7 @@
 
 <footer>
         <div class="footer">
-            <?php include "/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </html>

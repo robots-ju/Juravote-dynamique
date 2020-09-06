@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-        <?php include '/Juravote-dynamique/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Accueil</title>
@@ -12,6 +12,7 @@
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssresultats; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -37,11 +38,11 @@
 <!-- Barre de navigation -->
 <header>
             <div class="navbar-normal">
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
 <main>
@@ -50,7 +51,7 @@
         <hr>
         <div class="uk-alert-primary" uk-alert>
             <a class="uk-alert-close" uk-close></a>
-            <p>Les résultats des életions communales d'avant 2020 seront disponibles prochainement.</p>
+            <p>Les résultats des élections communales d'avant 2020 seront disponibles prochainement.</p>
             <p>Il existe déjà des informations pour les communes de :</p>
                 <ul>
                     <li><b>Courtételle (29 juin 2020)</b></li>
@@ -64,8 +65,8 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../img/Districts/Delemont.png"
-                                             alt="District de Delémont">
+                                        <img width="150" height="150" src="<?php echo $districtDelemont; ?>"
+                                        alt="District de Delémont"/>
                                     </div>
                                     <div class="uk-width-expand">
                                         <h3 class="uk-card-title uk-margin-remove-bottom montserrat">District de Delémont</h3>
@@ -84,7 +85,7 @@
                                         <li><a href="#">Courchapoix</a></li>
                                         <li><a href="#">Courrendlin</a></li>
                                         <li><a href="#">Courroux</a></li>-->
-                                        <li><a href="Courtetelle/Courtetelle.html">Courtételle</a></li>
+                                        <li><a href="<?php echo $PHPresultatsCourtetelle?>">Courtételle</a></li>
                                         <!--<li><a href="#">Delémont</a></li>
                                         <li><a href="#">Develier</a></li>
                                         <li><a href="#">Ederswiler</a></li>
@@ -110,7 +111,7 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../img/Districts/Porrentruy.png"
+                                        <img width="150" height="150" src="<?php echo $districtPorrentruy; ?>"
                                              alt="District de Porrentruy">
                                     </div>
                                     <div class="uk-width-expand">
@@ -157,7 +158,7 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../img/Districts/Franches-montagnes.png" alt="District des Franches-Montagnes">
+                                        <img width="150" height="150" src="<?php echo $districtFranchesMontagnes; ?>" alt="District des Franches-Montagnes">
                                     </div>
                                     <div class="uk-width-expand">
                                         <h3 class="uk-card-title uk-margin-remove-bottom montserrat">District des Franches-Montagnes</h3>
@@ -175,7 +176,7 @@
                                         <li><a href="#">Les Breuleux</a></li>
                                         <li><a href="#">Les Enfers</a></li>
                                         <li><a href="#">Les Genevez</a></li>-->
-                                        <li><a href="Lajoux/Lajoux.html">Lajoux</a></li>
+                                        <li><a href="<?php echo $PHPresultatsLajoux?>">Lajoux</a></li>
                                         <!--<li><a href="#">Montfaucon</a></li>
                                         <li><a href="#">Muriaux</a></li>
                                         <li><a href="#">Le Noirmont</a></li>
@@ -195,7 +196,7 @@
 </main>
 <footer>
         <div class="footer">
-            <?php include "/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </body>

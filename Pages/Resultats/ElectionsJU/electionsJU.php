@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-        <?php include '/Juravote-dynamique/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Accueil</title>
@@ -37,11 +37,11 @@
 <!-- Barre de navigation -->
 <header>
             <div class="navbar-normal">
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
 <main>
@@ -49,10 +49,10 @@
         <h1 class="uk-heading-large">Résultats des élections cantonales (JU)</h1>
         <hr>
         <h2>Les résultats des élections cantonales d'avant 2020 seront disponibles prochainement !</h2>
-        <!--<div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+        <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="./2020-03-01/Ecantonales.html">
+                    <a href="<?php echo $PHPresultatGouvernementJU2020 ?>">
                         <div class="uk-card-body">
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Election du 1er mars 2020</h3>
@@ -61,12 +61,12 @@
                     </a>
                 </div>      
             </div>
-        </div>-->          
+        </div>        
     </section>
 </main>
 <footer>
         <div class="footer">
-            <?php include "/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </body>

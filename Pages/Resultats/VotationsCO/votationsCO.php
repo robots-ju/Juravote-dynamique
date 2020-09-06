@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-        <?php include '/Juravote-dynamique/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Accueil</title>
@@ -37,18 +37,19 @@
 <!-- Barre de navigation -->
 <header>
             <div class="navbar-normal">
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
 <main>
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Résultats des votations communales (JU)</h1>
         <hr>
-        <div class="uk-alert-primary" uk-alert>
+        <h3 class="uk-text-center">Les résultats des votations communales seront disponibles prochainement !</h3>
+        <!--<div class="uk-alert-primary" uk-alert>
             <a class="uk-alert-close" uk-close></a>
             <p>Les résultats des votations communales d'avant 2020 seront disponibles prochainement.</p>
             <p>Il existe déjà des informations pour les communes de :</p>
@@ -78,25 +79,25 @@
                                     <li class="uk-parent">
                                     <a href="#">Sélectionnez une commune</a>
                                     <ul class="uk-nav-sub">
-                                        <!--<li><a href="#">Boécourt</a></li>
+                                        <li><a href="#">Boécourt</a></li>
                                         <li><a href="#">Bourrignon</a></li>
                                         <li><a href="#">Châtillon</a></li>
                                         <li><a href="#">Courchapoix</a></li>
                                         <li><a href="./Courrendlin/Courrendlin.html">Courrendlin</a></li>
                                         <li><a href="#">Courroux</a></li>
                                         <li><a href="./Courtetelle/Courtetelle.html">Courtételle</a></li>
-                                        <li><a href="./Delemont/Delemont.html">Delémont</a></li>-->
+                                        <li><a href="./Delemont/Delemont.html">Delémont</a></li>
                                         <li><a href="./Develier/Develier.html">Develier</a></li>
-                                        <!--<li><a href="#">Ederswiler</a></li>-->
+                                        <li><a href="#">Ederswiler</a></li>
                                         <li><a href="./HauteSorne/HauteSorne.html">Haute-Sorne</a></li>
-                                        <!--<li><a href="#">Mervelier</a></li>
+                                        <li><a href="#">Mervelier</a></li>
                                         <li><a href="#">Mettembert</a></li>
                                         <li><a href="#">Movelier</a></li>
                                         <li><a href="#">Pleigne</a></li>
                                         <li><a href="#">Rossemaison</a></li>
                                         <li><a href="#">Saulcy</a></li>
                                         <li><a href="#">Soyhières</a></li>
-                                        <li><a href="./ValTerbi/ValTerbi.html">Val Terbi</a></li>-->
+                                        <li><a href="./ValTerbi/ValTerbi.html">Val Terbi</a></li>
                                     </ul>
                                 </li>
                                 </ul>
@@ -124,7 +125,7 @@
                                     <li class="uk-parent">
                                     <a href="#">A venir...</a>
                                     <ul class="uk-nav-sub">
-                                        <!--<li><a href="#">Alle</a></li>
+                                        <li><a href="#">Alle</a></li>
                                         <li><a href="#">La Baroche</a></li>
                                         <li><a href="#">Basse-Allaine</a></li>
                                         <li><a href="#">Beurnevésin</a></li>
@@ -144,7 +145,7 @@
                                         <li><a href="#">Haute-Ajoie</a></li>
                                         <li><a href="#">Lugnez</a></li>
                                         <li><a href="#">Porrentruy</a></li>
-                                        <li><a href="#">Vendlincourt</a></li>-->
+                                        <li><a href="#">Vendlincourt</a></li>
                                     </ul>
                                 </li>
                                 </ul>
@@ -170,7 +171,7 @@
                                     <li class="uk-parent">
                                     <a href="#">A venir...</a>
                                     <ul class="uk-nav-sub">
-                                        <!--<li><a href="#">Le Bémont</a></li>
+                                        <li><a href="#">Le Bémont</a></li>
                                         <li><a href="#">Les Bois</a></li>
                                         <li><a href="#">Les Breuleux</a></li>
                                         <li><a href="#">Les Enfers</a></li>
@@ -181,7 +182,7 @@
                                         <li><a href="#">Le Noirmont</a></li>
                                         <li><a href="#">Saignelégier</a></li>
                                         <li><a href="#">Saint-Brais</a></li>
-                                        <li><a href="#">Soubey</a></li>-->
+                                        <li><a href="#">Soubey</a></li>
                                     </ul>
                                 </li>
                                 </ul>
@@ -189,13 +190,12 @@
                             </div>
                     </div>
                 </div>
-            </div>
-            
-    </section>
+            </div>            
+    </section>-->
 </main>
 <footer>
         <div class="footer">
-            <?php include "/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </body>

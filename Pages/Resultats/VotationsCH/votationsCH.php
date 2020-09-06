@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-        <?php include '/Juravote-dynamique/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Votations fédérales</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -12,6 +12,7 @@
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssresultats; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -37,11 +38,11 @@
 <!-- Barre de navigation -->
 <header>
             <div class="navbar-normal">
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
 <main>
@@ -49,10 +50,11 @@
         <h1 class="uk-heading-large">Résultats des votations fédérales</h1>
     </section>
     <hr>
-    <section style="padding-left: 5%; padding-right: 5%">
+    <h3 class="uk-text-center">Les résultats des votations fédérales seront disponibles prochainement !</h3>
+    <!--<section style="padding-left: 5%; padding-right: 5%">
         <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *">
             <button class="uk-button uk-button-default" type="button">2020-2011</button>
-            <!--<button class="uk-button uk-button-default" type="button">2010-2001</button>
+            <button class="uk-button uk-button-default" type="button">2010-2001</button>
             <button class="uk-button uk-button-default" type="button">2000-1991</button>
             <button class="uk-button uk-button-default" type="button">1990-1981</button>
             <button class="uk-button uk-button-default" type="button">1980-1971</button>
@@ -65,7 +67,7 @@
             <button class="uk-button uk-button-default" type="button">1910-1901</button>
             <button class="uk-button uk-button-default" type="button">1900-1891</button>
             <button class="uk-button uk-button-default" type="button">1890-1881</button>
-            <button class="uk-button uk-button-default" type="button">1880-1848</button>-->
+            <button class="uk-button uk-button-default" type="button">1880-1848</button>
         </div>
         <ul class="uk-switcher uk-margin">
             <li>
@@ -253,11 +255,11 @@
             </li>
         </ul>
         <h3 class="uk-text-center">Les autres résultats de votations fédérales (avant 2011) seront disponibles prochainement.</h3>
-    </section>
+    </section>-->
 </main>
 <footer>
         <div class="footer">
-            <?php include "/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </body>

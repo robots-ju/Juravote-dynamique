@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <?php include '/Juravote-dynamique/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Archives des résultats</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -12,6 +12,7 @@
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssresultats; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -36,11 +37,11 @@
     <body>
         <header>
             <div class="navbar-normal">
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
     <main>
@@ -56,7 +57,7 @@
                         <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                             <div>
                                 <div class="uk-card uk-card-default uk-card-hover">
-                                    <a href="./VotationsF/accueilVotationsF.html">
+                                    <a href="<?php echo $PHPresultatsVotationsCH; ?>">
                                         <div class="uk-card-body">
                                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                                 <div class="uk-width-auto">
@@ -74,7 +75,7 @@
                 
                             <div>
                                 <div class="uk-card uk-card-default uk-card-hover">
-                                    <a href="./VotationsJU/accueilVotationsJU.html">
+                                    <a href="<?php echo $PHPresultatsVotationsJU; ?>">
                                         <div class="uk-card-body">
                                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                                 <div class="uk-width-auto">
@@ -91,7 +92,7 @@
                             </div>
                             <div>
                                 <div class="uk-card uk-card-default uk-card-hover">
-                                    <a href="./VotationsCOM/accueilVotationsCOM.html">
+                                    <a href="<?php echo $PHPresultatsVotationsCO; ?>">
                                         <div class="uk-card-body">
                                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                                 <div class="uk-width-auto">
@@ -112,7 +113,7 @@
                         <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                             <div>
                                 <div class="uk-card uk-card-default uk-card-hover">
-                                    <a href="./ElectionsF/accueilElectionsF.html">
+                                    <a href="<?php echo $PHPresultatsElectionsCH; ?>">
                                         <div class="uk-card-body">
                                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                                 <div class="uk-width-auto">
@@ -130,7 +131,7 @@
                             </div>
                             <div>
                                 <div class="uk-card uk-card-default uk-card-hover">
-                                    <a href="./ElectionsJU/accueilElectionsJU.html">
+                                    <a href="<?php echo $PHPresultatsElectionsJU; ?>">
                                         <div class="uk-card-body">
                                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                                 <div class="uk-width-auto">
@@ -148,7 +149,7 @@
                             </div>
                             <div>
                                 <div class="uk-card uk-card-default uk-card-hover">
-                                    <a href="./ElectionsCOM/accueiElectionsCOM.html">
+                                    <a href="<?php echo $PHPresultatsElectionsCO; ?>">
                                         <div class="uk-card-body">
                                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                                 <div class="uk-width-auto">
@@ -173,7 +174,7 @@
 
     <footer>
         <div class="footer">
-            <?php include "/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </html>

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-        <?php include '/Juravote-dynamique/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Election Mairie Lajoux</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,6 +17,11 @@
         <script src="<?php echo $jsUikitIcons ?>"></script>
         <script src="<?php echo $jsUikitMin ?>"></script>
         <script src="<?php echo $jsUikitIconsMin ?>"></script>
+        <script src="https://www.amcharts.com/lib/4/core.js"></script>
+        <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+        <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
+        <script src="https://www.amcharts.com/lib/4/geodata/switzerlandHigh.js"></script>
+        <script src="https://www.amcharts.com/lib/4/maps.js"></script>
 
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -37,11 +42,11 @@
 <!-- Barre de navigation -->
 <header>
             <div class="navbar-normal">
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
 <main>
@@ -63,7 +68,7 @@
                         <p><b>Candidat élu : </b>François Brahier-Jeckelmann</p>
                         <p><b>Type de l'élection : </b>Élection communale</p>
                         <p><b>Mode d'élection : </b>Élection complémentaire</p>
-                        <p><a href="Mairie_description.html">Lien vers les informations d'élection</a></p>
+                        <p><a href="<?php echo $PHPdescriptionMairieLajoux2020 ?>">Lien vers les informations d'élection</a></p>
                     </div>
                 </div>
             </div>
@@ -118,7 +123,7 @@
 </main>
 <footer>
         <div class="footer">
-            <?php include "/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </body>

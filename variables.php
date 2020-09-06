@@ -221,6 +221,21 @@
     $PHPpartisJU = "/Juravote-dynamique/Pages/Instances/PartisJU/2016_2020/PartisJU.php"; 
     
     $PHPresultats = "/Juravote-dynamique/Pages/Resultats/resultats.php";
+    $PHPresultatsElectionsCH = "/Juravote-dynamique/Pages/Resultats/ElectionsCH/electionsCH.php";
+    $PHPresultatsElectionsJU = "/Juravote-dynamique/Pages/Resultats/ElectionsJU/electionsJU.php";
+        $PHPresultatGouvernementJU2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsJU/2020-03-01/Ecantonales.php";
+        
+    $PHPresultatsElectionsCO = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/electionsCO.php";
+        $PHPresultatsCourtetelle = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Courtetelle/Courtetelle.php";
+        $PHPresultatsMairieCourtetelle2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Courtetelle/2020-06-29/Mairie.php";
+
+        $PHPresultatsLajoux = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/Lajoux.php";
+        $PHPresultatsMairieLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie.php";
+        $PHPdescriptionMairieLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie_description.php";
+
+    $PHPresultatsVotationsCH = "/Juravote-dynamique/Pages/Resultats/VotationsCH/VotationsCH.php";
+    $PHPresultatsVotationsJU = "/Juravote-dynamique/Pages/Resultats/VotationsJU/VotationsJU.php";
+    $PHPresultatsVotationsCO = "/Juravote-dynamique/Pages/Resultats/VotationsCO/VotationsCO.php";
 
     $PHPvotationselectionsAccueil = "/Juravote-dynamique/Pages/Votations et Elections/accueilVE.php";
     $PHPelectionsAccueil = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.php";

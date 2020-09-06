@@ -486,28 +486,28 @@
 
                         chart.data = [{
                             "name": "Verts",
-                            "steps": 10
+                            "steps": 0
                         }, {
                             "name": "CS-POP",
-                            "steps": 10
+                            "steps": 0
                         }, {
                             "name": "PS",
-                            "steps": 10
+                            "steps": 0
                         }, {
                             "name": "PEV",
-                            "steps": 40
+                            "steps": 0
                         }, {
                             "name": "PDC",
-                            "steps": 40
+                            "steps": 0
                         }, {
                             "name": "PCSI",
-                            "steps": 40
+                            "steps": 0
                         }, {
                             "name": "PLR",
-                            "steps": 40
+                            "steps": 0
                         }, {
                             "name": "UDC",
-                            "steps": 40
+                            "steps": 0
                         }];
 
                         var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
@@ -591,95 +591,74 @@
                 <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil de ville</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Selon les études réalisées, il est pertinent de prévoir des développements dasn la partie Ouest du site des
+                            Arquebusiers.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil de ville</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Cette répartition géographique des élèves vise à assurer une bonne accessibilité aux différents
+                            sites scolaires.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil de ville</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>La possibilité d'améliorer la desserte en transports publics sera également prise en compte.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil de ville</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Ce rapport tient donc compte de la situation à ce jour des locaux scolaires et des besoins
+                            estimés à l'horizon 2030 en fonction des pôles de développement de la ville.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil de ville</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Ce projet inclut le rapatriement
+                            des classes spéciales qui sont actuellement dans les pavillons provisoires du Gros-Seuc et qui accueillent des élèves
+                            de tous les quartiers de la ville. Ces pavillons provisoires pourront donc être supprimés.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil de ville</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Cette contrainte a été prise en
+                            considération dans le rapport du groupe de travail qui a réalisé une planification à long terme des besoins en halles de
+                            gymnastique.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil de ville</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-pbd uk-border-rounded">PBD</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Au niveau énergétique, le quartier devra répondre aux exigences des
+                            labels « Site 2000 Watts » et « Quartier durable ». L'école devait être correctement intégrée au quartier et en
+                            harmonie avec les autres affectations (logements, parking, parc public, cantine scolaire, halle de gymnastique,
+                            crèche), dont certaines ont été présentées sous forme d'idées conceptuelles.</p>
                         </div>
                     </div>
                 </li>
                 <li>
                 <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
-                <div>
+                <h4>Il n'y a pas d'oppositions à ce projet !</h4>
+                    <!--<div>
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                             <h3 class="uk-card-title"></h3>                            
@@ -749,7 +728,7 @@
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
-                    </div>
+                    </div>-->
                 </li>
             </ul>
     </section>

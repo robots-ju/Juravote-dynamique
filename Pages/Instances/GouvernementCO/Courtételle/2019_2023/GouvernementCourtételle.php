@@ -53,9 +53,9 @@
         <div class="uk-child-width-1-3@xl uk-child-width-1-3@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">A repourvoir</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Christine Gygax</h3>
                         <p>Mairie, administration, police, cimetière</p>
                     </div>
                 </div>
@@ -71,9 +71,9 @@
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div><br>
+                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Christine Gygax</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">A repourvoir</h3>
                         <p>Digues, protection civile, SIS, déchets</p>
                     </div>
                 </div>

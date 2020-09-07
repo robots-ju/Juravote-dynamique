@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Election Lajoux</title>
+        <title>JuraVote | Elections Lajoux</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -46,7 +46,7 @@
         </header>
 <main>
     <section style="padding: 2%">
-            <h1 class="uk-heading-large">Lajoux </h1>
+            <h1 class="uk-heading-large">Elections du 27 septembre 2020 Lajoux </h1>
             <hr>
             <h3>Aucun-e candidat-e ne s'est présenté-e pour pour les deux élections complémentaires au Conseil communal de Lajoux.
                 Deux élections libres à la majorité relative auront donc lieu le 27 septembre 2020.</h3>

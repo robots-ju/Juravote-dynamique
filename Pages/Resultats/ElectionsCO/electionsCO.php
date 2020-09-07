@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Elections communales (Jura)</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 

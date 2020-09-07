@@ -286,24 +286,46 @@
     $JSworldLow = "Juravote-dynamique/JS/geodata/worldLow.js";
     $JSswitzerlandHigh = "Juravote-dynamique/JS/geodata/switzerlandHigh.js";
 
-    //SITES DES COMMUNES
-        //AJOIE
-        $siteBoncourt = "https://www.boncourt.ch/";
-        $siteCornol = "http://www.cornol.ch/fr/";
-        $siteFahy = "http://www.fahy.ch/";
+    //SITES INTERNET
+        //COMMUNES
+            //AJOIE
+            $siteBoncourt = "https://www.boncourt.ch/";
+            $siteCornol = "http://www.cornol.ch/fr/";
+            $siteFahy = "http://www.fahy.ch/";
 
-        //DELEMONT
-        $siteCourchapoix = "http://www.courchapoix.ch/cpx/";
-        $siteChatillon = "https://chatillon.ch/";
-        $siteMettembert = "";
-        $siteMovelier = "https://www.movelier.ch/";
-        $sitePleigne = "http://www.pleigne.ch/fr/Administration-et-services.html";
+            //DELEMONT
+            $siteCourchapoix = "http://www.courchapoix.ch/cpx/";
+            $siteChatillon = "https://chatillon.ch/";
+            $siteMettembert = "";
+            $siteMovelier = "https://www.movelier.ch/";
+            $sitePleigne = "http://www.pleigne.ch/fr/Administration-et-services.html";
 
-        //FM
-        $siteBreuleux = "https://www.breuleux.ch/";
-        
+            //FM
+            $siteBreuleux = "https://www.breuleux.ch/";
 
-    
+        //PARTIS
+            //FEDERAUX
+            $siteUDC = "https://www.udc.ch/parti/"; 
+            $sitePS = "https://www.sp-ps.ch/fr";
+            $sitePLR = "https://www.plr.ch/accueil"; 
+            $sitePES = "https://verts.ch";
+            $sitePDC = "https://www.cvp.ch/fr";
+            $sitePVL = "https://vertliberaux.ch/";
+            $sitePBD = "https://www.bdp.info/schweiz/fr/personnalites56/lepartibourgeois-democratiquesuissepbd/";
+            $sitePEV = "https://www.evppev.ch/fr/actuel/";
+            $siteLEGA = "https://lega-dei-ticinesi.ch/";
+            $sitePOPPST = "https://pst-pop.ch/";
+            $siteSOL = "https://solidarites.ch";
+
+            //JURASSIENS
+            $sitePSJ ="https://www.psju.ch";
+            $sitePDCJ = "https://pdcjura.ch";
+            $sitePLRJ = "https://www.plrj.ch/accueil";
+            $sitePCSIJ = "https://pcsi.ch/";
+            $siteUDCJ = "http://www.udc-ju.ch/fr/";
+            $siteVertsJ = "https://verts-jura.ch";
+            $siteCSPOPJ = "http://www.cspop.ch/";  
+
 
 //INCLUDES
     //navbar

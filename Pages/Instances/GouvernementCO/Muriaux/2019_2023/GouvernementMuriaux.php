@@ -4,7 +4,7 @@ r<!DOCTYPE html>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Conseil communal Muriaux</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -48,12 +48,12 @@ r<!DOCTYPE html>
         </header>
 <main>
     <section style="padding: 2%">
-        <h1 class="uk-heading-large">Muriaux</h1>
+        <h1 class="uk-heading-large">Conseil communal 2019 - 2023 Muriaux</h1>
         <hr>
         <div class="uk-child-width-1-4@xl uk-child-width-1-3@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI</div><br>
                     <div class="uk-card-body">
                         <h3 class="uk-card-title-center text-rouge-fonce">Sophie Guenot</h3>
                         <p>Mairie, administration générale, patûrages Muriaux</p>
@@ -109,7 +109,7 @@ r<!DOCTYPE html>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                     <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Martin Meijer</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Martin Meier</h3>
                         <p>Forêts</p>
                     </div>
                 </div>

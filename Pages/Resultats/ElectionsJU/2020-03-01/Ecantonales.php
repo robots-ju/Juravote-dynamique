@@ -108,35 +108,8 @@
                             series.name = "Suffrages";
                         </script>
                     </div>
-                    </div>
                 </div>
-            <div>
-                <div class="uk-card uk-card-default">
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column" uk-grid>
-                            <h2>Analyse du résultat</h2>
-                        </div>
-                    </div>
-                    <div class="uk-card-body uk-text-left">
-                        
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default">
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column" uk-grid>
-                            <h2>Résultats détaillés</h2>
-                        </div>
-                    </div>
-                    <div class="uk-card-body">
-                        <div class="uk-align-right" id="chartDiscriminationCH" style="width: 100%; height: 300px;"></div>
-                        <script>
-                            
-                        </script>
-                    </div>
-                </div>
-            </div>
+            </div>            
         </div>
     </section>
 </main>

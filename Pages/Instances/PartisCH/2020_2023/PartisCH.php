@@ -14,6 +14,7 @@
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssinstances; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssbadges; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssinstances; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -55,7 +56,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/UDC.png" alt="Union démocratique du Centre">
+                                <img width="100" height="100" src="<?php echo $udc ?>" alt="Union démocratique du Centre">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">UDC (Union Démocratique du Centre)</h3>
@@ -69,7 +70,7 @@
                         <p><b>Sièges au Conseil fédéral : </b>2</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://www.udc.ch/parti/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $siteUDC ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -79,7 +80,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/PS.png " alt="Parti Socialiste">
+                                <img width="100" height="100" src="<?php echo $ps ?>" alt="Parti Socialiste">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">PS (Parti Socialiste)</h3>
@@ -93,7 +94,7 @@
                         <p><b>Sièges au Conseil fédéral : </b>2</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://www.sp-ps.ch/fr" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $sitePS ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -103,7 +104,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/PLR.png" alt="Parti Libéral Radical">
+                                <img width="100" height="100" src="<?php echo $plr ?>" alt="Parti Libéral Radical">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">PLR (Parti Libéral Radical)</h3>
@@ -117,7 +118,7 @@
                         <p><b>Sièges au Conseil fédéral : </b>2</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://www.plr.ch/accueil" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $sitePLR ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -127,7 +128,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/Verts.png" alt="Parti Ecologiste Suisse">
+                                <img width="100" height="100" src="<?php echo $verts ?>" alt="Parti Ecologiste Suisse">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">PES (Parti Ecologiste)</h3>
@@ -141,7 +142,7 @@
                         <p><b>Sièges au Conseil fédéral : </b>0</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://verts.ch/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $sitePES ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -151,7 +152,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src=".../../../../IMG/Logo/Partis/PDC.png" alt="Parti Démocrate Chrétien">
+                                <img width="100" height="100" src="<?php echo $pdc ?>" alt="Parti Démocrate Chrétien">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">PDC (Parti Démocrate Chrétien)</h3>
@@ -165,7 +166,7 @@
                         <p><b>Sièges au Conseil fédéral : </b>1</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://www.cvp.ch/fr" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $sitePDC ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -175,7 +176,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/PVL.png" alt="Verts Libéraux">
+                                <img width="100" height="100" src="<?php echo $pvl ?>" alt="Verts Libéraux">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">PVL (Les Verts Libéraux)</h3>
@@ -189,7 +190,7 @@
                         <p><b>Sièges au Conseil fédéral : </b>0</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://vertliberaux.ch/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $sitePVL ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -199,7 +200,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/PBD.png" alt="Parti Bourgeois Démocratique">
+                                <img width="100" height="100" src="<?php echo $pbd ?>" alt="Parti Bourgeois Démocratique">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">PBD (Parti Bourgeois Démocratique)</h3>
@@ -213,7 +214,7 @@
                         <p><b>Sièges au Conseil fédéral : </b>0</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://www.bdp.info/schweiz/fr/personnalites56/lepartibourgeois-democratiquesuissepbd/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $sitePBD ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -223,7 +224,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/PEV.png" alt="Parti Evangélique">
+                                <img width="100" height="100" src="<?php echo $pev ?>" alt="Parti Evangélique">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">PEV (Parti Evangélique)</h3>
@@ -237,7 +238,7 @@
                         <p><b>Sièges au Conseil fédéral : </b>0</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://www.evppev.ch/fr/actuel/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $sitePEV ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -247,7 +248,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/LEGA.png" alt="LEGA">
+                                <img width="100" height="100" src="<?php echo $lega ?>" alt="LEGA">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">LEGA (Ligue des Tessinois)</h3>
@@ -261,7 +262,7 @@
                         <p><b>Sièges au Conseil fédéral : </b>0</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://lega-dei-ticinesi.ch/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $siteLEGA ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -271,7 +272,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/CS-POP.png" alt="CS-POP">
+                                <img width="100" height="100" src="<?php echo $pst ?>" alt="CS-POP">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">POP-PST (Parti du Travail)</h3>
@@ -285,7 +286,7 @@
                         <p><b>Sièges au Conseil fédéral : </b>0</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="http://www.pst.ch/v5/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $sitePOPPST ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -295,7 +296,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/SOL.png" alt="solidaritéS">
+                                <img width="100" height="100" src="<?php echo $sol ?>" alt="solidaritéS">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">SOL. (solidaritéS)</h3>
@@ -309,7 +310,7 @@
                         <p><b>Sièges au Conseil fédéral : </b>0</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://solidarites.ch/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $siteSOL ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>

@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Conseil communal Beurnevésin</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -48,14 +48,14 @@
         </header>
 <main>
     <section style="padding: 2%">
-        <h1 class="uk-heading-large">Beurnevésin</h1>
+        <h1 class="uk-heading-large">Conseil communal 2019 - 2023 Beurnevésin</h1>
         <hr>
         <div class="uk-child-width-1-3@xl uk-child-width-1-3@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                     <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">A repourvoir</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Jean-Christophe Fuhrer</h3>
                         <p>Mairie</p>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                     <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">A repourvoir</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Jérôme Zbinden</h3>
                         <p>Conseiller communal</p>
                     </div>
                 </div>

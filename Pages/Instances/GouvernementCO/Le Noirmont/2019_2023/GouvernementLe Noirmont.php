@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Conseil communal Le Noirmont</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -48,7 +48,7 @@
         </header>
 <main>
     <section style="padding: 2%">
-        <h1 class="uk-heading-large">Le Noirmont</h1>
+        <h1 class="uk-heading-large">Conseil communal 2019 - 2023 Le Noirmont</h1>
         <hr>
         <div class="uk-child-width-1-3@xl uk-child-width-1-3@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
             <div>
@@ -71,7 +71,7 @@
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI</div><br>
                     <div class="uk-card-body">
                         <h3 class="uk-card-title-center text-rouge-fonce">José Oppliger</h3>
                         <p>Aménagement du territoire et constructions</p>
@@ -80,7 +80,7 @@
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div><br>
                     <div class="uk-card-body">
                         <h3 class="uk-card-title-center text-rouge-fonce">Gabriel Martinoli</h3>
                         <p>Travaux publics, routes, éclairage, voirie, cimetière</p>

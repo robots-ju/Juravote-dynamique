@@ -48,8 +48,7 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Résultats des votations communales (JU)</h1>
         <hr>
-        <h3 class="uk-text-center">Les résultats des votations communales seront disponibles prochainement !</h3>
-        <!--<div class="uk-alert-primary" uk-alert>
+        <div class="uk-alert-primary" uk-alert>
             <a class="uk-alert-close" uk-close></a>
             <p>Les résultats des votations communales d'avant 2020 seront disponibles prochainement.</p>
             <p>Il existe déjà des informations pour les communes de :</p>
@@ -65,7 +64,7 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../img/Districts/Delemont.png"
+                                        <img width="150" height="150" src="<?php echo $districtDelemont ?>"
                                              alt="District de Delémont">
                                     </div>
                                     <div class="uk-width-expand">
@@ -79,25 +78,25 @@
                                     <li class="uk-parent">
                                     <a href="#">Sélectionnez une commune</a>
                                     <ul class="uk-nav-sub">
-                                        <li><a href="#">Boécourt</a></li>
+                                        <!--<li><a href="#">Boécourt</a></li>
                                         <li><a href="#">Bourrignon</a></li>
                                         <li><a href="#">Châtillon</a></li>
                                         <li><a href="#">Courchapoix</a></li>
                                         <li><a href="./Courrendlin/Courrendlin.html">Courrendlin</a></li>
                                         <li><a href="#">Courroux</a></li>
                                         <li><a href="./Courtetelle/Courtetelle.html">Courtételle</a></li>
-                                        <li><a href="./Delemont/Delemont.html">Delémont</a></li>
-                                        <li><a href="./Develier/Develier.html">Develier</a></li>
-                                        <li><a href="#">Ederswiler</a></li>
-                                        <li><a href="./HauteSorne/HauteSorne.html">Haute-Sorne</a></li>
-                                        <li><a href="#">Mervelier</a></li>
+                                        <li><a href="./Delemont/Delemont.html">Delémont</a></li>-->
+                                        <li><a href="Develier/Develier.php">Develier</a></li>
+                                        <!--<li><a href="#">Ederswiler</a></li>-->
+                                        <li><a href="HauteSorne/HauteSorne.php">Haute-Sorne</a></li>
+                                        <!--<li><a href="#">Mervelier</a></li>
                                         <li><a href="#">Mettembert</a></li>
                                         <li><a href="#">Movelier</a></li>
                                         <li><a href="#">Pleigne</a></li>
                                         <li><a href="#">Rossemaison</a></li>
                                         <li><a href="#">Saulcy</a></li>
                                         <li><a href="#">Soyhières</a></li>
-                                        <li><a href="./ValTerbi/ValTerbi.html">Val Terbi</a></li>
+                                        <li><a href="./ValTerbi/ValTerbi.html">Val Terbi</a></li>-->
                                     </ul>
                                 </li>
                                 </ul>
@@ -111,7 +110,7 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../img/Districts/Porrentruy.png"
+                                        <img width="150" height="150" src="<?php echo $districtPorrentruy ?>"
                                              alt="District de Porrentruy">
                                     </div>
                                     <div class="uk-width-expand">
@@ -125,7 +124,7 @@
                                     <li class="uk-parent">
                                     <a href="#">A venir...</a>
                                     <ul class="uk-nav-sub">
-                                        <li><a href="#">Alle</a></li>
+                                        <!--<li><a href="#">Alle</a></li>
                                         <li><a href="#">La Baroche</a></li>
                                         <li><a href="#">Basse-Allaine</a></li>
                                         <li><a href="#">Beurnevésin</a></li>
@@ -145,7 +144,7 @@
                                         <li><a href="#">Haute-Ajoie</a></li>
                                         <li><a href="#">Lugnez</a></li>
                                         <li><a href="#">Porrentruy</a></li>
-                                        <li><a href="#">Vendlincourt</a></li>
+                                        <li><a href="#">Vendlincourt</a></li>-->
                                     </ul>
                                 </li>
                                 </ul>
@@ -158,7 +157,7 @@
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img width="150" height="150" src="../../img/Districts/Franches-montagnes.png" alt="District des Franches-Montagnes">
+                                        <img width="150" height="150" src="<?php echo $districtFranchesMontagnes ?>" alt="District des Franches-Montagnes">
                                     </div>
                                     <div class="uk-width-expand">
                                         <h3 class="uk-card-title uk-margin-remove-bottom montserrat">District des Franches-Montagnes</h3>
@@ -171,7 +170,7 @@
                                     <li class="uk-parent">
                                     <a href="#">A venir...</a>
                                     <ul class="uk-nav-sub">
-                                        <li><a href="#">Le Bémont</a></li>
+                                        <!--<li><a href="#">Le Bémont</a></li>
                                         <li><a href="#">Les Bois</a></li>
                                         <li><a href="#">Les Breuleux</a></li>
                                         <li><a href="#">Les Enfers</a></li>
@@ -182,7 +181,7 @@
                                         <li><a href="#">Le Noirmont</a></li>
                                         <li><a href="#">Saignelégier</a></li>
                                         <li><a href="#">Saint-Brais</a></li>
-                                        <li><a href="#">Soubey</a></li>
+                                        <li><a href="#">Soubey</a></li>-->
                                     </ul>
                                 </li>
                                 </ul>

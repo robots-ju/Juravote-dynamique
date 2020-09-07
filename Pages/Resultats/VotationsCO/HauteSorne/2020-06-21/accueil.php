@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <?php include '/Juravote-dynamique/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Votations Haute-Sorne 21.06.2020</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -36,11 +36,11 @@
     <body>
         <header>
             <div class="navbar-normal">
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include "/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
         <main>
@@ -51,10 +51,10 @@
                     <div class="uk-child-width-1-4@m uk-child-width-1-2@s uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-hover">
-                                <a href="Parc.html">
+                                <a href="Parc.php">
                                     <div class="uk-card-header">
                                         <div class="uk-width-auto">
-                                            <img class="illustration" src="../../../../img/Votations/HauteSorne_21.06.2020/placesParc.jpg" alt="Introduction d'une taxe pour les places de parc">
+                                            <img class="illustration" src="../../../../../img/Votations/Communales/HauteSorne/21.06.2020/placesParc.jpg" alt="Introduction d'une taxe pour les places de parc">
                                         </div>
                                     </div>
                                     <div class="uk-card-body">
@@ -70,10 +70,10 @@
                         </div>
                         <div>
                             <div class="uk-card uk-card-default uk-card-hover">
-                                <a href="FCB.html">
+                                <a href="FCB.php">
                                     <div class="uk-card-header">
                                         <div class="uk-width-auto">
-                                            <img class="illustration" src="../../../../img/Votations/HauteSorne_21.06.2020/buvetteFCB.jpg" alt="FC Bassecourt votations">
+                                            <img class="illustration" src="../../../../../img/Votations/Communales/HauteSorne/21.06.2020/buvetteFCB.jpg" alt="FC Bassecourt votations">
                                         </div>
                                     </div>
                                     <div class="uk-card-body">
@@ -89,10 +89,10 @@
                         </div>
                         <div>
                             <div class="uk-card uk-card-default uk-card-hover">
-                                <a href="Creche.html">
+                                <a href="Creche.php">
                                     <div class="uk-card-header">
                                         <div class="uk-width-auto">
-                                            <img class="illustration" src="../../../../img/Votations/HauteSorne_21.06.2020/UAPE.jpg" alt="Nouvelle crèche/UAPE Courfaivre">
+                                            <img class="illustration" src="../../../../../img/Votations/Communales/HauteSorne/21.06.2020/UAPE.jpg" alt="Nouvelle crèche/UAPE Courfaivre">
                                         </div>
                                     </div>
                                     <div class="uk-card-body">
@@ -108,10 +108,10 @@
                         </div>
                         <div>
                             <div class="uk-card uk-card-default uk-card-hover">
-                                <a href="CSCC.html">
+                                <a href="CSCC.php">
                                     <div class="uk-card-header">
                                         <div class="uk-width-auto">
-                                            <img class="illustration" src="../../../../img/Votations/HauteSorne_21.06.2020/centreSportif.jpg" alt="Centre de Culture et de Sport à Courfaivre">
+                                            <img class="illustration" src="../../../../../img/Votations/Communales/HauteSorne/21.06.2020/centreSportif.jpg" alt="Centre de Culture et de Sport à Courfaivre">
                                         </div>
                                     </div>
                                     <div class="uk-card-body">
@@ -131,7 +131,7 @@
         </main>
         <footer>
         <div class="footer">
-            <?php include "/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
     </body>

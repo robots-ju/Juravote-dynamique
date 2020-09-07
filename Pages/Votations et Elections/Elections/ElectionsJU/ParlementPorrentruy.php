@@ -13,6 +13,7 @@
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
         <link rel="stylesheet" href="<?php echo $csselections; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssbadges; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -97,12 +98,12 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="Michelle Etique">
+                                            alt="Michel Etique">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Michelle Etique</h3>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Michel Etique</h3>
                                 <p class="uk-text-center text-fonction">1955 - Bure - Cadre de la Poste</p>
                             </div>
                         </div>
@@ -116,12 +117,12 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="Sulliger Anne">
+                                            alt="Anne Sulliger">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Sulliger Anne</h3>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Anne Sulliger</h3>
                                 <p class="uk-text-center text-fonction">1986 - Vendlincourt - Maître peintre</p>
                             </div>
                         </div>
@@ -311,7 +312,7 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Etnest Gerber</h3>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Ernest Gerber</h3>
                                 <p class="uk-text-center text-fonction">1963 - Cornol - Responsable d'exploitation</p>
                             </div>
                         </div>
@@ -1676,7 +1677,7 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">TIffany Meyer</h3>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Tiffany Meyer</h3>
                                 <p class="uk-text-center text-fonction">1996 - Porrentruy - Etudiante</p>
                             </div>
                         </div>

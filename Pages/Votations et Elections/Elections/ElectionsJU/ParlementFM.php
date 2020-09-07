@@ -359,7 +359,7 @@
                                 <p class="uk-text-center text-fonction">1982 - Les Enfers - Statisticienne</p>
                             </div>
                         </div>
-                    </diNicolas Girard
+                    </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
@@ -529,7 +529,7 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Léonie pelletier Esposito</h3>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Léonie Pelletier Esposito</h3>
                                 <p class="uk-text-center text-fonction">1974 - Les Breuleux - Employée de commerce</p>
                             </div>
                         </div>
@@ -837,12 +837,12 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="Schärz Raphaël">
+                                            alt="Raphaël Schärz">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Schärz Raphaël</h3>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Raphaël Schärz</h3>
                                 <p class="uk-text-center text-fonction">1990 - Les Bois - Agriculteur</p>
                             </div>
                         </div>
@@ -932,12 +932,12 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="Jobin Elodie">
+                                            alt="Elodie Jobin">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Jobin Elodie</h3>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Elodie Jobin</h3>
                                 <p class="uk-text-center text-fonction">2000 - Les Bois - Agricultrice</p>
                             </div>
                         </div>
@@ -993,13 +993,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Vincent Archibald Schmitt">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Vincent Archibald Schmitt</h3>
+                                <p class="uk-text-center text-fonction">1983 - Les Enfers - Agronome</p>
                             </div>
                         </div>
                     </div>
@@ -1012,13 +1012,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Délia Scheidegger">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Délia Scheidegger</h3>
+                                <p class="uk-text-center text-fonction">1997 - Saignelégier - Sage-femme</p>
                             </div>
                         </div>
                     </div>
@@ -1031,13 +1031,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Hanno Schmid">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Hanno Schmid</h3>
+                                <p class="uk-text-center text-fonction">1972 - Les Enfers - Agriculteur</p>
                             </div>
                         </div>
                     </div>
@@ -1050,13 +1050,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Marion Brahier Näder">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Marion Brahier Näder</h3>
+                                <p class="uk-text-center text-fonction">1965 - Les Enfers - Agricultrice</p>
                             </div>
                         </div>
                     </div>
@@ -1069,13 +1069,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Gaëtan Marchand">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Gaëtan Marchand</h3>
+                                <p class="uk-text-center text-fonction">2000 - Montfaucon - Etudiant</p>
                             </div>
                         </div>
                     </div>
@@ -1088,13 +1088,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Colin Donzé">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Colin Donzé</h3>
+                                <p class="uk-text-center text-fonction">1986 - Les Bois - Arboriculteur forestier</p>
                             </div>
                         </div>
                     </div>
@@ -1107,13 +1107,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Mathieu Chevalley">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Mathieu Chevalley</h3>
+                                <p class="uk-text-center text-fonction">1986 - Les Pommerats - Boulanger</p>
                             </div>
                         </div>
                     </div>
@@ -1126,13 +1126,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Lucien Ourny">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Lucien Ourny</h3>
+                                <p class="uk-text-center text-fonction">1995 - Saignelégier - Etudiant</p>
                             </div>
                         </div>
                     </div>
@@ -1149,13 +1149,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Aurore Boillat">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Aurore Boillat</h3>
+                                <p class="uk-text-center text-fonction">1989 - Saignelégier - Etudiante en théologie</p>
                             </div>
                         </div>
                     </div>
@@ -1168,13 +1168,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Pierre-Yves Boillat">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Pierre-Yves Boillat</h3>
+                                <p class="uk-text-center text-fonction">1973 - Les Breuleux - Ingénieur ETS</p>
                             </div>
                         </div>
                     </div>
@@ -1187,13 +1187,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Eloïse Gay">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Eloïse Gay</h3>
+                                <p class="uk-text-center text-fonction">1998 - Le Noirmont - Assistante socio-éducative</p>
                             </div>
                         </div>
                     </div>
@@ -1206,13 +1206,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Sophie Guenot">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Sophie Guenot</h3>
+                                <p class="uk-text-center text-fonction">1970 - Les Emibois - Agricultrice</p>
                             </div>
                         </div>
                     </div>
@@ -1225,13 +1225,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Vincent Hennin">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Vincent Hennin</h3>
+                                <p class="uk-text-center text-fonction">1964 - Montfaucon - Employé CJ</p>
                             </div>
                         </div>
                     </div>
@@ -1244,13 +1244,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Monika Kornmayer">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Monika Kornmayer</h3>
+                                <p class="uk-text-center text-fonction">1960 - Saignelégier - Employée Jura Tourisme</p>
                             </div>
                         </div>
                     </div>
@@ -1263,13 +1263,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="José Oppliger">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">José Oppliger</h3>
+                                <p class="uk-text-center text-fonction">1977 - Le Noirmont - Maître menuisier</p>
                             </div>
                         </div>
                     </div>
@@ -1282,13 +1282,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Carole Pelletier">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Carole Pelletier</h3>
+                                <p class="uk-text-center text-fonction">1971 - Les Genevez - Infirmière</p>
                             </div>
                         </div>
                     </div>
@@ -1301,13 +1301,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Antoine Thiébaud">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Antoine Thiébaud</h3>
+                                <p class="uk-text-center text-fonction">1998 - Les Genevez - Aspirant mécanicien de locomotives</p>
                             </div>
                         </div>
                     </div>
@@ -1320,13 +1320,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Vincent Wermeille">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Vincent Wermeille</h3>
+                                <p class="uk-text-center text-fonction">1959 - Saignelégier - Agriculteur</p>
                             </div>
                         </div>
                     </div>
@@ -1343,13 +1343,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Sylvain Dubail">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Sylvain Dubail</h3>
+                                <p class="uk-text-center text-fonction">1979 - Saignelégier - Architecte</p>
                             </div>
                         </div>
                     </div>
@@ -1362,13 +1362,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Laurent Gogniat">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">NOM</h3>
-                                <p class="uk-text-center text-fonction">INFOS</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Laurent Gogniat</h3>
+                                <p class="uk-text-center text-fonction">1989 - Les Breuleux - Ingénieur HES</p>
                             </div>
                         </div>
                     </div>

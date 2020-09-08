@@ -199,6 +199,122 @@
                         }
                     })
                 </script>
+
+<h2>Partis jurassiens</h2>
+                    <div id="chartdivJU"></div>
+                    <script>
+                        am4core.useTheme(am4themes_animated);
+
+                        var chartJU = am4core.create("chartdivJU", am4charts.XYChart);
+                        chartJU.hiddenState.properties.opacity = 0; // this creates initial fade-in
+
+                        chartJU.paddingBottom = 30;
+
+                        chartJU.data = [{
+                            "name": "CS-POP Jura",
+                            "steps": 10
+                        }, {
+                            "name": "Verts Jurassiens",
+                            "steps": 10
+                        }, {
+                            "name": "PSJ",
+                            "steps": 10
+                        }, {
+                            "name": "PEV Jura",
+                            "steps": 5
+                        }, {
+                            "name": "PVL",
+                            "steps": 5
+                        }, {
+                            "name": "PDC Jura",
+                            "steps": 10
+                        }, {
+                            "name": "PCSI Jura",
+                            "steps": 5
+                        }, {
+                            "name": "PLRJ",
+                            "steps": 10
+                        }, {
+                            "name": "UDC Jura",
+                            "steps": 5
+                        }];
+
+                        var categoryAxis = chartJU.xAxes.push(new am4charts.CategoryAxis());
+                        categoryAxis.dataFields.category = "name";
+                        categoryAxis.renderer.grid.template.strokeOpacity = 0;
+                        categoryAxis.renderer.minGridDistance = 10;
+                        categoryAxis.renderer.labels.template.dy = 35;
+                        categoryAxis.renderer.tooltip.dy = 35;
+
+                        var valueAxis = chartJU.yAxes.push(new am4charts.ValueAxis());
+                        valueAxis.renderer.inside = true;
+                        valueAxis.renderer.labels.template.fillOpacity = 0.3;
+                        valueAxis.renderer.grid.template.strokeOpacity = 0;
+                        valueAxis.min = 0;
+                        valueAxis.cursorTooltipEnabled = false;
+                        valueAxis.renderer.baseGrid.strokeOpacity = 0;
+
+                        var series = chartJU.series.push(new am4charts.ColumnSeries);
+                        series.dataFields.valueY = "steps";
+                        series.dataFields.categoryX = "name";
+                        series.tooltipText = "{valueY.value}";
+                        series.tooltip.pointerOrientation = "vertical";
+                        series.tooltip.dy = - 6;
+                        series.columnsContainer.zIndex = 100;
+
+                        var columnTemplate = series.columns.template;
+                        columnTemplate.width = am4core.percent(50);
+                        columnTemplate.maxWidth = 66;
+                        columnTemplate.column.cornerRadius(60, 60, 10, 10);
+                        columnTemplate.strokeOpacity = 0;
+
+                        series.heatRules.push({ target: columnTemplate, property: "fill", dataField: "valueY", min: am4core.color("#D3D3D3"), max: am4core.color("#35ff00") });
+                        series.mainContainer.mask = undefined;
+
+                        var bullet = columnTemplate.createChild(am4charts.CircleBullet);
+                        bullet.circle.radius = 30;
+                        bullet.valign = "bottom";
+                        bullet.align = "center";
+                        bullet.isMeasured = true;
+                        bullet.mouseEnabled = false;
+                        bullet.verticalCenter = "bottom";
+
+                        var hoverState = bullet.states.create("hover");
+                        var outlineCircle = bullet.createChild(am4core.Circle);
+                        outlineCircle.adapter.add("radius", function (radius, target) {
+                            var circleBullet = target.parent;
+                            return circleBullet.circle.pixelRadius + 10;
+                        })                    
+
+                        image.adapter.add("href", function (href, target) {
+                            var dataItem = target.dataItem;
+                            if (dataItem) {
+                                return "https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/" + dataItem.categoryX.toLowerCase() + ".jpg";
+                            }
+                        })                    
+
+                        var previousBullet;
+                        chartJU.cursor.events.on("cursorpositionchanged", function (event) {
+                            var dataItem = series.tooltipDataItem;
+
+                            if (dataItem.column) {
+                                var bullet = dataItem.column.children.getIndex(1);
+
+                                if (previousBullet && previousBullet != bullet) {
+                                    previousBullet.isHover = false;
+                                }
+
+                                if (previousBullet != bullet) {
+
+                                    var hs = bullet.states.getKey("hover");
+                                    hs.properties.dy = -bullet.parent.pixelHeight + 30;
+                                    bullet.isHover = true;
+
+                                    previousBullet = bullet;
+                                }
+                            }
+                        })
+                    </script>
             </li>  
             <li>            
             <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>

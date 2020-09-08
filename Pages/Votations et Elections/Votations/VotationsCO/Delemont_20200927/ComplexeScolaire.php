@@ -52,7 +52,7 @@
         <hr>
         <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
                 <button class="uk-button uk-button-default" type="button">Résumé</button>
-                <button class="uk-button uk-button-default" type="button">Positions des partis politiques</button>
+                <button class="uk-button uk-button-default" type="button">Positions des partis politiques de Delémont</button>
                 <button class="uk-button uk-button-default" type="button">Arguments pour</button>
                 <button class="uk-button uk-button-default" type="button">Arguments contre</button>
             </div>  
@@ -495,13 +495,13 @@
                             "steps": 0
                         }, {
                             "name": "PEV",
-                            "steps": 0
+                            "steps": 10
                         }, {
                             "name": "PDC",
                             "steps": 0
                         }, {
                             "name": "PCSI",
-                            "steps": 0
+                            "steps": 10
                         }, {
                             "name": "PLR",
                             "steps": 0
@@ -638,9 +638,7 @@
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil de ville</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>Cette contrainte a été prise en
-                            considération dans le rapport du groupe de travail qui a réalisé une planification à long terme des besoins en halles de
-                            gymnastique.</p>
+                            <p>La contrainte des besoins à long terme en halles de gymnastique a été prise en considération.</p>
                         </div>
                     </div>
 
@@ -649,9 +647,32 @@
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil de ville</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>Au niveau énergétique, le quartier devra répondre aux exigences des
-                            labels « Site 2000 Watts » et « Quartier durable ». L'école devait être correctement intégrée au quartier et en
-                            harmonie avec les autres affectations (logements, parking, parc public, cantine scolaire, halle de gymnastique,
-                            crèche), dont certaines ont été présentées sous forme d'idées conceptuelles.</p>
+                            labels « Site 2000 Watts » et « Quartier durable ».</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Le bâtiment scolaire et le quartier qui l'environne sont devenus vétustes et désuets.
+                            Ils méritent un lifting appuyé.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Les besoins en salles de classe à Delémont sont évidents.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Le projet permettra à nos enfants d'apprendre dans de bonnes conditions.</p>
                         </div>
                     </div>
                 </li>

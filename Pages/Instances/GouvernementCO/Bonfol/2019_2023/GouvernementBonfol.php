@@ -91,7 +91,7 @@
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                     <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">J.-L. Sonney</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Aurélie Mischler</h3>
                         <p>Forêts, aménagement local, police des constructions</p>
                     </div>
                 </div>

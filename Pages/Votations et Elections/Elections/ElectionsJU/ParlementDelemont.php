@@ -4331,13 +4331,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="NOM">
+                                            alt="Sébastien Deloy">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Fernando Pereira</h3>
-                                <p class="uk-text-center text-fonction">1971 - Delémont - Dessinateur en bâtiment</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Sébastien Deloy</h3>
+                                <p class="uk-text-center text-fonction">1973 - Courroux - Photographe</p>
                             </div>
                         </div>
                     </div>

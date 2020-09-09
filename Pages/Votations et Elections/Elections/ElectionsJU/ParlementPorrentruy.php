@@ -2535,13 +2535,13 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="Cansu Sirimsi">
+                                            alt="Laurent-Olivier Girard">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Cansu Sirimsi</h3>
-                                <p class="uk-text-center text-fonction">1997 - Porrentruy - Vendeuse</p>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Laurent-Olivier Girard</h3>
+                                <p class="uk-text-center text-fonction">1954 - Porrentruy - Economiste</p>
                             </div>
                         </div>
                     </div>

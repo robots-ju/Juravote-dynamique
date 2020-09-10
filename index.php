@@ -225,71 +225,7 @@
 
                     <div class="uk-width-1-4@m">
                         <div class="uk-card uk-card-body uk-padding-remove">
-                            <h3 class="uk-heading-divider">Législatifs communaux</h3>
-                            <a href="<?php echo $siteCourchapoix ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">31.08</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Courchapoix</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteBoncourt ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Boncourt</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteBreuleux ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">La Chaux-des-Breuleux</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteFahy ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Fahy</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteChâtillon ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">03.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Châtillon</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $sitePleigne ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">03.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Pleigne</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteCornol ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">03.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Cornol</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteMettembert ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">07.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Mettembert</h3>
-                                    </div>
-                                </div>
-                            </a>
+                            <h3 class="uk-heading-divider">Législatifs communaux</h3>                            
                             <a href="<?php echo $siteMovelier ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">16.09</div>

@@ -88,6 +88,7 @@
                     perte de gain en cas de service et de maternité (loi sur les allocations pour perte de gain, LAPG) ?</p></b>
             </li>
             <li>
+                <h2>Partis fédéraux</h2>
                 <div id="chartdiv"></div>
                 <script>
                     am4core.useTheme(am4themes_animated);
@@ -200,7 +201,7 @@
                     })
                 </script>
 
-<h2>Partis jurassiens</h2>
+                    <h2>Partis jurassiens</h2>
                     <div id="chartdivJU"></div>
                     <script>
                         am4core.useTheme(am4themes_animated);

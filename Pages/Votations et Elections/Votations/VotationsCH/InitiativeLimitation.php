@@ -74,6 +74,7 @@
                     <b><p>Acceptez-vous l’initiative populaire « Pour une immigration modérée (initiative de limitation) » ?</p></b>
             </li>
             <li>
+                <h2>Partis fédéraux</h2>
                 <div id="chartdiv"></div>
                 <script>
                     am4core.useTheme(am4themes_animated);
@@ -186,7 +187,7 @@
                     })
                 </script>
 
-<h2>Partis jurassiens</h2>
+                    <h2>Partis jurassiens</h2>
                     <div id="chartdivJU"></div>
                     <script>
                         am4core.useTheme(am4themes_animated);

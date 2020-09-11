@@ -7,10 +7,6 @@ a {
     text-align: center;
 }
 
-.logo {
-    width: 100%;
-}
-
 .uk-grid-small {
  text-align: center;
 }
@@ -23,12 +19,7 @@ a {
     margin-top: 2%;
 }
 
-@media (max-width: 500px) {
-    .cards {
-        text-align: center;
-    }
-
-    .titre {
-        font-size: 2rem;
-    }
+.illustration {
+    height: 150px;
+    width: 150px;
 }

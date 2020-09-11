@@ -63,7 +63,7 @@
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img classe="illustration" src="../../../../img/Votations/Federales_27.09.2020/logements.jpg" alt="Initiative pour davantage de logements abordables">
+                                        <img class="illustration" src="<?php echo $Logements ?>" alt="Initiative pour davantage de logements abordables">
                                     </div>
                                 </div>
                             </div>
@@ -76,11 +76,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Discrimination.html">
+                            <a href="Discrimination.php">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="#" width="200" height="200" alt="Modification du code pénal et du code pénal militaire">
+                                        <img class="illustration" src="<?php echo $Justice ?>" alt="Modification du code pénal et du code pénal militaire">
                                     </div>
                                 </div>
                             </div>

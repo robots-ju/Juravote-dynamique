@@ -492,7 +492,7 @@
                             "steps": 0
                         }, {
                             "name": "PS",
-                            "steps": 0
+                            "steps": 10
                         }, {
                             "name": "PEV",
                             "steps": 10
@@ -588,7 +588,7 @@
                     </script>
                 </li>  
                 <li>            
-                <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil de ville</div>
@@ -673,6 +673,37 @@
                             <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>Le projet permettra à nos enfants d'apprendre dans de bonnes conditions.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Le site des Arquebusiers constitue, du fait de la taille des terrains à valoriser et
+                            de la qualité de l'emplacement, un secteur de développement important de la partie Ouest
+                            de la ville de Delémont. Les besoins en infrastructures publiques de ce côté de la ville
+                            ont été soigneusement analysés. Il s’avère que la réalisation d'un nouveau bâtiment scolaire
+                            est nécessaire pour l'enseignement primaire, et que l'implantation de ce bâtiment aux
+                            Arquebusiers est tout à fait pertinente. La nécessité de réaliser sur le même site une cantine
+                            scolaire, une crèche, voire même une halle de gymnastique, n'est pour l'heure pas démontrée.
+                            Le Plan spécial qui sera réalisé pour l'ensemble du périmètre à développer intègrera toutefois
+                            la possibilité de réaliser ces infrastructures à moyen terme.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Le Parti socialiste delémontain a évalué le bien-fondé de ce projet dans le cadre de
+                            différentes commissions, du Conseil de Ville et bien entendu du Conseil Communal. Le
+                            crédit d'étude mis en votation est nécessaire à la poursuite de ce projet longuement mûri.
+                            Ce projet n'a pas seulement été pensé en termes d'aménagement du territoire, mais aussi en
+                            intégrant les exigences énergétiques du label « Site à 2000 watts » et les exigences d’un
+                            « Quartier durable ». Cette certification vise à assurer  que la mobilité, la gestion des
+                            eaux, la nature en ville, la qualité de vie et la mixité sociale respectent les conditions
+                            de durabilité. </p>
                         </div>
                     </div>
                 </li>

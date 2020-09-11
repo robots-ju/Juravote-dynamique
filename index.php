@@ -12,6 +12,7 @@
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssbadges; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -72,6 +73,7 @@
                                                         <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
                                                     </div>
                                                     <div class="uk-width-expand">
+                                                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">MAD</div>
                                                         <h3 class="uk-card-title uk-margin-remove-bottom">Gabriel M. Chappuis</h3>
                                                         <p class="uk-text-meta uk-margin-remove-top">Maire de Develier</p>
                                                     </div>

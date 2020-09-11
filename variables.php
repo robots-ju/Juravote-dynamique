@@ -157,6 +157,32 @@
 
         //VAL-TERBI
 
+    //Banque d'image votations
+        //Objets fédéraux
+        $vitesse30 = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/30kmh.png";
+        $arme = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Arme.jpg";
+        $avions = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Avions.jpg";
+        $caméra = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Caméra.jpg";
+        $chasse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Chasse.jpg";
+        $CongePaternite = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CongePaternite.jpg";
+        $Enceinte = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Enceinte.jpg";
+        $Eolienne = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Eolienne.jpg";
+        $Europe = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Europe.jpg";
+        $Gare = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Gare.jpg";
+        $JeuxArgent = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/JeuxArgent.jpg";
+        $Justice = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Justice.jpg";
+        $Légumes = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Légumes.jpg";
+        $Logements = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Logements.jpg";
+        $Mariage = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Mariage.jpg";
+        $Médicaments = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Médicaments.jpg";
+        $Menotte = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Menotte.jpg";
+        $Radio = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/radio.jpg";
+        $Route = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Route.jpg";
+        $Senior = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Senior.jpg";
+        $Sous = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Sous.jpg";
+        $Tunnel = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Tunnel.jpg";
+        $Vache = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Vache.jpg";
+        $Vélo = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Vélo.jpg";
 
 //FICHIERS
     //CSS

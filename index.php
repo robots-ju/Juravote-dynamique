@@ -63,26 +63,42 @@
                         <div class="uk-text-center" uk-grid>
                             <div class="uk-width-auto">
                                 <div class="uk-card uk-card-body">
-                                    <h3 class="uk-heading-divider">Soutiens de Juravote</h3>
+                                    <h3 class="uk-heading-divider">Soutiens de Juravote</h3>                                    
                                     <div class="uk-text-center" uk-grid>
-                                        <div class="uk-card uk-width-1-2@m">
+                                        <div class="uk-card uk-width-1-1@m">
                                             <div class="uk-card-header">
                                                 <div class="uk-grid-small uk-flex-middle" uk-grid>
                                                     <div class="uk-width-auto">
                                                         <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
                                                     </div>
                                                     <div class="uk-width-expand">
-                                                        <h3 class="uk-card-title uk-margin-remove-bottom">Gabriel Chappuis</h3>
+                                                        <h3 class="uk-card-title uk-margin-remove-bottom">Gabriel M. Chappuis</h3>
                                                         <p class="uk-text-meta uk-margin-remove-top">Maire de Develier</p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="uk-card-body">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                                            <div class="uk-card-body uk-text-justify">
+                                                <p>Juravote, site internet au design simple et plaisant, informe la population, de
+                                                manière indépendante et concise, sur les votations. Les arguments pour et contre,
+                                                ainsi que les prises de positions des partis, sont mentionnés de façon totalement
+                                                neutre. JuraVote renseigne également sur les autorités, les élections à venir, ainsi
+                                                que sur les activités politiques. Les résultats des votations et élections sont
+                                                consignés.</p>
+
+                                                <p>Concentrées sur un seul site, ces informations sont accessibles en tout temps et
+                                                assurent une partialité et neutralité, tant estimées par la population suisse. Cet
+                                                avantage permet à tout un chacun d'être informé de façon claire et objective. Cette
+                                                source d'informations fiable devrait aussi intéresser les communes et autres
+                                                instances politiques, aujourd'hui uniquement jurassiennes, à la mise en place d'outils
+                                                informatiques communs permettant de faire des économies d'échelles substantielles.
+                                                Peut-être un futur "SwissVote".</p>
+
+                                                <p>Nous félicitons vivement toute cette jeune équipe pour leur intérêt à la chose
+                                                publique et la mise en oeuvre de ce formidable support et leur souhaitons plein succès.</p>
                                             </div>      
                                         </div>
 
-                                        <div class="uk-card uk-width-1-2@m">
+                                        <!--<div class="uk-card uk-width-1-1@m">
                                             <div class="uk-card-header">
                                                 <div class="uk-grid-small uk-flex-middle" uk-grid>
                                                     <div class="uk-width-auto">
@@ -98,7 +114,7 @@
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
                                             </div>      
                                         </div>
-                                        <div class="uk-card uk-width-1-2@m">
+                                        <div class="uk-card uk-width-1-1@m">
                                             <div class="uk-card-header">
                                                 <div class="uk-grid-small uk-flex-middle" uk-grid>
                                                     <div class="uk-width-auto">
@@ -113,7 +129,7 @@
                                             <div class="uk-card-body">
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
                                             </div>      
-                                        </div>  
+                                        </div>-->
                                     </div>
                                 </div>
                             </div>

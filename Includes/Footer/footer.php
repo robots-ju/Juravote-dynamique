@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <?php include '/Juravote-Dynamique/variables.php'; ?>
-        <link rel="stylesheet" href="/Juravote-Dynamique/Includes/Footer/footer.css">
+        <?php include '/variables.php'; ?>
+        <link rel="stylesheet" href="/Includes/Footer/footer.css">
         <base target="_parent">
     </head>
     <body>

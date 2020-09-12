@@ -32,9 +32,7 @@
                     <li id="Equipe">
                         <a class="uk-button uk-button-text" href="<?php echo $PHPequipe; ?>">L'équipe Juravote</a>
                     </li>                    
-                    <li id="Contact">
-                        <a class="uk-button uk-button-text" href="#">Contact</a></li>
-                    <li><a class="uk-button uk-button-tex" href="https://twitter.com/JuraVote/" target="_blank"
+                   <li><a class="uk-button uk-button-tex" href="https://twitter.com/JuraVote/" target="_blank"
                         uk-icon="icon: twitter; ratio: 1.2"></a></li>
                     <li><a class="uk-button uk-button-tex" href="https://www.instagram.com/juravote/?hl=fr" target="_blank"
                         uk-icon="icon: instagram; ratio: 1.2"></a></li>

@@ -66,7 +66,60 @@
                 </li>
                 <li>
                     <h2>Partis fédéraux</h2>
-                    <div id="chartdivCH"></div>
+                    <div>
+                    <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
+                                <p class="uk-text-center">Verts</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
+                                <p class="uk-text-center">PS</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
+                                <p class="uk-text-center">PEV</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon:  question; ratio: 2.5"></span></h3>
+                                <p class="uk-text-center">PVL</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
+                                <p class="uk-text-center">PDC</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
+                                <p class="uk-text-center">PBD</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
+                                <p class="uk-text-center">PLR</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: minus-circle; ratio: 2.5"></span></h3>
+                                <p class="uk-text-center">UDC</p>
+                            </div>
+                        </div>
+                    </div>
+                       
+
+                    <!--<div id="chartdivCH"></div>
                     <script>
                         am4core.useTheme(am4themes_animated);
 
@@ -176,7 +229,7 @@
                                 }
                             }
                         })
-                    </script>
+                    </script>-->
 
                     <h2>Partis jurassiens</h2>
                     <div id="chartdivJU"></div>

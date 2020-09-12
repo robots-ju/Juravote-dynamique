@@ -139,7 +139,7 @@
 
                 <h2>Partis jurassiens</h2>
                 <div>
-                    <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card uk-card-body">
                                 <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>

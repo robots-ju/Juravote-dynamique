@@ -123,6 +123,7 @@
                                                 <div class="uk-width-expand">
                                                     <h3 class="uk-card-title uk-margin-remove-bottom">Sylvain Lovis</h3>
                                                     <p class="uk-text-meta uk-margin-remove-top">Administration</p>
+                                                    <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
                                                 </div>
                                             </div>
                                         </div>    

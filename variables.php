@@ -259,7 +259,7 @@
         $PHPresultatsMairieLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie.php";
         $PHPdescriptionMairieLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie_description.php";
 
-    $PHPresultatsVotationsCH = "/Juravote-dynamique/Pages/Resultats/VotationsCH/VotationsCH.php";
+    $PHPresultatsVotationsCH = "/Juravote-dynamique/Pages/Resultats/VotationsCH/votationsCH.php";
         $PHPresultats20200209Accueil= "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php";
         $PHPresultats20200927Accueil= "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
     $PHPresultatsVotationsJU = "/Juravote-dynamique/Pages/Resultats/VotationsJU/VotationsJU.php";

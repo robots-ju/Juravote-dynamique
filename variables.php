@@ -262,8 +262,8 @@
     $PHPresultatsVotationsCH = "/Pages/Resultats/VotationsCH/votationsCH.php";
         $PHPresultats20200209Accueil= "/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php";
         $PHPresultats20200927Accueil= "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
-    $PHPresultatsVotationsJU = "/Pages/Resultats/VotationsJU/VotationsJU.php";
-    $PHPresultatsVotationsCO = "/Pages/Resultats/VotationsCO/VotationsCO.php";
+    $PHPresultatsVotationsJU = "/Pages/Resultats/VotationsJU/votationsJU.php";
+    $PHPresultatsVotationsCO = "/Pages/Resultats/VotationsCO/votationsCO.php";
 
     $PHPvotationselectionsAccueil = "/Pages/Votations et Elections/accueilVE.php";
     $PHPelectionsAccueil = "/Pages/Votations et Elections/Elections/elections.php";

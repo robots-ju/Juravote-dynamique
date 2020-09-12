@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <?php include "../../variables.php"; ?>
         <link rel="stylesheet" href="/Includes/Footer/footer.css">
         <base target="_parent">
     </head>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
+        <?php include '/Juravote-Dynamique/variables.php'; ?>
         <link rel="stylesheet" href="navbar.css">
         <base target="_parent">
     </head>
@@ -10,21 +11,21 @@
         
                 <ul class="uk-navbar-nav">
                     <li id="Accueil">
-                        <a href="/Juravote-dynamique/index.php">Accueil</a>
+                        <a href="<?php echo $PHPindex; ?>">Accueil</a>
                     </li>
                     <li id="News">
-                        <a href="/Juravote-dynamique/Pages/Actualites/actualites.php">Actualités politiques</a>
+                        <a href="<?php echo $PHPactualites; ?>">Actualités politiques</a>
                     </li>
                     <li id="Votations">
-                        <a href="/Juravote-dynamique/Pages/Votations et Elections/accueilVE.php">Prochaines votations et élections</a>
+                        <a href="<?php echo $PHPvotationselectionsAccueil; ?>">Prochaines votations et élections</a>
                     </li>
                     <li id="Resultats">
-                        <a href="/Juravote-dynamique/Pages/Resultats/resultats.php">Archives des résultats</a></li>
+                        <a href="<?php echo $PHPresultats; ?>">Archives des résultats</a></li>
                     <li id="Instances">
-                        <a href="/Juravote-dynamique/Pages/Instances/instances.php">Instances politiques</a>
+                        <a href="<?php echo $PHPinstances; ?>">Instances politiques</a>
                     </li>                
                     <li id="Equipe">
-                        <a href="/Juravote-dynamique/Pages/Equipe/equipe.php">L'équipe Juravote</a>
+                        <a href="<?php echo $PHPequipe; ?>">L'équipe Juravote</a>
                     </li>
                 </ul>
             </div>

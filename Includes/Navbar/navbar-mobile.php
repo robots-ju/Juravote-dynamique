@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-    <link rel="stylesheet" href="navbar-mobile.css">
-    <base target="_parent">
+        <?php include '/Juravote-Dynamique/variables.php'; ?>
+        <link rel="stylesheet" href="navbar-mobile.css">
+        <base target="_parent">
     </head>
 
     <body>

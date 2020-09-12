@@ -1,52 +1,49 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
-    <?php include '../../../../variables.php'; ?>
+        <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
+        <title>JuraVote | Partis jurassien</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-    <title>JuraVote | Partis politiques jurassiens</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <link rel="stylesheet" href="<?php echo $cssNormalize; ?>">
-    <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
-    <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
-    <link rel="stylesheet" href="../../../../index.css"/>
-    <link rel="stylesheet" href="../../../../badges.css"/>
-    <link rel="stylesheet" href="../../instances.css"/>
-    <link rel="stylesheet" href="../GouvernementCH.css"/>
-    
-    <script src="<?php echo $jsUikit ?>"></script>
-    <script src="<?php echo $jsUikitIcons ?>"></script>
-    <script src="<?php echo $jsUikitMin ?>"></script>
-    <script src="<?php echo $jsUikitIconsMin ?>"></script>
+        <link rel="stylesheet" href="<?php echo $cssNormalize; ?>">
+        <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssinstances; ?>"/>
+        
+        <script src="<?php echo $jsUikit ?>"></script>
+        <script src="<?php echo $jsUikitIcons ?>"></script>
+        <script src="<?php echo $jsUikitMin ?>"></script>
+        <script src="<?php echo $jsUikitIconsMin ?>"></script>
 
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166072477-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166072477-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
+            function gtag() {
+                dataLayer.push(arguments);
+            }
 
-        gtag('js', new Date());
+            gtag('js', new Date());
 
-        gtag('config', 'UA-166072477-1');
-    </script>
-</head>
+            gtag('config', 'UA-166072477-1');
+        </script>
+    </head>
 <body>
 <header>
-    <div class="navbar-normal">
-        <?php include "../../../../Includes/Navbar/navbar.php"; ?>
-    </div>
+            <div class="navbar-normal">
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+            </div>
 
-    <div>
-    <?php include "../../../../Includes/Navbar/navbar-mobile.php"; ?>
-    </div>
-</header>
+            <div>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+            </div>
+        </header>
 <main>
 <section style="padding: 2%">
         <h1 class="uk-heading-large">Présentation des partis jurassiens</h1>
@@ -57,7 +54,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/PS.png " alt="Parti socialiste Jura">
+                                <img width="100" height="100" src="<?php echo $ps ?>" alt="Parti socialiste Jura">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">PSJ (Parti Socialiste Jurassien)</h3>
@@ -70,7 +67,7 @@
                         <p><b>Sièges au Parlement Jurassien : </b>12</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://www.psju.ch/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $sitePSJ ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -80,7 +77,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/PDC.png " alt="PDC Jura">
+                                <img width="100" height="100" src="<?php echo $pdc ?>" alt="PDC Jura">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">PDC (Parti Démocrate-Chrétien)</h3>
@@ -93,7 +90,7 @@
                         <p><b>Sièges au Parlement Jurassien : </b>17</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://pdcjura.ch/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $sitePDCJ ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -103,7 +100,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/PLR.png " alt="PLR Jura">
+                                <img width="100" height="100" src="<?php echo $plr ?>" alt="PLR Jura">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">PLRJ (Parti Libéral-Radical Jurassien)</h3>
@@ -116,7 +113,7 @@
                         <p><b>Sièges au Parlement Jurassien : </b>9</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://www.plrj.ch/accueil" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $sitePLRJ ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -126,7 +123,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/PCSI.png " alt="PCSI Jura">
+                                <img width="100" height="100" src="<?php echo $pcsi ?>" alt="PCSI Jura">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">PCSI (Parti chrétien-social indépendant)</h3>
@@ -139,7 +136,7 @@
                         <p><b>Sièges au Parlement Jurassien : </b>8</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://pcsi.ch/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $sitePCSIJ ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -149,7 +146,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/UDC.png" alt="UDC Jura">
+                                <img width="100" height="100" src="<?php echo $udc ?>" alt="UDC Jura">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">UDC (Union démocratique du centre)</h3>
@@ -162,7 +159,7 @@
                         <p><b>Sièges au Parlement Jurassien : </b>8</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="http://www.udc-ju.ch/fr/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $siteUDCJ ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -172,7 +169,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/Verts.png " alt="Verts Jura">
+                                <img width="100" height="100" src="<?php echo $verts ?>" alt="Verts Jura">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">Verts (Les Verts Jurassiens)</h3>
@@ -185,7 +182,7 @@
                         <p><b>Sièges au Parlement Jurassien : </b>4</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="https://verts-jura.ch/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $siteVertsJ ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -218,7 +215,7 @@
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                             <div class="uk-width-auto image-parti">
-                                <img width="100" height="100" src="../../../../IMG/Logo/Partis/CS-POP.png " alt="CS-POP Jura">
+                                <img width="100" height="100" src="<?php echo $pst ?>" alt="CS-POP Jura">
                             </div>
                             <div class="uk-width-expand">
                                 <h3 class="uk-card-title uk-margin-remove-bottom">CS-POP (Combat socialiste - Parti Ouvrier Populaire)</h3>
@@ -231,7 +228,7 @@
                         <p><b>Sièges au Parlement Jurassien : </b>2</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="http://www.cspop.ch/" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
+                        <a href="<?php echo $siteCSPOPJ ?>" target="_blank" class="uk-button uk-button-text">Site internet du parti</a>
                     </div>
                 </div>
             </div>
@@ -242,8 +239,8 @@
 
 
 <footer>
-    <div class="footer">
-    <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
-    </div>
-</footer>
+        <div class="footer">
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+        </div>
+    </footer>
 </html>

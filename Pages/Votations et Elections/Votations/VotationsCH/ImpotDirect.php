@@ -1,55 +1,52 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
-    <?php include '../../../../variables.php'; ?>
+        <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
+        <title>JuraVote | Modification de la Loi sur l'Impôt direct</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-    <title>JuraVote | Votations fédérales du 27 septembre 2020</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <link rel="stylesheet" href="<?php echo $cssNormalize; ?>">
-    <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
-    <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
-    <link rel="stylesheet" href="../../../../index.css"/>
-    <link rel="stylesheet" href="../../../../badges.css"/>
-    <link rel="stylesheet" href="../../instances.css"/>
-    <link rel="stylesheet" href="../GouvernementCH.css"/>
-    
-    <script src="<?php echo $jsUikit ?>"></script>
-    <script src="<?php echo $jsUikitIcons ?>"></script>
-    <script src="<?php echo $jsUikitMin ?>"></script>
-    <script src="<?php echo $jsUikitIconsMin ?>"></script>
-    <script src="//cdn.amcharts.com/lib/4/core.js"></script>
-    <script src="//cdn.amcharts.com/lib/4/charts.js"></script>
-    <script src="//cdn.amcharts.com/lib/4/themes/animated.js"></script>
+        <link rel="stylesheet" href="<?php echo $cssNormalize; ?>">
+        <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssbadges; ?>"/>
+        
+        <script src="<?php echo $jsUikit ?>"></script>
+        <script src="<?php echo $jsUikitIcons ?>"></script>
+        <script src="<?php echo $jsUikitMin ?>"></script>
+        <script src="<?php echo $jsUikitIconsMin ?>"></script>
+        <script src="//cdn.amcharts.com/lib/4/core.js"></script>
+        <script src="//cdn.amcharts.com/lib/4/charts.js"></script>
+        <script src="//cdn.amcharts.com/lib/4/themes/animated.js"></script>
 
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166072477-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166072477-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
+            function gtag() {
+                dataLayer.push(arguments);
+            }
 
-        gtag('js', new Date());
+            gtag('js', new Date());
 
-        gtag('config', 'UA-166072477-1');
-    </script>
-</head>
+            gtag('config', 'UA-166072477-1');
+        </script>
+    </head>
 <body>
 <header>
-    <div class="navbar-normal">
-        <?php include "../../../../Includes/Navbar/navbar.php"; ?>
-    </div>
+            <div class="navbar-normal">
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+            </div>
 
-    <div>
-    <?php include "../../../../Includes/Navbar/navbar-mobile.php"; ?>
-    </div>
-</header>
+            <div>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+            </div>
+        </header>
 <main>
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Modification de la loi sur l'impôt direct</h1>
@@ -86,6 +83,7 @@
                     l’impôt fédéral direct (LIFD) (déduction fiscale des frais de garde des enfants par des tiers) ?</p></b>
             </li>
             <li>
+                <h2>Partis fédéraux</h2>
                 <div id="chartdiv"></div>
                 <script>
                     am4core.useTheme(am4themes_animated);
@@ -197,6 +195,122 @@
                         }
                     })
                 </script>
+
+                    <h2>Partis jurassiens</h2>
+                    <div id="chartdivJU"></div>
+                    <script>
+                        am4core.useTheme(am4themes_animated);
+
+                        var chartJU = am4core.create("chartdivJU", am4charts.XYChart);
+                        chartJU.hiddenState.properties.opacity = 0; // this creates initial fade-in
+
+                        chartJU.paddingBottom = 30;
+
+                        chartJU.data = [{
+                            "name": "CS-POP Jura",
+                            "steps": 5
+                        }, {
+                            "name": "Verts Jurassiens",
+                            "steps": 0
+                        }, {
+                            "name": "PSJ",
+                            "steps": 0
+                        }, {
+                            "name": "PEV Jura",
+                            "steps": 5
+                        }, {
+                            "name": "PVL",
+                            "steps": 5
+                        }, {
+                            "name": "PDC Jura",
+                            "steps": 5
+                        }, {
+                            "name": "PCSI Jura",
+                            "steps": 5
+                        }, {
+                            "name": "PLRJ",
+                            "steps": 10
+                        }, {
+                            "name": "UDC Jura",
+                            "steps": 5
+                        }];
+
+                        var categoryAxis = chartJU.xAxes.push(new am4charts.CategoryAxis());
+                        categoryAxis.dataFields.category = "name";
+                        categoryAxis.renderer.grid.template.strokeOpacity = 0;
+                        categoryAxis.renderer.minGridDistance = 10;
+                        categoryAxis.renderer.labels.template.dy = 35;
+                        categoryAxis.renderer.tooltip.dy = 35;
+
+                        var valueAxis = chartJU.yAxes.push(new am4charts.ValueAxis());
+                        valueAxis.renderer.inside = true;
+                        valueAxis.renderer.labels.template.fillOpacity = 0.3;
+                        valueAxis.renderer.grid.template.strokeOpacity = 0;
+                        valueAxis.min = 0;
+                        valueAxis.cursorTooltipEnabled = false;
+                        valueAxis.renderer.baseGrid.strokeOpacity = 0;
+
+                        var series = chartJU.series.push(new am4charts.ColumnSeries);
+                        series.dataFields.valueY = "steps";
+                        series.dataFields.categoryX = "name";
+                        series.tooltipText = "{valueY.value}";
+                        series.tooltip.pointerOrientation = "vertical";
+                        series.tooltip.dy = - 6;
+                        series.columnsContainer.zIndex = 100;
+
+                        var columnTemplate = series.columns.template;
+                        columnTemplate.width = am4core.percent(50);
+                        columnTemplate.maxWidth = 66;
+                        columnTemplate.column.cornerRadius(60, 60, 10, 10);
+                        columnTemplate.strokeOpacity = 0;
+
+                        series.heatRules.push({ target: columnTemplate, property: "fill", dataField: "valueY", min: am4core.color("#a00000"), max: am4core.color("#35ff00") });
+                        series.mainContainer.mask = undefined;
+
+                        var bullet = columnTemplate.createChild(am4charts.CircleBullet);
+                        bullet.circle.radius = 30;
+                        bullet.valign = "bottom";
+                        bullet.align = "center";
+                        bullet.isMeasured = true;
+                        bullet.mouseEnabled = false;
+                        bullet.verticalCenter = "bottom";
+
+                        var hoverState = bullet.states.create("hover");
+                        var outlineCircle = bullet.createChild(am4core.Circle);
+                        outlineCircle.adapter.add("radius", function (radius, target) {
+                            var circleBullet = target.parent;
+                            return circleBullet.circle.pixelRadius + 10;
+                        })                    
+
+                        image.adapter.add("href", function (href, target) {
+                            var dataItem = target.dataItem;
+                            if (dataItem) {
+                                return "https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/" + dataItem.categoryX.toLowerCase() + ".jpg";
+                            }
+                        })                    
+
+                        var previousBullet;
+                        chartJU.cursor.events.on("cursorpositionchanged", function (event) {
+                            var dataItem = series.tooltipDataItem;
+
+                            if (dataItem.column) {
+                                var bullet = dataItem.column.children.getIndex(1);
+
+                                if (previousBullet && previousBullet != bullet) {
+                                    previousBullet.isHover = false;
+                                }
+
+                                if (previousBullet != bullet) {
+
+                                    var hs = bullet.states.getKey("hover");
+                                    hs.properties.dy = -bullet.parent.pixelHeight + 30;
+                                    bullet.isHover = true;
+
+                                    previousBullet = bullet;
+                                }
+                            }
+                        })
+                    </script>
             </li>  
             <li>            
             <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
@@ -378,8 +492,8 @@
 </body>
 
 <footer>
-    <div class="footer">
-    <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
-    </div>
-</footer>
+        <div class="footer">
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+        </div>
+    </footer>
 </html>

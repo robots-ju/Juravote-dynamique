@@ -12,6 +12,7 @@
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssbadges; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -41,7 +42,7 @@
             </div>
 
             <div>
-            <?php include "./Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include "./Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
         
@@ -63,26 +64,43 @@
                         <div class="uk-text-center" uk-grid>
                             <div class="uk-width-auto">
                                 <div class="uk-card uk-card-body">
-                                    <h3 class="uk-heading-divider">Soutiens de Juravote</h3>
+                                    <h3 class="uk-heading-divider">Soutiens de Juravote</h3>                                    
                                     <div class="uk-text-center" uk-grid>
-                                        <div class="uk-card uk-width-1-2@m">
+                                        <div class="uk-card uk-width-1-1@m">
                                             <div class="uk-card-header">
                                                 <div class="uk-grid-small uk-flex-middle" uk-grid>
                                                     <div class="uk-width-auto">
                                                         <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
                                                     </div>
                                                     <div class="uk-width-expand">
-                                                        <h3 class="uk-card-title uk-margin-remove-bottom">Gabriel Chappuis</h3>
+                                                        <div class="uk-card-badge uk-label badge-plr uk-border-rounded">MAD</div>
+                                                        <h3 class="uk-card-title uk-margin-remove-bottom">Gabriel M. Chappuis</h3>
                                                         <p class="uk-text-meta uk-margin-remove-top">Maire de Develier</p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="uk-card-body">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                                            <div class="uk-card-body uk-text-justify">
+                                                <p>Juravote, site internet au design simple et plaisant, informe la population, de
+                                                manière indépendante et concise, sur les votations. Les arguments pour et contre,
+                                                ainsi que les prises de positions des partis, sont mentionnés de façon totalement
+                                                neutre. JuraVote renseigne également sur les autorités, les élections à venir, ainsi
+                                                que sur les activités politiques. Les résultats des votations et élections sont
+                                                consignés.</p>
+
+                                                <p>Concentrées sur un seul site, ces informations sont accessibles en tout temps et
+                                                assurent une partialité et neutralité, tant estimées par la population suisse. Cet
+                                                avantage permet à tout un chacun d'être informé de façon claire et objective. Cette
+                                                source d'informations fiable devrait aussi intéresser les communes et autres
+                                                instances politiques, aujourd'hui uniquement jurassiennes, à la mise en place d'outils
+                                                informatiques communs permettant de faire des économies d'échelles substantielles.
+                                                Peut-être un futur "SwissVote".</p>
+
+                                                <p>Nous félicitons vivement toute cette jeune équipe pour leur intérêt à la chose
+                                                publique et la mise en oeuvre de ce formidable support et leur souhaitons plein succès.</p>
                                             </div>      
                                         </div>
 
-                                        <div class="uk-card uk-width-1-2@m">
+                                        <!--<div class="uk-card uk-width-1-1@m">
                                             <div class="uk-card-header">
                                                 <div class="uk-grid-small uk-flex-middle" uk-grid>
                                                     <div class="uk-width-auto">
@@ -98,7 +116,7 @@
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
                                             </div>      
                                         </div>
-                                        <div class="uk-card uk-width-1-2@m">
+                                        <div class="uk-card uk-width-1-1@m">
                                             <div class="uk-card-header">
                                                 <div class="uk-grid-small uk-flex-middle" uk-grid>
                                                     <div class="uk-width-auto">
@@ -113,7 +131,7 @@
                                             <div class="uk-card-body">
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
                                             </div>      
-                                        </div>  
+                                        </div>-->
                                     </div>
                                 </div>
                             </div>
@@ -226,75 +244,43 @@
                     <div class="uk-width-1-4@m">
                         <div class="uk-card uk-card-body uk-padding-remove">
                             <h3 class="uk-heading-divider">Législatifs communaux</h3>
-                            <a href="<?php echo $siteCourchapoix ?>" target="blank">
+                            <a href="<?php echo $siteCourtetelle ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">31.08</div>
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">14.09</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Courchapoix</h3>
+                                        <h3 class="uk-card-title uk-align-left">Courtételle</h3>
                                     </div>
                                 </div>
-                            </a>
-                            <a href="<?php echo $siteBoncourt ?>" target="blank">
+                            </a> 
+                            <a href="<?php echo $siteSaignelégier ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.09</div>
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">14.09</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Boncourt</h3>
+                                        <h3 class="uk-card-title uk-align-left">Saignelégier</h3>
                                     </div>
                                 </div>
-                            </a>
-                            <a href="<?php echo $siteBreuleux ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">La Chaux-des-Breuleux</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteFahy ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Fahy</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteChâtillon ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">03.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Châtillon</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $sitePleigne ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">03.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Pleigne</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteCornol ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">03.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Cornol</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteMettembert ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">07.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Mettembert</h3>
-                                    </div>
-                                </div>
-                            </a>
+                            </a>                              
                             <a href="<?php echo $siteMovelier ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">16.09</div>
                                     <div class="uk-card-body">
                                         <h3 class="uk-card-title uk-align-left">Movelier</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="<?php echo $siteBure ?>" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">21.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Bure</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="<?php echo $siteRossemaison ?>" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">28.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Rossemaison</h3>
                                     </div>
                                 </div>
                             </a>
@@ -307,7 +293,7 @@
 
     <footer>
         <div class="footer">
-            <?php include "/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </html>

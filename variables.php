@@ -157,6 +157,32 @@
 
         //VAL-TERBI
 
+    //Banque d'image votations
+        //Objets fédéraux
+        $vitesse30 = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/30kmh.png";
+        $arme = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Arme.jpg";
+        $avions = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Avions.jpg";
+        $caméra = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Caméra.jpg";
+        $chasse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Chasse.jpg";
+        $CongePaternite = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CongePaternite.jpg";
+        $Enceinte = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Enceinte.jpg";
+        $Eolienne = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Eolienne.jpg";
+        $Europe = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Europe.jpg";
+        $Gare = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Gare.jpg";
+        $JeuxArgent = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/JeuxArgent.jpg";
+        $Justice = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Justice.jpg";
+        $Légumes = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Légumes.jpg";
+        $Logements = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Logements.jpg";
+        $Mariage = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Mariage.jpg";
+        $Médicaments = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Médicaments.jpg";
+        $Menotte = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Menotte.jpg";
+        $Radio = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/radio.jpg";
+        $Route = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Route.jpg";
+        $Senior = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Senior.jpg";
+        $Sous = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Sous.jpg";
+        $Tunnel = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Tunnel.jpg";
+        $Vache = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Vache.jpg";
+        $Vélo = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Vélo.jpg";
 
 //FICHIERS
     //CSS
@@ -221,6 +247,23 @@
     $PHPpartisJU = "/Juravote-dynamique/Pages/Instances/PartisJU/2016_2020/PartisJU.php"; 
     
     $PHPresultats = "/Juravote-dynamique/Pages/Resultats/resultats.php";
+    $PHPresultatsElectionsCH = "/Juravote-dynamique/Pages/Resultats/ElectionsCH/electionsCH.php";
+    $PHPresultatsElectionsJU = "/Juravote-dynamique/Pages/Resultats/ElectionsJU/electionsJU.php";
+        $PHPresultatGouvernementJU2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsJU/2020-03-01/Ecantonales.php";
+        
+    $PHPresultatsElectionsCO = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/electionsCO.php";
+        $PHPresultatsCourtetelle = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Courtetelle/Courtetelle.php";
+        $PHPresultatsMairieCourtetelle2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Courtetelle/2020-06-29/Mairie.php";
+
+        $PHPresultatsLajoux = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/Lajoux.php";
+        $PHPresultatsMairieLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie.php";
+        $PHPdescriptionMairieLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie_description.php";
+
+    $PHPresultatsVotationsCH = "/Juravote-dynamique/Pages/Resultats/VotationsCH/VotationsCH.php";
+        $PHPresultats20200209Accueil= "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php";
+        $PHPresultats20200927Accueil= "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
+    $PHPresultatsVotationsJU = "/Juravote-dynamique/Pages/Resultats/VotationsJU/VotationsJU.php";
+    $PHPresultatsVotationsCO = "/Juravote-dynamique/Pages/Resultats/VotationsCO/VotationsCO.php";
 
     $PHPvotationselectionsAccueil = "/Juravote-dynamique/Pages/Votations et Elections/accueilVE.php";
     $PHPelectionsAccueil = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.php";
@@ -271,24 +314,46 @@
     $JSworldLow = "Juravote-dynamique/JS/geodata/worldLow.js";
     $JSswitzerlandHigh = "Juravote-dynamique/JS/geodata/switzerlandHigh.js";
 
-    //SITES DES COMMUNES
-        //AJOIE
-        $siteBoncourt = "https://www.boncourt.ch/";
-        $siteCornol = "http://www.cornol.ch/fr/";
-        $siteFahy = "http://www.fahy.ch/";
+    //SITES INTERNET
+        //COMMUNES
+            //AJOIE
+            $siteBoncourt = "https://www.boncourt.ch/";
+            $siteCornol = "http://www.cornol.ch/fr/";
+            $siteFahy = "http://www.fahy.ch/";
 
-        //DELEMONT
-        $siteCourchapoix = "http://www.courchapoix.ch/cpx/";
-        $siteChatillon = "https://chatillon.ch/";
-        $siteMettembert = "";
-        $siteMovelier = "https://www.movelier.ch/";
-        $sitePleigne = "http://www.pleigne.ch/fr/Administration-et-services.html";
+            //DELEMONT
+            $siteCourchapoix = "http://www.courchapoix.ch/cpx/";
+            $siteChatillon = "https://chatillon.ch/";
+            $siteMettembert = "";
+            $siteMovelier = "https://www.movelier.ch/";
+            $sitePleigne = "http://www.pleigne.ch/fr/Administration-et-services.html";
 
-        //FM
-        $siteBreuleux = "https://www.breuleux.ch/";
-        
+            //FM
+            $siteBreuleux = "https://www.breuleux.ch/";
 
-    
+        //PARTIS
+            //FEDERAUX
+            $siteUDC = "https://www.udc.ch/parti/"; 
+            $sitePS = "https://www.sp-ps.ch/fr";
+            $sitePLR = "https://www.plr.ch/accueil"; 
+            $sitePES = "https://verts.ch";
+            $sitePDC = "https://www.cvp.ch/fr";
+            $sitePVL = "https://vertliberaux.ch/";
+            $sitePBD = "https://www.bdp.info/schweiz/fr/personnalites56/lepartibourgeois-democratiquesuissepbd/";
+            $sitePEV = "https://www.evppev.ch/fr/actuel/";
+            $siteLEGA = "https://lega-dei-ticinesi.ch/";
+            $sitePOPPST = "https://pst-pop.ch/";
+            $siteSOL = "https://solidarites.ch";
+
+            //JURASSIENS
+            $sitePSJ ="https://www.psju.ch";
+            $sitePDCJ = "https://pdcjura.ch";
+            $sitePLRJ = "https://www.plrj.ch/accueil";
+            $sitePCSIJ = "https://pcsi.ch/";
+            $siteUDCJ = "http://www.udc-ju.ch/fr/";
+            $siteVertsJ = "https://verts-jura.ch";
+            $siteCSPOPJ = "http://www.cspop.ch/";  
+
 
 //INCLUDES
     //navbar

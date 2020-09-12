@@ -1,52 +1,51 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
-    <?php include '../../../../variables.php'; ?>
+        <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
+        <title>JuraVote | Assembleé fédérale</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-    <title>JuraVote | Assemblée fédérale 2020 - 2023</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <link rel="stylesheet" href="<?php echo $cssNormalize; ?>">
-    <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
-    <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
-    <link rel="stylesheet" href="../../../../index.css"/>
-    <link rel="stylesheet" href="../../../../badges.css"/>
-    <link rel="stylesheet" href="../../instances.css"/>
-    <link rel="stylesheet" href="../ParlementCH.css"/>
-    
-    <script src="<?php echo $jsUikit ?>"></script>
-    <script src="<?php echo $jsUikitIcons ?>"></script>
-    <script src="<?php echo $jsUikitMin ?>"></script>
-    <script src="<?php echo $jsUikitIconsMin ?>"></script>
+        <link rel="stylesheet" href="<?php echo $cssNormalize; ?>">
+        <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssinstances; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssbadges; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssparlementCH; ?>"/>
+        
+        <script src="<?php echo $jsUikit ?>"></script>
+        <script src="<?php echo $jsUikitIcons ?>"></script>
+        <script src="<?php echo $jsUikitMin ?>"></script>
+        <script src="<?php echo $jsUikitIconsMin ?>"></script>
 
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166072477-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166072477-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
+            function gtag() {
+                dataLayer.push(arguments);
+            }
 
-        gtag('js', new Date());
+            gtag('js', new Date());
 
-        gtag('config', 'UA-166072477-1');
-    </script>
-</head>
+            gtag('config', 'UA-166072477-1');
+        </script>
+    </head>
 <body>
 <header>
-    <div class="navbar-normal">
-        <?php include "../../../../Includes/Navbar/navbar.php"; ?>
-    </div>
+            <div class="navbar-normal">
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+            </div>
 
-    <div>
-    <?php include "../../../../Includes/Navbar/navbar-mobile.php"; ?>
-    </div>
-</header>
+            <div>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+            </div>
+        </header>
 <main>
 <section style="padding: 2%">
         <h1 class="uk-heading-large">Assemblée fédérale (Jura) 2020 - 2023</h1>
@@ -61,7 +60,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementCH/2020_2023/CharlesJuillard.jpg"
+                                     src="<?php echo $CharlesJuillard; ?>"
                                      alt="Charles Juillard">
                             </div>
                         </div>
@@ -80,7 +79,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementCH/2020_2023/Jean-PaulGschwind.jpg"
+                                     src="<?php echo $JeanPaulGschwind; ?>"
                                      alt="Jean-Paul Gschwind">
                             </div>
                         </div>
@@ -99,7 +98,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementCH/2020_2023/ElisabethBaume.jpg"
+                                     src="<?php echo $ElisabethBaumeSchneider; ?>"
                                      alt="Elisabeth Baume-Schneider">
                             </div>
                         </div>
@@ -118,7 +117,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementCH/2020_2023/Pierre-AlainFridez.jpg"
+                                     src="<?php echo $PierreAlainFridez; ?>"
                                      alt="Pierre-Alain Fridez">
                             </div>
                         </div>
@@ -136,8 +135,8 @@
 
 
 <footer>
-    <div class="footer">
-    <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
-    </div>
-</footer>
+        <div class="footer">
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+        </div>
+    </footer>
 </html>

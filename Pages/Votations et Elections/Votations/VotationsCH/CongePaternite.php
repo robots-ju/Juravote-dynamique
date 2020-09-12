@@ -165,6 +165,12 @@
                         </div>
                         <div>
                             <div class="uk-card uk-card uk-card-body">
+                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
+                                <p class="uk-text-center">PS Jura</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card uk-card-body">
                                 <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
                                 <p class="uk-text-center">PVL Jura</p>
                             </div>

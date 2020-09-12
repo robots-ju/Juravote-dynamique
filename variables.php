@@ -30,20 +30,20 @@
     $juravoteFacebook = "/IMG/Logo/ReseauxSociaux/Bannieres/Facebook.png";
     $iconDiscord = "/IMG/Logo/ReseauxSociaux/Discord.png";
 
-    //partis :
-    $pcsi = "/IMG/Logo/partis/CS-POP.png";
-    $lega = "/IMG/Logo/partis/LEGA.png";
-    $pbd = "/IMG/Logo/partis/PBD.png";
-    $pcsi = "/IMG/Logo/partis/PCSI.png";
-    $pdc = "/IMG/Logo/partis/PDC.png";
-    $pev = "/IMG/Logo/partis/PEV.png";
-    $plr = "/IMG/Logo/partis/PLR.png";
-    $ps = "/IMG/Logo/partis/PS.png";
-    $pst = "/IMG/Logo/partis/PST.png";
-    $pvl = "/IMG/Logo/partis/PVL.png";
-    $sol = "/IMG/Logo/partis/SOL.png";
-    $udc = "/IMG/Logo/partis/UDC.png";
-    $verts = "/IMG/Logo/partis/Verts.png";
+    //Partis :
+    $pcsi = "/IMG/Logo/Partis/CS-POP.png";
+    $lega = "/IMG/Logo/Partis/LEGA.png";
+    $pbd = "/IMG/Logo/Partis/PBD.png";
+    $pcsi = "/IMG/Logo/Partis/PCSI.png";
+    $pdc = "/IMG/Logo/Partis/PDC.png";
+    $pev = "/IMG/Logo/Partis/PEV.png";
+    $plr = "/IMG/Logo/Partis/PLR.png";
+    $ps = "/IMG/Logo/Partis/PS.png";
+    $pst = "/IMG/Logo/Partis/PST.png";
+    $pvl = "/IMG/Logo/Partis/PVL.png";
+    $sol = "/IMG/Logo/Partis/SOL.png";
+    $udc = "/IMG/Logo/Partis/UDC.png";
+    $verts = "/IMG/Logo/Partis/Verts.png";
 
     //pouvoirs :
     $pouvoirCommunal = "/IMG/Logo/Pouvoirs/communal.png";
@@ -331,7 +331,7 @@
             //FM
             $siteBreuleux = "https://www.breuleux.ch/";
 
-        //PARTIS
+        //Partis
             //FEDERAUX
             $siteUDC = "https://www.udc.ch/parti/"; 
             $sitePS = "https://www.sp-ps.ch/fr";

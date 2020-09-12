@@ -13,7 +13,7 @@
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
         <link rel="stylesheet" href="<?php echo $csselections; ?>"/>
-        0<link rel="stylesheet" href="<?php echo $cssbadges; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssbadges; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>

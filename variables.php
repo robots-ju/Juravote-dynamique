@@ -323,6 +323,7 @@
 
             //DELEMONT
             $siteCourchapoix = "http://www.courchapoix.ch/cpx/";
+            $siteCourtetelle = "https://www.courtetelle.ch/";
             $siteChatillon = "https://chatillon.ch/";
             $siteMettembert = "";
             $siteMovelier = "https://www.movelier.ch/";
@@ -330,6 +331,10 @@
 
             //FM
             $siteBreuleux = "https://www.breuleux.ch/";
+            $siteSaignelégier = "https://www.saignelegier.ch/";
+            $siteMovelier = "https://www.movelier.ch/";
+            $siteBure = "http://www.bure.ch/";
+            $siteRossemaison = "http://rossemaison.ch/";
 
         //Partis
             //FEDERAUX

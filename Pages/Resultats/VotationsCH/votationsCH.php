@@ -89,34 +89,34 @@
                             <li>
                                 <a class="uk-accordion-title">2019</a>
                                 <div class="uk-accordion-content">
-                                    <a href="./2020-2011/2019-02-10/vfédérales.html"><p>Votations fédérales du 10.02.2019</p></a>
-                                    <a href="./2020-2011/2019-05-19/vfédérales.html"><p>Votations fédérales du 19.05.2019</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 10.02.2019</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 19.05.2019</p></a>
                                 </div>
                             </li>
                             <li>
                                 <a class="uk-accordion-title">2018</a>
                                 <div class="uk-accordion-content">
-                                    <a href="./2020-2011/2018-11-25/vfédérales.html"><p>Votations fédérales du 25.11.2018</p></a>
-                                    <a href="./2020-2011/2018-09-23/vfédérales.html"><p>Votations fédérales du 23.09.2018</p></a>
-                                    <a href="./2020-2011/2018-06-10/vfédérales.html"><p>Votations fédérales du 10.06.2018</p></a>
-                                    <a href="./2020-2011/2018-03-04/vfédérales.html"><p>Votations fédérales du 03.04.2018</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 25.11.2018</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 23.09.2018</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 10.06.2018</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 03.04.2018</p></a>
                                 </div>
                             </li>
                             <li>
                                 <a class="uk-accordion-title">2017</a>
                                 <div class="uk-accordion-content">
-                                    <a href="./2020-2011/2017-09-24/vfédérales.html"><p>Votations fédérales du 24.09.2017</p></a>
-                                    <a href="./2020-2011/2017-05-21/vfédérales.html"><p>Votations fédérales du 21.05.2017</p></a>
-                                    <a href="./2020-2011/2017-02-12/vfédérales.html"><p>Votations fédérales du 12.02.2017</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 24.09.2017</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 21.05.2017</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 12.02.2017</p></a>
                                 </div>
                             </li>
                             <li>
                                 <a class="uk-accordion-title">2016</a>
                                 <div class="uk-accordion-content">
-                                    <a href="./2020-2011/2016-11-27/vfédérales.html"><p>Votations fédérales du 27.11.2016</p></a>
-                                    <a href="./2020-2011/2016-09-25/vfédérales.html"><p>Votations fédérales du 25.09.2016</p></a>
-                                    <a href="./2020-2011/2016-06-05/vfédérales.html"><p>Votations fédérales du 05.06.2016</p></a>
-                                    <a href="./2020-2011/2016-02-28/vfédérales.html"><p>Votations fédérales du 28.02.2016</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 27.11.2016</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 25.09.2016</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 05.06.2016</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 28.02.2016</p></a>
                                 </div>
                             </li>
                         </ul>
@@ -126,41 +126,41 @@
                             <li>
                                 <a class="uk-accordion-title">2015</a>
                                 <div class="uk-accordion-content">
-                                    <a href="./2020-2011/2015-06-14/vfédérales.html"><p>Votations fédérales du 14.06.2015</p></a>
-                                    <a href="./2020-2011/2015-03-08/vfédérales.html"><p>Votations fédérales du 08.03.2015</p></a>
+                                    <a href="<?php echo $NOM; ?>l"><p>Votations fédérales du 14.06.2015</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 08.03.2015</p></a>
                                 </div>        
                             </li>
                             <li>
                                 <a class="uk-accordion-title">2014</a>
                                 <div class="uk-accordion-content">
-                                    <a href="./2020-2011/2014-11-30/vfédérales.html"><p>Votations fédérales du 30.11.2014</p></a>
-                                    <a href="./2020-2011/2014-09-28/vfédérales.html"><p>Votations fédérales du 28.09.2014</p></a>
-                                    <a href="./2020-2011/2014-05-18/vfédérales.html"><p>Votations fédérales du 18.05.2014</p></a>
-                                    <a href="./2020-2011/2014-02-09/vfédérales.html"><p>Votations fédérales du 09.02.2014</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 30.11.2014</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 28.09.2014</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 18.05.2014</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 09.02.2014</p></a>
                                 </div>
                             </li>
                             <li>
                                 <a class="uk-accordion-title">2013</a>
                                 <div class="uk-accordion-content">
-                                    <a href="./2020-2011/2013-11-24/vfédérales.html"><p>Votations fédérales du 24.11.2013</p></a>
-                                    <a href="./2020-2011/2013-09-22/vfédérales.html"><p>Votations fédérales du 22.09.2013</p></a>
-                                    <a href="./2020-2011/2013-06-09/vfédérales.html"><p>Votations fédérales du 09.06.2013</p></a>
-                                    <a href="./2020-2011/2013-03-03/vfédérales.html"><p>Votations fédérales du 03.03.2013</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 24.11.2013</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 22.09.2013</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 09.06.2013</p></a>
+                                    <a href="<?php echo $NOM; ?>l"><p>Votations fédérales du 03.03.2013</p></a>
                                 </div>
                             </li>
                             <li>
                                 <a class="uk-accordion-title">2012</a>
                                 <div class="uk-accordion-content">
-                                    <a href="./2020-2011/2012-11-25/vfédérales.html"><p>Votations fédérales du 25.11.2012</p></a>
-                                    <a href="./2020-2011/2012-09-23/vfédérales.html"><p>Votations fédérales du 23.09.2012</p></a>
-                                    <a href="./2020-2011/2012-06-17/vfédérales.html"><p>Votations fédérales du 17.06.2012</p></a>
-                                    <a href="./2020-2011/2012-03-11/vfédérales.html"><p>Votations fédérales du 11.03.2012</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 25.11.2012</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 23.09.2012</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 17.06.2012</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 11.03.2012</p></a>
                                 </div>
                             </li>
                             <li>
                                 <a class="uk-accordion-title">2011</a>
                                 <div class="uk-accordion-content">
-                                    <a href="./2020-2011/2011-02-13/vfédérales.html"><p>Votations fédérales du 13.02.2011</p></a>
+                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 13.02.2011</p></a>
                                 </div>
                             </li>
                         </ul>

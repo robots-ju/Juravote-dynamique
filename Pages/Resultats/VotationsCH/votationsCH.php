@@ -18,6 +18,11 @@
         <script src="<?php echo $jsUikitIcons ?>"></script>
         <script src="<?php echo $jsUikitMin ?>"></script>
         <script src="<?php echo $jsUikitIconsMin ?>"></script>
+        <script src="https://www.amcharts.com/lib/4/core.js"></script>
+        <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+        <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
+        <script src="https://www.amcharts.com/lib/4/geodata/switzerlandHigh.js"></script>
+        <script src="https://www.amcharts.com/lib/4/maps.js"></script>
 
 
         <!-- Global site tag (gtag.js) - Google Analytics -->

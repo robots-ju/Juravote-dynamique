@@ -38,14 +38,14 @@
     </head>
     <body>
     <header>
-        <div class="navbar-normal">
-            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
-        </div>
+            <div class="navbar-normal">
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+            </div>
 
-        <div>
-            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
-        </div>
-    </header>
+            <div>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+            </div>
+        </header>
     <main>
         <section style="padding: 2%;">
             <h1 class="uk-heading-large">Achat de nouveaux avions de combat</h1>

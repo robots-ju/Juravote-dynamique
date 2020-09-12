@@ -196,7 +196,7 @@
 
     $cssIndex = "/Juravote-dynamique/index.css";
 
-    $cssactualites = "/Juravote-dynamique/Pages/Actualites/actualites.css";
+    $cssactualites = "/Pages/Actualites/actualites.css";
 
     $cssequipe = "/Juravote-dynamique/Pages/Equipe/equipe.css";
 

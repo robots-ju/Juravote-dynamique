@@ -30,7 +30,7 @@
                         <a class="uk-button uk-button-text" href="<?php echo $PHPinstances; ?>">Instances politiques</a>
                     </li>
                     <li id="Equipe">
-                        <a href="<?php echo $PHPequipe; ?>">L'équipe Juravote</a>
+                        <a class="uk-button uk-button-text" href="<?php echo $PHPequipe; ?>">L'équipe Juravote</a>
                     </li>                    
                     <li id="Contact">
                         <a class="uk-button uk-button-text" href="#">Contact</a></li>

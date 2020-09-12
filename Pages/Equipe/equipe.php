@@ -122,7 +122,7 @@
                                                 </div>
                                                 <div class="uk-width-expand">
                                                     <h3 class="uk-card-title uk-margin-remove-bottom">Sylvain Lovis</h3>
-                                                    <p class="uk-text-meta uk-margin-remove-top">Admisnistration</p>
+                                                    <p class="uk-text-meta uk-margin-remove-top">Administration</p>
                                                 </div>
                                             </div>
                                         </div>    

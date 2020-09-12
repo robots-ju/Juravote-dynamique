@@ -55,7 +55,7 @@
                         <a href="CongePaternite.php">
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
-                                    <img class="illustration" src="../../../../IMG/Votations/Federales/2020.09.27/CongePaternite.jpg" alt="Référendum congé paternité">
+                                    <img class="illustration" src="<?php echo $CongePaternite ?>" alt="Référendum congé paternité">
                                 </div>
                             </div>
                             <div class="uk-card-body">
@@ -74,7 +74,7 @@
                         <a href="Chasse.php">
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
-                                    <img class="illustration" src="../../../../IMG/Votations/Federales/2020.09.27/Chasse.jpg" alt="Modification loi sur la chasse">
+                                    <img class="illustration" src="<?php echo $chasse ?>" alt="Modification loi sur la chasse">
                                 </div>
                             </div>
                             <div class="uk-card-body">
@@ -93,7 +93,7 @@
                         <a href="InitiativeLimitation.php">
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
-                                    <img class="illustration" src="../../../../IMG/Votations/Federales/2020.09.27/Europe.jpg" alt="Initiative de limitation">
+                                    <img class="illustration" src="<?php echo $Europe ?>" alt="Initiative de limitation">
                                 </div>
                             </div>
                             <div class="uk-card-body">
@@ -112,7 +112,7 @@
                         <a href="ImpotDirect.php">
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
-                                    <img class="illustration" src="../../../../IMG/Votations/Federales/2020.09.27/Sous.jpg" alt="Votation LIFD">
+                                    <img class="illustration" src="<?php echo $Sous ?>" alt="Votation LIFD">
                                 </div>
                             </div>
                             <div class="uk-card-body">
@@ -131,7 +131,7 @@
                         <a href="AvionsCombat.php">
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
-                                    <img class="illustration" src="../../../../IMG/Votations/Federales/2020.09.27/Avions.jpg" alt="Référendum avions de combat">
+                                    <img class="illustration" src="<?php echo $avions ?>" alt="Référendum avions de combat">
                                 </div>
                             </div>
                             <div class="uk-card-body">

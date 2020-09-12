@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Votations fédérales du 27 septembre 2020</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -52,7 +52,7 @@
         </header>
 <main>
     <section style="padding: 2%">
-        <h1 class="uk-heading-large">Résultat des votations fédérales du 09 février 2020</h1>
+        <h1 class="uk-heading-large">Résultat des votations fédérales du 27 septembre 2020</h1>
         <hr>
         <section>
             <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match uk-grid" uk-grid>
@@ -62,7 +62,7 @@
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="#" width="200" height="200" alt="Référendum congé paternité">
+                                        <img src="<?php echo $CongePaternite ?>" width="200" height="200" alt="Référendum congé paternité">
                                     </div>
                                 </div>
                             </div>
@@ -79,7 +79,7 @@
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="#" width="200" height="200" alt="Modification loi sur la chasse">
+                                        <img src="<?php echo $chasse ?>" width="200" height="200" alt="Modification loi sur la chasse">
                                     </div>
                                 </div>
                             </div>
@@ -96,7 +96,7 @@
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="#" width="200" height="200" alt="Initative de limitation">
+                                        <img src="<?php echo $Europe ?>" width="200" height="200" alt="Initative de limitation">
                                     </div>
                                 </div>
                             </div>
@@ -113,7 +113,7 @@
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="#" width="200" height="200" alt="Votation LIFD">
+                                        <img src="<?php echo $Sous ?>" width="200" height="200" alt="Votation LIFD">
                                     </div>
                                 </div>
                             </div>
@@ -129,7 +129,7 @@
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="#" width="200" height="200" alt="Référendum avions de combat">
+                                        <img src="<?php echo $avions ?>" width="200" height="200" alt="Référendum avions de combat">
                                     </div>
                                 </div>
                             </div>

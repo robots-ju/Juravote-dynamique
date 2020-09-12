@@ -48,7 +48,7 @@
     </header>
     <main>
         <section style="padding: 2%;">
-            <h1 class="uk-heading-large">Achat de nouveaux avions de combat</h1>
+            <h1 class="uk-heading-large">texte</h1>
             <hr>
             <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
                 <button class="uk-button uk-button-default" type="button">Résumé</button>

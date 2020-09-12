@@ -76,7 +76,7 @@
                     <div>
                         <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                             <div>
-                                <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card uk-card-default uk-card-body" style="background-color: none">
                                     <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: minus-circle; ratio: 2.5"></span></h3>
                                     <p class="uk-text-center">Verts</p>
                                 </div>
@@ -89,7 +89,7 @@
                             </div>
                             <div>
                                 <div class="uk-card uk-card-default uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="plus-circle; ratio: 2.5"></span></h3>
+                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
                                     <p class="uk-text-center">PEV</p>
                                 </div>
                             </div>

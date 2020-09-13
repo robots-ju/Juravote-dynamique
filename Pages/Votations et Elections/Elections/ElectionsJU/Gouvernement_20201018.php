@@ -53,7 +53,7 @@
         <div class="switcher-buttons uk-text-left" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%">
             <button class="uk-button uk-button-default" type="button">En bref</button>
             <button class="uk-button uk-button-default" type="button">Liste des candidats-es</button>
-            <button class="uk-button uk-button-default" type="button">Présentation des candidats-es</button>
+            <!--<button class="uk-button uk-button-default" type="button">Présentation des candidats-es</button>-->
         </div>  
         <ul class="uk-switcher uk-margin">
             <li>
@@ -317,8 +317,8 @@
                 </div>  
             </li>
             
-            <li>
-            </li>
+            <!--<li>
+            </li>-->
         </ul>        
     </section>
 </main>

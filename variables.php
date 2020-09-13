@@ -223,7 +223,7 @@
     $PHPindex = "/Juravote-dynamique/index.php";
     $PHPvariables ="/Juravote-dynamique/variables.php";
     
-    $PHPactualites = "/Pages/Actualites/actualites.php";
+    $PHPactualites = "/Juravote-dynamique/Pages/Actualites/actualites.php";
 
     $PHPequipe = "/Juravote-dynamique/Pages/Equipe/equipe.php";
 

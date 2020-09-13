@@ -47,7 +47,8 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Votations Val-Terbi du 27 septembre 2020</h1>
         <hr>
-        <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+        <p class="uk-text-center">Les informations seront bientôt disponibles !</p>
+        <!--<div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="EcoleMontsevelier.php">
@@ -85,7 +86,7 @@
                     </a>
                 </div>
             </div>
-        </div>    
+        </div>-->    
     </section>
 </main>
 </body>

@@ -475,117 +475,59 @@
                         études en vue des constructions sur le secteur MDa "Les Arquebusiers", en particulier un bâtiment scolaire ?</p></b>
                 </li>
                 <li>
-                    <div id="chartdiv"></div>
-                    <script>
-                        am4core.useTheme(am4themes_animated);
-
-                        var chart = am4core.create("chartdiv", am4charts.XYChart);
-                        chart.hiddenState.properties.opacity = 0; // this creates initial fade-in
-
-                        chart.paddingBottom = 30;
-
-                        chart.data = [{
-                            "name": "Verts",
-                            "steps": 0
-                        }, {
-                            "name": "CS-POP",
-                            "steps": 0
-                        }, {
-                            "name": "PS",
-                            "steps": 10
-                        }, {
-                            "name": "PEV",
-                            "steps": 10
-                        }, {
-                            "name": "PDC",
-                            "steps": 0
-                        }, {
-                            "name": "PCSI",
-                            "steps": 10
-                        }, {
-                            "name": "PLR",
-                            "steps": 0
-                        }, {
-                            "name": "UDC",
-                            "steps": 0
-                        }];
-
-                        var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
-                        categoryAxis.dataFields.category = "name";
-                        categoryAxis.renderer.grid.template.strokeOpacity = 0;
-                        categoryAxis.renderer.minGridDistance = 10;
-                        categoryAxis.renderer.labels.template.dy = 35;
-                        categoryAxis.renderer.tooltip.dy = 35;
-
-                        var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
-                        valueAxis.renderer.inside = true;
-                        valueAxis.renderer.labels.template.fillOpacity = 0.3;
-                        valueAxis.renderer.grid.template.strokeOpacity = 0;
-                        valueAxis.min = 0;
-                        valueAxis.cursorTooltipEnabled = false;
-                        valueAxis.renderer.baseGrid.strokeOpacity = 0;
-
-                        var series = chart.series.push(new am4charts.ColumnSeries);
-                        series.dataFields.valueY = "steps";
-                        series.dataFields.categoryX = "name";
-                        series.tooltipText = "{valueY.value}";
-                        series.tooltip.pointerOrientation = "vertical";
-                        series.tooltip.dy = - 6;
-                        series.columnsContainer.zIndex = 100;
-
-                        var columnTemplate = series.columns.template;
-                        columnTemplate.width = am4core.percent(50);
-                        columnTemplate.maxWidth = 66;
-                        columnTemplate.column.cornerRadius(60, 60, 10, 10);
-                        columnTemplate.strokeOpacity = 0;
-
-                        series.heatRules.push({ target: columnTemplate, property: "fill", dataField: "valueY", min: am4core.color("#a00000"), max: am4core.color("#35ff00") });
-                        series.mainContainer.mask = undefined;
-
-                        var bullet = columnTemplate.createChild(am4charts.CircleBullet);
-                        bullet.circle.radius = 30;
-                        bullet.valign = "bottom";
-                        bullet.align = "center";
-                        bullet.isMeasured = true;
-                        bullet.mouseEnabled = false;
-                        bullet.verticalCenter = "bottom";
-
-                        var hoverState = bullet.states.create("hover");
-                        var outlineCircle = bullet.createChild(am4core.Circle);
-                        outlineCircle.adapter.add("radius", function (radius, target) {
-                            var circleBullet = target.parent;
-                            return circleBullet.circle.pixelRadius + 10;
-                        })                    
-
-                        image.adapter.add("href", function (href, target) {
-                            var dataItem = target.dataItem;
-                            if (dataItem) {
-                                return "https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/" + dataItem.categoryX.toLowerCase() + ".jpg";
-                            }
-                        })                    
-
-                        var previousBullet;
-                        chart.cursor.events.on("cursorpositionchanged", function (event) {
-                            var dataItem = series.tooltipDataItem;
-
-                            if (dataItem.column) {
-                                var bullet = dataItem.column.children.getIndex(1);
-
-                                if (previousBullet && previousBullet != bullet) {
-                                    previousBullet.isHover = false;
-                                }
-
-                                if (previousBullet != bullet) {
-
-                                    var hs = bullet.states.getKey("hover");
-                                    hs.properties.dy = -bullet.parent.pixelHeight + 30;
-                                    bullet.isHover = true;
-
-                                    previousBullet = bullet;
-                                }
-                            }
-                        })
-                    </script>
+                <h2>Partis delémontains</h2>
+                    <div>
+                        <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+                            <div>
+                                <div class="uk-card uk-card uk-card-body">
+                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
+                                    <p class="uk-text-center">Verts</p>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="uk-card uk-card uk-card-body">
+                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
+                                    <p class="uk-text-center">CS-POP</p>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="uk-card uk-card uk-card-body">
+                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
+                                    <p class="uk-text-center">PS</p>
+                                </div>
+                            </div>
+                            <div>
+                            <div class="uk-card uk-card uk-card-body">
+                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
+                                <p class="uk-text-center">PEV</p>
+                            </div>
+                            </div>
+                            <div>
+                                <div class="uk-card uk-card uk-card-body">
+                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
+                                    <p class="uk-text-center">PDC</p>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="uk-card uk-card uk-card-body">
+                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
+                                    <p class="uk-text-center">PCSI</p>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="uk-card uk-card uk-card-body">
+                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
+                                    <p class="uk-text-center">PLR Jura</p>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="uk-card uk-card uk-card-body">
+                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
+                                    <p class="uk-text-center">UDC Jura</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </li>  
                 <li>            
                 <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>

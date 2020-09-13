@@ -318,16 +318,22 @@
         //COMMUNES
             //AJOIE
             $siteBoncourt = "https://www.boncourt.ch/";
+            $siteCoeuve = "https://coeuve.ch/";
             $siteCornol = "http://www.cornol.ch/fr/";
+            $siteCourgenay = "http://www.courgenay.ch/fr/";
             $siteFahy = "http://www.fahy.ch/";
 
             //DELEMONT
+            $siteBourrignon = "https://www.bourrignon.ch/";
             $siteCourchapoix = "http://www.courchapoix.ch/cpx/";
             $siteCourtetelle = "https://www.courtetelle.ch/";
             $siteChatillon = "https://chatillon.ch/";
+            $siteHauteSorne = "http://www.haute-sorne.ch/";
             $siteMettembert = "";
             $siteMovelier = "https://www.movelier.ch/";
             $sitePleigne = "http://www.pleigne.ch/fr/Administration-et-services.html";
+            $siteSoyhieres = "http://www.soyhieres.ch/";
+            $siteValTerbi = "http://www.val-terbi.ch/";
 
             //FM
             $siteBreuleux = "https://www.breuleux.ch/";

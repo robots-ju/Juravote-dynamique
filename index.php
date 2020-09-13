@@ -276,11 +276,67 @@
                                     </div>
                                 </div>
                             </a>
+                            <a href="<?php echo $siteHauteSorne ?>" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">21.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Haute-Sorne</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="<?php echo $siteBourrignon ?>" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">22.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Bourrignon</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="<?php echo $siteCoeuve ?>" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">22.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Coeuve</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="<?php echo $siteValTerbi ?>" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">22.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Val-Terbi</h3>
+                                    </div>
+                                </div>
+                            </a>
                             <a href="<?php echo $siteRossemaison ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">28.09</div>
                                     <div class="uk-card-body">
                                         <h3 class="uk-card-title uk-align-left">Rossemaison</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="<?php echo $siteCourgenay ?>" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">28.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Courgenay</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="<?php echo $siteSoyhieres ?>" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">29.09</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Soyhières</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="<?php echo $siteBreuleux ?>" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">05.10</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Les Breuleux</h3>
                                     </div>
                                 </div>
                             </a>

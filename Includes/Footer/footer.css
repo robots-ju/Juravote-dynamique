@@ -2,6 +2,10 @@
     color: #FDFFFF #6D7275 #0C120C #D20603 #990000;
 }
 
+footer {
+    background-color: #990000;
+}
+
 footer h3 {
     color:white;
 }
@@ -35,8 +39,7 @@ footer h3 {
 
 .separateur {
     width:100%;
-    height: 300%;
-    background-color: none;
+    height: 200px;
 }
 
 .Discord {

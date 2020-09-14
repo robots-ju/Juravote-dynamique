@@ -12,6 +12,7 @@
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssbadges; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -55,148 +56,77 @@
             </div>  
             <ul class="uk-switcher uk-margin">
                 <li> 
-                    <div class="uk-column-1-3@m uk-column-1-1@s">
+                    <div class="uk-column-1-2@m uk-column-1-1@s">
                         <h3>Préambule</h3>
-                        <p>La Commune est propriétaire de plusieurs immeubles qui se trouvent dans des états très variables. Alors que
-                        certains sont neufs ou viennent d'être rénovés, d'autres sont vieux, ne sont plus aux normes et coûtent très cher
-                        à la collectivité en termes d'énergie.
+                        <p>Le règlement d'organisation et d'administration des eaux du Val-Terbi (SEVT) fixe l'ensemble des règles
+                        et des prescriptions assurant le bon fonctionnement du Service des eaux du Val-Terbi. A la suite de l'
+                        intégration de Corban dans la Commune de Val-Terbi le 1er janvier 2018, une adaptation du règlement d'
+                        organisation s'impose afin de tenir compte de la nouvele situation. Pour mémoire, les domaines d'activités
+                        du SEVT sont :
                         </p>
 
-                        <p>Le Conseil communal a décidé de constituer au début 2018 une commission
-                        communale "bâtiments et énergie" avec pour mandat d'étudier les mesures d'assainissement en matière énergétique
-                        pour son parc immobilier.
+                        <ol>
+                            <li>L'élaboration des projets et la réalisation des installations d'approvisionnement, d'adduction,
+                            d'interconnexion et de distribution des réseaux publics d'eau potable ;</li>
+                            <li>L'entretien, le maintien et l'état, l'exploitation et l'extension des ouvrages, des installations,
+                            des conduites et des équipements servant au captage, à l'approvisionnement, l'adduction, l'interconnexion,
+                            la distribution de l'eau potable, pour les communes de Courchapoix, Mervelier et les localités de Corban,
+                            Montsevelier et Vicques</li>
+                        </ol>                        
+
+                        <h3>Contenu</h3>
+                        <p>Le Comité du SEVT a procédé à une révision du règlement actuellement en vigueur. Les principales
+                        modifications sont les suivantes :
                         </p>
 
-                        <h3>Planification d'assainnissement</h3>
-                        <p>Les résultats des CECB+ ont permis au Conseil communal de fixer des priorités pour l'assainissement énergétique
-                        des différents bâtiments. Un des immeubles retenus pour un assainissement prioritaire est l'école primaire de
-                        Montsevelier.
-                        </p>
-
-                        <p>Afin d'affiner le planning de réalisation, les autorités ont dû prendre en compte les possibilités de
-                        subventionnement par le Canton. C'est ainsi que les travaux à l'école de Montsevelier ont été inscrits en
-                        première ligne du calendrier.
-                        </p>
-                                        
-                        <h3>Clause du besoin</h3>
-                        <p>L'école primaire de Montsevelier est composée de trois corps de bâtiments. La partie ouest comprend la halle
-                        qui a entièrement été refaite en 2017. La partie centrale a été construction en 1960.Le bâtiment Est a, quant à
-                        lui, été construit en 1977.
-                        </p>
-
-                        <p>Le CECB+ a montré une efficacité de l'enveloppe du bâtiment insatisfaisante, les pertes calorifiques dépassant
-                        de 4,4 fois les exigences actuelles pour les nouvelles constructions. L'efficacité énergétique globale est également
-                        insatisfaisante, les besoins pondérés dépassant de 3,5 fois ceux des nouvelles constructions.
-                        </p>
+                        <ol>
+                            <li>Le travail de révision a consisté avant tout en un toilettage à la suite de l'intégration de Corban
+                            dans la Commune de Val-Terbi ;</li>
+                            <li>La composition des différents organes a été revue ;</li>
+                            <li>Dans la foulée, une augmentation des seuils de compétences financières a été prévue, afin d'offrir
+                            une plus grande marge de manoeuvre au comité.</li>
+                        </ol>
                     </div>
 
-                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-top: 2%;">
-                        <h3>Descriptif du projet</h3>
-                        <p>Le projet comporte deux volets bien distincts. L'un concerne l'assainissement énergétique du bâtiment
-                        central et du bâtiment Est. L'autre traite du remplacement du chauffage à mazout de l'ensemble scolaire
-                        par un chauffage par pompe à chaleur.
-                        </p>
-                        <p>Les façades des deux corps de bâtiment seront isolées par l'extérieur, avec une isolation périphérique crépie.
-                        Les portes extérieures seront remplacées, tout comme les fenêtres en bois du bâtiment Est, par des fenêtres en
-                        bois-métal à vitrage triple. Les fenêtres du bâtiment central ont été remplacées il y a quelques années et sont
-                        encore en très bon état. De nouveaux stores à lamelle seront posés. Ils seront motorisés et couplés à une centrale
-                        météo afin de limiter le réchauffement des classes en été.
-                        </p>
+                    <table class="uk-table uk-table-striped"  style="padding-top: 2%;">
+                        <thead>
+                            <tr>
+                                <th>Objet</th>
+                                <th>Règlement actuel</th>
+                                <th>Règlement futur</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Composition du Comité</td>
+                                <td>Le comité se compose de 5 membres, un pour chacune des communes de Corban, Mervelier et
+                                Courchapoix, et 2 pour val-Terbi, ainsi que d'un suppléant par commune choisi parmi les membres
+                                des conseils communaux ou généraux et désignés par les conseils communaux.</td>
+                                <td>Le comité se compose de 7 membres, deux pour chacune des communes de Mervelier
+                                Courchapoix, et 3 pour Val-Terbi, domiciliés dans la mesure du possible dans chacune des localités,
+                                ainsi que d'un suppléant par commune. Ils sont choisis parmi les membres des conseils communaux ou
+                                généraux et désignés par les communes.</td>
+                            </tr>
 
-                        <p>Le bâtiment central sera isolé sous la dalle des classes et au niveau du plancher des combles. Les tuiles du
-                        bâtiment Est sont en mauvais état et seront remplacées. Une isolation en laine de bois sera préalablement posée
-                        sur les chevrons existants. Trois lucarnes seront créées sur le pan Est permettant d'apporter de la lumière
-                        naturelle dans les salles des combles utilisées pour la couture et la fanfare.
-                        </p>
-
-                        <img src="<?php echo $EcoleMontsevelierPlan ?>">
-                    </div>                    
-
-                    <p>En outre, tout le système de canalisation sera revu afin de séparer les eaux pluviales des eaux usées. Le terrain
-                    ne se prêtant pas à l'infiltration, une conduite est prévue pour rejoindre un drainage existant allant à l'étang
-                    situé bien plus à l'ouest. La butte de terre en façade nord du corps central sera supprimée. Les aménagements extérieurs
-                    seront refaits aux abords immédiats des bâtiments assainis, tout comme l'accès piéton menant à l'école depuis le chemin
-                    des Cerisiers.
-                    </p>
-
-                    <p>Le chauffage à mazout sera démonté et les deux citernes évacuées. Quelques travaux intérieurs sont prévus, tels que
-                    la pose de portes afin de réaffecter en réduit les anciens locaux citernes. Deux pompes à chaleur air/eau prendront place
-                    en façade Nord, devant le local chauffage actuel. La nouvelle installation chauffera l'ensemble du bâtiment, halle de
-                    gymnastique comprise. Hormis les travaux décrits, il n'est pas prévu de transformations intérieures.
-                    </p>
-
-                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-top: 2%;">
-                        <table class="uk-table uk-table-striped">
-                            <thead>
-                                <tr>
-                                    <th>Prestations</th>
-                                    <th>Estimation des coûts</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Travaux préparatoires</td>
-                                    <td>11'000.-</td>
-                                </tr>
-
-                                <tr>
-                                    <td>Bâtiment</td>
-                                    <td>1'115'000.-</td>
-                                </tr>
-
-                                <tr>
-                                    <td>Aménagements extérieures</td>
-                                    <td>132'000.-</td>
-                                </tr>
-
-                                <tr>
-                                    <td>Frais secondaires et réserve</td>
-                                    <td>92'000.-</td>
-                                </tr>
-
-                                <tr>
-                                    <td><b>Total</b></td>
-                                    <td><b>1'350'000.-</b></td>
-                                </tr>
-                            </tbody>
-                        </table>
-
-                        <h3>Financement</h3>
-                        <p>Le Service de l'Enseignement a reconnu la clause du besoin et entre en matière pour un subventionnement des
-                        travaux. Le montant de la subvention est estimé à Fr. 202'000.-. Il s'agit là d'un montant indicatif minimal.
-                        Une subvention de Fr. 11'800.- est escomptée pour le remplacement du chauffage. De plus, un montant de
-                        Fr. 45'000.- est attendu pour l'assainissement de l'enveloppe thermique.
-                        </p>                        
-                    
-                        <h3>La question qui vous est posée :</h3>
-                        <b><p>Acceptez-vous, selon message du Conseil général, le crédit de Fr 1'350'000.- pour l'assainissement énergétique
-                        de l'Ecole de Montsevelier ?</p></b>
-                    </div>
-                </li>
-                <li>
-                <h2>Partis de Val-Terbi</h2>
-                    <div>
-                        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>                           
-                            <div>
-                                <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">PDC</p>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">Val-Terbi Ensemble</p>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">COVAL</p>
-                                </div>
-                            </div>                            
-                        </div>
-                    </div>
+                            <tr>
+                                <td>Composition de l'Assemblée des Délégués</td>
+                                <td>L'Assemblée des Délégués se compose des représentants des communes membres du SEVT, selon la
+                                répartition suivante :
+                                    <ul>
+                                        <li>1 délégué et 1 suppléant faisant partie des conseils communaux et désignés par ces
+                                        derniers, en incluant d'office ceux qui sont membres du comité du SEVT ;</li>
+                                        <li>2 autres délégués et 1 suppléant par commune, nommés conformément à l'article 4,
+                                        alinéa 1, lettre 3, jusqu'à 400 habitants ;</li>
+                                        <li>1 délégué nommé conformément à l'article 4, alinéa 1, lettre e, par tranche
+                                        supplémentaire de 400 habitants.</li>
+                                    </ul>
+                                </td>
+                                <td>L'Assemblée des Délégués se compose de onze membres. Cinq délégués et un suppléant pour
+                                la commune de Val Terbi, trois délégués et un suppléant pour la commune de Courchapoix et trois
+                                délégués et un suppléant pour la commune de Mervelier.</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </li>  
                 <li>            
                 <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>

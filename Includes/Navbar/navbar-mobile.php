@@ -18,33 +18,23 @@
             <div class="uk-offcanvas-bar">
                 <button class="uk-offcanvas-close" type="button" uk-close></button>
                 <ul class="uk-nav uk-nav-default uk-list uk-list-divider">
-                    <li id="Accueil">
-                        <a class="uk-button uk-button-text" href="#">Accueil</a></li>
-                    <li id="Actualites">
-                        <a class="uk-button uk-button-text" href="#">Actualités</a></li>
-                    <li id="Votations">
-                        <a class="uk-button uk-button-text" href="#">Prochaines votations</a>
+                <li id="Accueil">
+                        <a href="<?php echo $PHPindex; ?>">Accueil</a>
                     </li>
-                    <li id="Elections">
-                        <a class="uk-button uk-button-text" href="#">Prochaines élections</a>
+                    <li id="News">
+                        <a href="<?php echo $PHPactualites; ?>">Actualités politiques</a>
+                    </li>
+                    <li id="Votations">
+                        <a href="<?php echo $PHPvotationselectionsAccueil; ?>">Prochaines votations et élections</a>
                     </li>
                     <li id="Resultats">
-                        <a class="uk-button uk-button-text" href="#">Derniers résultats</a></li>
-                    <li id="Presentations">
-                        <a class="uk-button uk-button-text" href="#">Partis politiques</a>
-                    </li>
+                        <a href="<?php echo $PHPresultats; ?>">Archives des résultats</a></li>
                     <li id="Instances">
-                        <a class="uk-button uk-button-text" href="#">Instances politiques</a>
+                        <a href="<?php echo $PHPinstances; ?>">Instances politiques</a>
+                    </li>                
+                    <li id="Equipe">
+                        <a href="<?php echo $PHPequipe; ?>">L'équipe Juravote</a>
                     </li>
-                    <li id="Actualites">
-
-                        <a class="uk-button uk-button-text" href="#">Actualités politiques</a>
-
-                    </li>
-                    <li id="archives">
-                        <a class="uk-button uk-button-text" href="#">Archives</a></li>
-                    <li id="Contact">
-                        <a class="uk-button uk-button-text" href="#">Contact</a></li>
                     <li><a class="uk-button uk-button-tex" href="https://twitter.com/JuraVote/" target="_blank"
                         uk-icon="icon: twitter; ratio: 1.2"></a></li>
                     <li><a class="uk-button uk-button-tex" href="https://www.instagram.com/juravote/?hl=fr" target="_blank"

@@ -47,20 +47,20 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Votations Val-Terbi du 27 septembre 2020</h1>
         <hr>
-        <p class="uk-text-center">Les informations seront bientôt disponibles !</p>
-        <!--<div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+        <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="EcoleMontsevelier.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="#" alt="Objet 1">
+                                <img class="uk-align-center" src="<?php echo $EcoleMontsevelier ?>" alt="Ecole de Montsevelier" width="500" height="500">
                             </div>
                         </div>
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Objet 1</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Crédit de Fr. 1'350'000.- pour
+                                    l'assainissement énergétique de l'école de Montsevelier</h3>
                                 </div>
                             </div>
                         </div>
@@ -73,20 +73,21 @@
                     <a href="SEVT.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="#" alt="Objet 2">
+                                <img class="uk-align-center" src="<?php echo $SEVT ?>" alt="Syndicat des eaux du Val-Terbi" width="500" height="500">
                             </div>
                         </div>
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Objet 2</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Règlement d'organisation et d'administration
+                                    du Syndicat des eaux du Val-Terbi</h3>
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
             </div>
-        </div>-->    
+        </div>   
     </section>
 </main>
 </body>

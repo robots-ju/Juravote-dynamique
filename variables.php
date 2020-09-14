@@ -184,6 +184,11 @@
         $Vache = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Vache.jpg";
         $Vélo = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Vélo.jpg";
 
+        //Objets communaux
+        $SEVT = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/SEVT.jpg";
+        $EcoleMontsevelier = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier.jpg";
+        $EcoleMontsevelierPlan = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier_Plan.jpg";
+
 //FICHIERS
     //CSS
     $cssMain = "/Juravote-dynamique/CSS/main.css";    

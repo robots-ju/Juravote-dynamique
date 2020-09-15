@@ -475,56 +475,55 @@
                         études en vue des constructions sur le secteur MDa "Les Arquebusiers", en particulier un bâtiment scolaire ?</p></b>
                 </li>
                 <li>
-                <h2>Partis delémontains</h2>
-                    <div>
-                        <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
-                            <div>
-                                <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">Alternative de Gauche</p>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">PS</p>
-                                </div>
-                            </div>
-                            <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">PEV</p>
-                            </div>
-                            </div>
-                            <div>
-                                <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">PDC</p>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">PCSI</p>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">PLR</p>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">UDC</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <h2>Partis delémontains</h2>
+                    <table class="uk-table">
+                        <thead>
+                            <tr>
+                                <th class="uk-text-center">Verts + CS-POP</th>
+                                <th class="uk-text-center">PS</th>
+                                <th class="uk-text-center">PEV</th>
+                                <th class="uk-text-center">PDC</th>
+                                <th class="uk-text-center">PCSI</th>
+                                <th class="uk-text-center">PLR</th>
+                                <th class="uk-text-center">UDC</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
+                            </tr>
+                        </tbody>
+                    </table>    
+                    <h2>Autorités communales</h2>
+                    <table class="uk-table">
+                        <thead>
+                            <tr>
+                                <th class="uk-text-center">Conseil communal</th>
+                                <th class="uk-text-center">Conseil de ville</th>
+                                <th class="uk-text-center">Commission d'urbanisme, d'environnement et des travaux publics</th>
+                                <th class="uk-text-center">Commission d'école</th>
+                                <th class="uk-text-center">Commission des finances</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            </tr>
+                        </tbody>
+                    </table>                    
                 </li>  
                 <li>            
-                <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil de ville</div>
@@ -610,6 +609,24 @@
                             <h3 class="uk-card-title"></h3>                            
                             <p>Le projet permettra à nos enfants d'apprendre dans de bonnes conditions.</p>
                         </div>
+                    </div>   
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts + CS-POP</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Les logements à loyers modérés sont absolument nécessaires, et une réflexion quant à la surabondance
+                            de logements vides, et neufs, à Delémont, doit être menée.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts + CS-POP</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Les besoins en réfectoire, salle de gym et places de parc ont été pris compte, tout comme
+                            un plan climat et un plan mobilité</p>
+                        </div>
                     </div>
 
                     <div>
@@ -640,31 +657,6 @@
                             « Quartier durable ». Cette certification vise à assurer  que la mobilité, la gestion des
                             eaux, la nature en ville, la qualité de vie et la mixité sociale respectent les conditions
                             de durabilité.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Alternative de Gauche</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Prise en compte d'un plan climat et d'un plan mobilité</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Alternative de Gauche</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Les logements à loyers modérés sont absolument nécessaires, et une réflexion quant à la surabondance
-                            de logements vides, et neufs, à Delémont, doit être menée.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Alternative de Gauche</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Les besoins en réfectoire, salle de gym et places de parc ont été pris compte.</p>
                         </div>
                     </div>
                 </li>

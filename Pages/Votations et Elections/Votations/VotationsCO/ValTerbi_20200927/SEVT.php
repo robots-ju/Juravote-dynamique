@@ -88,17 +88,17 @@
                         </ol>
                     </div>
 
-                    <table class="uk-table uk-table-striped"  style="padding-top: 2%;">
+                    <table class="uk-table uk-table-hover uk-table-striped"  style="padding-top: 2%;">
                         <thead>
                             <tr>
-                                <th>Objet</th>
+                                <th class="uk-width-auto">Objet</th>
                                 <th>Règlement actuel</th>
                                 <th>Règlement futur</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Composition du Comité</td>
+                                <td><b>Comité</b></td>
                                 <td>Le comité se compose de 5 membres, un pour chacune des communes de Corban, Mervelier et
                                 Courchapoix, et 2 pour val-Terbi, ainsi que d'un suppléant par commune choisi parmi les membres
                                 des conseils communaux ou généraux et désignés par les conseils communaux.</td>
@@ -109,7 +109,7 @@
                             </tr>
 
                             <tr>
-                                <td>Composition de l'Assemblée des Délégués</td>
+                                <td><b>Assemblée des Délégués</b></td>
                                 <td>L'Assemblée des Délégués se compose des représentants des communes membres du SEVT, selon la
                                 répartition suivante :
                                     <ul>
@@ -125,66 +125,150 @@
                                 la commune de Val Terbi, trois délégués et un suppléant pour la commune de Courchapoix et trois
                                 délégués et un suppléant pour la commune de Mervelier.</td>
                             </tr>
+
+                            <tr>
+                                <td><b>Compétences financières (communes)</b></td>
+                                <td>Dépenses nouvelles dépassant le 10 % du budget de fonctionnement.
+                                </td>
+                                <td><p>Dépenses nouvelles dépassant le 10 % du budget de fonctionnement</p>
+                                    <p>Crédits supplémentaires dépassant 10 % du budget de fonctionnement.</p></td>
+                            </tr>
+
+                            <tr>
+                                <td><b>Compétences financières (Assemblée des Délégués)</b></td>
+                                <td><p>Dépenses nouvelles dépassant Fr. 25'000.- par objet.</p>
+                                    <p>Crédits supplémentaires dépassant de plus de Fr 25'000.- les crédits autorisés.</p>
+                                    <p>Acquisition ou vente de biens-fonds et constitution de droits réels sur les immeubles
+                                    lorsque le prix dépasse Fr. 25'000.-.</p>
+                                </td>
+                                <td><p>Dépenses nouvelles dépassant Fr. 50'000.- par objet.</p>
+                                    <p>Crédits supplémentaires dépassant de plus de Fr 50'000.- les crédits autorisés.</p>
+                                    <p>Acquisition ou vente de biens-fonds et constitution de droits réels sur les immeubles
+                                    lorsque le prix dépasse Fr. 50'000.-.</p>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td><b>Compétences financières (Comité)</b></td>
+                                <td><p>Dépenses nouvelles dépassant et crédits complémentaires inférieurs à
+                                    Fr. 25'000.- par objet.</p>
+                                    <p>Acquisition ou vente de biens-fonds et constitution de droits réels sur les immeubles
+                                    lorsque le prix est inférieur Fr. 25'000.-.</p>
+                                </td>
+                                <td><p>Dépenses nouvelles dépassant et crédits complémentaires inférieurs à
+                                    Fr. 50'000.- par objet.</p>
+                                    <p>Acquisition ou vente de biens-fonds et constitution de droits réels sur les immeubles
+                                    lorsque le prix est inférieur Fr. 50'000.-.</p>
+                                </td>
+                            </tr>
                         </tbody>
                     </table>
                 </li>  
                 <li>            
-                <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+                <h2>Partis de Val-Terbi</h2>
                     <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Commissions communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Le projet a été préparé avec une vision long terme, qui tient compte aussi des finances communales (retour sur investissement).</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil communal</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Le projet prévoit une rénovation de l'enveloppe du bâtiment correspondant au standard Minergie.
-                            Il offre par conséquent des perspectives intéressantes en matière d'économie d'énergie.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil communal</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Le projet présenté a été développé en concertation étroite avec les Commissions communales, appuyées par des
-                            ingénieurs spécialisés et des architectes.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil communal</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>La réhabilitation énergétique est également l'occasion d'améliorer à long terme le confort et la valeur du bâtiment.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil communal</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Dans le contexte de la crise sanitaire liée au Covid-19, il appartient plus que jamais aux collectivités publiques de
-                            contribuer à la relance économique en concrétisant la réalisation de leurs projets.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil communal</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>La rénovation de l'Ecole de Montsevelier est également l'opportunité de faire un pas en direction de l'environnement.</p>
+                        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>                           
+                            <div>
+                                <div class="uk-card uk-card uk-card-body">
+                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
+                                    <p class="uk-text-center">PDC</p>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="uk-card uk-card uk-card-body">
+                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
+                                    <p class="uk-text-center">Val-Terbi Ensemble</p>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="uk-card uk-card uk-card-body">
+                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
+                                    <p class="uk-text-center">COVAL</p>
+                                </div>
+                            </div>                            
                         </div>
                     </div>
                 </li>
                 <li>
-                <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
-                <h4>Il n'y a pas d'oppositions à ce projet !</h4>
-                    <!--<div>
+                <h4>Aucun argument n'a été formulé par les partisans du texte !</h4>
+                
+                <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
+                        <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>TEXTE</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>TEXTE</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>TEXTE</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>TEXTE</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>TEXTE</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>TEXTE</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>TEXTE</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>TEXTE</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>TEXTE</p>
+                        </div>
+                    </div>-->
+                </li>
+                <li>
+                    <h4>Il n'y a pas d'oppositions à ce projet !</h4>
+                    <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
+                        <div>
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                             <h3 class="uk-card-title"></h3>                            

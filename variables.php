@@ -5,7 +5,7 @@
     //communes :
     $communeBonfol = "/IMG/Logo/Communes/Bonfol.png";
     $communeChatillon = "/IMG/Logo/Communes/Chatillon.png";
-    $communeCourtedoux ="Juravote-dynamique/IMG/Logo/Communes/Courtedoux.png";
+    $communeCourtedoux ="/IMG/Logo/Communes/Courtedoux.png";
     $communeCourtetelle = "/IMG/Logo/Communes/Courtetelle.png";
     $communeDelemont = "/IMG/Logo/Communes/Delemont.png";
     $communeDevelier = "/IMG/Logo/Communes/Develier.png";
@@ -13,7 +13,7 @@
     $communeHauteSorne = "/IMG/Logo/Communes/HauteSorne.png";
     $communeLajoux = "/IMG/Logo/Communes/Lajoux.png";
     $communeLesBois = "/IMG/Logo/Communes/LesBois.png";
-    $communeMovelier = "Juravote-dynamique/IMG/Logo/Communes/Movelier.png";
+    $communeMovelier = "/IMG/Logo/Communes/Movelier.png";
     $communePorrentruy = "/IMG/Logo/Communes/Porrentruy.png";
     $communeValTerbi = "/IMG/Logo/Communes/ValTerbi.png";
 
@@ -185,9 +185,9 @@
         $Vélo = "/IMG/Votations/BANQUE_IMAGE/Vélo.jpg";
 
         //Objets communaux
-        $SEVT = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/SEVT.jpg";
-        $EcoleMontsevelier = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier.jpg";
-        $EcoleMontsevelierPlan = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier_Plan.jpg";
+        $SEVT = "/IMG/Votations/BANQUE_IMAGE/SEVT.jpg";
+        $EcoleMontsevelier = "/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier.jpg";
+        $EcoleMontsevelierPlan = "/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier_Plan.jpg";
 
 //FICHIERS
     //CSS
@@ -228,7 +228,7 @@
     $PHPindex = "/index.php";
     $PHPvariables ="/variables.php";
     
-    $PHPactualites = "/Juravote-dynamique/Pages/Actualites/actualites.php";
+    $PHPactualites = "/Pages/Actualites/actualites.php";
 
     $PHPequipe = "/Pages/Equipe/equipe.php";
 
@@ -311,13 +311,13 @@
     $jsUikitIconsMin ="/JS/uikit-icons.min.js";
 
     //AMCHARTS4
-    $JScharts = "Juravote-dynamique/JS/amcharts4/charts.js";
-    $JScore = "Juravote-dynamique/JS/amcharts4/core.js";
-    $JSmaps = "Juravote-dynamique/JS/amcharts4/maps.js";
+    $JScharts = "/JS/amcharts4/charts.js";
+    $JScore = "/JS/amcharts4/core.js";
+    $JSmaps = "/JS/amcharts4/maps.js";
 
     //GEODATA
-    $JSworldLow = "Juravote-dynamique/JS/geodata/worldLow.js";
-    $JSswitzerlandHigh = "Juravote-dynamique/JS/geodata/switzerlandHigh.js";
+    $JSworldLow = "/JS/geodata/worldLow.js";
+    $JSswitzerlandHigh = "/JS/geodata/switzerlandHigh.js";
 
     //SITES INTERNET
         //COMMUNES

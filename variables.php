@@ -184,6 +184,11 @@
         $Vache = "/IMG/Votations/BANQUE_IMAGE/Vache.jpg";
         $Vélo = "/IMG/Votations/BANQUE_IMAGE/Vélo.jpg";
 
+        //Objets communaux
+        $SEVT = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/SEVT.jpg";
+        $EcoleMontsevelier = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier.jpg";
+        $EcoleMontsevelierPlan = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier_Plan.jpg";
+
 //FICHIERS
     //CSS
     $cssMain = "/CSS/main.css";    
@@ -223,7 +228,7 @@
     $PHPindex = "/index.php";
     $PHPvariables ="/variables.php";
     
-    $PHPactualites = "/Pages/Actualites/actualites.php";
+    $PHPactualites = "/Juravote-dynamique/Pages/Actualites/actualites.php";
 
     $PHPequipe = "/Pages/Equipe/equipe.php";
 

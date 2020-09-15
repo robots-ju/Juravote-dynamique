@@ -46,7 +46,7 @@
                 <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
-<main>
+        <main>
     <section class="uk-text-justify" style="padding: 2%;">
         <h1 class="uk-heading-large">Votation Delémont du 27 septembre 2020</h1>
         <hr>
@@ -480,14 +480,8 @@
                         <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                             <div>
                                 <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">Verts</p>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">CS-POP</p>
+                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
+                                    <p class="uk-text-center">Alternative de Gauche</p>
                                 </div>
                             </div>
                             <div>
@@ -645,7 +639,32 @@
                             intégrant les exigences énergétiques du label « Site à 2000 watts » et les exigences d’un
                             « Quartier durable ». Cette certification vise à assurer  que la mobilité, la gestion des
                             eaux, la nature en ville, la qualité de vie et la mixité sociale respectent les conditions
-                            de durabilité. </p>
+                            de durabilité.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Alternative de Gauche</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Prise en compte d'un plan climat et d'un plan mobilité</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Alternative de Gauche</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Les logements à loyers modérés sont absolument nécessaires, et une réflexion quant à la surabondance
+                            de logements vides, et neufs, à Delémont, doit être menée.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Alternative de Gauche</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Les besoins en réfectoire, salle de gym et places de parc ont été pris compte.</p>
                         </div>
                     </div>
                 </li>

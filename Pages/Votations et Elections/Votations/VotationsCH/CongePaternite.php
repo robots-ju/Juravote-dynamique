@@ -47,7 +47,7 @@
                 <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
-<main>
+        <main>
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Introduction d'une loi sur le congé paternité</h1>
         <hr>

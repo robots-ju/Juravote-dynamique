@@ -47,7 +47,7 @@
                 <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
-<main>
+        <main>
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Initiative populaire "de limitation"</h1>
         <hr>

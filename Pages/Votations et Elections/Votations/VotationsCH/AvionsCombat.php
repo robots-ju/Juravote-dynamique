@@ -46,7 +46,7 @@
                 <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
-    <main>
+        <main>
         <section style="padding: 2%;">
             <h1 class="uk-heading-large">Achat de nouveaux avions de combat</h1>
             <hr>

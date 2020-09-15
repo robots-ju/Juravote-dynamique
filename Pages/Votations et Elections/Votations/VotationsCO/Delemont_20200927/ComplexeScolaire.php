@@ -511,13 +511,13 @@
                             <div>
                                 <div class="uk-card uk-card uk-card-body">
                                     <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">PLR Jura</p>
+                                    <p class="uk-text-center">PLR</p>
                                 </div>
                             </div>
                             <div>
                                 <div class="uk-card uk-card uk-card-body">
                                     <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">UDC Jura</p>
+                                    <p class="uk-text-center">UDC</p>
                                 </div>
                             </div>
                         </div>

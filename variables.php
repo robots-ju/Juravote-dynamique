@@ -3,144 +3,144 @@
 
 //IMAGES
     //communes :
-    $communeBonfol = "/IMG/Logo/Communes/Bonfol.png";
-    $communeChatillon = "/IMG/Logo/Communes/Chatillon.png";
-    $communeCourtedoux ="/IMG/Logo/Communes/Courtedoux.png";
-    $communeCourtetelle = "/IMG/Logo/Communes/Courtetelle.png";
-    $communeDelemont = "/IMG/Logo/Communes/Delemont.png";
-    $communeDevelier = "/IMG/Logo/Communes/Develier.png";
-    $communeGenevez = "/IMG/Logo/Communes/Genevez.png";
-    $communeHauteSorne = "/IMG/Logo/Communes/HauteSorne.png";
-    $communeLajoux = "/IMG/Logo/Communes/Lajoux.png";
-    $communeLesBois = "/IMG/Logo/Communes/LesBois.png";
-    $communeMovelier = "/IMG/Logo/Communes/Movelier.png";
-    $communePorrentruy = "/IMG/Logo/Communes/Porrentruy.png";
-    $communeValTerbi = "/IMG/Logo/Communes/ValTerbi.png";
+    $communeBonfol = "/Juravote-dynamique/IMG/Logo/Communes/Bonfol.png";
+    $communeChatillon = "/Juravote-dynamique/IMG/Logo/Communes/Chatillon.png";
+    $communeCourtedoux ="Juravote-dynamique/IMG/Logo/Communes/Courtedoux.png";
+    $communeCourtetelle = "/Juravote-dynamique/IMG/Logo/Communes/Courtetelle.png";
+    $communeDelemont = "/Juravote-dynamique/IMG/Logo/Communes/Delemont.png";
+    $communeDevelier = "/Juravote-dynamique/IMG/Logo/Communes/Develier.png";
+    $communeGenevez = "/Juravote-dynamique/IMG/Logo/Communes/Genevez.png";
+    $communeHauteSorne = "/Juravote-dynamique/IMG/Logo/Communes/HauteSorne.png";
+    $communeLajoux = "/Juravote-dynamique/IMG/Logo/Communes/Lajoux.png";
+    $communeLesBois = "/Juravote-dynamique/IMG/Logo/Communes/LesBois.png";
+    $communeMovelier = "Juravote-dynamique/IMG/Logo/Communes/Movelier.png";
+    $communePorrentruy = "/Juravote-dynamique/IMG/Logo/Communes/Porrentruy.png";
+    $communeValTerbi = "/Juravote-dynamique/IMG/Logo/Communes/ValTerbi.png";
 
     //districts :
-    $districtDelemont = "/IMG/Logo/Districts/Delemont.png";
-    $districtFranchesMontagnes = "/IMG/Logo/Districts/Franches-montagnes.png";
-    $districtPorrentruy = "/IMG/Logo/Districts/Porrentruy.png";
+    $districtDelemont = "/Juravote-dynamique/IMG/Logo/Districts/Delemont.png";
+    $districtFranchesMontagnes = "/Juravote-dynamique/IMG/Logo/Districts/Franches-montagnes.png";
+    $districtPorrentruy = "/Juravote-dynamique/IMG/Logo/Districts/Porrentruy.png";
 
     //juravote :
-    $juravoteLogo = "/IMG/Logo/JuraVote/Logo.png";
-    $juravoteIcon = "/IMG/Logo/JuraVote/Icon.png";
-    $juravoteLogoIcon = "/IMG/Logo/JuraVote/LogoIcon.png";
-    $juravoteTwitter = "/IMG/Logo/ReseauxSociaux/Bannieres/Twitter.png";
-    $juravoteFacebook = "/IMG/Logo/ReseauxSociaux/Bannieres/Facebook.png";
-    $iconDiscord = "/IMG/Logo/ReseauxSociaux/Discord.png";
+    $juravoteLogo = "/Juravote-dynamique/IMG/Logo/JuraVote/Logo.png";
+    $juravoteIcon = "/Juravote-dynamique/IMG/Logo/JuraVote/Icon.png";
+    $juravoteLogoIcon = "/Juravote-dynamique/IMG/Logo/JuraVote/LogoIcon.png";
+    $juravoteTwitter = "/Juravote-dynamique/IMG/Logo/ReseauxSociaux/Bannieres/Twitter.png";
+    $juravoteFacebook = "/Juravote-dynamique/IMG/Logo/ReseauxSociaux/Bannieres/Facebook.png";
+    $iconDiscord = "/Juravote-dynamique/IMG/Logo/ReseauxSociaux/Discord.png";
 
-    //Partis :
-    $pcsi = "/IMG/Logo/Partis/CS-POP.png";
-    $lega = "/IMG/Logo/Partis/LEGA.png";
-    $pbd = "/IMG/Logo/Partis/PBD.png";
-    $pcsi = "/IMG/Logo/Partis/PCSI.png";
-    $pdc = "/IMG/Logo/Partis/PDC.png";
-    $pev = "/IMG/Logo/Partis/PEV.png";
-    $plr = "/IMG/Logo/Partis/PLR.png";
-    $ps = "/IMG/Logo/Partis/PS.png";
-    $pst = "/IMG/Logo/Partis/PST.png";
-    $pvl = "/IMG/Logo/Partis/PVL.png";
-    $sol = "/IMG/Logo/Partis/SOL.png";
-    $udc = "/IMG/Logo/Partis/UDC.png";
-    $verts = "/IMG/Logo/Partis/Verts.png";
+    //partis :
+    $pcsi = "/Juravote-dynamique/IMG/Logo/partis/CS-POP.png";
+    $lega = "/Juravote-dynamique/IMG/Logo/partis/LEGA.png";
+    $pbd = "/Juravote-dynamique/IMG/Logo/partis/PBD.png";
+    $pcsi = "/Juravote-dynamique/IMG/Logo/partis/PCSI.png";
+    $pdc = "/Juravote-dynamique/IMG/Logo/partis/PDC.png";
+    $pev = "/Juravote-dynamique/IMG/Logo/partis/PEV.png";
+    $plr = "/Juravote-dynamique/IMG/Logo/partis/PLR.png";
+    $ps = "/Juravote-dynamique/IMG/Logo/partis/PS.png";
+    $pst = "/Juravote-dynamique/IMG/Logo/partis/PST.png";
+    $pvl = "/Juravote-dynamique/IMG/Logo/partis/PVL.png";
+    $sol = "/Juravote-dynamique/IMG/Logo/partis/SOL.png";
+    $udc = "/Juravote-dynamique/IMG/Logo/partis/UDC.png";
+    $verts = "/Juravote-dynamique/IMG/Logo/partis/Verts.png";
 
     //pouvoirs :
-    $pouvoirCommunal = "/IMG/Logo/Pouvoirs/communal.png";
-    $pouvoirCantonal = "/IMG/Logo/Pouvoirs/cantonal.png";
-    $pouvoirFederal = "/IMG/Logo/Pouvoirs/federal.png";
+    $pouvoirCommunal = "/Juravote-dynamique/IMG/Logo/Pouvoirs/communal.png";
+    $pouvoirCantonal = "/Juravote-dynamique/IMG/Logo/Pouvoirs/cantonal.png";
+    $pouvoirFederal = "/Juravote-dynamique/IMG/Logo/Pouvoirs/federal.png";
 
     //divers
-    $inconnu = "/IMG/Personnalites/inconnu.png";
-    $ElectionsJU = "/IMG/ElectionsJU.png";
+    $inconnu = "/Juravote-dynamique/IMG/Personnalites/inconnu.png";
+    $ElectionsJU = "/Juravote-dynamique/IMG/ElectionsJU.png";
 
     //GouvernementJU2016_2020
-    $DavidEray = "/IMG/Personnalites/GouvernementJU/2016_2020/DavidEray.jpg";
-    $GladisWinkler = "/IMG/Personnalites/GouvernementJU/2016_2020/GladisWinklerDocourt.jpg";
-    $JacquesGerber = "/IMG/Personnalites/GouvernementJU/2016_2020/JacquesGerber.jpg";
-    $MartialCourtet = "/IMG/Personnalites/GouvernementJU/2016_2020/MartialCourtet.jpg";
-    $NathalieBarthoulot = "/IMG/Personnalites/GouvernementJU/2016_2020/NathalieBarthoulot.jpg";
-    $RosalieBeuret = "/IMG/Personnalites/GouvernementJU/2016_2020/RosalieBeuret.jpg";
+    $DavidEray = "/Juravote-dynamique/IMG/Personnalites/GouvernementJU/2016_2020/DavidEray.jpg";
+    $GladisWinkler = "/Juravote-dynamique/IMG/Personnalites/GouvernementJU/2016_2020/GladisWinklerDocourt.jpg";
+    $JacquesGerber = "/Juravote-dynamique/IMG/Personnalites/GouvernementJU/2016_2020/JacquesGerber.jpg";
+    $MartialCourtet = "/Juravote-dynamique/IMG/Personnalites/GouvernementJU/2016_2020/MartialCourtet.jpg";
+    $NathalieBarthoulot = "/Juravote-dynamique/IMG/Personnalites/GouvernementJU/2016_2020/NathalieBarthoulot.jpg";
+    $RosalieBeuret = "/Juravote-dynamique/IMG/Personnalites/GouvernementJU/2016_2020/RosalieBeuret.jpg";
 
     //GouvernementCH2020_2023
-    $AlainBerset = "/IMG/Personnalites/GouvernementCH/2020_2023/AlainBerset.jpg";
-    $GuyParmelin = "/IMG/Personnalites/GouvernementCH/2020_2023/GuyParmelin.jpg";
-    $IgnazioCassis = "/IMG/Personnalites/GouvernementCH/2020_2023/IgnazioCassis.jpg";
-    $KarinKellerSuter = "/IMG/Personnalites/GouvernementCH/2020_2023/KarinKeller.jpg";
-    $SimonettaSommaruga = "/IMG/Personnalites/GouvernementCH/2020_2023/SimonettaSommaruga.jpg";
-    $UeliMaurer = "/IMG/Personnalites/GouvernementCH/2020_2023/UeliMaurer.jpg";
-    $ViolaAmherd = "/IMG/Personnalites/GouvernementCH/2020_2023/ViolaAmherd.jpg";
-    $WaltherThurnherr = "/IMG/Personnalites/GouvernementCH/2020_2023/WaltherThurnherr.jpg";
+    $AlainBerset = "/Juravote-dynamique/IMG/Personnalites/GouvernementCH/2020_2023/AlainBerset.jpg";
+    $GuyParmelin = "/Juravote-dynamique/IMG/Personnalites/GouvernementCH/2020_2023/GuyParmelin.jpg";
+    $IgnazioCassis = "/Juravote-dynamique/IMG/Personnalites/GouvernementCH/2020_2023/IgnazioCassis.jpg";
+    $KarinKellerSuter = "/Juravote-dynamique/IMG/Personnalites/GouvernementCH/2020_2023/KarinKeller.jpg";
+    $SimonettaSommaruga = "/Juravote-dynamique/IMG/Personnalites/GouvernementCH/2020_2023/SimonettaSommaruga.jpg";
+    $UeliMaurer = "/Juravote-dynamique/IMG/Personnalites/GouvernementCH/2020_2023/UeliMaurer.jpg";
+    $ViolaAmherd = "/Juravote-dynamique/IMG/Personnalites/GouvernementCH/2020_2023/ViolaAmherd.jpg";
+    $WaltherThurnherr = "/Juravote-dynamique/IMG/Personnalites/GouvernementCH/2020_2023/WaltherThurnherr.jpg";
 
     //GouvernementsCO2019_2023
 
 
     //ParlementJU2016_2020
-    $AlainBohlinger = "/IMG/Personnalites/ParlementJU/2016_2020/AlainBohlingerr.png";
-    $AlainKoller = "/IMG/Personnalites/ParlementJU/2016_2020/AlainKoller.png";
-    $AlainLachat = "/IMG/Personnalites/ParlementJU/2016_2020/AlainLachat.png";
-    $AlainSchweingruber = "/IMG/Personnalites/ParlementJU/2016_2020/AlainSchweingruber.png";
-    $AmiLievre = "/IMG/Personnalites/ParlementJU/2016_2020/AmiLievre.png";
-    $AndreHenzelin = "/IMG/Personnalites/ParlementJU/2016_2020/AndreHenzelin.png";
-    $AnneFroidevaux = "/IMG/Personnalites/ParlementJU/2016_2020/AnneFroidevaux.png";
-    $AnneRoy = "/IMG/Personnalites/ParlementJU/2016_2020/AnneRoy.png";
-    $AnselmeVoirol = "/IMG/Personnalites/ParlementJU/2016_2020/AnselmeVoirol.png";
-    $BaptisteLaville = "/IMG/Personnalites/ParlementJU/2016_2020/BaptisteLaville.png";
-    $BernardVarin = "/IMG/Personnalites/ParlementJU/2016_2020/BernardVarin.png";
-    $BrigitteFavre = "/IMG/Personnalites/ParlementJU/2016_2020/BrigitteFavre.png";
-    $ChristianSpring = "/IMG/Personnalites/ParlementJU/2016_2020/ChristianSpring.png";
-    $ClaudeGerber = "/IMG/Personnalites/ParlementJU/2016_2020/ClaudeGerber.png";
-    $ClaudeSchluchter = "/IMG/Personnalites/ParlementJU/2016_2020/ClaudeSchluchter.png";
-    $DamienChappuis = "/IMG/Personnalites/ParlementJU/2016_2020/DamienChappuis.png";
-    $DanieleCharriatte = "/IMG/Personnalites/ParlementJU/2016_2020/DanieleCharriatte.png";
-    $DidierSpies = "/IMG/Personnalites/ParlementJU/2016_2020/DidierSpies.png";
-    $DominiqueThievent = "/IMG/Personnalites/ParlementJU/2016_2020/DominiqueThievent.png";
-    $EdgarSauser = "/IMG/Personnalites/ParlementJU/2016_2020/EdgarSauser.png";
-    $EricDobler = "/IMG/Personnalites/ParlementJU/2016_2020/EricDobler.png";
-    $ErnestGerber = "/IMG/Personnalites/ParlementJU/2016_2020/ErnestGerber.png";
-    $FlorenceBoesch = "/IMG/Personnalites/ParlementJU/2016_2020/FlorenceBoesch.png";
-    $FrancoiseChaignat = "/IMG/Personnalites/ParlementJU/2016_2020/FrancoiseChaignat.png";
-    $FredericLovis = "/IMG/Personnalites/ParlementJU/2016_2020/FredericLovis.png";
-    $GabrielVoirol = "/IMG/Personnalites/ParlementJU/2016_2020/GabrielVoirol.png";
-    $GeraldineBeuchat = "/IMG/Personnalites/ParlementJU/2016_2020/GeraldineBeuchat.png";
-    $IvanGodat = "/IMG/Personnalites/ParlementJU/2016_2020/IvanGodat.png";
-    $JeanDanielEcoeur = "/IMG/Personnalites/ParlementJU/2016_2020/JeanDanielEcoeur.png";
-    $JeanFrancoisPape = "/IMG/Personnalites/ParlementJU/2016_2020/JeanFrancoisPape.png";
-    $JeanLeuenberger = "/IMG/Personnalites/ParlementJU/2016_2020/JeanLeuenberger.png";
-    $JeromeCourbat = "/IMG/Personnalites/ParlementJU/2016_2020/JeromeCourbat.png";
-    $JosianeDaepp = "/IMG/Personnalites/ParlementJU/2016_2020/JosianeDaepp.png";
-    $JosianeSudan = "/IMG/Personnalites/ParlementJU/2016_2020/JosianeSudan.png";
-    $KatiaLehmann = "/IMG/Personnalites/ParlementJU/2016_2020/KatiaLehmann.png";
-    $LionelMontavon = "/IMG/Personnalites/ParlementJU/2016_2020/LionelMontavon.png";
-    $LoicDobler = "/IMG/Personnalites/ParlementJU/2016_2020/LoicDobler.png";
-    $MagaliRohner = "/IMG/Personnalites/ParlementJU/2016_2020/MagaliRohner.png";
-    $MelanieBrulhart = "/IMG/Personnalites/ParlementJU/2016_2020/MelanieBrulhart.png";
-    $MonikaKornmayer = "/IMG/Personnalites/ParlementJU/2016_2020/MonikaKornmayer.png";
-    $MurielleMacchiBerdat = "/IMG/Personnalites/ParlementJU/2016_2020/MurielleMacchiBerdat.png";
-    $NicolasGirard = "/IMG/Personnalites/ParlementJU/2016_2020/NicolasGirard.png";
-    $NicolasMaitre = "/IMG/Personnalites/ParlementJU/2016_2020/NicolasMaitre.png";
-    $NoelSaucy = "/IMG/Personnalites/ParlementJU/2016_2020/NoelSaucy.png";
-    $PaulineQueloz = "/IMG/Personnalites/ParlementJU/2016_2020/PaulineQueloz.png";
-    $PhilippeRottet = "/IMG/Personnalites/ParlementJU/2016_2020/PhilippeRottet.png";
-    $PierreAndreComte = "/IMG/Personnalites/ParlementJU/2016_2020/PierreAndreComte.png";
-    $PierreParietti = "/IMG/Personnalites/ParlementJU/2016_2020/PierreParietti.png";
-    $QuentinHaas = "/IMG/Personnalites/ParlementJU/2016_2020/QuentinHaas.png";
-    $RaoulJaeggi = "/IMG/Personnalites/ParlementJU/2016_2020/RaoulJaeggi.png";
-    $RaphaelCiocchi = "/IMG/Personnalites/ParlementJU/2016_2020/RaphaelCiocchi.png";
-    $RemyMeury = "/IMG/Personnalites/ParlementJU/2016_2020/RemyMeury.png";
-    $RomainSchaer = "/IMG/Personnalites/ParlementJU/2016_2020/RomainSchaer.png";
-    $StephaneBrosy = "/IMG/Personnalites/ParlementJU/2016_2020/StephaneBrosy.png";
-    $StephaneTheurillat = "/IMG/Personnalites/ParlementJU/2016_2020/StephaneTheurillat.png";
-    $SuzanneMaitre = "/IMG/Personnalites/ParlementJU/2016_2020/SuzanneMaitre.png";
-    $ThomasSchaffter = "/IMG/Personnalites/ParlementJU/2016_2020/ThomasSchaffter.png";
-    $VincentHennin = "/IMG/Personnalites/ParlementJU/2016_2020/VincentHennin.png";
-    $YvesGigon = "/IMG/Personnalites/ParlementJU/2016_2020/YvesGigon.png";
+    $AlainBohlinger = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AlainBohlingerr.png";
+    $AlainKoller = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AlainKoller.png";
+    $AlainLachat = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AlainLachat.png";
+    $AlainSchweingruber = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AlainSchweingruber.png";
+    $AmiLievre = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AmiLievre.png";
+    $AndreHenzelin = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AndreHenzelin.png";
+    $AnneFroidevaux = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AnneFroidevaux.png";
+    $AnneRoy = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AnneRoy.png";
+    $AnselmeVoirol = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AnselmeVoirol.png";
+    $BaptisteLaville = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/BaptisteLaville.png";
+    $BernardVarin = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/BernardVarin.png";
+    $BrigitteFavre = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/BrigitteFavre.png";
+    $ChristianSpring = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/ChristianSpring.png";
+    $ClaudeGerber = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/ClaudeGerber.png";
+    $ClaudeSchluchter = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/ClaudeSchluchter.png";
+    $DamienChappuis = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/DamienChappuis.png";
+    $DanieleCharriatte = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/DanieleCharriatte.png";
+    $DidierSpies = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/DidierSpies.png";
+    $DominiqueThievent = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/DominiqueThievent.png";
+    $EdgarSauser = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/EdgarSauser.png";
+    $EricDobler = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/EricDobler.png";
+    $ErnestGerber = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/ErnestGerber.png";
+    $FlorenceBoesch = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/FlorenceBoesch.png";
+    $FrancoiseChaignat = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/FrancoiseChaignat.png";
+    $FredericLovis = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/FredericLovis.png";
+    $GabrielVoirol = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/GabrielVoirol.png";
+    $GeraldineBeuchat = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/GeraldineBeuchat.png";
+    $IvanGodat = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/IvanGodat.png";
+    $JeanDanielEcoeur = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/JeanDanielEcoeur.png";
+    $JeanFrancoisPape = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/JeanFrancoisPape.png";
+    $JeanLeuenberger = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/JeanLeuenberger.png";
+    $JeromeCourbat = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/JeromeCourbat.png";
+    $JosianeDaepp = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/JosianeDaepp.png";
+    $JosianeSudan = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/JosianeSudan.png";
+    $KatiaLehmann = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/KatiaLehmann.png";
+    $LionelMontavon = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/LionelMontavon.png";
+    $LoicDobler = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/LoicDobler.png";
+    $MagaliRohner = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/MagaliRohner.png";
+    $MelanieBrulhart = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/MelanieBrulhart.png";
+    $MonikaKornmayer = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/MonikaKornmayer.png";
+    $MurielleMacchiBerdat = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/MurielleMacchiBerdat.png";
+    $NicolasGirard = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/NicolasGirard.png";
+    $NicolasMaitre = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/NicolasMaitre.png";
+    $NoelSaucy = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/NoelSaucy.png";
+    $PaulineQueloz = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/PaulineQueloz.png";
+    $PhilippeRottet = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/PhilippeRottet.png";
+    $PierreAndreComte = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/PierreAndreComte.png";
+    $PierreParietti = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/PierreParietti.png";
+    $QuentinHaas = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/QuentinHaas.png";
+    $RaoulJaeggi = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/RaoulJaeggi.png";
+    $RaphaelCiocchi = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/RaphaelCiocchi.png";
+    $RemyMeury = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/RemyMeury.png";
+    $RomainSchaer = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/RomainSchaer.png";
+    $StephaneBrosy = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/StephaneBrosy.png";
+    $StephaneTheurillat = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/StephaneTheurillat.png";
+    $SuzanneMaitre = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/SuzanneMaitre.png";
+    $ThomasSchaffter = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/ThomasSchaffter.png";
+    $VincentHennin = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/VincentHennin.png";
+    $YvesGigon = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/YvesGigon.png";
 
     //ParlementCH2020_2023
-    $CharlesJuillard = "/IMG/Personnalites/ParlementCH/2020_2023/CharlesJuillard.jpg";
-    $ElisabethBaumeSchneider = "/IMG/Personnalites/ParlementCH/2020_2023/ElisabethBaume.jpg";
-    $JeanPaulGschwind = "/IMG/Personnalites/ParlementCH/2020_2023/Jean-PaulGschwind.jpg";
-    $PierreAlainFridez = "/IMG/Personnalites/ParlementCH/2020_2023/Pierre-AlainFridez.jpg";
+    $CharlesJuillard = "/Juravote-dynamique/IMG/Personnalites/ParlementCH/2020_2023/CharlesJuillard.jpg";
+    $ElisabethBaumeSchneider = "/Juravote-dynamique/IMG/Personnalites/ParlementCH/2020_2023/ElisabethBaume.jpg";
+    $JeanPaulGschwind = "/Juravote-dynamique/IMG/Personnalites/ParlementCH/2020_2023/Jean-PaulGschwind.jpg";
+    $PierreAlainFridez = "/Juravote-dynamique/IMG/Personnalites/ParlementCH/2020_2023/Pierre-AlainFridez.jpg";
 
     //ParlementsCO2019_2023
         //DELEMONT
@@ -159,102 +159,102 @@
 
     //Banque d'image votations
         //Objets fédéraux
-        $vitesse30 = "/IMG/Votations/BANQUE_IMAGE/30kmh.png";
-        $arme = "/IMG/Votations/BANQUE_IMAGE/Arme.jpg";
-        $avions = "/IMG/Votations/BANQUE_IMAGE/Avions.jpg";
-        $caméra = "/IMG/Votations/BANQUE_IMAGE/Caméra.jpg";
-        $chasse = "/IMG/Votations/BANQUE_IMAGE/Chasse.jpg";
-        $CongePaternite = "/IMG/Votations/BANQUE_IMAGE/CongePaternite.jpg";
-        $Enceinte = "/IMG/Votations/BANQUE_IMAGE/Enceinte.jpg";
-        $Eolienne = "/IMG/Votations/BANQUE_IMAGE/Eolienne.jpg";
-        $Europe = "/IMG/Votations/BANQUE_IMAGE/Europe.jpg";
-        $Gare = "/IMG/Votations/BANQUE_IMAGE/Gare.jpg";
-        $JeuxArgent = "/IMG/Votations/BANQUE_IMAGE/JeuxArgent.jpg";
-        $Justice = "/IMG/Votations/BANQUE_IMAGE/Justice.jpg";
-        $Légumes = "/IMG/Votations/BANQUE_IMAGE/Légumes.jpg";
-        $Logements = "/IMG/Votations/BANQUE_IMAGE/Logements.jpg";
-        $Mariage = "/IMG/Votations/BANQUE_IMAGE/Mariage.jpg";
-        $Médicaments = "/IMG/Votations/BANQUE_IMAGE/Médicaments.jpg";
-        $Menotte = "/IMG/Votations/BANQUE_IMAGE/Menotte.jpg";
-        $Radio = "/IMG/Votations/BANQUE_IMAGE/radio.jpg";
-        $Route = "/IMG/Votations/BANQUE_IMAGE/Route.jpg";
-        $Senior = "/IMG/Votations/BANQUE_IMAGE/Senior.jpg";
-        $Sous = "/IMG/Votations/BANQUE_IMAGE/Sous.jpg";
-        $Tunnel = "/IMG/Votations/BANQUE_IMAGE/Tunnel.jpg";
-        $Vache = "/IMG/Votations/BANQUE_IMAGE/Vache.jpg";
-        $Vélo = "/IMG/Votations/BANQUE_IMAGE/Vélo.jpg";
+        $vitesse30 = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/30kmh.png";
+        $arme = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Arme.jpg";
+        $avions = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Avions.jpg";
+        $caméra = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Caméra.jpg";
+        $chasse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Chasse.jpg";
+        $CongePaternite = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CongePaternite.jpg";
+        $Enceinte = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Enceinte.jpg";
+        $Eolienne = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Eolienne.jpg";
+        $Europe = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Europe.jpg";
+        $Gare = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Gare.jpg";
+        $JeuxArgent = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/JeuxArgent.jpg";
+        $Justice = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Justice.jpg";
+        $Légumes = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Légumes.jpg";
+        $Logements = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Logements.jpg";
+        $Mariage = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Mariage.jpg";
+        $Médicaments = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Médicaments.jpg";
+        $Menotte = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Menotte.jpg";
+        $Radio = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/radio.jpg";
+        $Route = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Route.jpg";
+        $Senior = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Senior.jpg";
+        $Sous = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Sous.jpg";
+        $Tunnel = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Tunnel.jpg";
+        $Vache = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Vache.jpg";
+        $Vélo = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Vélo.jpg";
 
         //Objets communaux
-        $SEVT = "/IMG/Votations/BANQUE_IMAGE/SEVT.jpg";
-        $EcoleMontsevelier = "/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier.jpg";
-        $EcoleMontsevelierPlan = "/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier_Plan.jpg";
+        $SEVT = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/SEVT.jpg";
+        $EcoleMontsevelier = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier.jpg";
+        $EcoleMontsevelierPlan = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier_Plan.jpg";
 
 //FICHIERS
     //CSS
-    $cssMain = "/CSS/main.css";    
-    $cssNormalize ="/CSS/normalize.css";
-    $cssUikit = "/CSS/uikit.css";
-    $cssUikitMin = "/CSS/uikit.min.css";
-    $cssUikitRTL = "/CSS/uikit-rtl.css";
-    $cssUikitRTLMin = "/CSS/uikit-rtl.min.css";
-    $cssbadges = "/badges.css";
+    $cssMain = "/Juravote-dynamique/CSS/main.css";    
+    $cssNormalize ="/Juravote-dynamique/CSS/normalize.css";
+    $cssUikit = "/Juravote-dynamique/CSS/uikit.css";
+    $cssUikitMin = "/Juravote-dynamique/CSS/uikit.min.css";
+    $cssUikitRTL = "/Juravote-dynamique/CSS/uikit-rtl.css";
+    $cssUikitRTLMin = "/Juravote-dynamique/CSS/uikit-rtl.min.css";
+    $cssbadges = "/Juravote-dynamique/badges.css";
 
-    $cssIndex = "/index.css";
+    $cssIndex = "/Juravote-dynamique/index.css";
 
     $cssactualites = "/Pages/Actualites/actualites.css";
 
-    $cssequipe = "/Pages/Equipe/equipe.css";
+    $cssequipe = "/Juravote-dynamique/Pages/Equipe/equipe.css";
 
-    $cssinstances = "/Pages/Instances/instances.css";
+    $cssinstances = "/Juravote-dynamique/Pages/Instances/instances.css";
 
-    $cssgouvernementCH = "/Pages/Instances/GouvernementCH/GouvernementCH.css";
-    $cssgouvernementCO = "/Pages/Instances/GouvernementCO/GouvernementCO.css";
-    $cssgouvernementJU = "/Pages/Instances/GouvernementJU/GouvernementJU.css";
+    $cssgouvernementCH = "/Juravote-dynamique/Pages/Instances/GouvernementCH/GouvernementCH.css";
+    $cssgouvernementCO = "/Juravote-dynamique/Pages/Instances/GouvernementCO/GouvernementCO.css";
+    $cssgouvernementJU = "/Juravote-dynamique/Pages/Instances/GouvernementJU/GouvernementJU.css";
 
-    $cssparlementCH = "/Pages/Instances/ParlementCH/ParlementCH.css";
-    $cssparlementCO = "/Pages/Instances/ParlementCO/ParlementCO.css";
-    $cssparlementJU = "/Pages/Instances/ParlementJU/ParlementJU.css";
+    $cssparlementCH = "/Juravote-dynamique/Pages/Instances/ParlementCH/ParlementCH.css";
+    $cssparlementCO = "/Juravote-dynamique/Pages/Instances/ParlementCO/ParlementCO.css";
+    $cssparlementJU = "/Juravote-dynamique/Pages/Instances/ParlementJU/ParlementJU.css";
 
-    $csspartisCH = "/Pages/Instances/PartisCH/PartisCH.css";
-    $csspartisJU = "/Pages/Instances/PartisJU/PartisJU.css";
+    $csspartisCH = "/Juravote-dynamique/Pages/Instances/PartisCH/PartisCH.css";
+    $csspartisJU = "/Juravote-dynamique/Pages/Instances/PartisJU/PartisJU.css";
 
-    $cssresultats = "/Pages/Resultats/resultats.css";
+    $cssresultats = "/Juravote-dynamique/Pages/Resultats/resultats.css";
 
-    $cssaccueilVotationsElections = "/Pages/Votations et Elections/accueilVE.css";
-    $csselections = "/Pages/Votations et Elections/Elections/elections.css";
-    $cssvotations = "/Pages/Votations et Elections/Elections/elections.css";
+    $cssaccueilVotationsElections = "/Juravote-dynamique/Pages/Votations et Elections/accueilVE.css";
+    $csselections = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css";
+    $cssvotations = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css";
 
     //PHP
-    $PHPindex = "/index.php";
-    $PHPvariables ="/variables.php";
+    $PHPindex = "/Juravote-dynamique/index.php";
+    $PHPvariables ="/Juravote-dynamique/variables.php";
     
-    $PHPactualites = "/Pages/Actualites/actualites.php";
+    $PHPactualites = "/Juravote-dynamique/Pages/Actualites/actualites.php";
 
-    $PHPequipe = "/Pages/Equipe/equipe.php";
+    $PHPequipe = "/Juravote-dynamique/Pages/Equipe/equipe.php";
 
-    $PHPinstances = "/Pages/Instances/instances.php";
+    $PHPinstances = "/Juravote-dynamique/Pages/Instances/instances.php";
 
-    $PHPgouvernementCH = "/Pages/Instances/GouvernementCH/2020_2023/GouvernementCH.php";    
-    $PHPgouvernementCODistricts = "/Pages/Instances/GouvernementCO/Districts.php";
-    $PHPgouvernementDevelier = "/Pages/Instances/GouvernementCO/Develier/2019_2023/GouvernementDevelier.php";
-    $PHPgouvernementJU = "/Pages/Instances/GouvernementJU/2016_2020/GouvernementJU.php";
+    $PHPgouvernementCH = "/Juravote-dynamique/Pages/Instances/GouvernementCH/2020_2023/GouvernementCH.php";    
+    $PHPgouvernementCODistricts = "/Juravote-dynamique/Pages/Instances/GouvernementCO/Districts.php";
+    $PHPgouvernementDevelier = "/Juravote-dynamique/Pages/Instances/GouvernementCO/Develier/2019_2023/GouvernementDevelier.php";
+    $PHPgouvernementJU = "/Juravote-dynamique/Pages/Instances/GouvernementJU/2016_2020/GouvernementJU.php";
 
-    $PHPparlementCH = "/Pages/Instances/ParlementCH/2020_2023/ParlementCH.php";
-    $PHPparlementCO = "/Pages/Instances/ParlementCO/ParlementCO.php";
-    $PHPparlementDelemont = "/Pages/Instances/ParlementCO/Delemont/2019_2023/ParlementDelemont.php";
-    $PHPparlementHauteSorne = "/Pages/Instances/ParlementCO/HauteSorne/2019_2023/ParlementHauteSorne.php";
-    $PHPparlementLesBois = "/Pages/Instances/ParlementCO/LesBois/2019_2023/ParlementLesBois.php";
-    $PHPparlementPorrentruy = "/Pages/Instances/ParlementCO/Porrentruy/2019_2023/ParlementPorrentruy.php";
-    $PHPparlementValTerbi = "/Pages/Instances/ParlementCO/ValTerbi/2019_2023/ParlementValTerbi.php";
-    $PHPparlementJU = "/Pages/Instances/ParlementJU/2016_2020/parlementJU.php";
+    $PHPparlementCH = "/Juravote-dynamique/Pages/Instances/ParlementCH/2020_2023/ParlementCH.php";
+    $PHPparlementCO = "/Juravote-dynamique/Pages/Instances/ParlementCO/ParlementCO.php";
+    $PHPparlementDelemont = "/Juravote-dynamique/Pages/Instances/ParlementCO/Delemont/2019_2023/ParlementDelemont.php";
+    $PHPparlementHauteSorne = "/Juravote-dynamique/Pages/Instances/ParlementCO/HauteSorne/2019_2023/ParlementHauteSorne.php";
+    $PHPparlementLesBois = "/Juravote-dynamique/Pages/Instances/ParlementCO/LesBois/2019_2023/ParlementLesBois.php";
+    $PHPparlementPorrentruy = "/Juravote-dynamique/Pages/Instances/ParlementCO/Porrentruy/2019_2023/ParlementPorrentruy.php";
+    $PHPparlementValTerbi = "/Juravote-dynamique/Pages/Instances/ParlementCO/ValTerbi/2019_2023/ParlementValTerbi.php";
+    $PHPparlementJU = "/Juravote-dynamique/Pages/Instances/ParlementJU/2016_2020/parlementJU.php";
 
-    $PHPpartisCH = "/Pages/Instances/PartisCH/2020_2023/PartisCH.php";
-    $PHPpartisJU = "/Pages/Instances/PartisJU/2016_2020/PartisJU.php"; 
+    $PHPpartisCH = "/Juravote-dynamique/Pages/Instances/PartisCH/2020_2023/PartisCH.php";
+    $PHPpartisJU = "/Juravote-dynamique/Pages/Instances/PartisJU/2016_2020/PartisJU.php"; 
     
-    $PHPresultats = "/Pages/Resultats/resultats.php";
-    $PHPresultatsElectionsCH = "/Pages/Resultats/ElectionsCH/electionsCH.php";
-    $PHPresultatsElectionsJU = "/Pages/Resultats/ElectionsJU/electionsJU.php";
-        $PHPresultatGouvernementJU2020 = "/Pages/Resultats/ElectionsJU/2020-03-01/Ecantonales.php";
+    $PHPresultats = "/Juravote-dynamique/Pages/Resultats/resultats.php";
+    $PHPresultatsElectionsCH = "/Juravote-dynamique/Pages/Resultats/ElectionsCH/electionsCH.php";
+    $PHPresultatsElectionsJU = "/Juravote-dynamique/Pages/Resultats/ElectionsJU/electionsJU.php";
+        $PHPresultatGouvernementJU2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsJU/2020-03-01/Ecantonales.php";
         
     $PHPresultatsElectionsCO = "/Pages/Resultats/ElectionsCO/electionsCO.php";
         $PHPresultatsCourtetelle = "/Pages/Resultats/ElectionsCO/Courtetelle/Courtetelle.php";
@@ -300,54 +300,43 @@
     $PHPvotationLesBoisSCFM = "/Pages/Votations et Elections/Votations/VotationsCO/LesBois_20200927/SCFM.php";
     $PHPvotationLesBoisVenteJaberg = "/Pages/Votations et Elections/Votations/VotationsCO/LesBois_20200927/VenteJaberg.php";
     $PHPvotationLesBoisVenteJoly = "/Pages/Votations et Elections/Votations/VotationsCO/LesBois_20200927/VenteJoly.php";
-    $PHPvotationValTerbiAccueil = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/accueil.php";
+    $PHPvotationValTerbiAccueil = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/Accueil.php";
     $PHPvotationValTerbiEcole = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
     $PHPvotationValTerbiSEVT = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";
 
     //JS
-    $jsUikit = "/JS/uikit.js";
-    $jsUikitMin = "/JS/uikit.min.js";
-    $jsUikitIcons ="/JS/uikit-icons.js";
-    $jsUikitIconsMin ="/JS/uikit-icons.min.js";
+    $jsUikit = "/Juravote-dynamique/JS/uikit.js";
+    $jsUikitMin = "/Juravote-dynamique/JS/uikit.min.js";
+    $jsUikitIcons ="/Juravote-dynamique/JS/uikit-icons.js";
+    $jsUikitIconsMin ="/Juravote-dynamique/JS/uikit-icons.min.js";
 
     //AMCHARTS4
-    $JScharts = "/JS/amcharts4/charts.js";
-    $JScore = "/JS/amcharts4/core.js";
-    $JSmaps = "/JS/amcharts4/maps.js";
+    $JScharts = "Juravote-dynamique/JS/amcharts4/charts.js";
+    $JScore = "Juravote-dynamique/JS/amcharts4/core.js";
+    $JSmaps = "Juravote-dynamique/JS/amcharts4/maps.js";
 
     //GEODATA
-    $JSworldLow = "/JS/geodata/worldLow.js";
-    $JSswitzerlandHigh = "/JS/geodata/switzerlandHigh.js";
+    $JSworldLow = "Juravote-dynamique/JS/geodata/worldLow.js";
+    $JSswitzerlandHigh = "Juravote-dynamique/JS/geodata/switzerlandHigh.js";
 
     //SITES INTERNET
         //COMMUNES
             //AJOIE
             $siteBoncourt = "https://www.boncourt.ch/";
-            $siteCoeuve = "https://coeuve.ch/";
             $siteCornol = "http://www.cornol.ch/fr/";
-            $siteCourgenay = "http://www.courgenay.ch/fr/";
             $siteFahy = "http://www.fahy.ch/";
 
             //DELEMONT
-            $siteBourrignon = "https://www.bourrignon.ch/";
             $siteCourchapoix = "http://www.courchapoix.ch/cpx/";
-            $siteCourtetelle = "https://www.courtetelle.ch/";
             $siteChatillon = "https://chatillon.ch/";
-            $siteHauteSorne = "http://www.haute-sorne.ch/";
             $siteMettembert = "";
             $siteMovelier = "https://www.movelier.ch/";
             $sitePleigne = "http://www.pleigne.ch/fr/Administration-et-services.html";
-            $siteSoyhieres = "http://www.soyhieres.ch/";
-            $siteValTerbi = "http://www.val-terbi.ch/";
 
             //FM
             $siteBreuleux = "https://www.breuleux.ch/";
-            $siteSaignelégier = "https://www.saignelegier.ch/";
-            $siteMovelier = "https://www.movelier.ch/";
-            $siteBure = "http://www.bure.ch/";
-            $siteRossemaison = "http://rossemaison.ch/";
 
-        //Partis
+        //PARTIS
             //FEDERAUX
             $siteUDC = "https://www.udc.ch/parti/"; 
             $sitePS = "https://www.sp-ps.ch/fr";
@@ -373,9 +362,9 @@
 
 //INCLUDES
     //navbar
-    $navbar = "/Includes/Navbar/navbar.php";
-    $navbarMobile = "/Includes/Navbar/navbar-mobile.php";
+    $navbar = "/Juravote-dynamique/Includes/Navbar/navbar.php";
+    $navbarMobile = "/Juravote-dynamique/Includes/Navbar/navbar-mobile.php";
 
     //footer
-    $footer = "/Includes/Footer/footer.php";
+    $footer = "/Juravote-dynamique/Includes/Footer/footer.php";
 ?>

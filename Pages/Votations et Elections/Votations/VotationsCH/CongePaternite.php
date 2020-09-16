@@ -89,118 +89,80 @@
             </li>
             <li>
                 <h2>Partis fédéraux</h2>
-                <div>
-                    <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">Verts</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">PS</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">PEV</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">PVL</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">PDC</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">PBD</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: minus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">PLR</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: minus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">UDC</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <table class="uk-table">
+                    <thead>
+                        <tr>
+                            <th class="uk-text-center">Verts</th>
+                            <th class="uk-text-center">PS</th>
+                            <th class="uk-text-center">PEV</th>
+                            <th class="uk-text-center">PVL</th>
+                            <th class="uk-text-center">PDC</th>
+                            <th class="uk-text-center">PBD</th>
+                            <th class="uk-text-center">PLR</th>
+                            <th class="uk-text-center">UDC</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                        </tr>
+                    </tbody>
+                </table>    
 
                 <h2>Partis jurassiens</h2>
-                <div>
-                    <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">CS-POP Jura</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">Verts Jura</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">PEV Jura</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">PS Jura</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">PVL Jura</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">PDC Jura</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">PCSI Jura</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: plus-circle; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">PLR Jura</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card uk-card-body">
-                                <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                <p class="uk-text-center">UDC Jura</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <table class="uk-table">
+                    <thead>
+                        <tr>
+                            <th class="uk-text-center">CS-POP</th>
+                            <th class="uk-text-center">Verts</th>
+                            <th class="uk-text-center">PS</th>
+                            <th class="uk-text-center">PEV</th>
+                            <th class="uk-text-center">PVL</th>
+                            <th class="uk-text-center">PDC</th>
+                            <th class="uk-text-center">PCSI</th>
+                            <th class="uk-text-center">PLR</th>
+                            <th class="uk-text-center">UDC</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
+                        </tr>
+                    </tbody>
+                </table>    
+
+                <h2>Autorités</h2>
+                <table class="uk-table">
+                    <thead>
+                        <tr>
+                            <th class="uk-text-center">Conseil fédéral</th>
+                            <th class="uk-text-center">Conseil des Etats</th>
+                            <th class="uk-text-center">Conseil national</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                        </tr>
+                    </tbody>
+                </table> 
             </li>  
             <li>            
             <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>

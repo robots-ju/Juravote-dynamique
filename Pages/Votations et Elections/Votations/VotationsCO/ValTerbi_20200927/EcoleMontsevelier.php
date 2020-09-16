@@ -176,28 +176,41 @@
                 </li>
                 <li>
                 <h2>Partis de Val-Terbi</h2>
-                    <div>
-                        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>                           
-                            <div>
-                                <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">PDC</p>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">Val-Terbi Ensemble</p>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="uk-card uk-card uk-card-body">
-                                    <h3 class="uk-card-title uk-text-center"><span uk-icon="icon: question; ratio: 2.5"></span></h3>
-                                    <p class="uk-text-center">COVAL</p>
-                                </div>
-                            </div>                            
-                        </div>
-                    </div>
+                    <table class="uk-table">
+                        <thead>
+                            <tr>
+                                <th class="uk-text-center">PDC</th>
+                                <th class="uk-text-center">Val-Terbi Ensemble</th>
+                                <th class="uk-text-center">COVAL</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
+                            </tr>
+                        </tbody>
+                    </table>    
+                    <h2>Autorités communales</h2>
+                    <table class="uk-table">
+                        <thead>
+                            <tr>
+                                <th class="uk-text-center">Conseil communal</th>
+                                <th class="uk-text-center">Conseil général</th>
+                                <th class="uk-text-center">Commission de l'énergie et des bâtiments</th>
+                                <th class="uk-text-center">Commission de gestion, de vérification des comptes et des finances</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            </tr>
+                        </tbody>
+                    </table>                     
                 </li>  
                 <li>            
                 <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>

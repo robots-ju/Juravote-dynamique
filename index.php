@@ -141,11 +141,6 @@
                     <div class="uk-width-1-4@m uk-flex-first@m">
                         <div class="uk-card uk-card-body uk-padding-remove">
                             <h3 class="uk-heading-divider">Prochains événements</h3>
-                            <div class="uk-alert-primary" uk-alert>
-                                <a class="uk-alert-close"></a>
-                                <p class="uk-text-justify">Aucune information ne sera disponible pour les votations des Bois du 27.09.2020,
-                                vis-à-vis de la situation juridique actuelle.</p>
-                            </div> 
                             <a href="<?php echo $PHPvotationsCHaccueil ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>

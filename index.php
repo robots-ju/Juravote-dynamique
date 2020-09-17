@@ -173,14 +173,6 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="<?php echo $PHPvotationLesBoisAccueil ?>">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Votation Les Bois</h3>
-                                    </div>
-                                </div>
-                            </a>
                             <a href="<?php echo $PHPelectionsJUaccueil ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>

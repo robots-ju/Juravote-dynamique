@@ -53,7 +53,7 @@
             <p>Les Communes de Courroux et de Beurnevésin n'ont pas souhaité collaborer avec nous. Aucune information
             ne sera donc disponible sur les votations de ces communes.</p>
         </div> 
-        <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
+        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="Votations/VotationsCH/accueil.php">
@@ -99,23 +99,6 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations Val-Terbi - 27 septembre 2020</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="Votations/VotationsCO/LesBois_20200927/Accueil.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="../../IMG/Logo/Communes/LesBois.png" alt="commune">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations Les Bois - 27 septembre 2020</h3>
                                 </div>
                             </div>
                         </div>

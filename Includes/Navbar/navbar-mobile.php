@@ -35,13 +35,17 @@
                     <li id="Equipe">
                         <a href="<?php echo $PHPequipe; ?>">L'équipe Juravote</a>
                     </li>
-                    <li><a class="uk-button uk-button-tex" href="https://twitter.com/JuraVote/" target="_blank"
+                    <li><a class="uk-button uk-button-text" href="https://twitter.com/JuraVote/" target="_blank"
                         uk-icon="icon: twitter; ratio: 1.2"></a></li>
-                    <li><a class="uk-button uk-button-tex" href="https://www.instagram.com/juravote/?hl=fr" target="_blank"
+                    <li><a class="uk-button uk-button-text" href="https://www.instagram.com/juravote/?hl=fr" target="_blank"
                         uk-icon="icon: instagram; ratio: 1.2"></a></li>
-                    <li><a class="uk-button uk-button-tex" href="https://www.facebook.com/JuraVote2020/" target="_blank"
+                    <li><a class="uk-button uk-button-text" href="https://www.facebook.com/JuraVote2020/" target="_blank"
                         uk-icon="icon: facebook; ratio: 1.2"></a></li>
+                    <li><a class="uk-button uk-button-text" href="https://discord.gg/feYcNDY" target="_blank" ><img src="<?php echo $iconDiscord ?>"
+                        id="Discord" alt="Logo Discord Juravote" height= "30px" width= "30px"></a></li>
+                    <li><a class="uk-button uk-button-text uk-align-center" style="padding-top: 20%" href="#">© Juravote 2020</a></li>
                 </ul>
+                
             </div>
         </div>
     <script>

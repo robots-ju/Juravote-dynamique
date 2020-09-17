@@ -59,7 +59,8 @@
         </div>  
         <ul class="uk-switcher uk-margin">
             <li> 
-                <h1>Description de la votation</h1>
+                <!--<div class="uk-column-1-2">-->
+                    <h1>Description de la votation</h1>
                     <p>Actuellement, à la naissance d’un enfant, les mères qui travaillent ont droit à un congé payé de 14 semaines, 
                     tandis que les pères n’ont droit qu’à un ou deux jours.</p>
 
@@ -81,9 +82,15 @@
                     le salaire de tous les travailleurs.</p>
 
                     <p>Le Conseil fédéral et le Parlement sont d’avis que le congé de paternité est financièrement supportable, même
-                    pour les petites et moyennes entreprises.</p>                    
+                    pour les petites et moyennes entreprises.</p> 
 
-                <h1>La question qui vous est posée :</h1>
+                    <!--<h1>Vidéo officielle de la Confédération</h1>
+                    <iframe width="900" height="500" src="https://www.youtube.com/embed/oQdTQGRbumQ"
+                    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+                    gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>-->               
+
+                    <h1>La question qui vous est posée :</h1>
                     <b><p>Acceptez-vous la modification du 27 septembre 2019 de la loi fédérale sur les allocations pour
                     perte de gain en cas de service et de maternité (loi sur les allocations pour perte de gain, LAPG) ?</p></b>
             </li>
@@ -137,11 +144,11 @@
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                         </tr>
                     </tbody>
                 </table>    

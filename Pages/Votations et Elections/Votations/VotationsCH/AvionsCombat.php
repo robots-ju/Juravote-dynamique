@@ -121,9 +121,9 @@
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <<td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                         </tr>

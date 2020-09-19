@@ -55,10 +55,10 @@
         <h1 class="uk-heading-large">Résultat des votations fédérales du 27 septembre 2020</h1>
         <hr>
         <section>
-            <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match uk-grid" uk-grid>
+            <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match uk-grid" uk-grid>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="Congeparternite.html">
+                        <a href="CongePaternite.php">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
@@ -68,14 +68,14 @@
                             </div>
                             <div class="uk-card-body">
                                 <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">
-                                Modification du 27 septembre 2019 de la loi fédérale sur les allocations pour perte de gain en cas de service et de maternite</h3>
+                                Congé paternité</h3>
                             </div>
                         </a>
                     </div>
                 </div>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="Chasse.html">
+                        <a href="Chasse.php">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
@@ -85,14 +85,14 @@
                             </div>
                             <div class="uk-card-body">
                                 <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">
-                                Modification du 27 septembre 2019 de la loi fédérale sur la chasse et la protection des mammifères et oiseaux sauvages</h3>
+                                Loi sur la chasse</h3>
                             </div>
                         </a>
                     </div>
                 </div>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="Immagration.html">
+                        <a href="InitiativeLimitation.php">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
@@ -102,14 +102,14 @@
                             </div>
                             <div class="uk-card-body">
                                 <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">
-                                Initiative populaire du 31 août 2018 : Pour un immigration modérée (initiative de limitation)</h3>
+                                Initiative de "limitation"</h3>
                             </div>
                         </a>
                     </div>
                 </div>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="LIFD.html">
+                        <a href="ImpotDirect.php">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
@@ -118,14 +118,14 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Modification du 27 septembre 2019 de la loi federale sur l'impôt direct (LIFD)</h3>
+                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Loi federale sur l'impôt direct</h3>
                             </div>
                         </a>
                     </div>
                 </div>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="Avions.html">
+                        <a href="AvionsCombat.php">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
@@ -135,7 +135,7 @@
                             </div>
                             <div class="uk-card-body">
                                 <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">
-                                Référendum contre les avions de combat</h3>
+                                Avions de combat</h3>
                             </div>
                         </a>
                     </div>

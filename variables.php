@@ -205,6 +205,8 @@
 
     $cssequipe = "/Juravote-dynamique/Pages/Equipe/equipe.css?=".time(); 
 
+    $cssContact = "/Juravote-dynamique/Pages/Contact/contact.css?=".time();
+
     $cssinstances = "/Juravote-dynamique/Pages/Instances/instances.css?=".time(); 
 
     $cssgouvernementCH = "/Juravote-dynamique/Pages/Instances/GouvernementCH/GouvernementCH.css?=".time(); 
@@ -231,6 +233,8 @@
     $PHPactualites = "/Juravote-dynamique/Pages/Actualites/actualites.php";
 
     $PHPequipe = "/Juravote-dynamique/Pages/Equipe/equipe.php";
+
+    $PHPcontact = "/Juravote-dynamique/Pages/Contact/contact.php";
 
     $PHPinstances = "/Juravote-dynamique/Pages/Instances/instances.php";
 

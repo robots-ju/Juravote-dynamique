@@ -46,109 +46,110 @@
             </div>
         </header>
         <div class="conteneur">
-            <div class="uk-grid-match uk-flex uk-align-center" uk-grid>
-                <div class="uk-width-1-1@m">
-                    <div class="uk-text-center" uk-grid>
-                        <div class="uk-width-auto">
-                            <div class="uk-card uk-card-body">
-                                <h3 class="uk-heading-divider">L'équipe Juravote</h3>
-                                <div class="uk-text-center" uk-grid>
+            <div class="uk-text-center" uk-grid>
+                <div class="uk-width-1-3@m">
 
-
-                                    <div class="uk-card uk-width-1-3@m">
-                                        <div class="uk-card-header">
-                                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                                <div class="uk-width-auto">
-                                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                                </div>
-                                                <div class="uk-width-expand">
-                                                    <h3 class="uk-card-title uk-margin-remove-bottom">Morgan Chételat</h3>
-                                                    <p class="uk-text-meta uk-margin-remove-top">Informatique</p>
-                                                    <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
-                                                </div>
-                                            </div>
-                                        </div>  
-                                    </div>
-
-                                    <div class="uk-card uk-width-1-3@m">
-                                        <div class="uk-card-header">
-                                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                                <div class="uk-width-auto">
-                                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                                </div>
-                                                <div class="uk-width-expand">
-                                                    <h3 class="uk-card-title uk-margin-remove-bottom">Gael Fleury</h3>
-                                                    <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
-                                                </div>
-                                            </div>
-                                        </div>    
-                                    </div>
-
-                                    <div class="uk-card uk-width-1-3@m">
-                                        <div class="uk-card-header">
-                                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                                <div class="uk-width-auto">
-                                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                                </div>
-                                                <div class="uk-width-expand">
-                                                    <h3 class="uk-card-title uk-margin-remove-bottom">Gwenaël Girard</h3>
-                                                    <p class="uk-text-meta uk-margin-remove-top">Design / Marketing</p>
-                                                    <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
-                                                </div>
-                                            </div>
-                                        </div>    
-                                    </div> 
-
-                                    <div class="uk-card uk-width-1-3@m">
-                                        <div class="uk-card-header">
-                                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                                <div class="uk-width-auto">
-                                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                                </div>
-                                                <div class="uk-width-expand">
-                                                    <h3 class="uk-card-title uk-margin-remove-bottom">Sam Houser</h3>
-                                                    <p class="uk-text-meta uk-margin-remove-top">Finances</p>
-                                                    <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
-                                                </div>
-                                            </div>
-                                        </div>    
-                                    </div> 
-
-                                    <div class="uk-card uk-width-1-3@m">
-                                        <div class="uk-card-header">
-                                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                                <div class="uk-width-auto">
-                                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                                </div>
-                                                <div class="uk-width-expand">
-                                                    <h3 class="uk-card-title uk-margin-remove-bottom">Sylvain Lovis</h3>
-                                                    <p class="uk-text-meta uk-margin-remove-top">Admisnistration</p>
-                                                </div>
-                                            </div>
-                                        </div>    
-                                    </div> 
-
-                                    <div class="uk-card uk-width-1-3@m">
-                                        <div class="uk-card-header">
-                                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                                <div class="uk-width-auto">
-                                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                                </div>
-                                                <div class="uk-width-expand">
-                                                    <h3 class="uk-card-title uk-margin-remove-bottom">Daniel Renaud</h3>
-                                                    <p class="uk-text-meta uk-margin-remove-top">Chef de projet</p>
-                                                    <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
-                                                </div>
-                                            </div>
-                                        </div>    
-                                    </div> 
-
-
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">L'équipe Juravote</h3>
+                                    <hr>
                                 </div>
                             </div>
-                        </div>
+                        </div>  
                     </div>
-                </div>  
+
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Morgan Chételat</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Informatique / Développeur</p>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>
+
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Gael Fleury</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>
+
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Gwenaël Girard</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Design / Marketing / Développeur</p>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>
+
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Sam Houser</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Finances / Développeur</p>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>
+
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Sylvain Lovis</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Administration</p>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>
+
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Daniel Renaud</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Chef de projet / Développeur</p>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>
+
+                </div>
+
+
+                <div class="uk-width-expand@m">
+                    <div class="uk-card uk-card-default uk-card-body">***FORMULAIRE DE CONTACT***</div>
+                </div>
             </div>
         </div>
     <footer>

@@ -82,7 +82,7 @@
                             <li>
                                 <a class="uk-accordion-title">2020</a>
                                 <div class="uk-accordion-content">
-                                    <a href="<?php echo $PHPresultats20200927Accueil; ?>"><p>Votations fédérales du 27.09.2020</p></a>
+                                    <!--<a href="<?php echo $PHPresultats20200927Accueil; ?>"><p>Votations fédérales du 27.09.2020</p></a>-->
                                     <a href="<?php echo $PHPresultats20200209Accueil; ?>"><p>Votations fédérales du 09.02.2020</p></a>
                                 </div>        
                             </li>

@@ -63,11 +63,11 @@
                         </div>
                     </div>
                     <div class="uk-card-body uk-text-left">
-                        <p><b>Objet : </b>Modification de la loi  sur la chasse</p>
+                        <p><b>Objet : </b>Initiative populaire « Pour une immigration modérée (initiative de limitation) »</p>
                         <p><b>Participation : </b>40.90 %</p>
                         <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
-                        <p><b>Mode de votation : </b>Référendum</p>
+                        <p><b>Mode de votation : </b>Initiative</p>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@
             </div>
             <div>
                 <div class="uk-card uk-card-default">
-                <div class="uk-card-body">
+                    <div class="uk-card-body">
                         <div class="uk-grid-small"  uk-grid>
                             <div uk-switcher="animation: uk-animation-fade; toggle: > *">
                                 <button class="uk-button uk-button-default" type="button">National</button>
@@ -985,6 +985,8 @@
 
                         </div>
                     </div>
+                    
+                    
                 </div>
             </div>
         </div>

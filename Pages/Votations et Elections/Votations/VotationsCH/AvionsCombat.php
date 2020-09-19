@@ -244,7 +244,7 @@
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>L’ARRÊTÉ DE PLANIFICATION EST UN CHÈQUE EN BLANC DE 24 MILLIARDS.</p>
+                            <p>L’arrêté de planification est un chèque en blanc de 24 milliards.</p>
                         </div>
                     </div>
 
@@ -252,7 +252,7 @@
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>L’ACHAT INUTILE DE NOUVEAUX AVIONS DE COMBAT DE LUXE VA MENER À DE NOUVELLES COUPES BUDGÉTAIRE DANS L’ÉDUCATION ET LA SÉCURITÉ SOCIALE.</p>
+                            <p>L’achat inutile de nouveaux avions de combat de luxe va mener à de nouvelles coupes budgétaire dans l’éducation et la sécurité sociale.</p>
                         </div>
                     </div>
 
@@ -260,7 +260,7 @@
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>SI LE PEUPLE N’A PAS LE DERNIER MOT QUANT À LA DÉCISION DU TYPE D’AVION DE COMBAT , UN DANGER SUBSISTE QUE LA DÉCISION DU DDPS MÈNE À UNE NOUVELLE ACQUISITION QUI TOURNERA AU DÉBÂCLE. </p>
+                            <p>Si le peuple n’a pas le dernier mot quant à la décision du type d’avion de combat , un danger subsiste que la décision du DDPS mène à une nouvelle acquisition qui tournera au débâcle.</p>
                         </div>
                     </div>
 
@@ -268,7 +268,7 @@
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>LE SCÉNARIO D’UNE GUERRE AÉRIENNE EN EUROPE N’EST PAS RÉALISTE.</p>
+                            <p>Le scénario d’une guerre aérienne en Europe n’est pas réaliste.</p>
                         </div>
                     </div>
 
@@ -276,7 +276,7 @@
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>LA POLICE DE L’AIR DOIT ÊTRE GARANTIE, MAIS IL N’Y A PAS BESOIN D’AVIONS DE COMBAT DE LUXE.</p>
+                            <p>La police de l’air doit être garantie, mais il n’y a pas besoin d’avions de combat de luxe.</p>
                         </div>
                     </div>
 
@@ -284,7 +284,7 @@
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>LES AVIONS DE COMBAT LÉGERS SERAIENT UNE OPTION RAISONNABLE ET NETTEMENT MOINS COÛTEUSE QUI PERMETTRAIENT D’ASSURER LES TÂCHES DE LA POLICE DE L’AIR.</p>
+                            <p>Les avions de combat légers seraient une option raisonnable et nettement moins coûteuse qui permettraient d’assurer les tâches de la police de l’air.</p>
                         </div>
                     </div>
 
@@ -292,7 +292,7 @@
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>UN AVION DE COMBAT CONSOMME 5000 LITRES DE KÉROSÈNE PAR HEURE. AVEC AUTANT DE CARBURANT, UNE VOITURE NORMALE POURRAIT FAIRE 2,5 FOIS LE TOUR DE LA TERRE.</p>
+                            <p>Un avion de combat consomme 5000 litres de kérosène par heure. Avec autant de carburant, une voiture normale pourrait faire 2,5 fois le tour de la terre.</p>
                         </div>
                     </div>
 
@@ -300,7 +300,7 @@
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>L’ARMÉE DE L’AIR SUISSE EST RESPONSABLE DE L’ÉMISSION DE 120‘000 TONNES DE CO2 PAR ANNÉE.</p>
+                            <p>L’armée de l’air suisse est responsable de l’émission de 120‘000 tonnes de CO<SUB>2</SUB> par année.</p>
                         </div>
                     </div>
 
@@ -308,7 +308,7 @@
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>LES MILLIARDS GASPILLÉS POUR L’ACHAT DES NOUVEAUX AVIONS DE COMBAT DEVRAIENT MIEUX ÊTRE INVESTI DANS LA LUTTE CONTRE LE RÉCHAUFFEMENT CLIMATIQUE</p>
+                            <p>Les milliards gaspillés pour l’achat des nouveaux avions de combat devraient mieux être investi dans la lutte contre le réchauffement climatique.</p>
                         </div>
                     </div>
                 </li>

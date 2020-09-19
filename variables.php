@@ -191,38 +191,38 @@
 
 //FICHIERS
     //CSS
-    $cssMain = "/Juravote-dynamique/CSS/main.css";    
-    $cssNormalize ="/Juravote-dynamique/CSS/normalize.css";
-    $cssUikit = "/Juravote-dynamique/CSS/uikit.css";
-    $cssUikitMin = "/Juravote-dynamique/CSS/uikit.min.css";
-    $cssUikitRTL = "/Juravote-dynamique/CSS/uikit-rtl.css";
-    $cssUikitRTLMin = "/Juravote-dynamique/CSS/uikit-rtl.min.css";
-    $cssbadges = "/Juravote-dynamique/badges.css";
+    $cssMain = "/Juravote-dynamique/CSS/main.css?=".time();    
+    $cssNormalize ="/Juravote-dynamique/CSS/normalize.css?=".time(); 
+    $cssUikit = "/Juravote-dynamique/CSS/uikit.css?=".time(); 
+    $cssUikitMin = "/Juravote-dynamique/CSS/uikit.min.css?=".time(); 
+    $cssUikitRTL = "/Juravote-dynamique/CSS/uikit-rtl.css?=".time(); 
+    $cssUikitRTLMin = "/Juravote-dynamique/CSS/uikit-rtl.min.css?=".time(); 
+    $cssbadges = "/Juravote-dynamique/badges.css?=".time(); 
 
-    $cssIndex = "/Juravote-dynamique/index.css";
+    $cssIndex = "/Juravote-dynamique/index.css?=".time(); 
 
-    $cssactualites = "/Pages/Actualites/actualites.css";
+    $cssactualites = "/Pages/Actualites/actualites.css?=".time(); 
 
-    $cssequipe = "/Juravote-dynamique/Pages/Equipe/equipe.css";
+    $cssequipe = "/Juravote-dynamique/Pages/Equipe/equipe.css?=".time(); 
 
-    $cssinstances = "/Juravote-dynamique/Pages/Instances/instances.css";
+    $cssinstances = "/Juravote-dynamique/Pages/Instances/instances.css?=".time(); 
 
-    $cssgouvernementCH = "/Juravote-dynamique/Pages/Instances/GouvernementCH/GouvernementCH.css";
-    $cssgouvernementCO = "/Juravote-dynamique/Pages/Instances/GouvernementCO/GouvernementCO.css";
-    $cssgouvernementJU = "/Juravote-dynamique/Pages/Instances/GouvernementJU/GouvernementJU.css";
+    $cssgouvernementCH = "/Juravote-dynamique/Pages/Instances/GouvernementCH/GouvernementCH.css?=".time(); 
+    $cssgouvernementCO = "/Juravote-dynamique/Pages/Instances/GouvernementCO/GouvernementCO.css?=".time(); 
+    $cssgouvernementJU = "/Juravote-dynamique/Pages/Instances/GouvernementJU/GouvernementJU.css?=".time(); 
 
-    $cssparlementCH = "/Juravote-dynamique/Pages/Instances/ParlementCH/ParlementCH.css";
-    $cssparlementCO = "/Juravote-dynamique/Pages/Instances/ParlementCO/ParlementCO.css";
-    $cssparlementJU = "/Juravote-dynamique/Pages/Instances/ParlementJU/ParlementJU.css";
+    $cssparlementCH = "/Juravote-dynamique/Pages/Instances/ParlementCH/ParlementCH.css?=".time(); 
+    $cssparlementCO = "/Juravote-dynamique/Pages/Instances/ParlementCO/ParlementCO.css?=".time(); 
+    $cssparlementJU = "/Juravote-dynamique/Pages/Instances/ParlementJU/ParlementJU.css?=".time(); 
 
-    $csspartisCH = "/Juravote-dynamique/Pages/Instances/PartisCH/PartisCH.css";
-    $csspartisJU = "/Juravote-dynamique/Pages/Instances/PartisJU/PartisJU.css";
+    $csspartisCH = "/Juravote-dynamique/Pages/Instances/PartisCH/PartisCH.css?=".time(); 
+    $csspartisJU = "/Juravote-dynamique/Pages/Instances/PartisJU/PartisJU.css?=".time(); 
 
-    $cssresultats = "/Juravote-dynamique/Pages/Resultats/resultats.css";
+    $cssresultats = "/Juravote-dynamique/Pages/Resultats/resultats.css?=".time(); 
 
-    $cssaccueilVotationsElections = "/Juravote-dynamique/Pages/Votations et Elections/accueilVE.css";
-    $csselections = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css";
-    $cssvotations = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css";
+    $cssaccueilVotationsElections = "/Juravote-dynamique/Pages/Votations et Elections/accueilVE.css?=".time(); 
+    $csselections = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css?=".time(); 
+    $cssvotations = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css?=".time(); 
 
     //PHP
     $PHPindex = "/Juravote-dynamique/index.php";

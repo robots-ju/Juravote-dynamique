@@ -56,10 +56,10 @@
     </section>
     <hr>
     <h3 class="uk-text-center">Les résultats des votations fédérales seront disponibles prochainement !</h3>
-    <!--<section style="padding-left: 5%; padding-right: 5%">
+    <section style="padding-left: 5%; padding-right: 5%">
         <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *">
             <button class="uk-button uk-button-default" type="button">2020-2011</button>
-            <button class="uk-button uk-button-default" type="button">2010-2001</button>
+            <!--<button class="uk-button uk-button-default" type="button">2010-2001</button>
             <button class="uk-button uk-button-default" type="button">2000-1991</button>
             <button class="uk-button uk-button-default" type="button">1990-1981</button>
             <button class="uk-button uk-button-default" type="button">1980-1971</button>
@@ -72,7 +72,7 @@
             <button class="uk-button uk-button-default" type="button">1910-1901</button>
             <button class="uk-button uk-button-default" type="button">1900-1891</button>
             <button class="uk-button uk-button-default" type="button">1890-1881</button>
-            <button class="uk-button uk-button-default" type="button">1880-1848</button>
+            <button class="uk-button uk-button-default" type="button">1880-1848</button>-->
         </div>
         <ul class="uk-switcher uk-margin">
             <li>
@@ -260,7 +260,7 @@
                 </div>
             </li>
         </ul>
-        <h3 class="uk-text-center">Les autres résultats de votations fédérales (avant 2011) seront disponibles prochainement.</h3>-->
+        <h3 class="uk-text-center">Les autres résultats de votations fédérales (avant 2011) seront disponibles prochainement.</h3>
     </section>
 </main>
 <footer>

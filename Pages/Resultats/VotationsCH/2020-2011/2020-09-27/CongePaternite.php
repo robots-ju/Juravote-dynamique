@@ -63,7 +63,7 @@
                         </div>
                     </div>
                     <div class="uk-card-body uk-text-left">
-                        <p><b>Objet : </b>Modification du 14.12.2018 du code pénal et du code pénal militaire (Discrimination et incitation à la haine en raison de l'orientation sexuelle)</p>
+                        <p><b>Objet : </b>Modification de la loi sur les allocations pour perte de gain</p>
                         <p><b>Participation : </b>40.90 %</p>
                         <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>

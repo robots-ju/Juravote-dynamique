@@ -63,8 +63,8 @@
                         </div>
                     </div>
                     <div class="uk-card-body uk-text-left">
-                        <p><b>Objet : </b>Modification du 14.12.2018 du code pénal et du code pénal militaire (Discrimination et incitation à la haine en raison de l'orientation sexuelle)</p>
-                        <p><b>Participation : </b>40.90 %</p>
+                        <p><b>Objet : </b>Arrêté fédéral relatif  à l’acquisition de nouveaux  avions de combat</p>
+                        <p><b>Participation : </b>XX.XX %</p>
                         <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Référendum</p>

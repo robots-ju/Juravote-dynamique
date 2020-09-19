@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Résultats élections Lajoux</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -60,6 +60,17 @@
                     </a>
                 </div>      
             </div>
+            <!--<div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="<?php echo $PHPresultatsConseilLajoux2020 ?>">
+                        <div class="uk-card-body">
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Elections communales du 27 septembre 2020</h3>
+                                </div>
+                        </div>
+                    </a>
+                </div>      
+            </div> <-->
         </div>          
     </section>
 </main>

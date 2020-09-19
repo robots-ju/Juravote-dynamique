@@ -263,6 +263,8 @@
         $PHPresultatsLajoux = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/Lajoux.php";
         $PHPresultatsMairieLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie.php";
         $PHPdescriptionMairieLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie_description.php";
+        $PHPresultatsConseilLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-09-27/Conseil.php";
+        $PHPdescriptionConseilLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-09-27/Conseil_description.php";
 
     $PHPresultatsVotationsCH = "/Juravote-dynamique/Pages/Resultats/VotationsCH/votationsCH.php";
         $PHPresultats20200209Accueil= "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php";
@@ -296,10 +298,6 @@
 
     $PHPvotationsCOaccueil = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/votations.php";
     $PHPvotationsDelemont = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/Delemont_20200927/ComplexeScolaire.php";
-    $PHPvotationLesBoisAccueil = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/LesBois_20200927/Accueil.php";
-    $PHPvotationLesBoisSCFM = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/LesBois_20200927/SCFM.php";
-    $PHPvotationLesBoisVenteJaberg = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/LesBois_20200927/VenteJaberg.php";
-    $PHPvotationLesBoisVenteJoly = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/LesBois_20200927/VenteJoly.php";
     $PHPvotationValTerbiAccueil = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/accueil.php";
     $PHPvotationValTerbiEcole = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
     $PHPvotationValTerbiSEVT = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";

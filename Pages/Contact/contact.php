@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Equipe</title>
@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
-        <link rel="stylesheet" href="<?php echo $cssequipe; ?>"/>
+        <link rel="stylesheet" href="<?php echo $cssContact; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -38,11 +38,11 @@
     <body>
         <header>
             <div class="navbar-normal">
-                <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
         <div class="conteneur">
@@ -62,7 +62,7 @@
                                                     <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
                                                 </div>
                                                 <div class="uk-width-expand">
-                                                    <h3 class="uk-card-title uk-margin-remove-bottom">Morgan Chételat</h3>
+                                                    <h3 class="uk-card-title uk-margin-remove-bottom">ssss Chételat</h3>
                                                     <p class="uk-text-meta uk-margin-remove-top">Informatique</p>
                                                     <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
                                                 </div>
@@ -122,8 +122,7 @@
                                                 </div>
                                                 <div class="uk-width-expand">
                                                     <h3 class="uk-card-title uk-margin-remove-bottom">Sylvain Lovis</h3>
-                                                    <p class="uk-text-meta uk-margin-remove-top">Administration</p>
-                                                    <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
+                                                    <p class="uk-text-meta uk-margin-remove-top">Admisnistration</p>
                                                 </div>
                                             </div>
                                         </div>    
@@ -144,87 +143,17 @@
                                         </div>    
                                     </div> 
 
-                    <div class="uk-card">
-                        <div class="uk-card-header">
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom">Gael Fleury</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
+
                                 </div>
                             </div>
-                        </div>  
+                        </div>
                     </div>
-
-                    <div class="uk-card">
-                        <div class="uk-card-header">
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom">Gwenaël Girard</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Design / Marketing / Développeur</p>
-                                </div>
-                            </div>
-                        </div>  
-                    </div>
-
-                    <div class="uk-card">
-                        <div class="uk-card-header">
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom">Sam Houser</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Finances / Développeur</p>
-                                </div>
-                            </div>
-                        </div>  
-                    </div>
-
-                    <div class="uk-card">
-                        <div class="uk-card-header">
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom">Sylvain Lovis</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Administration</p>
-                                </div>
-                            </div>
-                        </div>  
-                    </div>
-
-                    <div class="uk-card">
-                        <div class="uk-card-header">
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom">Daniel Renaud</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Chef de projet / Développeur</p>
-                                </div>
-                            </div>
-                        </div>  
-                    </div>
-
-                </div>
-
-
-                <div class="uk-width-expand@m">
-                    <div class="uk-card uk-card-default uk-card-body">***FORMULAIRE DE CONTACT***</div>
-                </div>
+                </div>  
             </div>
         </div>
     <footer>
         <div class="footer">
-            <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
     </body>

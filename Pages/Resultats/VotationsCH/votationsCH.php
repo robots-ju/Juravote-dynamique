@@ -55,7 +55,6 @@
         <h1 class="uk-heading-large">Résultats des votations fédérales</h1>
     </section>
     <hr>
-    <h3 class="uk-text-center">Les résultats des votations fédérales seront disponibles prochainement !</h3>
     <section style="padding-left: 5%; padding-right: 5%">
         <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *">
             <button class="uk-button uk-button-default" type="button">2020-2011</button>
@@ -86,7 +85,7 @@
                                     <a href="<?php echo $PHPresultats20200209Accueil; ?>"><p>Votations fédérales du 09.02.2020</p></a>
                                 </div>        
                             </li>
-                            <li>
+                            <!--<li>
                                 <a class="uk-accordion-title">2019</a>
                                 <div class="uk-accordion-content">
                                     <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 10.02.2019</p></a>
@@ -254,13 +253,13 @@
                                     <a href="./2010-2001/2001-06-10/vfédérales.html"><p>Votations fédérales du 10.06.2001</p></a>
                                     <a href="./2010-2001/2001-03-04/vfédérales.html"><p>Votations fédérales du 04.03.2001</p></a>
                                 </div>
-                            </li>
+                            </li>-->
                         </ul>
                     </div>
                 </div>
             </li>
         </ul>
-        <h3 class="uk-text-center">Les autres résultats de votations fédérales (avant 2011) seront disponibles prochainement.</h3>
+        <h3 class="uk-text-center">Les résultats de votations fédérales d'avant 2020 seront disponibles prochainement.</h3>
     </section>
 </main>
 <footer>

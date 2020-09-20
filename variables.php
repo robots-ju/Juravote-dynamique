@@ -205,9 +205,9 @@
 
     $cssequipe = "/Pages/Equipe/equipe.css?=".time(); 
 
-    $cssContact = "/Juravote-dynamique/Pages/Contact/contact.css?=".time();
+    $cssContact = "/Pages/Contact/contact.css?=".time();
 
-    $cssinstances = "/Juravote-dynamique/Pages/Instances/instances.css?=".time(); 
+    $cssinstances = "/Pages/Instances/instances.css?=".time(); 
 
     $cssgouvernementCH = "/Pages/Instances/GouvernementCH/GouvernementCH.css?=".time(); 
     $cssgouvernementCO = "/Pages/Instances/GouvernementCO/GouvernementCO.css?=".time(); 
@@ -234,9 +234,9 @@
 
     $PHPequipe = "/Pages/Equipe/equipe.php";
 
-    $PHPcontact = "/Juravote-dynamique/Pages/Contact/contact.php";
+    $PHPcontact = "/Pages/Contact/contact.php";
 
-    $PHPinstances = "/Juravote-dynamique/Pages/Instances/instances.php";
+    $PHPinstances = "/Pages/Instances/instances.php";
 
     $PHPgouvernementCH = "/Pages/Instances/GouvernementCH/2020_2023/GouvernementCH.php";    
     $PHPgouvernementCODistricts = "/Pages/Instances/GouvernementCO/Districts.php";

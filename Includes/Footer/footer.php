@@ -43,7 +43,7 @@
                         <hr>
                     </div>
                     <div class="uk-light uk-child-width-1-5 grid-nav" uk-grid> 
-                        <li class="icon_resaux"><a href="<?php echo $PHPcontact ?>" uk-icon="icon: mail; ratio: 2"></a></li>
+                        <li class="icon_resaux"><a href="mailto:infos@juravote.ch" uk-icon="icon: mail; ratio: 2"></a></li>
                         <li class="icon_resaux"><a href="https://twitter.com/JuraVote/" target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
                         <li class="icon_resaux"><a href="https://www.instagram.com/juravote/?hl=fr" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
                         <li class="icon_resaux"><a href="https://www.facebook.com/JuraVote2020/" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>

@@ -227,84 +227,84 @@
     $cssvotations = "/Pages/Votations et Elections/Elections/elections.css?=".time(); 
 
     //PHP
-    $PHPindex = "/index.php";
-    $PHPvariables ="/variables.php";
+    $PHPindex = "/index.php?=".time();
+    $PHPvariables ="/variables.php?=".time();
     
-    $PHPactualites = "/Pages/Actualites/actualites.php";
+    $PHPactualites = "/Pages/Actualites/actualites.php?=".time();
 
-    $PHPequipe = "/Pages/Equipe/equipe.php";
+    $PHPequipe = "/Pages/Equipe/equipe.php?=".time();
 
-    $PHPcontact = "/Pages/Contact/contact.php";
+    $PHPcontact = "/Pages/Contact/contact.php?=".time();
 
-    $PHPinstances = "/Pages/Instances/instances.php";
+    $PHPinstances = "/Pages/Instances/instances.php?=".time();
 
-    $PHPgouvernementCH = "/Pages/Instances/GouvernementCH/2020_2023/GouvernementCH.php";    
-    $PHPgouvernementCODistricts = "/Pages/Instances/GouvernementCO/Districts.php";
-    $PHPgouvernementDevelier = "/Pages/Instances/GouvernementCO/Develier/2019_2023/GouvernementDevelier.php";
-    $PHPgouvernementJU = "/Pages/Instances/GouvernementJU/2016_2020/GouvernementJU.php";
+    $PHPgouvernementCH = "/Pages/Instances/GouvernementCH/2020_2023/GouvernementCH.php?=".time();    
+    $PHPgouvernementCODistricts = "/Pages/Instances/GouvernementCO/Districts.php?=".time();
+    $PHPgouvernementDevelier = "/Pages/Instances/GouvernementCO/Develier/2019_2023/GouvernementDevelier.php?=".time();
+    $PHPgouvernementJU = "/Pages/Instances/GouvernementJU/2016_2020/GouvernementJU.php?=".time();
 
-    $PHPparlementCH = "/Pages/Instances/ParlementCH/2020_2023/ParlementCH.php";
-    $PHPparlementCO = "/Pages/Instances/ParlementCO/ParlementCO.php";
-    $PHPparlementDelemont = "/Pages/Instances/ParlementCO/Delemont/2019_2023/ParlementDelemont.php";
-    $PHPparlementHauteSorne = "/Pages/Instances/ParlementCO/HauteSorne/2019_2023/ParlementHauteSorne.php";
-    $PHPparlementLesBois = "/Pages/Instances/ParlementCO/LesBois/2019_2023/ParlementLesBois.php";
-    $PHPparlementPorrentruy = "/Pages/Instances/ParlementCO/Porrentruy/2019_2023/ParlementPorrentruy.php";
-    $PHPparlementValTerbi = "/Pages/Instances/ParlementCO/ValTerbi/2019_2023/ParlementValTerbi.php";
-    $PHPparlementJU = "/Pages/Instances/ParlementJU/2016_2020/parlementJU.php";
+    $PHPparlementCH = "/Pages/Instances/ParlementCH/2020_2023/ParlementCH.php?=".time();
+    $PHPparlementCO = "/Pages/Instances/ParlementCO/ParlementCO.php?=".time();
+    $PHPparlementDelemont = "/Pages/Instances/ParlementCO/Delemont/2019_2023/ParlementDelemont.php?=".time();
+    $PHPparlementHauteSorne = "/Pages/Instances/ParlementCO/HauteSorne/2019_2023/ParlementHauteSorne.php?=".time();
+    $PHPparlementLesBois = "/Pages/Instances/ParlementCO/LesBois/2019_2023/ParlementLesBois.php?=".time();
+    $PHPparlementPorrentruy = "/Pages/Instances/ParlementCO/Porrentruy/2019_2023/ParlementPorrentruy.php?=".time();
+    $PHPparlementValTerbi = "/Pages/Instances/ParlementCO/ValTerbi/2019_2023/ParlementValTerbi.php?=".time();
+    $PHPparlementJU = "/Pages/Instances/ParlementJU/2016_2020/parlementJU.php?=".time();
 
-    $PHPpartisCH = "/Pages/Instances/PartisCH/2020_2023/PartisCH.php";
-    $PHPpartisJU = "/Pages/Instances/PartisJU/2016_2020/PartisJU.php"; 
+    $PHPpartisCH = "/Pages/Instances/PartisCH/2020_2023/PartisCH.php?=".time();
+    $PHPpartisJU = "/Pages/Instances/PartisJU/2016_2020/PartisJU.php?=".time(); 
     
-    $PHPresultats = "/Pages/Resultats/resultats.php";
-    $PHPresultatsElectionsCH = "/Pages/Resultats/ElectionsCH/electionsCH.php";
-    $PHPresultatsElectionsJU = "/Pages/Resultats/ElectionsJU/electionsJU.php";
-        $PHPresultatGouvernementJU2020 = "/Pages/Resultats/ElectionsJU/2020-03-01/Ecantonales.php";
+    $PHPresultats = "/Pages/Resultats/resultats.php?=".time();
+    $PHPresultatsElectionsCH = "/Pages/Resultats/ElectionsCH/electionsCH.php?=".time();
+    $PHPresultatsElectionsJU = "/Pages/Resultats/ElectionsJU/electionsJU.php?=".time();
+        $PHPresultatGouvernementJU2020 = "/Pages/Resultats/ElectionsJU/2020-03-01/Ecantonales.php?=".time();
         
-    $PHPresultatsElectionsCO = "/Pages/Resultats/ElectionsCO/electionsCO.php";
-        $PHPresultatsCourtetelle = "/Pages/Resultats/ElectionsCO/Courtetelle/Courtetelle.php";
-        $PHPresultatsMairieCourtetelle2020 = "/Pages/Resultats/ElectionsCO/Courtetelle/2020-06-29/Mairie.php";
+    $PHPresultatsElectionsCO = "/Pages/Resultats/ElectionsCO/electionsCO.php?=".time();
+        $PHPresultatsCourtetelle = "/Pages/Resultats/ElectionsCO/Courtetelle/Courtetelle.php?=".time();
+        $PHPresultatsMairieCourtetelle2020 = "/Pages/Resultats/ElectionsCO/Courtetelle/2020-06-29/Mairie.php?=".time();
 
-        $PHPresultatsLajoux = "/Pages/Resultats/ElectionsCO/Lajoux/Lajoux.php";
-        $PHPresultatsMairieLajoux2020 = "/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie.php";
-        $PHPdescriptionMairieLajoux2020 = "/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie_description.php";
-        $PHPresultatsConseilLajoux2020 = "/Pages/Resultats/ElectionsCO/Lajoux/2020-09-27/Conseil.php";
-        $PHPdescriptionConseilLajoux2020 = "/Pages/Resultats/ElectionsCO/Lajoux/2020-09-27/Conseil_description.php";
+        $PHPresultatsLajoux = "/Pages/Resultats/ElectionsCO/Lajoux/Lajoux.php?=".time();
+        $PHPresultatsMairieLajoux2020 = "/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie.php?=".time();
+        $PHPdescriptionMairieLajoux2020 = "/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie_description.php?=".time();
+        $PHPresultatsConseilLajoux2020 = "/Pages/Resultats/ElectionsCO/Lajoux/2020-09-27/Conseil.php?=".time();
+        $PHPdescriptionConseilLajoux2020 = "/Pages/Resultats/ElectionsCO/Lajoux/2020-09-27/Conseil_description.php?=".time();
 
-    $PHPresultatsVotationsCH = "/Pages/Resultats/VotationsCH/votationsCH.php";
-        $PHPresultats20200209Accueil= "/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php";
-        $PHPresultats20200927Accueil= "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
-    $PHPresultatsVotationsJU = "/Pages/Resultats/VotationsJU/VotationsJU.php";
-    $PHPresultatsVotationsCO = "/Pages/Resultats/VotationsCO/VotationsCO.php";
+    $PHPresultatsVotationsCH = "/Pages/Resultats/VotationsCH/votationsCH.php?=".time();
+        $PHPresultats20200209Accueil= "/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php?=".time();
+        $PHPresultats20200927Accueil= "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php?=".time();
+    $PHPresultatsVotationsJU = "/Pages/Resultats/VotationsJU/VotationsJU.php?=".time();
+    $PHPresultatsVotationsCO = "/Pages/Resultats/VotationsCO/VotationsCO.php?=".time();
 
-    $PHPvotationselectionsAccueil = "/Pages/Votations et Elections/accueilVE.php";
-    $PHPelectionsAccueil = "/Pages/Votations et Elections/Elections/elections.php";
+    $PHPvotationselectionsAccueil = "/Pages/Votations et Elections/accueilVE.php?=".time();
+    $PHPelectionsAccueil = "/Pages/Votations et Elections/Elections/elections.php?=".time();
 
-    $PHPelectionsJUaccueil = "/Pages/Votations et Elections/Elections/ElectionsJU/accueil.php";
-    $PHPelectionsJUGouvernement1 = "/Pages/Votations et Elections/Elections/ElectionsJU/Gouvernement_20201018.php";
-    $PHPelectionsJUGouvernement2 = "/Pages/Votations et Elections/Elections/ElectionsJU/Gouvernement_20201108.php";
-    $PHPelectionsJUParlement = "/Pages/Votations et Elections/Elections/ElectionsJU/Parlement_20201018.php";
-    $PHPelectionsJUParlementD = "/Pages/Votations et Elections/Elections/ElectionsJU/ParlementDelemont.php";
-    $PHPelectionsJUParlementA = "/Pages/Votations et Elections/Elections/ElectionsJU/ParlementPorrentruy.php";
-    $PHPelectionsJUParlementFM = "/Pages/Votations et Elections/Elections/ElectionsJU/ParlementFM.php";
+    $PHPelectionsJUaccueil = "/Pages/Votations et Elections/Elections/ElectionsJU/accueil.php?=".time();
+    $PHPelectionsJUGouvernement1 = "/Pages/Votations et Elections/Elections/ElectionsJU/Gouvernement_20201018.php?=".time();
+    $PHPelectionsJUGouvernement2 = "/Pages/Votations et Elections/Elections/ElectionsJU/Gouvernement_20201108.php?=".time();
+    $PHPelectionsJUParlement = "/Pages/Votations et Elections/Elections/ElectionsJU/Parlement_20201018.php?=".time();
+    $PHPelectionsJUParlementD = "/Pages/Votations et Elections/Elections/ElectionsJU/ParlementDelemont.php?=".time();
+    $PHPelectionsJUParlementA = "/Pages/Votations et Elections/Elections/ElectionsJU/ParlementPorrentruy.php?=".time();
+    $PHPelectionsJUParlementFM = "/Pages/Votations et Elections/Elections/ElectionsJU/ParlementFM.php?=".time();
 
-    $PHPelectionBonfol = "/Pages/Votations et Elections/Elections/ElectionsCO/Bonfol_20201018/VicePresidentAssemblee.php";
-    $PHPelectionChatillon = "/Pages/Votations et Elections/Elections/ElectionsCO/Chatillon_20201018/MembreCommissionEcole.php";
-    $PHPelectionCourtedoux = "/Pages/Votations et Elections/Elections/ElectionsCO/Courtedoux_20201018/VicePresidentAssemblee.php";
-    $PHPelectionLajoux = "/Pages/Votations et Elections/Elections/ElectionsCO/Lajoux_20200927/Accueil.php";
-    $PHPelectionMovelier = "/Pages/Votations et Elections/Elections/ElectionsCO/Movelier_20201018/MembreCercleScolaire.php";
+    $PHPelectionBonfol = "/Pages/Votations et Elections/Elections/ElectionsCO/Bonfol_20201018/VicePresidentAssemblee.php?=".time();
+    $PHPelectionChatillon = "/Pages/Votations et Elections/Elections/ElectionsCO/Chatillon_20201018/MembreCommissionEcole.php?=".time();
+    $PHPelectionCourtedoux = "/Pages/Votations et Elections/Elections/ElectionsCO/Courtedoux_20201018/VicePresidentAssemblee.php?=".time();
+    $PHPelectionLajoux = "/Pages/Votations et Elections/Elections/ElectionsCO/Lajoux_20200927/Accueil.php?=".time();
+    $PHPelectionMovelier = "/Pages/Votations et Elections/Elections/ElectionsCO/Movelier_20201018/MembreCercleScolaire.php?=".time();
 
-    $PHPvotationsCHaccueil = "/Pages/Votations et Elections/Votations/VotationsCH/accueil.php";
-    $PHPvotationsCHAvions = "/Pages/Votations et Elections/Votations/VotationsCH/AvionsCombat.php";
-    $PHPvotationsCHChasse = "/Pages/Votations et Elections/Votations/VotationsCH/Chasse.php";
-    $PHPvotationsCHCongePaternite = "/Pages/Votations et Elections/Votations/VotationsCH/CongePaternite.php";
-    $PHPvotationsCHImpotDirect = "/Pages/Votations et Elections/Votations/VotationsCH/ImpotDirect.php";
-    $PHPvotationsCHLimitation = "/Pages/Votations et Elections/Votations/VotationsCH/InitiativeLimitation.php";
+    $PHPvotationsCHaccueil = "/Pages/Votations et Elections/Votations/VotationsCH/accueil.php?=".time();
+    $PHPvotationsCHAvions = "/Pages/Votations et Elections/Votations/VotationsCH/AvionsCombat.php?=".time();
+    $PHPvotationsCHChasse = "/Pages/Votations et Elections/Votations/VotationsCH/Chasse.php?=".time();
+    $PHPvotationsCHCongePaternite = "/Pages/Votations et Elections/Votations/VotationsCH/CongePaternite.php?=".time();
+    $PHPvotationsCHImpotDirect = "/Pages/Votations et Elections/Votations/VotationsCH/ImpotDirect.php?=".time();
+    $PHPvotationsCHLimitation = "/Pages/Votations et Elections/Votations/VotationsCH/InitiativeLimitation.php?=".time();
 
-    $PHPvotationsCOaccueil = "/Pages/Votations et Elections/Votations/VotationsCO/votations.php";
-    $PHPvotationsDelemont = "/Pages/Votations et Elections/Votations/VotationsCO/Delemont_20200927/ComplexeScolaire.php";
-    $PHPvotationValTerbiAccueil = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/accueil.php";
-    $PHPvotationValTerbiEcole = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
-    $PHPvotationValTerbiSEVT = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";
+    $PHPvotationsCOaccueil = "/Pages/Votations et Elections/Votations/VotationsCO/votations.php?=".time();
+    $PHPvotationsDelemont = "/Pages/Votations et Elections/Votations/VotationsCO/Delemont_20200927/ComplexeScolaire.php?=".time();
+    $PHPvotationValTerbiAccueil = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/accueil.php?=".time();
+    $PHPvotationValTerbiEcole = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php?=".time();
+    $PHPvotationValTerbiSEVT = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php?=".time();
 
     //JS
     $jsUikit = "/JS/uikit.js";
@@ -372,9 +372,9 @@
 
 //INCLUDES
     //navbar
-    $navbar = "/Includes/Navbar/navbar.php";
-    $navbarMobile = "/Includes/Navbar/navbar-mobile.php";
+    $navbar = "/Includes/Navbar/navbar.php?=".time();
+    $navbarMobile = "/Includes/Navbar/navbar-mobile.php?=".time();
 
     //footer
-    $footer = "/Includes/Footer/footer.php";
+    $footer = "/Includes/Footer/footer.php?=".time();
 ?>

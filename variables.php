@@ -330,6 +330,7 @@
             $siteCornol = "http://www.cornol.ch/fr/";
             $siteCourgenay = "http://www.courgenay.ch/fr/";
             $siteFahy = "http://www.fahy.ch/";
+            $sitePorrentruy = "https://porrentruy.ch/";
 
             //DELEMONT
             $siteBourrignon = "https://www.bourrignon.ch/";

@@ -235,47 +235,7 @@
 
                     <div class="uk-width-1-4@m">
                         <div class="uk-card uk-card-body uk-padding-remove">
-                            <h3 class="uk-heading-divider">Législatifs communaux</h3>
-                            <a href="<?php echo $siteBure ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">21.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Bure</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteHauteSorne ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">21.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Haute-Sorne</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteBourrignon ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">22.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Bourrignon</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteCoeuve ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">22.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Coeuve</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteValTerbi ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">22.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Val-Terbi</h3>
-                                    </div>
-                                </div>
-                            </a>
+                            <h3 class="uk-heading-divider">Législatifs communaux</h3>                            
                             <a href="<?php echo $siteRossemaison ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">28.09</div>
@@ -297,6 +257,14 @@
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">29.09</div>
                                     <div class="uk-card-body">
                                         <h3 class="uk-card-title uk-align-left">Soyhières</h3>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="<?php echo $sitePorrentruy ?>" target="blank">
+                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.10</div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title uk-align-left">Porrentruy</h3>
                                     </div>
                                 </div>
                             </a>

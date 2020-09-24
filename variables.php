@@ -285,7 +285,8 @@
     $PHPelectionsJUParlement = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsJU/Parlement_20201018.php";
     $PHPelectionsJUParlementD = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsJU/ParlementDelemont.php";
     $PHPelectionsJUParlementA = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsJU/ParlementPorrentruy.php";
-    $PHPelectionsJUParlementFM = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsJU/ParlementFM.php";
+    $PHPelectionsJUParlementFM = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsJU/ParlementFM.php";    
+    $PHPquestionnaireCandidats = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsJU/Questionnaire.php";
 
     $PHPelectionBonfol = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsCO/Bonfol_20201018/VicePresidentAssemblee.php";
     $PHPelectionChatillon = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsCO/Chatillon_20201018/MembreCommissionEcole.php";

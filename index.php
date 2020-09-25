@@ -59,12 +59,12 @@
                         </div>
                     </div>
                 </div>
-                <!--<div class="uk-alert-primary" uk-alert>
+                <div class="uk-alert-primary" uk-alert>
                     <a class="uk-alert-close" uk-close></a>
                     <h3>Pour les candidats-es aux élections cantonales</h3>
                     <p>Le questionaire pour les candidats-es aux élections cantonales du 18 octobre est accessible
                     <a href="<?php echo $PHPquestionnaireCandidats ?>">par ce lien</a>. <b>(accès protégé)</b></p>
-                </div>-->
+                </div>
                 <div class="uk-grid-match uk-flex" uk-grid>
                     <div class="uk-width-expand@m">
                         <div class="uk-text-center" uk-grid>

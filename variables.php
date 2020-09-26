@@ -22,6 +22,10 @@
     $districtFranchesMontagnes = "/Juravote-dynamique/IMG/Logo/Districts/Franches-montagnes.png";
     $districtPorrentruy = "/Juravote-dynamique/IMG/Logo/Districts/Porrentruy.png";
 
+    //ElectionsJU2020
+        //ParlementDelemont
+        $MeuryRemy = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/CSPOP_MeuryRemy.jpg";
+
     //juravote :
     $juravoteLogo = "/Juravote-dynamique/IMG/Logo/JuraVote/Logo.png";
     $juravoteIcon = "/Juravote-dynamique/IMG/Logo/JuraVote/Icon.png";

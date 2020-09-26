@@ -48,7 +48,11 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Election du Gouvernement jurassien (1er tour) - 18 octobre 2020</h1>
         <hr>
-
+        <div class="uk-alert-primary" uk-alert>
+            <a class="uk-alert-close" uk-close></a>
+            <p>Vous trouverez plus d'informations sur les candidates et candidats en cliquant sur leurs cartes respectives !
+            (la mise en ligne se fait au fur et à mesure des retours des candidates et candidats)</p>
+        </div>
         <div class="switcher-buttons uk-text-left" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%">
             <button class="uk-button uk-button-default" type="button">En bref</button>
             <button class="uk-button uk-button-default" type="button">Liste des candidats-es</button>

@@ -63,7 +63,7 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Crédit d'étude pour le développement du secteur des Arquebusiers</p>
-                        <p><b>Participation : </b>41.34 %</p>
+                        <p><b>Participation : </b>47.80 %</p>
                         <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation communale (Delémont)</p>
                         <p><b>Mode de votation : </b>Scrutin populaire</p>
@@ -88,10 +88,10 @@
                                         // Add data
                                         resultatprovita.data = [{
                                             "votes": "OUI",
-                                            "suffrages": 308
+                                            "suffrages": 2797
                                         }, {
                                             "votes": "NON",
-                                            "suffrages": 118
+                                            "suffrages": 1238
                                         }];
 
                                         // Add and configure Series
@@ -152,9 +152,9 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td><b>41.34 %</b></td>
-                                    <td><b>308</b></td>
-                                    <td><b>72.30 %</b></td>
+                                    <td><b>47.80 %</b></td>
+                                    <td><b>2'797</b></td>
+                                    <td><b>69.30 %</b></td>
                                 </tr>
                             </tbody>
                         </table>

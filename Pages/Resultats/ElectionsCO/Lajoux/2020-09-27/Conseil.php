@@ -110,8 +110,7 @@
                                         seriesMairie.columns.template.tooltipText="Candidat: {categoryX}\nSuffrages: {valueY}";
                                         seriesMairie.columns.template.fill = am4core.color("#D20603");
                                         seriesMairie.dataFields.valueY="suffrages";
-                                        seriesMairie.dataFields.categoryX="candidat";
-                                        
+                                        seriesMairie.dataFields.categoryX="candidat";                                        
                                     </script>
                                 </div>
                             </li>

@@ -310,7 +310,7 @@
     
 
     $PHPvotationsCOaccueil = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/votations.php";
-    $PHPvotationsDelemont = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/Delemont_20200927/ComplexeScolaire.php";
+    $PHPvotationsDelemont = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Delemont/2020-09-27/ComplexeScolaire.php";
     $PHPvotationValTerbiAccueil = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/accueil.php";
     $PHPvotationValTerbiEcole = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
     $PHPvotationValTerbiSEVT = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";

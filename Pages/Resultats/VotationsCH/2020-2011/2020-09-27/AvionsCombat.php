@@ -64,7 +64,7 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Arrêté fédéral relatif  à l’acquisition de nouveaux  avions de combat</p>
-                        <p><b>Participation : </b>xx.xx %</p>
+                        <p><b>Participation : </b>59.40 %</p>
                         <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Référendum</p>
@@ -173,7 +173,7 @@
                             série50to60.title = "Oui en %";
                             série50to60.useGeodata = true;
                             série50to60.include = ["CH-LU", "CH-ZG", "CH-SH", "CH-AR", "CH-AI", "CH-SG", "CH-GR", "CH-VS", "CH-SO",
-                            "CH-BE", "CH-TG"];
+                            "CH-BE", "CH-TG", "CH-AG", "CH-ZH"];
                             série50to60.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série50to60.fill = am4core.color("#88e56f")
                             série50to60.mapPolygons.template.fill = am4core.color("#88e56f")
@@ -188,33 +188,13 @@
                             série60to70.fill = am4core.color("#63cf46")
                             série60to70.mapPolygons.template.fill = am4core.color("#63cf46")
 
-                            var série70to80 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
-                            série70to80.name = "70 à 80 %";
-                            série70to80.value = "70 à 80 %";
-                            série70to80.title = "Oui en %";
-                            série70to80.useGeodata = true;
-                            série70to80.include = [""];
-                            série70to80.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série70to80.fill = am4core.color("#42c121")
-                            série70to80.mapPolygons.template.fill = am4core.color("#42c121")
-
-                            var série80to90 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
-                            série80to90.name = "80 à 90 %";
-                            série80to90.value = "80 à 90 %";
-                            série80to90.title = "Oui en %";
-                            série80to90.useGeodata = true;
-                            série80to90.include = [""];
-                            série80to90.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série80to90.fill = am4core.color("#33d708")
-                            série80to90.mapPolygons.template.fill = am4core.color("#33d708")
-
                             resultatsDiscriminationCH.legend = new am4maps.Legend();
                             resultatsDiscriminationCH.legend.position = "left";
                         </script>
                     </div>
                 </div>
             </div>
-            <div>
+            <!--<div>
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
@@ -269,8 +249,8 @@
                                         "latitude": 47.28,
                                         "longitude": 7.14,
                                         "title": "Lajoux",
-                                        "OUI": "56.74 %"
-                                    },];
+                                        "OUI": "18.78 %"
+                                    }];
 
                                     var imageSeries20to30 = cantonJU.series.push(new am4maps.MapImageSeries());
                                     var imageSeries20to30Template = imageSeries20to30.mapImages.template;
@@ -339,7 +319,7 @@
                                         "longitude": 7.11,
                                         "title": "Saint-Brais",
                                         "OUI": "21.26 %"
-                                    }{ 
+                                    },{ 
                                         "latitude": 47.31,
                                         "longitude": 7.05,
                                         "title": "Soubey",
@@ -601,7 +581,7 @@
                                         "longitude": 7.01,
                                         "title": "Bure",
                                         "OUI": "50.99 %"
-                                    },];
+                                    }];
 
                                     var imageSeries60to70 = cantonJU.series.push(new am4maps.MapImageSeries());
                                     var imageSeries60to70Template = imageSeries60to70.mapImages.template;
@@ -1017,7 +997,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>-->
         </div>
     </section>
 </main>

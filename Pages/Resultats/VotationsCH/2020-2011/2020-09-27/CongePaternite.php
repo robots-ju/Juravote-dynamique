@@ -175,7 +175,7 @@
                             série50to60.value = "50 à 60 %";
                             série50to60.title = "Oui en %";
                             série50to60.useGeodata = true;
-                            série50to60.include = ["CH-LU", "CH-ZG", "CH-SO", "CH-BL", "CH-SH", "CH-GR", "CH-BE"];
+                            série50to60.include = ["CH-LU", "CH-ZG", "CH-SO", "CH-BL", "CH-SH", "CH-GR", "CH-BE", "CH-AG"];
                             série50to60.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série50to60.fill = am4core.color("#88e56f")
                             série50to60.mapPolygons.template.fill = am4core.color("#88e56f")
@@ -185,7 +185,7 @@
                             série60to70.value = "60 à 70 %";
                             série60to70.title = "Oui en %";
                             série60to70.useGeodata = true;
-                            série60to70.include = ["CH-TI", "CH-VS", "CH-FR"];
+                            série60to70.include = ["CH-TI", "CH-VS", "CH-FR", "CH-ZH"];
                             série60to70.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série60to70.fill = am4core.color("#63cf46")
                             série60to70.mapPolygons.template.fill = am4core.color("#63cf46")
@@ -216,7 +216,7 @@
                     </div>
                 </div>
             </div>
-            <div>
+            <!--<div>
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
@@ -1066,7 +1066,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>-->
         </div>
     </section>
 </main>

@@ -370,7 +370,11 @@
                                         "title": "Vendlincourt",
                                         "OUI": "38.18 %"
                                     }, {
-
+                                        "latitude": 47.35,
+                                        "longitude": 7.41,
+                                        "title": "Val-Terbi",
+                                        "OUI": "38.52 %" 
+                                    }, {
                                           
                                                                                                                   
                                                                              
@@ -380,12 +384,8 @@
                                         "longitude": 7.15,
                                         "title": "Saulcy",
                                         "OUI": "39.01 %" 
-                                    }, {                                  
-                                        "latitude": 47.35,
-                                        "longitude": 7.41,
-                                        "title": "Val-Terbi",
-                                        "OUI": "38.01 %" 
-                                    }, {                                       
+                                                                     
+                                                                            
                                                                                                 
                                     }];
 
@@ -487,6 +487,11 @@
                                         "title": "La Baroche",
                                         "OUI": "42.91 %"
                                     }, { 
+                                        "latitude": 47.18,
+                                        "longitude": 6.91,
+                                        "title": "Les Bois",
+                                        "OUI": "42.29 %"
+                                    }, {
                                         "latitude": 47.26,
                                         "longitude": 7.13,
                                         "title": "Les Genevez",
@@ -566,13 +571,7 @@
                                         "title": "Soubey",
                                         "OUI": "56.16 %"      
                                     }, {
-
-
-                                        "latitude": 47.18,
-                                        "longitude": 6.91,
-                                        "title": "Les Bois",
-                                        "OUI": "55.74 %"
-                                    }, {
+                                        
                                                                                
                                         "latitude": 47.26,
                                         "longitude": 7.00,
@@ -591,8 +590,8 @@
                                     circle.fill = am4core.color("#63cf46");
                                     
                                     imageSeries60to70.fill = am4core.color("#63cf46")
-                                    imageSeries60to70.name = "50 à 60 %";
-                                    imageSeries60to70.value = "50 à 60 %";
+                                    imageSeries60to70.name = "60 à 70 %";
+                                    imageSeries60to70.value = "60 à 70 %";
                                     imageSeries60to70.title = "Oui en %";
 
                                     imageSeries60to70Template.propertyFields.latitude = "latitude";
@@ -603,7 +602,7 @@
                                         "longitude": 7.37,
                                         "title": "Courrendlin",
                                         "OUI": "60.59 %"  
-
+                                    }, {
                                         "latitude": 47.50,
                                         "longitude": 7.02,
                                         "title": "Boncourt",

@@ -417,12 +417,7 @@
                                     imageSeries40to50Template.propertyFields.latitude = "latitude";
                                     imageSeries40to50Template.propertyFields.longitude = "longitude";                                    
 
-                                    imageSeries40to50.data = [{
-                                        "latitude": 47.45,
-                                        "longitude": 7.03,
-                                        "title": "Basse-Allaine",
-                                        "OUI": "46.60 %"
-                                    }, {
+                                    imageSeries40to50.data = [ {
                                         "latitude": 47.26,
                                         "longitude": 7.02,
                                         "title": "Le Bémont",
@@ -473,11 +468,6 @@
                                         "title": "Fontenais",
                                         "OUI": "42.16 %"
                                     },{
-                                        "latitude": 47.26,
-                                        "longitude": 7.13,
-                                        "title": "Les Genevez",
-                                        "OUI": "41.25 %"
-                                    },{
                                         "latitude": 47.39,
                                         "longitude": 6.94,
                                         "title": "Grandfontaine",
@@ -487,21 +477,16 @@
                                         "longitude": 7.00,
                                         "title": "Haute-Ajoie",
                                         "OUI": "42.57 %"
-                                    },{                                       
-                                        "latitude": 47.22,
-                                        "longitude": 7.03,
-                                        "title": "La Chaux-des-Breuleux",
-                                        "OUI": "47.22 %"
                                     },{
                                         "latitude": 47.23,
                                         "longitude": 6.96,
                                         "title": "Le Noirmont",
                                         "OUI": "48.16 %"
-                                    },{
-                                        "latitude": 47.49,
-                                        "longitude": 7.10,
-                                        "title": "Lugnez",
-                                        "OUI": "45.16 %"
+                                    },{  
+                                        "latitude": 47.39,
+                                        "longitude": 7.32,
+                                        "title": "Mettembert",
+                                        "OUI": "49.15 %"
                                     },{
                                         "latitude": 47.34,
                                         "longitude": 7.50,
@@ -512,6 +497,11 @@
                                         "longitude": 6.98,
                                         "title": "Muriaux",
                                         "OUI": "44.39 %"
+                                    },{
+                                        "latitude": 47.27,
+                                        "longitude": 7.05,
+                                        "title": "Montfaucon",
+                                        "OUI": "45.05 %"
                                     },{
                                         "latitude": 47.41,
                                         "longitude": 7.29,
@@ -551,7 +541,12 @@
                                     imageSeries50to60Template.propertyFields.latitude = "latitude";
                                     imageSeries50to60Template.propertyFields.longitude = "longitude";                                    
 
-                                    imageSeries50to60.data = [{                                                                                                                         
+                                    imageSeries50to60.data = [{
+                                        "latitude": 47.45,
+                                        "longitude": 7.03,
+                                        "title": "Basse-Allaine",
+                                        "OUI": "55.97 %"
+                                    },{                                                                                                                         
                                         "latitude": 47.44,
                                         "longitude": 7.06,
                                         "title": "Courchavon",
@@ -561,6 +556,11 @@
                                         "longitude": 7.14,
                                         "title": "Lajoux",
                                         "OUI": "56.74 %"
+                                    },{
+                                        "latitude": 47.49,
+                                        "longitude": 7.10,
+                                        "title": "Lugnez",
+                                        "OUI": "50.52 %"
                                     },{       
                                         "latitude": 47.18,
                                         "longitude": 6.91,
@@ -571,16 +571,16 @@
                                         "longitude": 7.00,
                                         "title": "Les Breuleux",
                                         "OUI": "56.51 %"
-                                    },{  
-                                        "latitude": 47.39,
-                                        "longitude": 7.32,
-                                        "title": "Mettembert",
-                                        "OUI": "57.69 %"
+                                    },{                                       
+                                        "latitude": 47.22,
+                                        "longitude": 7.03,
+                                        "title": "La Chaux-des-Breuleux",
+                                        "OUI": "51.06 %"
                                     },{
-                                        "latitude": 47.27,
-                                        "longitude": 7.05,
-                                        "title": "Montfaucon",
-                                        "OUI": "52.02 %"
+                                        "latitude": 47.26,
+                                        "longitude": 7.13,
+                                        "title": "Les Genevez",
+                                        "OUI": "56.47 %"
                                     },{
                                         "latitude": 47.26,
                                         "longitude": 7.00,

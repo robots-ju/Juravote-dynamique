@@ -147,12 +147,22 @@
                             polygonSeries.useGeodata = true;
 
                             //Create data series
+                            var série30to40 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
+                            série30to40.name = "30 à 40 %";
+                            série30to40.value = "30 à 40 %";
+                            série30to40.title = "Oui en %";
+                            série30to40.useGeodata = true;
+                            série30to40.include = ["CH-BL", "CH-NE"];
+                            série30to40.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
+                            série30to40.fill = am4core.color("#e74545")
+                            série30to40.mapPolygons.template.fill = am4core.color("#e74545")
+
                             var série40to50 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
                             série40to50.name = "40 à 50 %";
                             série40to50.value = "40 à 50 %";
                             série40to50.title = "Oui en %";
                             série40to50.useGeodata = true;
-                            série40to50.include = ["CH-AI", "CH-SZ", "CH-UR"];
+                            série40to50.include = ["CH-BS", "CH-TI"];
                             série40to50.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série40to50.fill = am4core.color("#fd7272")
                             série40to50.mapPolygons.template.fill = am4core.color("#fd7272")
@@ -162,7 +172,7 @@
                             série50to60.value = "50 à 60 %";
                             série50to60.title = "Oui en %";
                             série50to60.useGeodata = true;
-                            série50to60.include = ["CH-BE", "CH-LU","CH-OW", "CH-NW", "CH-GL", "CH-ZG", "CH-SO", "CH-SH", "CH-AR", "CH-SG", "CH-GR", "CH-AG", "CH-TG"];
+                            série50to60.include = ["CH-LU", "CH-ZG", "CH-SH", "CH-AR", "CH-AI", "CH-SG", "CH-GR", "CH-VS"];
                             série50to60.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série50to60.fill = am4core.color("#88e56f")
                             série50to60.mapPolygons.template.fill = am4core.color("#88e56f")
@@ -172,7 +182,7 @@
                             série60to70.value = "60 à 70 %";
                             série60to70.title = "Oui en %";
                             série60to70.useGeodata = true;
-                            série60to70.include = ["CH-ZH", "CH-FR", "CH-BL", "CH-TI", "CH-VS"];
+                            série60to70.include = ["CH-UR", "CH-SZ", "CH-OW", "CH-NW", "CH-GL"];
                             série60to70.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série60to70.fill = am4core.color("#63cf46")
                             série60to70.mapPolygons.template.fill = am4core.color("#63cf46")
@@ -182,7 +192,7 @@
                             série70to80.value = "70 à 80 %";
                             série70to80.title = "Oui en %";
                             série70to80.useGeodata = true;
-                            série70to80.include = ["CH-BS", "CH-NE", "CH-GE", "CH-JU"];
+                            série70to80.include = [""];
                             série70to80.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série70to80.fill = am4core.color("#42c121")
                             série70to80.mapPolygons.template.fill = am4core.color("#42c121")
@@ -192,7 +202,7 @@
                             série80to90.value = "80 à 90 %";
                             série80to90.title = "Oui en %";
                             série80to90.useGeodata = true;
-                            série80to90.include = ["CH-VD"];
+                            série80to90.include = [""];
                             série80to90.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série80to90.fill = am4core.color("#33d708")
                             série80to90.mapPolygons.template.fill = am4core.color("#33d708")
@@ -237,30 +247,6 @@
                                     cantonJU.legend = new am4maps.Legend();
                                     cantonJU.legend.position = "left";
 
-                                    var imageSeries10to20 = cantonJU.series.push(new am4maps.MapImageSeries());
-                                    var imageSeries10to20Template = imageSeries10to20.mapImages.template;
-                                    var circle = imageSeries10to20Template.createChild(am4core.Circle);
-                                    circle.radius = 8;                        
-                                    circle.strokeWidth = 2;
-                                    circle.nonScaling = true;
-                                    circle.tooltipText = "{title} - {OUI}";
-                                    circle.fill = am4core.color("#db0000");  
-
-                                    imageSeries10to20.fill = am4core.color("#db0000")
-                                    imageSeries10to20.name = "10 à 20 %";
-                                    imageSeries10to20.value = "10 à 20 %";
-                                    imageSeries10to20.title = "Oui en %";                                  
-
-                                    imageSeries10to20Template.propertyFields.latitude = "latitude";
-                                    imageSeries10to20Template.propertyFields.longitude = "longitude";                                    
-
-                                    imageSeries10to20.data = [{
-                                        "latitude": 47.49,
-                                        "longitude": 7.14,
-                                        "title": "Beurnevésin",
-                                        "OUI": "17.07 %"
-                                    }];
-
                                     var imageSeries20to30 = cantonJU.series.push(new am4maps.MapImageSeries());
                                     var imageSeries20to30Template = imageSeries20to30.mapImages.template;
                                     var circle = imageSeries20to30Template.createChild(am4core.Circle);
@@ -282,13 +268,13 @@
                                         "latitude": 47.36,
                                         "longitude": 7.21,
                                         "title": "Boécourt",
-                                        "OUI": "28.17 % %"
+                                        "OUI": "28.17 %"
                                     }, {
                                         "latitude": 47.43,
                                         "longitude": 7.34,
                                         "title": "Ederswiler",
                                         "OUI": "29.41 %"
-                                    },{
+                                    }, {
                                         "latitude": 47.42,
                                         "longitude": 6.95,
                                         "title": "Fahy",
@@ -327,7 +313,7 @@
                                         "longitude": 7.02,
                                         "title": "Boncourt"
                                         "OUI": " 36.49%"
-                                    }
+                                    }, {
                                         "latitude": 47.47,
                                         "longitude": 7.15,
                                         "title": "Bonfol",

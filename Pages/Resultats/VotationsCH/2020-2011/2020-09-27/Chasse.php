@@ -162,7 +162,7 @@
                             série40to50.value = "40 à 50 %";
                             série40to50.title = "Oui en %";
                             série40to50.useGeodata = true;
-                            série40to50.include = ["CH-JU", "CH-SO", "CH-BL", "CH-VD", "CH-NE"];
+                            série40to50.include = ["CH-JU", "CH-SO", "CH-BL", "CH-VD", "CH-NE", "CH-BE"];
                             série40to50.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série40to50.fill = am4core.color("#fd7272")
                             série40to50.mapPolygons.template.fill = am4core.color("#fd7272")
@@ -172,7 +172,7 @@
                             série50to60.value = "50 à 60 %";
                             série50to60.title = "Oui en %";
                             série50to60.useGeodata = true;
-                            série50to60.include = ["CH-LU", "CH-SZ", "CH-GL", "CH-ZG", "CH-AR", "CH-SG", "CH-TI"];
+                            série50to60.include = ["CH-LU", "CH-SZ", "CH-GL", "CH-ZG", "CH-AR", "CH-SG", "CH-TI", "CH-FR", "CH-TG"];
                             série50to60.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série50to60.fill = am4core.color("#88e56f")
                             série50to60.mapPolygons.template.fill = am4core.color("#88e56f")

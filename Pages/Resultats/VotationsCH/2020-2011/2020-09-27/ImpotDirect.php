@@ -152,7 +152,7 @@
                             série20to30.value = "20 à 30 %";
                             série20to30.title = "Oui en %";
                             série20to30.useGeodata = true;
-                            série20to30.include = ["CH-AR", "CH-AI"];
+                            série20to30.include = ["CH-AR", "CH-AI", "CH-BE"];
                             série20to30.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série20to30.fill = am4core.color("#ca2f2f")
                             série20to30.mapPolygons.template.fill = am4core.color("#ca2f2f")
@@ -163,7 +163,7 @@
                             série30to40.title = "Oui en %";
                             série30to40.useGeodata = true;
                             série30to40.include = ["CH-LU", "CH-UR", "CH-NW", "CH-GL", "CH-ZG", "CH-OW", "CH-SO",
-                            "CH-BS", "CH-BL", "CH-SH", "CH-SG", "CH-GR"];
+                            "CH-BS", "CH-BL", "CH-SH", "CH-SG", "CH-GR", "CH-TG"];
                             série30to40.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série30to40.fill = am4core.color("#e74545")
                             série30to40.mapPolygons.template.fill = am4core.color("#e74545")
@@ -173,7 +173,7 @@
                             série40to50.value = "40 à 50 %";
                             série40to50.title = "Oui en %";
                             série40to50.useGeodata = true;
-                            série40to50.include = ["CH-VD", "CH-VS", "CH-NE", "CH-JU"];
+                            série40to50.include = ["CH-VD", "CH-VS", "CH-NE", "CH-JU", "CH-FR"];
                             série40to50.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série40to50.fill = am4core.color("#fd7272")
                             série40to50.mapPolygons.template.fill = am4core.color("#fd7272")
@@ -183,7 +183,7 @@
                             série50to60.value = "50 à 60 %";
                             série50to60.title = "Oui en %";
                             série50to60.useGeodata = true;
-                            série50to60.include = ["CH-TI", "CH-GE"];
+                            série50to60.include = ["CH-TI", "CH-GE",];
                             série50to60.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série50to60.fill = am4core.color("#88e56f")
                             série50to60.mapPolygons.template.fill = am4core.color("#88e56f")

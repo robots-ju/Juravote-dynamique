@@ -162,7 +162,7 @@
                             série30to40.value = "30 à 40 %";
                             série30to40.title = "Oui en %";
                             série30to40.useGeodata = true;
-                            série30to40.include = ["CH-JU", "CH-ZG", "CH-BS", "CH-VS", "CH-GE", "CH-FR"];
+                            série30to40.include = ["CH-JU", "CH-ZG", "CH-BS", "CH-VS", "CH-GE", "CH-FR", "CH-BE"];
                             série30to40.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série30to40.fill = am4core.color("#e74545")
                             série30to40.mapPolygons.template.fill = am4core.color("#e74545")

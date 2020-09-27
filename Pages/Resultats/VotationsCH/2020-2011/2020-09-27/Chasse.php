@@ -64,8 +64,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Modification de la loi  sur la chasse</p>
-                        <p><b>Participation : </b>xx.xx %</p>
-                        <p><b>Résultat : </b>En attente</p>
+                        <p><b>Participation : </b>59.30 %</p>
+                        <p><b>Résultat : </b>Refusé</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Référendum</p>
                     </div>
@@ -162,7 +162,7 @@
                             série40to50.value = "40 à 50 %";
                             série40to50.title = "Oui en %";
                             série40to50.useGeodata = true;
-                            série40to50.include = ["CH-JU", "CH-SO", "CH-BL", "CH-VD", "CH-NE", "CH-BE"];
+                            série40to50.include = ["CH-JU", "CH-SO", "CH-BL", "CH-VD", "CH-NE", "CH-BE", "CH-ZH", "CH-AG"];
                             série40to50.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série40to50.fill = am4core.color("#fd7272")
                             série40to50.mapPolygons.template.fill = am4core.color("#fd7272")
@@ -196,16 +196,6 @@
                             série70to80.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série70to80.fill = am4core.color("#42c121")
                             série70to80.mapPolygons.template.fill = am4core.color("#42c121")
-
-                            var série80to90 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
-                            série80to90.name = "80 à 90 %";
-                            série80to90.value = "80 à 90 %";
-                            série80to90.title = "Oui en %";
-                            série80to90.useGeodata = true;
-                            série80to90.include = [""];
-                            série80to90.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série80to90.fill = am4core.color("#33d708")
-                            série80to90.mapPolygons.template.fill = am4core.color("#33d708")
 
                             resultatsDiscriminationCH.legend = new am4maps.Legend();
                             resultatsDiscriminationCH.legend.position = "left";
@@ -246,45 +236,7 @@
                                     
                                     cantonJU.legend = new am4maps.Legend();
                                     cantonJU.legend.position = "left";
-
-                                    var imageSeries10to20 = cantonJU.series.push(new am4maps.MapImageSeries());
-                                    var imageSeries10to20Template = imageSeries10to20.mapImages.template;
-                                    var circle = imageSeries10to20Template.createChild(am4core.Circle);
-                                    circle.radius = 8;                        
-                                    circle.strokeWidth = 2;
-                                    circle.nonScaling = true;
-                                    circle.tooltipText = "{title} - {OUI}";
-                                    circle.fill = am4core.color("#db0000");  
-
-                                    imageSeries10to20.fill = am4core.color("#db0000")
-                                    imageSeries10to20.name = "10 à 20 %";
-                                    imageSeries10to20.value = "10 à 20 %";
-                                    imageSeries10to20.title = "Oui en %";                                  
-
-                                    imageSeries10to20Template.propertyFields.latitude = "latitude";
-                                    imageSeries10to20Template.propertyFields.longitude = "longitude";                                    
-
-                                    imageSeries10to20.data = [];
-
-                                    var imageSeries20to30 = cantonJU.series.push(new am4maps.MapImageSeries());
-                                    var imageSeries20to30Template = imageSeries20to30.mapImages.template;
-                                    var circle = imageSeries20to30Template.createChild(am4core.Circle);
-                                    circle.radius = 8;                        
-                                    circle.strokeWidth = 2;
-                                    circle.nonScaling = true;
-                                    circle.tooltipText = "{title} - {OUI}";
-                                    circle.fill = am4core.color("#ca2f2f");
-
-                                    imageSeries20to30.fill = am4core.color("#e74545")
-                                    imageSeries20to30.name = "20 à 30 %";
-                                    imageSeries20to30.value = "20 à 30 %";
-                                    imageSeries20to30.title = "Oui en %";
-
-                                    imageSeries20to30Template.propertyFields.latitude = "latitude";
-                                    imageSeries20to30Template.propertyFields.longitude = "longitude";                                    
-
-                                    imageSeries20to30.data = [];  
-
+                                    
                                     var imageSeries30to40 = cantonJU.series.push(new am4maps.MapImageSeries());
                                     var imageSeries30to40Template = imageSeries30to40.mapImages.template;
                                     var circle = imageSeries30to40Template.createChild(am4core.Circle);

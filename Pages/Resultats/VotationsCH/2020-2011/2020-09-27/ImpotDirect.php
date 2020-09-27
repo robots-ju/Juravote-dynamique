@@ -64,8 +64,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Modification de la loi fédérale sur l’impôt fédéral direct</p>
-                        <p><b>Participation : </b>xx.xx %</p>
-                        <p><b>Résultat : </b>En attente</p>
+                        <p><b>Participation : </b>59.20 %</p>
+                        <p><b>Résultat : </b>Refusé</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Référendum</p>                        
                     </div>
@@ -163,7 +163,7 @@
                             série30to40.title = "Oui en %";
                             série30to40.useGeodata = true;
                             série30to40.include = ["CH-LU", "CH-UR", "CH-NW", "CH-GL", "CH-ZG", "CH-OW", "CH-SO",
-                            "CH-BS", "CH-BL", "CH-SH", "CH-SG", "CH-GR", "CH-TG"];
+                            "CH-BS", "CH-BL", "CH-SH", "CH-SG", "CH-GR", "CH-TG", "CH-AG", "CH-ZH", "CH-SZ"];
                             série30to40.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série30to40.fill = am4core.color("#e74545")
                             série30to40.mapPolygons.template.fill = am4core.color("#e74545")

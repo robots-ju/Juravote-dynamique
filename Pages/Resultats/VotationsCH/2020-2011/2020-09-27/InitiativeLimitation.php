@@ -64,7 +64,7 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Initiative populaire « Pour une immigration modérée (initiative de limitation) »</p>
-                        <p><b>Participation : </b>xx.xx %</p>
+                        <p><b>Participation : </b>59.50 %</p>
                         <p><b>Résultat : </b>Refusé</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Initiative populaire</p>
@@ -162,7 +162,7 @@
                             série30to40.value = "30 à 40 %";
                             série30to40.title = "Oui en %";
                             série30to40.useGeodata = true;
-                            série30to40.include = ["CH-JU", "CH-ZG", "CH-BS", "CH-VS", "CH-GE", "CH-FR", "CH-BE"];
+                            série30to40.include = ["CH-JU", "CH-ZG", "CH-BL", "CH-VS", "CH-GE", "CH-FR", "CH-BE", "CH-ZH"];
                             série30to40.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série30to40.fill = am4core.color("#e74545")
                             série30to40.mapPolygons.template.fill = am4core.color("#e74545")
@@ -173,7 +173,7 @@
                             série40to50.title = "Oui en %";
                             série40to50.useGeodata = true;
                             série40to50.include = ["CH-LU", "CH-UR", "CH-OW", "CH-NW", "CH-SO", "CH-SH", "CH-AR",
-                            "CH-SG", "CH-GR", "CH-TG"];
+                            "CH-SG", "CH-GR", "CH-TG", "CH-AG"];
                             série40to50.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série40to50.fill = am4core.color("#fd7272")
                             série40to50.mapPolygons.template.fill = am4core.color("#fd7272")

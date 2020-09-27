@@ -254,12 +254,12 @@
                                     imageSeries10to20Template.propertyFields.latitude = "latitude";
                                     imageSeries10to20Template.propertyFields.longitude = "longitude";                                    
 
-                                    imageSeries10to20.data = [{
+                                    imageSeries10to20.data = [/*{
                                         "latitude": 47.49,
                                         "longitude": 7.14,
                                         "title": "Beurnevésin",
                                         "OUI": "17.07 %"
-                                    }];
+                                    }*/];
 
                                     var imageSeries20to30 = cantonJU.series.push(new am4maps.MapImageSeries());
                                     var imageSeries20to30Template = imageSeries20to30.mapImages.template;
@@ -278,7 +278,7 @@
                                     imageSeries20to30Template.propertyFields.latitude = "latitude";
                                     imageSeries20to30Template.propertyFields.longitude = "longitude";                                    
 
-                                    imageSeries20to30.data = [{
+                                    imageSeries20to30.data = [/*{
                                         "latitude": 47.36,
                                         "longitude": 7.21,
                                         "title": "Boécourt",
@@ -293,7 +293,7 @@
                                         "longitude": 6.95,
                                         "title": "Fahy",
                                         "OUI": "25.00 %"
-                                    }];  
+                                    }*/];  
 
                                     var imageSeries30to40 = cantonJU.series.push(new am4maps.MapImageSeries());
                                     var imageSeries30to40Template = imageSeries30to40.mapImages.template;
@@ -312,7 +312,7 @@
                                     imageSeries30to40Template.propertyFields.latitude = "latitude";
                                     imageSeries30to40Template.propertyFields.longitude = "longitude";                                    
 
-                                    imageSeries30to40.data = [{
+                                    imageSeries30to40.data = [/*{
                                         "latitude": 47.43,
                                         "longitude": 7.13,
                                         "title": "Alle",
@@ -397,7 +397,7 @@
                                         "longitude": 7.15,
                                         "title": "Vendlincourt",
                                         "OUI": "33.64 %"                                                         
-                                    }];
+                                    }*/];
 
                                     var imageSeries40to50 = cantonJU.series.push(new am4maps.MapImageSeries());
                                     var imageSeries40to50Template = imageSeries40to50.mapImages.template;
@@ -416,7 +416,7 @@
                                     imageSeries40to50Template.propertyFields.latitude = "latitude";
                                     imageSeries40to50Template.propertyFields.longitude = "longitude";                                    
 
-                                    imageSeries40to50.data = [{
+                                    imageSeries40to50.data = [/*{
                                         "latitude": 47.45,
                                         "longitude": 7.03,
                                         "title": "Basse-Allaine",
@@ -531,7 +531,7 @@
                                         "longitude": 7.11,
                                         "title": "Saint-Brais",
                                         "OUI": "48.45 %"
-                                    }];   
+                                    }*/];   
                                            
                                     var imageSeries50to60 = cantonJU.series.push(new am4maps.MapImageSeries());
                                     var imageSeries50to60Template = imageSeries50to60.mapImages.template;
@@ -550,7 +550,7 @@
                                     imageSeries50to60Template.propertyFields.latitude = "latitude";
                                     imageSeries50to60Template.propertyFields.longitude = "longitude";                                    
 
-                                    imageSeries50to60.data = [{                                                                                                                         
+                                    imageSeries50to60.data = [/*{                                                                                                                         
                                         "latitude": 47.44,
                                         "longitude": 7.06,
                                         "title": "Courchavon",
@@ -590,7 +590,7 @@
                                         "longitude": 7.05,
                                         "title": "Soubey",
                                         "OUI": "51.92 %"
-                                    }];
+                                    }*/];
                                 </script>
                                 </li>
                                 <li>

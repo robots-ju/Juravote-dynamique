@@ -446,8 +446,12 @@
                                                 "longitude": 7.17,
                                                 "title": "La Baroche",
                                                 "OUI": "67.10 %"
-                                            },
-                                            {
+                                            }, {                                                
+                                                "latitude": 47.50,
+                                                "longitude": 7.02,
+                                                "title": "Boncourt"
+                                                "OUI": " 69.68%"
+                                            }, {
                                                 "latitude": 47.47,
                                                 "longitude": 7.15,
                                                 "title": "Bonfol",
@@ -861,9 +865,9 @@
                                             </tr>
                                             <tr>
                                                 <td>Boncourt</td>
-                                                <td>40.09 %</td>
-                                                <td>181</td>
-                                                <td>44.58 %</td>
+                                                <td>57.46 %</td>
+                                                <td>386</td>
+                                                <td>69.68 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Bonfol</td>

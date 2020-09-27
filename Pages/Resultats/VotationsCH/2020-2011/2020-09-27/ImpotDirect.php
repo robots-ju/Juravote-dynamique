@@ -783,12 +783,12 @@
                                                 <td>13</td>
                                                 <td>23.64 %</td>
                                             </tr>
-                                            <!--<tr>
+                                            <tr>
                                                 <td>Boncourt</td>
-                                                <td>40.09 %</td>
-                                                <td>181</td>
-                                                <td>44.58 %</td>
-                                            </tr>-->
+                                                <td>57.46 %</td>
+                                                <td>239</td>
+                                                <td>44.84 %</td>
+                                            </tr>
                                             <tr>
                                                 <td>Bonfol</td>
                                                 <td>49.83</td>

@@ -474,7 +474,7 @@
                                         "latitude": 47.50,
                                         "longitude": 7.02,
                                         "title": "Boncourt",
-                                        "OUI": "50.05 %"
+                                        "OUI": "54.95 %"
                                     },{
                                         "latitude": 47.47,
                                         "longitude": 7.15,
@@ -812,9 +812,9 @@
                                             </tr>
                                             <tr>
                                                 <td>Boncourt</td>
-                                                <td>40.09 %</td> XXXXXX
-                                                <td>181</td>
-                                                <td>44.58 %</td>
+                                                <td>57.46 %</td>
+                                                <td>300</td>
+                                                <td>54.95 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Bonfol</td>

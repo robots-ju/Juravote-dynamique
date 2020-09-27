@@ -64,7 +64,7 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Arrêté fédéral relatif  à l’acquisition de nouveaux  avions de combat</p>
-                        <p><b>Participation : </b>XX.XX %</p>
+                        <p><b>Participation : </b>59.40 %</p>
                         <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Référendum</p>
@@ -87,10 +87,10 @@
                             // Add data
                             resultatDiscrimination.data = [{
                                 "votes": "OUI",
-                                "suffrages": 1413609
+                                "suffrages": 1605700
                             }, {
                                 "votes": "NON",
-                                "suffrages": 827361
+                                "suffrages": 1597030
                             }];
 
                             // Add and configure Series
@@ -124,30 +124,10 @@
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
-                            <h2>Analyse du résultat</h2>
+                            <h2>Résultats détaillés</h2>
                         </div>
                     </div>
-                    <div class="uk-card-body uk-text-left">
-                        
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default">
-                <div class="uk-card-body">
-                        <div class="uk-grid-small"  uk-grid>
-                            <div uk-switcher="animation: uk-animation-fade; toggle: > *">
-                                <button class="uk-button uk-button-default" type="button">National</button>
-                                <button class="uk-button uk-button-default" type="button">Cantonal</button>
-                                <button class="uk-button uk-button-default" type="button">District de Delémont</button>
-                                <button class="uk-button uk-button-default" type="button">District de Porrentruy</button>
-                                <button class="uk-button uk-button-default" type="button">District des Franches-Montagnes</button>
-                                
-                            </div>
-
-                            <ul class="uk-switcher uk-margin">
-                                <li>
-                                    <div class="uk-card-body">
+                    <div class="uk-card-body">
                         <div class="uk-align-right" id="chartDiscriminationCH" style="width: 100%; height: 300px;"></div>
                         <script>
                             // Create map instance
@@ -167,12 +147,22 @@
                             polygonSeries.useGeodata = true;
 
                             //Create data series
+                            var série30to40 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
+                            série30to40.name = "30 à 40 %";
+                            série30to40.value = "30 à 40 %";
+                            série30to40.title = "Oui en %";
+                            série30to40.useGeodata = true;
+                            série30to40.include = ["CH-BL", "CH-NE", "CH-VD", "CH-JU", "CH-GE"];
+                            série30to40.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
+                            série30to40.fill = am4core.color("#e74545")
+                            série30to40.mapPolygons.template.fill = am4core.color("#e74545")
+
                             var série40to50 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
                             série40to50.name = "40 à 50 %";
                             série40to50.value = "40 à 50 %";
                             série40to50.title = "Oui en %";
                             série40to50.useGeodata = true;
-                            série40to50.include = ["CH-AI", "CH-SZ", "CH-UR"];
+                            série40to50.include = ["CH-BS", "CH-TI", "CH-FR"];
                             série40to50.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série40to50.fill = am4core.color("#fd7272")
                             série40to50.mapPolygons.template.fill = am4core.color("#fd7272")
@@ -182,7 +172,8 @@
                             série50to60.value = "50 à 60 %";
                             série50to60.title = "Oui en %";
                             série50to60.useGeodata = true;
-                            série50to60.include = ["CH-BE", "CH-LU","CH-OW", "CH-NW", "CH-GL", "CH-ZG", "CH-SO", "CH-SH", "CH-AR", "CH-SG", "CH-GR", "CH-AG", "CH-TG"];
+                            série50to60.include = ["CH-LU", "CH-ZG", "CH-SH", "CH-AR", "CH-AI", "CH-SG", "CH-GR", "CH-VS", "CH-SO",
+                            "CH-BE", "CH-TG", "CH-AG", "CH-ZH"];
                             série50to60.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série50to60.fill = am4core.color("#88e56f")
                             série50to60.mapPolygons.template.fill = am4core.color("#88e56f")
@@ -192,37 +183,33 @@
                             série60to70.value = "60 à 70 %";
                             série60to70.title = "Oui en %";
                             série60to70.useGeodata = true;
-                            série60to70.include = ["CH-ZH", "CH-FR", "CH-BL", "CH-TI", "CH-VS"];
+                            série60to70.include = ["CH-UR", "CH-SZ", "CH-OW", "CH-NW", "CH-GL"];
                             série60to70.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série60to70.fill = am4core.color("#63cf46")
                             série60to70.mapPolygons.template.fill = am4core.color("#63cf46")
-
-                            var série70to80 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
-                            série70to80.name = "70 à 80 %";
-                            série70to80.value = "70 à 80 %";
-                            série70to80.title = "Oui en %";
-                            série70to80.useGeodata = true;
-                            série70to80.include = ["CH-BS", "CH-NE", "CH-GE", "CH-JU"];
-                            série70to80.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série70to80.fill = am4core.color("#42c121")
-                            série70to80.mapPolygons.template.fill = am4core.color("#42c121")
-
-                            var série80to90 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
-                            série80to90.name = "80 à 90 %";
-                            série80to90.value = "80 à 90 %";
-                            série80to90.title = "Oui en %";
-                            série80to90.useGeodata = true;
-                            série80to90.include = ["CH-VD"];
-                            série80to90.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série80to90.fill = am4core.color("#33d708")
-                            série80to90.mapPolygons.template.fill = am4core.color("#33d708")
 
                             resultatsDiscriminationCH.legend = new am4maps.Legend();
                             resultatsDiscriminationCH.legend.position = "left";
                         </script>
                     </div>
-                                </li>
-
+                </div>
+            </div>
+            <!--<div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column" uk-grid>
+                            <h2>Résultats Jura</h2>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <div class="uk-grid-small"  uk-grid>
+                            <div uk-switcher="animation: uk-animation-fade; toggle: > *">
+                                <button class="uk-button uk-button-default" type="button">Jura</button>
+                                <button class="uk-button uk-button-default" type="button">District Delémont</button>
+                                <button class="uk-button uk-button-default" type="button">District Ajoie</button>
+                                <button class="uk-button uk-button-default" type="button">District Franches-Montagnes</button>                                
+                            </div>
+                            <ul class="uk-switcher uk-margin">
                                 <li>
                                 <div id="chartdiv3" style="width: 100%; height: 350px; padding-top: 5%"></div>
                                 <script>
@@ -258,11 +245,11 @@
                                     imageSeries10to20Template.propertyFields.latitude = "latitude";
                                     imageSeries10to20Template.propertyFields.longitude = "longitude";                                    
 
-                                    imageSeries10to20.data = [{
-                                        "latitude": 47.49,
+                                    imageSeries10to20.data = [{                                     
+                                        "latitude": 47.28,
                                         "longitude": 7.14,
-                                        "title": "Beurnevésin",
-                                        "OUI": "17.07 %"
+                                        "title": "Lajoux",
+                                        "OUI": "18.78 %"
                                     }];
 
                                     var imageSeries20to30 = cantonJU.series.push(new am4maps.MapImageSeries());
@@ -286,17 +273,72 @@
                                         "latitude": 47.36,
                                         "longitude": 7.21,
                                         "title": "Boécourt",
-                                        "OUI": "28.17 % %"
-                                    }, {
-                                        "latitude": 47.43,
-                                        "longitude": 7.34,
-                                        "title": "Ederswiler",
-                                        "OUI": "29.41 %"
+                                        "OUI": "29.69 %"
+                                    },{       
+                                        "latitude": 47.18,
+                                        "longitude": 6.91,
+                                        "title": "Les Bois",
+                                        "OUI": "28.50 %"
                                     },{
-                                        "latitude": 47.42,
-                                        "longitude": 6.95,
-                                        "title": "Fahy",
-                                        "OUI": "25.00 %"
+                                        "latitude": 47.21,
+                                        "longitude": 7.00,
+                                        "title": "Les Breuleux",
+                                        "OUI": "28.51 %"
+                                    },{
+                                        "latitude": 47.35,
+                                        "longitude": 7.46,
+                                        "title": "Courchapoix",
+                                        "OUI": "24.27 %"
+                                    },{
+                                        "latitude": 47.34,
+                                        "longitude": 7.32,
+                                        "title": "Courtételle",
+                                        "OUI": "29.07 %"
+                                    },{
+                                        "latitude": 47.37,
+                                        "longitude": 7.35,
+                                        "title": "Delémont",
+                                        "OUI": "28.84 %"
+                                    },{
+                                        "latitude": 47.35,
+                                        "longitude": 7.23,
+                                        "title": "Haute-Sorne",
+                                        "OUI": "27.72 %" 
+                                    },{
+                                        "latitude": 47.23,
+                                        "longitude": 6.96,
+                                        "title": "Le Noirmont",
+                                        "OUI": "25.74 %"
+                                    },{
+                                        "latitude": 47.26,
+                                        "longitude": 7.00,
+                                        "title": "Saignelégier",
+                                        "OUI": "21.06 %" 
+                                    },{ 
+                                        "latitude": 47.31,
+                                        "longitude": 7.11,
+                                        "title": "Saint-Brais",
+                                        "OUI": "21.26 %"
+                                    },{ 
+                                        "latitude": 47.31,
+                                        "longitude": 7.05,
+                                        "title": "Soubey",
+                                        "OUI": "28.95 %"
+                                    },{
+                                        "latitude": 47.43,
+                                        "longitude": 7.13,
+                                        "title": "Alle",
+                                        "OUI": "33.94 %"
+                                    },{
+                                        "latitude": 47.45,
+                                        "longitude": 7.10,
+                                        "title": "Coeuve",
+                                        "OUI": "28.15 %"   
+                                    },{
+                                        "latitude": 47.40,
+                                        "longitude": 7.08,
+                                        "title": "Fontenais",
+                                        "OUI": "24.12 %"
                                     }];  
 
                                     var imageSeries30to40 = cantonJU.series.push(new am4maps.MapImageSeries());
@@ -317,90 +359,150 @@
                                     imageSeries30to40Template.propertyFields.longitude = "longitude";                                    
 
                                     imageSeries30to40.data = [{
-                                        "latitude": 47.43,
-                                        "longitude": 7.13,
-                                        "title": "Alle",
-                                        "OUI": "37.84 %"
-                                    }, {     
-                                        "latitude": 47.43,
-                                        "longitude": 7.17,
-                                        "title": "La Baroche",
-                                        "OUI": "36.34 %"
-                                    },{
-                                        "latitude": 47.47,
-                                        "longitude": 7.15,
-                                        "title": "Bonfol",
-                                        "OUI": "31.84 %"
-                                    }, {
-                                        "latitude": 47.40,
-                                        "longitude": 7.24,
-                                        "title": "Bourrignon",
-                                        "OUI": "30.83 %"
+                                        "latitude": 47.26,
+                                        "longitude": 7.02,
+                                        "title": "Le Bémont",
+                                        "OUI": "37.29 %"
                                     },{
                                         "latitude": 47.33,
                                         "longitude": 7.35,
                                         "title": "Châtillon",
-                                        "OUI": "37.36 %"  
+                                        "OUI": "32.16 %"  
                                     },{
-                                        "latitude": 47.45,
-                                        "longitude": 7.10,
-                                        "title": "Coeuve",
-                                        "OUI": "37.25 %"   
-                                    },{
-                                        "latitude": 47.35,
-                                        "longitude": 7.46,
-                                        "title": "Courchapoix",
-                                        "OUI": "35.61 %"
-                                    },{
-                                        "latitude": 47.40,
-                                        "longitude": 7.13,
-                                        "title": "Courgenay",
-                                        "OUI": "32.78 %"
+                                        "latitude": 47.34,
+                                        "longitude": 7.37,
+                                        "title": "Courrendlin",
+                                        "OUI": "34.00 %"  
                                     },{
                                         "latitude": 47.36,
                                         "longitude": 7.37,
                                         "title": "Courroux",
-                                        "OUI": "39.23 %"
+                                        "OUI": "31.53 %"
                                     },{
-                                        "latitude": 47.41,
-                                        "longitude": 7.04,
-                                        "title": "Courtedoux",
-                                        "OUI": "39.24 %"
+                                        "latitude": 47.36,
+                                        "longitude": 7.30,
+                                        "title": "Develier",
+                                        "OUI": "32.39 %"
                                     },{
-                                        "latitude": 47.47,
-                                        "longitude": 7.10,
-                                        "title": "Damphreux",
-                                        "OUI": "32.50 %"
-                                    },{
-                                        "latitude": 47.35,
-                                        "longitude": 7.23,
-                                        "title": "Haute-Sorne",
-                                        "OUI": "37.74 %" 
-                                    },{
-                                        "latitude": 47.41,
+                                        "latitude": 47.34,
+                                        "longitude": 7.50,
+                                        "title": "Mervelier",
+                                        "OUI": "35.77 %"
+                                    },{  
+                                        "latitude": 47.39,
                                         "longitude": 7.32,
-                                        "title": "Movelier",
-                                        "OUI": "33.57 %"
+                                        "title": "Mettembert",
+                                        "OUI": "31.75 %"
                                     },{
                                         "latitude": 47.35,
                                         "longitude": 7.34,
                                         "title": "Rossemaison",
-                                        "OUI": "38.96 %" 
+                                        "OUI": "33.72 %" 
                                     },{
-                                        "latitude": 47.39,
-                                        "longitude": 7.37,
-                                        "title": "Soyhières",
-                                        "OUI": "30.46 %" 
+                                        "latitude": 47.30,
+                                        "longitude": 7.15,
+                                        "title": "Saulcy",
+                                        "OUI": "34.67 %" 
                                     },{                                                
                                         "latitude": 47.35,
                                         "longitude": 7.41,
                                         "title": "Val-Terbi",
-                                        "OUI": "38.01 %" 
+                                        "OUI": "32.05 %" 
+                                    },{                                       
+                                        "latitude": 47.22,
+                                        "longitude": 7.03,
+                                        "title": "La Chaux-des-Breuleux",
+                                        "OUI": "39.58 %"
+                                    },{
+                                        "latitude": 47.29,
+                                        "longitude": 7.05,
+                                        "title": "Les Enfers",
+                                        "OUI": "37.21 %"
+                                    },{
+                                        "latitude": 47.26,
+                                        "longitude": 7.13,
+                                        "title": "Les Genevez",
+                                        "OUI": "37.50 %"
+                                    },{
+                                        "latitude": 47.27,
+                                        "longitude": 7.05,
+                                        "title": "Montfaucon",
+                                        "OUI": "27.30 %"
+                                    },{
+                                        "latitude": 47.25,
+                                        "longitude": 6.98,
+                                        "title": "Muriaux",
+                                        "OUI": "31.23 %"
+                                    },{
+                                        "latitude": 47.45,
+                                        "longitude": 7.03,
+                                        "title": "Basse-Allaine",
+                                        "OUI": "36.38 %"
+                                    },{
+                                        "latitude": 47.49,
+                                        "longitude": 7.14,
+                                        "title": "Beurnevésin",
+                                        "OUI": "38.60 %"
+                                    },{
+                                        "latitude": 47.50,
+                                        "longitude": 7.02,
+                                        "title": "Boncourt"
+                                        "OUI": " 36.49%"
+                                    },{
+                                        "latitude": 47.47,
+                                        "longitude": 7.15,
+                                        "title": "Bonfol",
+                                        "OUI": "35.59 %"
+                                    },{
+                                        "latitude": 47.35,
+                                        "longitude": 7.15,
+                                        "title": "Clos du Doubs",
+                                        "OUI": "30.58 %"   
+                                    },{
+                                        "latitude": 47.41,
+                                        "longitude": 7.16,
+                                        "title": "Cornol",
+                                        "OUI": "34.42 %"   
+                                    },{
+                                        "latitude": 47.40,
+                                        "longitude": 7.13,
+                                        "title": "Courgenay",
+                                        "OUI": "31.58 %"
+                                    },{
+                                        "latitude": 47.41,
+                                        "longitude": 7.04,
+                                        "title": "Courtedoux",
+                                        "OUI": "31.43 %"
+                                    },{
+                                        "latitude": 47.42,
+                                        "longitude": 6.95,
+                                        "title": "Fahy",
+                                        "OUI": "31.89 %"
+                                    },{
+                                        "latitude": 47.39,
+                                        "longitude": 6.94,
+                                        "title": "Grandfontaine",
+                                        "OUI": "38.12 %"
+                                    },{ 
+                                        "latitude": 47.38,
+                                        "longitude": 7.00,
+                                        "title": "Haute-Ajoie",
+                                        "OUI": "37.88 %"
+                                    },{
+                                        "latitude": 47.49,
+                                        "longitude": 7.10,
+                                        "title": "Lugnez",
+                                        "OUI": "33.00 %"
+                                    },{
+                                        "latitude": 47.42,
+                                        "longitude": 7.08,
+                                        "title": "Porrentruy",
+                                        "OUI": "33.97 %"
                                     },{                                       
                                         "latitude": 47.45,
                                         "longitude": 7.15,
                                         "title": "Vendlincourt",
-                                        "OUI": "33.64 %"                                                         
+                                        "OUI": "39.04 %"                                                         
                                     }];
 
                                     var imageSeries40to50 = cantonJU.series.push(new am4maps.MapImageSeries());
@@ -421,120 +523,40 @@
                                     imageSeries40to50Template.propertyFields.longitude = "longitude";                                    
 
                                     imageSeries40to50.data = [{
-                                        "latitude": 47.45,
-                                        "longitude": 7.03,
-                                        "title": "Basse-Allaine",
-                                        "OUI": "46.60 %"
-                                    }, {
-                                        "latitude": 47.26,
-                                        "longitude": 7.02,
-                                        "title": "Le Bémont",
-                                        "OUI": "42.11 %"
-                                    },{
-                                        "latitude": 47.44,
-                                        "longitude": 7.01,
-                                        "title": "Bure",
-                                        "OUI": "41.67 %"
-                                    },{
-                                        "latitude": 47.35,
-                                        "longitude": 7.15,
-                                        "title": "Clos du Doubs",
-                                        "OUI": "49.52 %"   
+                                        "latitude": 47.40,
+                                        "longitude": 7.24,
+                                        "title": "Bourrignon",
+                                        "OUI": "40.65 %"
                                     },{
                                         "latitude": 47.41,
-                                        "longitude": 7.16,
-                                        "title": "Cornol",
-                                        "OUI": "46.06 %"   
-                                    },{
-                                        "latitude": 47.34,
-                                        "longitude": 7.37,
-                                        "title": "Courrendlin",
-                                        "OUI": "40.98 %"  
-                                    },{
-                                        "latitude": 47.34,
                                         "longitude": 7.32,
-                                        "title": "Courtételle",
-                                        "OUI": "45.49 %"
-                                    },{
-                                        "latitude": 47.37,
-                                        "longitude": 7.35,
-                                        "title": "Delémont",
-                                        "OUI": "47.81 %"
-                                    }, {
-                                        "latitude": 47.36,
-                                        "longitude": 7.30,
-                                        "title": "Develier",
-                                        "OUI": "42.62 %"
-                                    },{
-                                        "latitude": 47.29,
-                                        "longitude": 7.05,
-                                        "title": "Les Enfers",
-                                        "OUI": "44.44 %"
-                                    },{
-                                        "latitude": 47.40,
-                                        "longitude": 7.08,
-                                        "title": "Fontenais",
-                                        "OUI": "42.16 %"
-                                    },{
-                                        "latitude": 47.26,
-                                        "longitude": 7.13,
-                                        "title": "Les Genevez",
-                                        "OUI": "41.25 %"
-                                    },{
-                                        "latitude": 47.39,
-                                        "longitude": 6.94,
-                                        "title": "Grandfontaine",
-                                        "OUI": "47.26 %"
-                                    },{ 
-                                        "latitude": 47.38,
-                                        "longitude": 7.00,
-                                        "title": "Haute-Ajoie",
-                                        "OUI": "42.57 %"
-                                    },{                                       
-                                        "latitude": 47.22,
-                                        "longitude": 7.03,
-                                        "title": "La Chaux-des-Breuleux",
-                                        "OUI": "47.22 %"
-                                    },{
-                                        "latitude": 47.23,
-                                        "longitude": 6.96,
-                                        "title": "Le Noirmont",
-                                        "OUI": "48.16 %"
-                                    },{
-                                        "latitude": 47.49,
-                                        "longitude": 7.10,
-                                        "title": "Lugnez",
-                                        "OUI": "45.16 %"
-                                    },{
-                                        "latitude": 47.34,
-                                        "longitude": 7.50,
-                                        "title": "Mervelier",
-                                        "OUI": "42.60 %"
-                                    },{
-                                        "latitude": 47.25,
-                                        "longitude": 6.98,
-                                        "title": "Muriaux",
-                                        "OUI": "44.39 %"
+                                        "title": "Movelier",
+                                        "OUI": "43.46 %"
                                     },{
                                         "latitude": 47.41,
                                         "longitude": 7.29,
                                         "title": "Pleigne",
-                                        "OUI": "45.26 %"
+                                        "OUI": "49.26 %"
                                     },{
-                                        "latitude": 47.42,
-                                        "longitude": 7.08,
-                                        "title": "Porrentruy",
-                                        "OUI": "43.63 %"
+                                        "latitude": 47.39,
+                                        "longitude": 7.37,
+                                        "title": "Soyhières",
+                                        "OUI": "41.67 %" 
+                                    },{     
+                                        "latitude": 47.43,
+                                        "longitude": 7.17,
+                                        "title": "La Baroche",
+                                        "OUI": "41.36 %"
+                                    },{                                                                                                                         
+                                        "latitude": 47.44,
+                                        "longitude": 7.06,
+                                        "title": "Courchavon",
+                                        "OUI": "40.38 %"
                                     },{
-                                        "latitude": 47.30,
-                                        "longitude": 7.15,
-                                        "title": "Saulcy",
-                                        "OUI": "42.86 %" 
-                                    },{ 
-                                        "latitude": 47.31,
-                                        "longitude": 7.11,
-                                        "title": "Saint-Brais",
-                                        "OUI": "48.45 %"
+                                        "latitude": 47.47,
+                                        "longitude": 7.10,
+                                        "title": "Damphreux",
+                                        "OUI": "41.94 %"
                                     }];   
                                            
                                     var imageSeries50to60 = cantonJU.series.push(new am4maps.MapImageSeries());
@@ -554,47 +576,36 @@
                                     imageSeries50to60Template.propertyFields.latitude = "latitude";
                                     imageSeries50to60Template.propertyFields.longitude = "longitude";                                    
 
-                                    imageSeries50to60.data = [{                                                                                                                         
+                                    imageSeries50to60.data = [{
                                         "latitude": 47.44,
-                                        "longitude": 7.06,
-                                        "title": "Courchavon",
-                                        "OUI": "50.76 %"
-                                    },{                                     
-                                        "latitude": 47.28,
-                                        "longitude": 7.14,
-                                        "title": "Lajoux",
-                                        "OUI": "56.74 %"
-                                    },{       
-                                        "latitude": 47.18,
-                                        "longitude": 6.91,
-                                        "title": "Les Bois",
-                                        "OUI": "55.74 %"
-                                    },{
-                                        "latitude": 47.21,
-                                        "longitude": 7.00,
-                                        "title": "Les Breuleux",
-                                        "OUI": "56.51 %"
-                                    },{  
-                                        "latitude": 47.39,
-                                        "longitude": 7.32,
-                                        "title": "Mettembert",
-                                        "OUI": "57.69 %"
-                                    },{
-                                        "latitude": 47.27,
-                                        "longitude": 7.05,
-                                        "title": "Montfaucon",
-                                        "OUI": "52.02 %"
-                                    },{
-                                        "latitude": 47.26,
-                                        "longitude": 7.00,
-                                        "title": "Saignelégier",
-                                        "OUI": "52.05 %" 
-                                    },{ 
-                                        "latitude": 47.31,
-                                        "longitude": 7.05,
-                                        "title": "Soubey",
-                                        "OUI": "51.92 %"
+                                        "longitude": 7.01,
+                                        "title": "Bure",
+                                        "OUI": "50.99 %"
                                     }];
+
+                                    var imageSeries60to70 = cantonJU.series.push(new am4maps.MapImageSeries());
+                                    var imageSeries60to70Template = imageSeries60to70.mapImages.template;
+                                    var circle = imageSeries60to70Template.createChild(am4core.Circle);
+                                    circle.radius = 8;                        
+                                    circle.strokeWidth = 2;
+                                    circle.nonScaling = true;
+                                    circle.tooltipText = "{title} - {OUI}";
+                                    circle.fill = am4core.color("#63cf46");
+                                    
+                                    imageSeries60to70.fill = am4core.color("#63cf46")
+                                    imageSeries60to70.name = "60 à 70 %";
+                                    imageSeries60to70.value = "60 à 70 %";
+                                    imageSeries60to70.title = "Oui en %";
+
+                                    imageSeries60to70Template.propertyFields.latitude = "latitude";
+                                    imageSeries60to70Template.propertyFields.longitude = "longitude";                                    
+
+                                    imageSeries60to70.data = [{
+                                        "latitude": 47.43,
+                                        "longitude": 7.34,
+                                        "title": "Ederswiler",
+                                        "OUI": "67.24 %"
+                                    }]
                                 </script>
                                 </li>
                                 <li>
@@ -771,9 +782,9 @@
                                             </tr>
                                             <tr>
                                                 <td>Boncourt</td>
-                                                <td>40.09 %</td>
-                                                <td>181</td>
-                                                <td>44.58 %</td>
+                                                <td>57.46 %</td>
+                                                <td>204</td>
+                                                <td>36.49 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Bonfol</td>
@@ -986,7 +997,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>-->
         </div>
     </section>
 </main>

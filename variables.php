@@ -22,6 +22,10 @@
     $districtFranchesMontagnes = "/IMG/Logo/Districts/Franches-montagnes.png";
     $districtPorrentruy = "/IMG/Logo/Districts/Porrentruy.png";
 
+    //ElectionsJU2020
+        //ParlementDelemont
+        $MeuryRemy = "/IMG/Personnalites/ElectionsJU/ParlementD/CSPOP_MeuryRemy.jpg";
+
     //juravote :
     $juravoteLogo = "/IMG/Logo/JuraVote/Logo.png";
     $juravoteIcon = "/IMG/Logo/JuraVote/Icon.png";
@@ -261,6 +265,9 @@
         $PHPresultatGouvernementJU2020 = "/Pages/Resultats/ElectionsJU/2020-03-01/Ecantonales.php?=".time();
         
     $PHPresultatsElectionsCO = "/Pages/Resultats/ElectionsCO/electionsCO.php";
+        $PHPresultatsChatillon = "/Pages/Resultats/ElectionsCO/Chatillon/Chatillon.php";
+        $PHPresultatCommissionEcoleChatillon2020 = "/Pages/Resultats/ElectionsCO/Chatillon/2020-10-18/MembreCommissionEcole.php";
+
         $PHPresultatsCourtetelle = "/Pages/Resultats/ElectionsCO/Courtetelle/Courtetelle.php";
         $PHPresultatsMairieCourtetelle2020 = "/Pages/Resultats/ElectionsCO/Courtetelle/2020-06-29/Mairie.php";
 
@@ -273,6 +280,11 @@
     $PHPresultatsVotationsCH = "/Pages/Resultats/VotationsCH/votationsCH.php";
         $PHPresultats20200209Accueil= "/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php";
         $PHPresultats20200927Accueil= "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
+            $PHPvotationsCHAvions = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_AvionsCombat.php";
+            $PHPvotationsCHChasse = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_Chasse.php";
+            $PHPvotationsCHCongePaternite = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_CongePaternite.php";
+            $PHPvotationsCHImpotDirect = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_ImpotDirect.php";
+            $PHPvotationsCHLimitation = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_InitiativeLimitation.php";
     $PHPresultatsVotationsJU = "/Pages/Resultats/VotationsJU/VotationsJU.php";
     $PHPresultatsVotationsCO = "/Pages/Resultats/VotationsCO/VotationsCO.php";
 
@@ -294,16 +306,11 @@
     $PHPelectionLajoux = "/Pages/Votations et Elections/Elections/ElectionsCO/Lajoux_20200927/Accueil.php";
     $PHPelectionMovelier = "/Pages/Votations et Elections/Elections/ElectionsCO/Movelier_20201018/MembreCercleScolaire.php";
 
-    $PHPvotationsCHaccueil = "/Pages/Votations et Elections/Votations/VotationsCH/accueil.php";
-    $PHPvotationsCHAvions = "/Pages/Votations et Elections/Votations/VotationsCH/AvionsCombat.php";
-    $PHPvotationsCHChasse = "/Pages/Votations et Elections/Votations/VotationsCH/Chasse.php";
-    $PHPvotationsCHCongePaternite = "/Pages/Votations et Elections/Votations/VotationsCH/CongePaternite.php";
-    $PHPvotationsCHImpotDirect = "/Pages/Votations et Elections/Votations/VotationsCH/ImpotDirect.php";
-    $PHPvotationsCHLimitation = "/Pages/Votations et Elections/Votations/VotationsCH/InitiativeLimitation.php";
+    $PHPvotationsCHaccueil = "/Pages/Votations et Elections/Votations/VotationsCH/accueil.php";    
 
     $PHPvotationsCOaccueil = "/Pages/Votations et Elections/Votations/VotationsCO/votations.php";
-    $PHPvotationsDelemont = "/Pages/Votations et Elections/Votations/VotationsCO/Delemont_20200927/ComplexeScolaire.php";
-    $PHPvotationValTerbiAccueil = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/accueil.php";
+    $PHPvotationsDelemont = "/Pages/Resultats/VotationsCO/Delemont/2020-09-27/ComplexeScolaire.php";
+    $PHPvotationValTerbiAccueil = "/Pages/Resultats/VotationsCO/ValTerbi/2020-09-27/Accueil.php";
     $PHPvotationValTerbiEcole = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
     $PHPvotationValTerbiSEVT = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";
 

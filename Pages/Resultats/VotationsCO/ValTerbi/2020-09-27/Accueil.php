@@ -45,13 +45,13 @@
         </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Votations Val-Terbi du 27 septembre 2020</h1>
+        <h1 class="uk-heading-large">Résultats des votations Val-Terbi du 27 septembre 2020</h1>
         <hr>
         <p class="uk-text-center">Les informations seront bientôt disponibles !</p>
         <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="EcoleMontsevelier.php">
+                    <a href="Ecole_Montsevelier.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
                                 <img class="uk-align-center" src="<?php echo $EcoleMontsevelier ?>" alt="Ecole de Montsevelier" width="500" height="500">

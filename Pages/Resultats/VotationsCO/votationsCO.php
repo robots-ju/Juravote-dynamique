@@ -55,6 +55,8 @@
                 <ul>
                     <li><b>Haute-Sorne (21 juin 2020)</b></li>
                     <li><b>Develier (05 juillet 2020)</b></li>
+                    <li><b>Delémont (27 septembre 2020)<b></li>
+                    <li><b>Val-Terbi (27 septembre 2020)<b></li>
                 </ul>
         </div>
         <div class="conteneur-cartes">
@@ -84,8 +86,8 @@
                                         <li><a href="#">Courchapoix</a></li>
                                         <li><a href="./Courrendlin/Courrendlin.html">Courrendlin</a></li>
                                         <li><a href="#">Courroux</a></li>
-                                        <li><a href="./Courtetelle/Courtetelle.html">Courtételle</a></li>
-                                        <li><a href="./Delemont/Delemont.html">Delémont</a></li>-->
+                                        <li><a href="./Courtetelle/Courtetelle.html">Courtételle</a></li>-->
+                                        <li><a href="Delemont/Delemont.php">Delémont</a></li>
                                         <li><a href="Develier/Develier.php">Develier</a></li>
                                         <!--<li><a href="#">Ederswiler</a></li>-->
                                         <li><a href="HauteSorne/HauteSorne.php">Haute-Sorne</a></li>
@@ -95,8 +97,8 @@
                                         <li><a href="#">Pleigne</a></li>
                                         <li><a href="#">Rossemaison</a></li>
                                         <li><a href="#">Saulcy</a></li>
-                                        <li><a href="#">Soyhières</a></li>
-                                        <li><a href="./ValTerbi/ValTerbi.html">Val Terbi</a></li>-->
+                                        <li><a href="#">Soyhières</a></li>-->
+                                        <li><a href="ValTerbi/ValTerbi.php">Val Terbi</a></li>
                                     </ul>
                                 </li>
                                 </ul>

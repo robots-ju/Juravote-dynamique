@@ -49,6 +49,11 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Elections cantonales du 18 octobre 2020</h1>
         <hr>
+        <div class="uk-alert-primary" uk-alert>
+            <a class="uk-alert-close" uk-close></a>
+            <p>Vous trouverez plus d'informations sur les candidates et candidats en cliquant sur leurs cartes respectives !
+            (la mise en ligne se fait au fur et à mesure des retours des candidates et candidats)</p>
+        </div>
         <div class="switcher-buttons uk-text-left" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%">
             <button class="uk-button uk-button-default" type="button">Les élections en bref</button>
             <button class="uk-button uk-button-default" type="button">Liste 1 (PLRJ)</button>
@@ -72,24 +77,35 @@
                 </p>
             </li>  
             <li>
-                <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
-                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                                    <div class="uk-width-auto uk-first-column">
-                                        <img class="uk-border-circle photo-personne"
-                                            src="<?php echo $inconnu ?>"
-                                            alt="Marcelle Luchinger Fleury">
+                        <!--LIEN POUR MODAL<a class="uk-button uk-button-default" href="#modal-center" uk-toggle>-->
+                            <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                        <div class="uk-width-auto uk-first-column">
+                                            <img class="uk-border-circle photo-personne"
+                                                src="<?php echo $inconnu ?>"
+                                                alt="Marcelle Luchinger Fleury">
+                                        </div>
                                     </div>
                                 </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title-center text-rouge-fonce">Marcelle Luchinger Fleury</h3>
+                                    <p class="uk-text-center text-fonction">1955 - Courroux - Consultante indépendante</p>
+                                </div>
                             </div>
-                            <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Marcelle Luchinger Fleury</h3>
-                                <p class="uk-text-center text-fonction">1955 - Courroux - Consultante indépendante</p>
+                        <!--LIEN FERMANT + CONTENU</a>
+                        <div id="modal-center" class="uk-flex-top" uk-modal>
+                            <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                <button class="uk-modal-close-default" type="button" uk-close></button>
+
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
                             </div>
-                        </div>
+                        </div>-->
                     </div>
 
                     <div>
@@ -646,7 +662,7 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
@@ -1220,7 +1236,7 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC-JDC</div>
@@ -1794,7 +1810,7 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
@@ -1853,22 +1869,225 @@
                     </div>
 
                     <div>
-                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                                    <div class="uk-width-auto uk-first-column">
-                                        <img class="uk-border-circle photo-personne"
-                                            src="<?php echo $inconnu ?>"
-                                            alt="Rémy Meury">
+                        <a class="uk-button uk-button-default" href="#modal-full" uk-toggle>
+                            <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                                <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                        <div class="uk-width-auto uk-first-column">
+                                            <img class="uk-border-circle photo-personne"
+                                                src="<?php echo $MeuryRemy ?>"
+                                                alt="Rémy Meury">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title-center text-rouge-fonce">Rémy Meury</h3>
+                                    <p class="uk-text-center text-fonction">1959 - Delémont - Secrétaire syndical</p>
+                                </div>
+                            </div>
+                        </a>
+                        <div id="modal-full" class="uk-modal-full uk-text-justify" uk-modal>
+                            <div class="uk-modal-dialog">
+                                <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+                                <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
+                                    <div class="uk-background-cover" style="background-image: url(<?php echo $MeuryRemy ?>);" uk-height-viewport></div>
+                                    <div class="uk-padding-large">
+                                    <h2>Rémy Meury, 1959, Delémont, secrétaire syndical</h2>
+                                    <p>Marié, 2 enfants, formation d'Enseignant primaire</p>
+                                        <div class="switcher-buttons uk-text-left" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%">
+                                            <button class="uk-button uk-button-default" type="button">Présentation</button>
+                                            <button class="uk-button uk-button-default" type="button">Votations du 27 septembre</button> 
+                                            <button class="uk-button uk-button-default" type="button">Votations du 29 novembre</button>
+                                            <button class="uk-button uk-button-default" type="button">Social et santé</button>  
+                                            <button class="uk-button uk-button-default" type="button">Société et éthique</button>          
+                                            <button class="uk-button uk-button-default" type="button">Finances et impositions</button>     
+                                            <button class="uk-button uk-button-default" type="button">Economie</button>     
+                                            <button class="uk-button uk-button-default" type="button">Energies et environnement</button>     
+                                            <button class="uk-button uk-button-default" type="button">Digitalisation</button>     
+                                        </div>
+                                        <ul class="uk-switcher uk-margin">
+                                            <li>
+                                                <h4>Motivations</h4>
+                                                <p>Participer au débat démocratique dans le but de changer en profondeur la société
+                                                pour qu'elle devienne plus juste et plus solidaire. Le fonctionnement même du système
+                                                capitaliste doit être remis en cause.</p>
+                                                <p>J'espère sincèrement que la société se modifiera profondément à la suite des
+                                                élections et que la place de l'être humain revienne où elle n'aurait jamais dû
+                                                cesser d'être : à la place centrale.</p>
+
+                                                <h4>Priorités politiques</h4>
+                                                <p>Il y a suffisamment de richesses pour que tout le monde vive décemment. La
+                                                redistribution de celles-ci doivent être revu afin que la vie de chacun-e s'améliore
+                                                et non que l'on continue de voir ce qui se produit inexorablement chaque année, une
+                                                augmentation des richesses d'une infime minorité et une augmentation constante de la
+                                                pauvreté, y compris dans nos contrées.</p>
+
+                                                <h4>Vos loisirs</h4>
+                                                <p>Essentiellement les visites culturelles et la lecture. </p>
+
+                                                <h4>Vos réseaux sociaux</h4>
+                                                <p>Je ne suis pas sur les réseaux sociaux que je préfère appeler la "fachosphère"
+                                                tant la libération de la parole y permet aux médiocres d'y déverser leur haine.</p>
+                                            </li>
+
+                                            <li>
+                                                <table class="uk-table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th class="uk-text-center">Congé paternité</th>
+                                                            <th class="uk-text-center">Loi sur la chasse</th>
+                                                            <th class="uk-text-center">Initiative de limitation</th>
+                                                            <th class="uk-text-center">Loi sur l'impôt direct</th>
+                                                            <th class="uk-text-center">Avions de combat</th>
+                                                            <th class="uk-text-center">Delémont : développement du secteur des Arquebusiers</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>  
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>                                                      
+                                                        </tr>
+                                                    </tbody>
+                                                </table>    
+                                            </li>
+
+                                            <li>
+                                                <table class="uk-table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th class="uk-text-center">Initiative "Entreprises responsables"</th>
+                                                            <th class="uk-text-center">Initiative "Interdiction du financement des producteurs de matériel de guerre</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>                                                    
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </li>
+
+                                            <li>          
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Age de la retraite relevé et identique pour les femmes et les hommes ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">Injustifiée</span>                                            
+                                                        <div class="uk-card uk-card-body">Hausse des coûts des primes d'assurance maladie dans le Jura ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Introduction d'une caisse-maladie unique dans le Jura ?</div>
+                                                    </div>
+                                                </div>                                             
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <div class="uk-card uk-card-body">Droit de vote à 16 ans ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <div class="uk-card uk-card-body">Consommation légalisée de cannabis ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Mêmes droits pour les couples de même sexe que
+                                                        les couples hétérosexuels ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <div class="uk-card uk-card-body">Euthanasie active par des médecins en Suisse ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Financement transparant des partis et
+                                                        des campagnes pour les élections et votations ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Abolition du changement d'heure d'été / heure d'hiver ?</div>
+                                                    </div>
+                                                </div>  
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Maintien</span>                                            
+                                                        <div class="uk-card uk-card-body">Evolution des impôts dans le Jura ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Imposition individuelle ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Rentes AVS/AI exonérées d'impôt ?</div>
+                                                    </div>
+                                                </div>  
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Libéralisation complète des heures d'ouverture des magasins ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt contre</span>                                            
+                                                        <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Micro-impôt sur le trafic des paiements sans espèces ?</div>
+                                                    </div>
+                                                </div>  
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
+                                                    </div> 
+                                                </div> 
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Vote électronique en Suisse ?</div>
+                                                    </div> 
+                                                </div> 
+                                            </li>
                                     </div>
                                 </div>
                             </div>
-                            <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Rémy Meury</h3>
-                                <p class="uk-text-center text-fonction">1959 - Delémont - Secrétaire syndical</p>
-                            </div>
-                        </div>
+                        </div>                        
                     </div>
 
                     <div>
@@ -2486,7 +2705,7 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div>
@@ -3060,7 +3279,7 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
@@ -3634,7 +3853,7 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI</div>
@@ -4208,7 +4427,7 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pvl uk-border-rounded">PVL</div>

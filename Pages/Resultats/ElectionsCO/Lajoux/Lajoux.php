@@ -60,7 +60,7 @@
                     </a>
                 </div>      
             </div>
-            <!--<div>
+            <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="<?php echo $PHPresultatsConseilLajoux2020 ?>">
                         <div class="uk-card-body">
@@ -70,7 +70,7 @@
                         </div>
                     </a>
                 </div>      
-            </div> <-->
+            </div>
         </div>          
     </section>
 </main>

@@ -241,25 +241,6 @@
                                         cantonJU.legend = new am4maps.Legend();
                                         cantonJU.legend.position = "left";
 
-                                        var imageSeries10to20 = cantonJU.series.push(new am4maps.MapImageSeries());
-                                        var imageSeries10to20Template = imageSeries10to20.mapImages.template;
-                                        var circle = imageSeries10to20Template.createChild(am4core.Circle);
-                                        circle.radius = 8;
-                                        circle.strokeWidth = 2;
-                                        circle.nonScaling = true;
-                                        circle.tooltipText = "{title} - {OUI}";
-                                        circle.fill = am4core.color("#db0000");
-
-                                        imageSeries10to20.fill = am4core.color("#db0000")
-                                        imageSeries10to20.name = "10 à 20 %";
-                                        imageSeries10to20.value = "10 à 20 %";
-                                        imageSeries10to20.title = "Oui en %";
-
-                                        imageSeries10to20Template.propertyFields.latitude = "latitude";
-                                        imageSeries10to20Template.propertyFields.longitude = "longitude";
-
-                                        imageSeries10to20.data = [];
-
                                         var imageSeries20to30 = cantonJU.series.push(new am4maps.MapImageSeries());
                                         var imageSeries20to30Template = imageSeries20to30.mapImages.template;
                                         var circle = imageSeries20to30Template.createChild(am4core.Circle);
@@ -284,7 +265,7 @@
                                             "OUI": "20.69 %"
                                         }];
 
-                                        var imageSeries30to40 = cantonJU.series.push(new am4maps.MapImageSeries());
+                                        /*var imageSeries30to40 = cantonJU.series.push(new am4maps.MapImageSeries());
                                         var imageSeries30to40Template = imageSeries30to40.mapImages.template;
                                         var circle = imageSeries30to40Template.createChild(am4core.Circle);
                                         circle.radius = 8;
@@ -301,7 +282,7 @@
                                         imageSeries30to40Template.propertyFields.latitude = "latitude";
                                         imageSeries30to40Template.propertyFields.longitude = "longitude";
 
-                                        imageSeries30to40.data = [];
+                                        imageSeries30to40.data = [];*/
 
                                         var imageSeries40to50 = cantonJU.series.push(new am4maps.MapImageSeries());
                                         var imageSeries40to50Template = imageSeries40to50.mapImages.template;
@@ -360,8 +341,7 @@
                                             "longitude": 7.11,
                                             "title": "Saint-Brais",
                                             "OUI": "48.45 %"
-                                        }
-                                        ];
+                                        }];
 
                                         var imageSeries50to60 = cantonJU.series.push(new am4maps.MapImageSeries());
                                         var imageSeries50to60Template = imageSeries50to60.mapImages.template;
@@ -380,8 +360,7 @@
                                         imageSeries50to60Template.propertyFields.latitude = "latitude";
                                         imageSeries50to60Template.propertyFields.longitude = "longitude";
 
-                                        imageSeries50to60.data = [
-                                            {
+                                        imageSeries50to60.data = [{
                                                 "latitude": 47.49,
                                                 "longitude": 7.14,
                                                 "title": "Beurnevésin",
@@ -495,8 +474,7 @@
                                                 "longitude": 7.37,
                                                 "title": "Soyhières",
                                                 "OUI": "61.58 %"
-                                            },
-                                        ];
+                                            }];
 
                                         var imageSeries70to80 = cantonJU.series.push(new am4maps.MapImageSeries());
                                         var imageSeries70to80Template = imageSeries70to80.mapImages.template;
@@ -662,8 +640,7 @@
                                                 "longitude": 7.41,
                                                 "title": "Val-Terbi",
                                                 "OUI": "73.53 %"
-                                            }
-                                        ];
+                                            }];
                                         var imageSeries80to90 = cantonJU.series.push(new am4maps.MapImageSeries());
                                         var imageSeries80to90Template = imageSeries80to90.mapImages.template;
                                         var circle = imageSeries80to90Template.createChild(am4core.Circle);
@@ -687,8 +664,7 @@
                                                 "longitude": 7.35,
                                                 "title": "Châtillon",
                                                 "OUI": "81.17 %"
-                                            },
-                                        ];
+                                            }];
                                     </script>
                                 </li>
                                 <li>

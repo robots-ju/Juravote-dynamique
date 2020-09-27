@@ -172,7 +172,7 @@
                             série50to60.value = "50 à 60 %";
                             série50to60.title = "Oui en %";
                             série50to60.useGeodata = true;
-                            série50to60.include = ["CH-LU", "CH-ZG", "CH-SH", "CH-AR", "CH-AI", "CH-SG", "CH-GR", "CH-VS"];
+                            série50to60.include = ["CH-LU", "CH-ZG", "CH-SH", "CH-AR", "CH-AI", "CH-SG", "CH-GR", "CH-VS", "CH-SO"];
                             série50to60.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série50to60.fill = am4core.color("#88e56f")
                             série50to60.mapPolygons.template.fill = am4core.color("#88e56f")
@@ -246,6 +246,30 @@
                                     
                                     cantonJU.legend = new am4maps.Legend();
                                     cantonJU.legend.position = "left";
+
+                                    var imageSeries10to20 = cantonJU.series.push(new am4maps.MapImageSeries());
+                                    var imageSeries10to20Template = imageSeries10to20.mapImages.template;
+                                    var circle = imageSeries10to20Template.createChild(am4core.Circle);
+                                    circle.radius = 8;                        
+                                    circle.strokeWidth = 2;
+                                    circle.nonScaling = true;
+                                    circle.tooltipText = "{title} - {OUI}";
+                                    circle.fill = am4core.color("#db0000");  
+
+                                    imageSeries10to20.fill = am4core.color("#db0000")
+                                    imageSeries10to20.name = "10 à 20 %";
+                                    imageSeries10to20.value = "10 à 20 %";
+                                    imageSeries10to20.title = "Oui en %";                                  
+
+                                    imageSeries10to20Template.propertyFields.latitude = "latitude";
+                                    imageSeries10to20Template.propertyFields.longitude = "longitude";                                    
+
+                                    imageSeries10to20.data = [/*{
+                                        "latitude": 47.49,
+                                        "longitude": 7.14,
+                                        "title": "Beurnevésin",
+                                        "OUI": "17.07 %"
+                                    }*/];
 
                                     var imageSeries20to30 = cantonJU.series.push(new am4maps.MapImageSeries());
                                     var imageSeries20to30Template = imageSeries20to30.mapImages.template;

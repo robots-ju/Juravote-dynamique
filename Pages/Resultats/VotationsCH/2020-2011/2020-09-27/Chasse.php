@@ -255,12 +255,7 @@
                                     imageSeries10to20Template.propertyFields.latitude = "latitude";
                                     imageSeries10to20Template.propertyFields.longitude = "longitude";                                    
 
-                                    imageSeries10to20.data = [{
-                                        "latitude": 47.49,
-                                        "longitude": 7.14,
-                                        "title": "Beurnevésin",
-                                        "OUI": "17.07 %"
-                                    }];
+                                    imageSeries10to20.data = [];
 
                                     var imageSeries20to30 = cantonJU.series.push(new am4maps.MapImageSeries());
                                     var imageSeries20to30Template = imageSeries20to30.mapImages.template;
@@ -279,22 +274,7 @@
                                     imageSeries20to30Template.propertyFields.latitude = "latitude";
                                     imageSeries20to30Template.propertyFields.longitude = "longitude";                                    
 
-                                    imageSeries20to30.data = [{
-                                        "latitude": 47.36,
-                                        "longitude": 7.21,
-                                        "title": "Boécourt",
-                                        "OUI": "28.17 % %"
-                                    }, {
-                                        "latitude": 47.43,
-                                        "longitude": 7.34,
-                                        "title": "Ederswiler",
-                                        "OUI": "29.41 %"
-                                    },{
-                                        "latitude": 47.42,
-                                        "longitude": 6.95,
-                                        "title": "Fahy",
-                                        "OUI": "25.00 %"
-                                    }];  
+                                    imageSeries20to30.data = [];  
 
                                     var imageSeries30to40 = cantonJU.series.push(new am4maps.MapImageSeries());
                                     var imageSeries30to40Template = imageSeries30to40.mapImages.template;
@@ -314,90 +294,15 @@
                                     imageSeries30to40Template.propertyFields.longitude = "longitude";                                    
 
                                     imageSeries30to40.data = [{
-                                        "latitude": 47.43,
-                                        "longitude": 7.13,
-                                        "title": "Alle",
-                                        "OUI": "37.84 %"
-                                    }, {     
-                                        "latitude": 47.43,
-                                        "longitude": 7.17,
-                                        "title": "La Baroche",
-                                        "OUI": "36.34 %"
-                                    },{
-                                        "latitude": 47.47,
-                                        "longitude": 7.15,
-                                        "title": "Bonfol",
-                                        "OUI": "31.84 %"
-                                    }, {
-                                        "latitude": 47.40,
-                                        "longitude": 7.24,
-                                        "title": "Bourrignon",
-                                        "OUI": "30.83 %"
-                                    },{
-                                        "latitude": 47.33,
+                                        "latitude": 47.37,
                                         "longitude": 7.35,
-                                        "title": "Châtillon",
-                                        "OUI": "37.36 %"  
+                                        "title": "Delémont",
+                                        "OUI": "39.98 %"
                                     },{
-                                        "latitude": 47.45,
-                                        "longitude": 7.10,
-                                        "title": "Coeuve",
-                                        "OUI": "37.25 %"   
-                                    },{
-                                        "latitude": 47.35,
-                                        "longitude": 7.46,
-                                        "title": "Courchapoix",
-                                        "OUI": "35.61 %"
-                                    },{
-                                        "latitude": 47.40,
-                                        "longitude": 7.13,
-                                        "title": "Courgenay",
-                                        "OUI": "32.78 %"
-                                    },{
-                                        "latitude": 47.36,
-                                        "longitude": 7.37,
-                                        "title": "Courroux",
-                                        "OUI": "39.23 %"
-                                    },{
-                                        "latitude": 47.41,
-                                        "longitude": 7.04,
-                                        "title": "Courtedoux",
-                                        "OUI": "39.24 %"
-                                    },{
-                                        "latitude": 47.47,
-                                        "longitude": 7.10,
-                                        "title": "Damphreux",
-                                        "OUI": "32.50 %"
-                                    },{
-                                        "latitude": 47.35,
-                                        "longitude": 7.23,
-                                        "title": "Haute-Sorne",
-                                        "OUI": "37.74 %" 
-                                    },{
-                                        "latitude": 47.41,
-                                        "longitude": 7.32,
-                                        "title": "Movelier",
-                                        "OUI": "33.57 %"
-                                    },{
-                                        "latitude": 47.35,
-                                        "longitude": 7.34,
-                                        "title": "Rossemaison",
-                                        "OUI": "38.96 %" 
-                                    },{
-                                        "latitude": 47.39,
-                                        "longitude": 7.37,
-                                        "title": "Soyhières",
-                                        "OUI": "30.46 %" 
-                                    },{                                                
-                                        "latitude": 47.35,
-                                        "longitude": 7.41,
-                                        "title": "Val-Terbi",
-                                        "OUI": "38.01 %" 
-                                    },{                                       
-                                        "latitude": 47.45,
-                                        "longitude": 7.15,
-                                        "title": "Vendlincourt",
-                                        "OUI": "33.64 %"                                                         
+                                        "latitude": 47.29,
+                                        "longitude": 7.05,
+                                        "title": "Les Enfers",
+                                        "OUI": "36.05 %"
                                     }];
 
                                     var imageSeries40to50 = cantonJU.series.push(new am4maps.MapImageSeries());
@@ -418,70 +323,80 @@
                                     imageSeries40to50Template.propertyFields.longitude = "longitude";                                    
 
                                     imageSeries40to50.data = [ {
-                                        "latitude": 47.26,
-                                        "longitude": 7.02,
-                                        "title": "Le Bémont",
-                                        "OUI": "42.11 %"
+                                        "latitude": 47.36,
+                                        "longitude": 7.21,
+                                        "title": "Boécourt",
+                                        "OUI": "47.23 % %"
+                                    },{       
+                                        "latitude": 47.18,
+                                        "longitude": 6.91,
+                                        "title": "Les Bois",
+                                        "OUI": "48.65 %"
                                     },{
-                                        "latitude": 47.44,
-                                        "longitude": 7.01,
-                                        "title": "Bure",
-                                        "OUI": "41.67 %"
+                                        "latitude": 47.21,
+                                        "longitude": 7.00,
+                                        "title": "Les Breuleux",
+                                        "OUI": "44.25 %"
                                     },{
-                                        "latitude": 47.35,
-                                        "longitude": 7.15,
-                                        "title": "Clos du Doubs",
-                                        "OUI": "49.52 %"   
+                                        "latitude": 47.33,
+                                        "longitude": 7.35,
+                                        "title": "Châtillon",
+                                        "OUI": "47.14 %"  
                                     },{
-                                        "latitude": 47.41,
-                                        "longitude": 7.16,
-                                        "title": "Cornol",
-                                        "OUI": "46.06 %"   
+                                        "latitude": 47.40,
+                                        "longitude": 7.13,
+                                        "title": "Courgenay",
+                                        "OUI": "48.55 %"
                                     },{
                                         "latitude": 47.34,
                                         "longitude": 7.37,
                                         "title": "Courrendlin",
-                                        "OUI": "40.98 %"  
+                                        "OUI": "47.73 %"  
+                                    },{
+                                        "latitude": 47.36,
+                                        "longitude": 7.37,
+                                        "title": "Courroux",
+                                        "OUI": "49.78 %"
+                                    },{
+                                        "latitude": 47.41,
+                                        "longitude": 7.04,
+                                        "title": "Courtedoux",
+                                        "OUI": "47.76 %"
                                     },{
                                         "latitude": 47.34,
                                         "longitude": 7.32,
                                         "title": "Courtételle",
-                                        "OUI": "45.49 %"
+                                        "OUI": "45.07 %"
                                     },{
-                                        "latitude": 47.37,
-                                        "longitude": 7.35,
-                                        "title": "Delémont",
-                                        "OUI": "47.81 %"
-                                    }, {
-                                        "latitude": 47.36,
-                                        "longitude": 7.30,
-                                        "title": "Develier",
-                                        "OUI": "42.62 %"
+                                        "latitude": 47.47,
+                                        "longitude": 7.10,
+                                        "title": "Damphreux",
+                                        "OUI": "40.86 %"
                                     },{
-                                        "latitude": 47.29,
-                                        "longitude": 7.05,
-                                        "title": "Les Enfers",
-                                        "OUI": "44.44 %"
+                                        "latitude": 47.42,
+                                        "longitude": 6.95,
+                                        "title": "Fahy",
+                                        "OUI": "44.57 %"
                                     },{
                                         "latitude": 47.40,
                                         "longitude": 7.08,
                                         "title": "Fontenais",
-                                        "OUI": "42.16 %"
+                                        "OUI": "40.04 %"
                                     },{
-                                        "latitude": 47.39,
-                                        "longitude": 6.94,
-                                        "title": "Grandfontaine",
-                                        "OUI": "47.26 %"
-                                    },{ 
-                                        "latitude": 47.38,
-                                        "longitude": 7.00,
-                                        "title": "Haute-Ajoie",
-                                        "OUI": "42.57 %"
+                                        "latitude": 47.35,
+                                        "longitude": 7.23,
+                                        "title": "Haute-Sorne",
+                                        "OUI": "49.64 %" 
+                                    },{                                     
+                                        "latitude": 47.28,
+                                        "longitude": 7.14,
+                                        "title": "Lajoux",
+                                        "OUI": "49.14 %"
                                     },{
                                         "latitude": 47.23,
                                         "longitude": 6.96,
                                         "title": "Le Noirmont",
-                                        "OUI": "48.16 %"
+                                        "OUI": "44.06 %"
                                     },{  
                                         "latitude": 47.39,
                                         "longitude": 7.32,
@@ -491,37 +406,32 @@
                                         "latitude": 47.34,
                                         "longitude": 7.50,
                                         "title": "Mervelier",
-                                        "OUI": "42.60 %"
-                                    },{
-                                        "latitude": 47.25,
-                                        "longitude": 6.98,
-                                        "title": "Muriaux",
-                                        "OUI": "44.39 %"
+                                        "OUI": "49.15 %"
                                     },{
                                         "latitude": 47.27,
                                         "longitude": 7.05,
                                         "title": "Montfaucon",
                                         "OUI": "45.05 %"
                                     },{
-                                        "latitude": 47.41,
-                                        "longitude": 7.29,
-                                        "title": "Pleigne",
-                                        "OUI": "45.26 %"
-                                    },{
                                         "latitude": 47.42,
                                         "longitude": 7.08,
                                         "title": "Porrentruy",
-                                        "OUI": "43.63 %"
+                                        "OUI": "42.65 %"
                                     },{
-                                        "latitude": 47.30,
-                                        "longitude": 7.15,
-                                        "title": "Saulcy",
-                                        "OUI": "42.86 %" 
+                                        "latitude": 47.35,
+                                        "longitude": 7.34,
+                                        "title": "Rossemaison",
+                                        "OUI": "44.12 %" 
                                     },{ 
                                         "latitude": 47.31,
                                         "longitude": 7.11,
                                         "title": "Saint-Brais",
-                                        "OUI": "48.45 %"
+                                        "OUI": "49.61 %"
+                                    },{                                       
+                                        "latitude": 47.45,
+                                        "longitude": 7.15,
+                                        "title": "Vendlincourt",
+                                        "OUI": "46.50 %"                                                         
                                     }];   
                                            
                                     var imageSeries50to60 = cantonJU.series.push(new am4maps.MapImageSeries());
@@ -542,35 +452,90 @@
                                     imageSeries50to60Template.propertyFields.longitude = "longitude";                                    
 
                                     imageSeries50to60.data = [{
+                                        "latitude": 47.43,
+                                        "longitude": 7.13,
+                                        "title": "Alle",
+                                        "OUI": "55.68 %"
+                                    },{     
+                                        "latitude": 47.43,
+                                        "longitude": 7.17,
+                                        "title": "La Baroche",
+                                        "OUI": "51.93 %"
+                                    },{
                                         "latitude": 47.45,
                                         "longitude": 7.03,
                                         "title": "Basse-Allaine",
                                         "OUI": "55.97 %"
-                                    },{                                                                                                                         
-                                        "latitude": 47.44,
-                                        "longitude": 7.06,
-                                        "title": "Courchavon",
-                                        "OUI": "50.76 %"
-                                    },{                                     
-                                        "latitude": 47.28,
+                                    },{
+                                        "latitude": 47.49,
                                         "longitude": 7.14,
-                                        "title": "Lajoux",
-                                        "OUI": "56.74 %"
+                                        "title": "Beurnevésin",
+                                        "OUI": "58.93 %"
+                                    },{
+                                        "latitude": 47.50,
+                                        "longitude": 7.02,
+                                        "title": "Boncourt",
+                                        "OUI": "50.05 %"
+                                    },{
+                                        "latitude": 47.47,
+                                        "longitude": 7.15,
+                                        "title": "Bonfol",
+                                        "OUI": "52.28 %"
+                                    },{
+                                        "latitude": 47.44,
+                                        "longitude": 7.01,
+                                        "title": "Bure",
+                                        "OUI": "56.25 %"
+                                    },{
+                                        "latitude": 47.35,
+                                        "longitude": 7.46,
+                                        "title": "Courchapoix",
+                                        "OUI": "55.39 %"
+                                    },{
+                                        "latitude": 47.35,
+                                        "longitude": 7.15,
+                                        "title": "Clos du Doubs",
+                                        "OUI": "57.92 %"   
+                                    },{
+                                        "latitude": 47.45,
+                                        "longitude": 7.10,
+                                        "title": "Coeuve",
+                                        "OUI": "52.09 %"   
+                                    },{
+                                        "latitude": 47.41,
+                                        "longitude": 7.16,
+                                        "title": "Cornol",
+                                        "OUI": "54.57 %"   
+                                    },{
+                                        "latitude": 47.36,
+                                        "longitude": 7.30,
+                                        "title": "Develier",
+                                        "OUI": "52.57 %"
+                                    },{
+                                        "latitude": 47.39,
+                                        "longitude": 6.94,
+                                        "title": "Grandfontaine",
+                                        "OUI": "52.00 %"
+                                    },{ 
+                                        "latitude": 47.38,
+                                        "longitude": 7.00,
+                                        "title": "Haute-Ajoie",
+                                        "OUI": "54.89 %"
                                     },{
                                         "latitude": 47.49,
                                         "longitude": 7.10,
                                         "title": "Lugnez",
                                         "OUI": "50.52 %"
-                                    },{       
-                                        "latitude": 47.18,
-                                        "longitude": 6.91,
-                                        "title": "Les Bois",
-                                        "OUI": "55.74 %"
                                     },{
-                                        "latitude": 47.21,
-                                        "longitude": 7.00,
-                                        "title": "Les Breuleux",
-                                        "OUI": "56.51 %"
+                                        "latitude": 47.25,
+                                        "longitude": 6.98,
+                                        "title": "Muriaux",
+                                        "OUI": "55.75 %"
+                                    },{
+                                        "latitude": 47.41,
+                                        "longitude": 7.32,
+                                        "title": "Movelier",
+                                        "OUI": "52.63 %"
                                     },{                                       
                                         "latitude": 47.22,
                                         "longitude": 7.03,
@@ -586,12 +551,92 @@
                                         "longitude": 7.00,
                                         "title": "Saignelégier",
                                         "OUI": "52.05 %" 
+                                    },{
+                                        "latitude": 47.41,
+                                        "longitude": 7.29,
+                                        "title": "Pleigne",
+                                        "OUI": "55.61 %"
+                                    },{
+                                        "latitude": 47.39,
+                                        "longitude": 7.37,
+                                        "title": "Soyhières",
+                                        "OUI": "50.26 %" 
+                                    },{                                                
+                                        "latitude": 47.35,
+                                        "longitude": 7.41,
+                                        "title": "Val-Terbi",
+                                        "OUI": "50.81 %" 
+                                    }];
+
+                                    var imageSeries60to70 = cantonJU.series.push(new am4maps.MapImageSeries());
+                                    var imageSeries60to70Template = imageSeries60to70.mapImages.template;
+                                    var circle = imageSeries60to70Template.createChild(am4core.Circle);
+                                    circle.radius = 8;                        
+                                    circle.strokeWidth = 2;
+                                    circle.nonScaling = true;
+                                    circle.tooltipText = "{title} - {OUI}";
+                                    circle.fill = am4core.color("#63cf46");
+                                    
+                                    imageSeries60to70.fill = am4core.color("#63cf46")
+                                    imageSeries60to70.name = "60 à 70 %";
+                                    imageSeries60to70.value = "60 à 70 %";
+                                    imageSeries60to70.title = "Oui en %";
+
+                                    imageSeries60to70Template.propertyFields.latitude = "latitude";
+                                    imageSeries60to70Template.propertyFields.longitude = "longitude";                                    
+
+                                    imageSeries60to70.data = [{
+                                        "latitude": 47.26,
+                                        "longitude": 7.02,
+                                        "title": "Le Bémont",
+                                        "OUI": "63.16 %"
+                                    },{
+                                        "latitude": 47.40,
+                                        "longitude": 7.24,
+                                        "title": "Bourrignon",
+                                        "OUI": "61.69 %"
+                                    },{                                                                                                                         
+                                        "latitude": 47.44,
+                                        "longitude": 7.06,
+                                        "title": "Courchavon",
+                                        "OUI": "64.00 %"
+                                    },{
+                                        "latitude": 47.30,
+                                        "longitude": 7.15,
+                                        "title": "Saulcy",
+                                        "OUI": "60.54 %" 
                                     },{ 
                                         "latitude": 47.31,
                                         "longitude": 7.05,
                                         "title": "Soubey",
-                                        "OUI": "51.92 %"
+                                        "OUI": "60.26 %"
                                     }];
+
+
+                                    var imageSeries70to80 = cantonJU.series.push(new am4maps.MapImageSeries());
+                                    var imageSeries70to80Template = imageSeries70to80.mapImages.template;
+                                    var circle = imageSeries70to80Template.createChild(am4core.Circle);
+                                    circle.radius = 8;                        
+                                    circle.strokeWidth = 2;
+                                    circle.nonScaling = true;
+                                    circle.tooltipText = "{title} - {OUI}";
+                                    circle.fill = am4core.color("#42c121");
+                                    
+                                    imageSeries70to80.fill = am4core.color("#42c121")
+                                    imageSeries70to80.name = "60 à 70 %";
+                                    imageSeries70to80.value = "60 à 70 %";
+                                    imageSeries70to80.title = "Oui en %";
+
+                                    imageSeries70to80Template.propertyFields.latitude = "latitude";
+                                    imageSeries70to80Template.propertyFields.longitude = "longitude";                                    
+
+                                    imageSeries70to80.data = [{
+                                        "latitude": 47.43,
+                                        "longitude": 7.34,
+                                        "title": "Ederswiler",
+                                        "OUI": "74.14 %"
+                                    }
+                                    ];
                                 </script>
                                 </li>
                                 <li>
@@ -608,123 +653,123 @@
                                         <tbody>
                                             <tr>
                                                 <td>Boécourt</td>
-                                                <td>41.13 %</td>
-                                                <td>80</td>
-                                                <td>28.17 %</td>
+                                                <td>60.85 %</td>
+                                                <td>196</td>
+                                                <td>47.23 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Bourrignon</td>
-                                                <td>54.96 %</td>
-                                                <td>37</td>
-                                                <td>30.83 %</td>
+                                                <td>64.46 %</td>
+                                                <td>95</td>
+                                                <td>61.69 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Châtillon</td>
-                                                <td>47.12 %</td>
-                                                <td>65</td>
-                                                <td>37.36 %</td>
+                                                <td>65.53 %</td>
+                                                <td>107</td>
+                                                <td>47.14 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Courchapoix</td>
-                                                <td>39.88 %</td>
-                                                <td>47</td>
-                                                <td>35.61 %</td>
+                                                <td>60.53 %</td>
+                                                <td>113</td>
+                                                <td>55.39 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Courrendlin</td>
-                                                <td>35.95 %</td>
-                                                <td>352</td>
-                                                <td>40.98 %</td>
+                                                <td>57.51 %</td>
+                                                <td>589</td>
+                                                <td>47.73 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Courroux</td>
-                                                <td>38.73 %</td>
-                                                <td>317</td>
-                                                <td>39.23 %</td>
+                                                <td>60.88 %</td>
+                                                <td>672</td>
+                                                <td>49.78 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Courtételle</td>
-                                                <td>38.74 %</td>
-                                                <td>338</td>
-                                                <td>45.49 %</td>
+                                                <td>60.75 %</td>
+                                                <td>489</td>
+                                                <td>45.07 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Delémont</td>
-                                                <td>38.55 %</td>
-                                                <td>1'596</td>
-                                                <td>47.81 %</td>
+                                                <td>55.30 %</td>
+                                                <td>1'600</td>
+                                                <td>39.98 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Develier</td>
-                                                <td>43.06 %</td>
-                                                <td>179</td>
-                                                <td>42.62 %</td>
+                                                <td>61.40 %</td>
+                                                <td>307</td>
+                                                <td>52.57 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Ederswiler</td>
-                                                <td>35.29 %</td>
-                                                <td>10</td>
-                                                <td>29.41 %</td>
+                                                <td>61.70 %</td>
+                                                <td>43</td>
+                                                <td>74.14 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Haute-Sorne</td>
-                                                <td>38.77 %</td>
-                                                <td>742</td>
-                                                <td>37.74 %</td>
+                                                <td>58.08 %</td>
+                                                <td>1'370</td>
+                                                <td>49.64 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Mervelier</td>
-                                                <td>42.24 %</td>
-                                                <td>72</td>
-                                                <td>42.60 %</td>
+                                                <td>64.49 %</td>
+                                                <td>134</td>
+                                                <td>49.81 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Mettembert</td>
-                                                <td>62.50 %</td>
-                                                <td>30</td>
-                                                <td>57.69 %</td>
+                                                <td>81.01 %</td>
+                                                <td>29</td>
+                                                <td>49.15 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Movelier</td>
-                                                <td>41.90 %</td>
-                                                <td>847</td>
-                                                <td>33.57 %</td>
+                                                <td>57.69 %</td>
+                                                <td>100</td>
+                                                <td>52.63 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Pleigne</td>
-                                                <td>46.25 %</td>
-                                                <td>62</td>
-                                                <td>45.26 %</td>
+                                                <td>65.31 %</td>
+                                                <td>114</td>
+                                                <td>55.61 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Rossemaison</td>
-                                                <td>49.25 %</td>
-                                                <td>97</td>
-                                                <td>38.96 %</td>
+                                                <td>67.37 %</td>
+                                                <td>150</td>
+                                                <td>44.12 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Saulcy</td>
-                                                <td>50.45 %</td>
-                                                <td>45</td>
-                                                <td>42.86 %</td>
+                                                <td>70.70 %</td>
+                                                <td>89</td>
+                                                <td>60.54 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Soyhières</td>
-                                                <td>45.21 %</td>
-                                                <td>46</td>
-                                                <td>30.46 %</td>
+                                                <td>60.24 %</td>
+                                                <td>95</td>
+                                                <td>50.26 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Val-Terbi</td>
-                                                <td>37.60 %</td>
-                                                <td>344</td>
-                                                <td>38.01 %</td>
+                                                <td>60.59 %</td>
+                                                <td>719</td>
+                                                <td>50.81 %</td>
                                             </tr>
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>39.40 %</b></td>
-                                                <td><b>4'506</b></td>
-                                                <td><b>41.78 %</b></td>
+                                                <td><b>58.87 %</b></td>
+                                                <td><b>7'011</b></td>
+                                                <td><b>47.09 %</b></td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -744,133 +789,133 @@
                                         <tbody>
                                             <tr>
                                                 <td>Alle</td>
-                                                <td>47.57 %</td>
-                                                <td>252</td>
-                                                <td>37.84 %</td>
+                                                <td>59.81 %</td>
+                                                <td>446</td>
+                                                <td>55.68 %</td>
                                             </tr>
                                             <tr>
                                                 <td>La Baroche</td>
-                                                <td>47.78 %</td>
-                                                <td>161</td>
-                                                <td>36.34 %</td>
+                                                <td>58.81 %</td>
+                                                <td>282</td>
+                                                <td>51.93 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Basse-Allaine</td>
-                                                <td>42.01 %</td>
-                                                <td>185</td>
-                                                <td>46.60 %</td>
+                                                <td>56.45 %</td>
+                                                <td>286</td>
+                                                <td>55.97 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Beurnevésin</td>
-                                                <td>37.50 %</td>
-                                                <td>7</td>
+                                                <td>58.93 %</td>
+                                                <td>33</td>
                                                 <td>17.07 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Boncourt</td>
-                                                <td>40.09 %</td>
+                                                <td>40.09 %</td> XXXXXX
                                                 <td>181</td>
                                                 <td>44.58 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Bonfol</td>
-                                                <td>37.98 %</td>
-                                                <td>71</td>
-                                                <td>31.84 %</td>
+                                                <td>49.83 %</td>
+                                                <td>149</td>
+                                                <td>52.28 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Bure</td>
-                                                <td>45.82 %</td>
-                                                <td>100</td>
-                                                <td>41.67 %</td>
+                                                <td>62.94 %</td>
+                                                <td>198</td>
+                                                <td>56.25 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Clos du Doubs</td>
-                                                <td>43.53 %</td>
-                                                <td>208</td>
-                                                <td>49.52 %</td>
+                                                <td>59.53 %</td>
+                                                <td>373</td>
+                                                <td>57.92 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Coeuve</td>
-                                                <td>46.42 %</td>
-                                                <td>92</td>
-                                                <td>37.25 %</td>
+                                                <td>66.67 %</td>
+                                                <td>187</td>
+                                                <td>52.09 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Cornol</td>
-                                                <td>41.06 %</td>
-                                                <td>152</td>
-                                                <td>46.06 %</td>
+                                                <td>55.86 %</td>
+                                                <td>245</td>
+                                                <td>54.57 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Courchavon</td>
-                                                <td>57.98 %</td>
-                                                <td>67</td>
-                                                <td>50.76 %</td>
+                                                <td>66.53 %</td>
+                                                <td>96</td>
+                                                <td>64.00 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Courgenay</td>
-                                                <td>44.66 %</td>
-                                                <td>259</td>
-                                                <td>32.78 %</td>
+                                                <td>60.22 %</td>
+                                                <td>486</td>
+                                                <td>48.55 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Courtedoux</td>
-                                                <td>48.35 %</td>
-                                                <td>113</td>
-                                                <td>39.24 %</td>
+                                                <td>66.27 %</td>
+                                                <td>181</td>
+                                                <td>47.76 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Damphreux</td>
-                                                <td>52.20 %</td>
-                                                <td>26</td>
-                                                <td>32.50 %</td>
+                                                <td>62.25 %</td>
+                                                <td>38</td>
+                                                <td>40.86 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Fahy</td>
-                                                <td>42.22 %</td>
-                                                <td>29</td>
-                                                <td>25.00 %</td>
+                                                <td>62.50 %</td>
+                                                <td>83</td>
+                                                <td>44.57 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Fontenais</td>
-                                                <td>51.07 %</td>
-                                                <td>261</td>
-                                                <td>42.16 %</td>
+                                                <td>62.25 %</td>
+                                                <td>318</td>
+                                                <td>40.25 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Grandfontaine</td>
-                                                <td>47.18 %</td>
-                                                <td>69</td>
-                                                <td>47.26 %</td>
+                                                <td>61.49 %</td>
+                                                <td>104</td>
+                                                <td>52.00%</td>
                                             </tr>
                                             <tr>
                                                 <td>Haute-Ajoie</td>
-                                                <td>45.90 %</td>
-                                                <td>169</td>
-                                                <td>42.57 %</td>
+                                                <td>59.76 %</td>
+                                                <td>320</td>
+                                                <td>54.89 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Lugnez</td>
-                                                <td>42.31 %</td>
-                                                <td>28</td>
-                                                <td>45.16 %</td>
+                                                <td>66.67 %</td>
+                                                <td>49</td>
+                                                <td>50.52 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Porrentruy</td>
-                                                <td>43.94 %</td>
-                                                <td>914</td>
-                                                <td>43.63 %</td>
+                                                <td>57.67 %</td>
+                                                <td>1'102</td>
+                                                <td>42.65 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Vendlincourt</td>
-                                                <td>44.55 %</td>
-                                                <td>72</td>
-                                                <td>33.64 %</td>
+                                                <td>59.15 %</td>
+                                                <td>133</td>
+                                                <td>46.50 %</td>
                                             </tr>
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>44.89 %</b></td>
+                                                <td><b>44.89 %</b></td> XXXXXXX
                                                 <td><b>3'416</b></td>
                                                 <td><b>40.90 %</b></td>
                                             </tr>
@@ -892,85 +937,85 @@
                                         <tbody>
                                             <tr>
                                                 <td>Le Bémont</td>
-                                                <td>48.59 %</td>
-                                                <td>56</td>
-                                                <td>42.11 %</td>
+                                                <td>61.17 %</td>
+                                                <td>108</td>
+                                                <td>63.16 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Les Bois</td>
-                                                <td>34.07 %</td>
-                                                <td>170</td>
-                                                <td>55.74 %</td>
+                                                <td>63.08 %</td>
+                                                <td>288</td>
+                                                <td>48.65 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Les Breuleux</td>
-                                                <td>46.27 %</td>
-                                                <td>269</td>
-                                                <td>56.51 %</td>
+                                                <td>64.58 %</td>
+                                                <td>304</td>
+                                                <td>44.25 %</td>
                                             </tr>
                                             <tr>
                                                 <td>La Chaux-des-Breuleux</td>
-                                                <td>39.56 %</td>
-                                                <td>17</td>
-                                                <td>47.22 %</td>
+                                                <td>52.75 %</td>
+                                                <td>24</td>
+                                                <td>51.06 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Les Enfers</td>
-                                                <td>53.66 %</td>
-                                                <td>28</td>
-                                                <td>44.44 %</td>
+                                                <td>73.55 %</td>
+                                                <td>31</td>
+                                                <td>36.05 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Les Genevez</td>
-                                                <td>38.78 %</td>
-                                                <td>66</td>
-                                                <td>41.25 %</td>
+                                                <td>61.43 %</td>
+                                                <td>144</td>
+                                                <td>56.47 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Lajoux</td>
-                                                <td>41.43 %</td>
-                                                <td>122</td>
-                                                <td>56.74 %</td>
+                                                <td>67.15 %</td>
+                                                <td>175</td>
+                                                <td>49.05 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Montfaucon</td>
-                                                <td>45.95 %</td>
-                                                <td>103</td>
-                                                <td>52.02 %</td>
+                                                <td>64.23 %</td>
+                                                <td>132</td>
+                                                <td>45.05 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Muriaux</td>
-                                                <td>46.05 %</td>
-                                                <td>83</td>
-                                                <td>44.39 %</td>
+                                                <td>65.60 %</td>
+                                                <td>160</td>
+                                                <td>55.75 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Le Noirmont</td>
-                                                <td>39.92 %</td>
-                                                <td>262</td>
-                                                <td>48.16 %</td>
+                                                <td>61.92 %</td>
+                                                <td>360</td>
+                                                <td>44.06 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Saignelégier</td>
-                                                <td>44.82 %</td>
+                                                <td>44.82 %</td> XXXXXXX
                                                 <td>458</td>
                                                 <td>52.05 %</td>
                                             </tr>
                                             <tr>
                                                 <td>St-Brais</td>
-                                                <td>53.50 %</td>
-                                                <td>47</td>
-                                                <td>48.45 %</td>
+                                                <td>66.15 %</td>
+                                                <td>64</td>
+                                                <td>49.61 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Soubey</td>
-                                                <td>35.86 %</td>
-                                                <td>27</td>
-                                                <td>51.92 %</td>
+                                                <td>53.06 %</td>
+                                                <td>47</td>
+                                                <td>60.26 %</td>
                                             </tr>
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>42.78 %</b></td>
+                                                <td><b>42.78 %</b></td> XXXXXXXX
                                                 <td><b>1'708</b></td>
                                                 <td><b>51.05 %</b></td>
                                             </tr>

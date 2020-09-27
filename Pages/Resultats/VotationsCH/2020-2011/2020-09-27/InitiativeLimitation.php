@@ -87,10 +87,10 @@
                             // Add data
                             resultatDiscrimination.data = [{
                                 "votes": "OUI",
-                                "suffrages": 1413609
+                                "suffrages": 765162
                             }, {
                                 "votes": "NON",
-                                "suffrages": 827361
+                                "suffrages": 1203976
                             }];
 
                             // Add and configure Series
@@ -162,7 +162,7 @@
                             série30to40.value = "30 à 40 %";
                             série30to40.title = "Oui en %";
                             série30to40.useGeodata = true;
-                            série30to40.include = ["CH-JU", "CH-ZG", "CH-BS", "CH-VS", "CH-GE"];
+                            série30to40.include = ["CH-JU", "CH-ZG", "CH-BS", "CH-VS", "CH-GE", "CH-FR"];
                             série30to40.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série30to40.fill = am4core.color("#e74545")
                             série30to40.mapPolygons.template.fill = am4core.color("#e74545")
@@ -173,7 +173,7 @@
                             série40to50.title = "Oui en %";
                             série40to50.useGeodata = true;
                             série40to50.include = ["CH-LU", "CH-UR", "CH-OW", "CH-NW", "CH-SO", "CH-SH", "CH-AR",
-                            "CH-SG", "CH-GR"];
+                            "CH-SG", "CH-GR", "CH-TG"];
                             série40to50.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série40to50.fill = am4core.color("#fd7272")
                             série40to50.mapPolygons.template.fill = am4core.color("#fd7272")

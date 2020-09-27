@@ -67,7 +67,8 @@
                         <p><b>Participation : </b>40.90 %</p>
                         <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
-                        <p><b>Mode de votation : </b>Initiative</p>
+                        <p><b>Mode de votation : </b>Initiative populaire</p>
+                        <?php echo $PHPvotationsCHLimitation ?>
                     </div>
                 </div>
             </div>
@@ -124,30 +125,10 @@
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
-                            <h2>Analyse du résultat</h2>
+                            <h2>Résultats détaillés</h2>
                         </div>
                     </div>
-                    <div class="uk-card-body uk-text-left">
-                        
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default">
                     <div class="uk-card-body">
-                        <div class="uk-grid-small"  uk-grid>
-                            <div uk-switcher="animation: uk-animation-fade; toggle: > *">
-                                <button class="uk-button uk-button-default" type="button">National</button>
-                                <button class="uk-button uk-button-default" type="button">Cantonal</button>
-                                <button class="uk-button uk-button-default" type="button">District de Delémont</button>
-                                <button class="uk-button uk-button-default" type="button">District de Porrentruy</button>
-                                <button class="uk-button uk-button-default" type="button">District des Franches-Montagnes</button>
-                                
-                            </div>
-
-                            <ul class="uk-switcher uk-margin">
-                                <li>
-                                    <div class="uk-card-body">
                         <div class="uk-align-right" id="chartDiscriminationCH" style="width: 100%; height: 300px;"></div>
                         <script>
                             // Create map instance
@@ -221,8 +202,24 @@
                             resultatsDiscriminationCH.legend.position = "left";
                         </script>
                     </div>
-                                </li>
-
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column" uk-grid>
+                            <h2>Résultats Jura</h2>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <div class="uk-grid-small"  uk-grid>
+                            <div uk-switcher="animation: uk-animation-fade; toggle: > *">
+                                <button class="uk-button uk-button-default" type="button">Jura</button>
+                                <button class="uk-button uk-button-default" type="button">District Delémont</button>
+                                <button class="uk-button uk-button-default" type="button">District Ajoie</button>
+                                <button class="uk-button uk-button-default" type="button">District Franches-Montagnes</button>                                
+                            </div>
+                            <ul class="uk-switcher uk-margin">
                                 <li>
                                 <div id="chartdiv3" style="width: 100%; height: 350px; padding-top: 5%"></div>
                                 <script>
@@ -985,8 +982,6 @@
 
                         </div>
                     </div>
-                    
-                    
                 </div>
             </div>
         </div>

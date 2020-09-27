@@ -147,11 +147,11 @@
                     <div class="uk-width-1-4@m uk-flex-first@m">
                         <div class="uk-card uk-card-body uk-padding-remove">
                             <h3 class="uk-heading-divider">Prochains événements</h3>
-                            <a href="<?php echo $PHPvotationsCHaccueil ?>">
+                            <a href="<?php echo $PHPresultats20200927Accueil ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Votations fédérales</h3>
+                                        <h3 class="uk-card-title uk-align-left">Résultats des votations fédérales</h3>
                                     </div>
                                 </div>
                             </a>
@@ -159,15 +159,15 @@
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Votation Delémont</h3>
+                                        <h3 class="uk-card-title uk-align-left">Résultat de la votation Delémont</h3>
                                     </div>
                                 </div>
                             </a>
-                            <a href="<?php echo $PHPelectionLajoux ?>">
+                            <a href="<?php echo $PHPresultatsConseilLajoux2020 ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Elections Lajoux</h3>
+                                        <h3 class="uk-card-title uk-align-left">Résultats des élections Lajoux</h3>
                                     </div>
                                 </div>
                             </a>
@@ -175,7 +175,7 @@
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Votations Val-Terbi</h3>
+                                        <h3 class="uk-card-title uk-align-left">Résultats des votations Val-Terbi</h3>
                                     </div>
                                 </div>
                             </a>
@@ -194,15 +194,7 @@
                                         <h3 class="uk-card-title uk-align-left">Elections Bonfol</h3>
                                     </div>
                                 </div>
-                            </a>
-                            <a href="<?php echo $PHPelectionChatillon ?>">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Election Châtillon</h3>
-                                    </div>
-                                </div>
-                            </a>
+                            </a>                            
                             <a href="<?php echo $PHPelectionCourtedoux ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>

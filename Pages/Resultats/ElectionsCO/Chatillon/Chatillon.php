@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Votations Val-Terbi</title>
+        <title>JuraVote | Elections de Châtillon</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -34,6 +34,7 @@
         </script>
     </head>
 <body>
+<!-- Barre de navigation -->
 <header>
             <div class="navbar-normal">
                 <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
@@ -45,57 +46,27 @@
         </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Votations Val-Terbi du 27 septembre 2020</h1>
+        <h1 class="uk-heading-large">Résultats des élections communales (Châtillon)</h1>
         <hr>
-        <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="EcoleMontsevelier.php">
-                        <div class="uk-card-header">
-                            <div class="uk-width-auto">
-                                <img class="uk-align-center" src="<?php echo $EcoleMontsevelier ?>" alt="Ecole de Montsevelier" width="500" height="500">
-                            </div>
-                        </div>
+                    <a href="<?php echo $PHPresultatCommissionEcoleChatillon2020?>">
                         <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Crédit de Fr. 1'350'000.- pour
-                                    l'assainissement énergétique de l'école de Montsevelier</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Election communale du 24 août 2020</h3>
                                 </div>
-                            </div>
                         </div>
                     </a>
-                </div>
+                </div>      
             </div>
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="SEVT.php">
-                        <div class="uk-card-header">
-                            <div class="uk-width-auto">
-                                <img class="uk-align-center" src="<?php echo $SEVT ?>" alt="Syndicat des eaux du Val-Terbi" width="500" height="500">
-                            </div>
-                        </div>
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Règlement d'organisation et d'administration
-                                    du Syndicat des eaux du Val-Terbi</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>   
+        </div>          
     </section>
 </main>
-</body>
-
-
 <footer>
         <div class="footer">
             <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
+</body>
 </html>

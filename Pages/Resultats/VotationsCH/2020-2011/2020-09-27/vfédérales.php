@@ -118,7 +118,7 @@
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Loi federale sur l'impôt direct</h3>
+                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Loi fédérale sur l'impôt direct</h3>
                             </div>
                         </a>
                     </div>

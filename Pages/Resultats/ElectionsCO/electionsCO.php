@@ -55,7 +55,8 @@
             <p>Il existe déjà des informations pour les communes de :</p>
                 <ul>
                     <li><b>Courtételle (29 juin 2020)</b></li>
-                    <li><b>Lajoux (05 juillet 2020)</b></li>
+                    <li><b>Lajoux (05 juillet 2020)</b></li>   
+                    <li><b>Châtillon (24 août 2020)</b></li>                                     
                 </ul>
         </div>
         <div class="conteneur-cartes">
@@ -80,9 +81,9 @@
                                     <a href="#">Sélectionnez une commune</a>
                                     <ul class="uk-nav-sub">
                                         <!--<li><a href="#">Boécourt</a></li>
-                                        <li><a href="#">Bourrignon</a></li>
-                                        <li><a href="#">Châtillon</a></li>
-                                        <li><a href="#">Courchapoix</a></li>
+                                        <li><a href="#">Bourrignon</a></li>-->
+                                        <li><a href="<?php echo $PHPresultatsChatillon?>">Châtillon</a></li>
+                                        <!--<li><a href="#">Courchapoix</a></li>
                                         <li><a href="#">Courrendlin</a></li>
                                         <li><a href="#">Courroux</a></li>-->
                                         <li><a href="<?php echo $PHPresultatsCourtetelle?>">Courtételle</a></li>

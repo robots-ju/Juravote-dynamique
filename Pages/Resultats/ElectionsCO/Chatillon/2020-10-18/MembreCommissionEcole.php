@@ -46,14 +46,14 @@
         </header>
 <main>
     <section style="padding: 2%">
-            <h1 class="uk-heading-large">Election du 18 octobre 2020 - Châtillon </h1>
+            <h1 class="uk-heading-large">Election du 24 août 2020 - Châtillon </h1>
             <hr>
             <h2 style="padding-bottom: 2%;">Délai de dépôt des listes</h2>
             <p>Le délai du dépôt de liste est arrivé à échéance le 24 août 2020.
             Pendant ce délai, chaque citoyen-ne qui jouit des droits politiques pouvait être candidat-e à l'élection.</p>
             
             <h2 style="padding-bottom: 2%;">Résultats à l'issue du délai de dépôt des listes</h2>
-            <p>Un-e seul-e candidat-e s'est présentée à l'élection à la Commission d'Ecole. XXX est donc élu-e
+            <p>Un-e seul-e candidat-e s'est présentée à l'élection à la Commission d'Ecole. Cette personne est donc élu-e
             au sein de ladite Commission communale.
             </p>
             <p>A noter que l'élection prévue le 18 octobre 2020 n'aura pas lieu. Lorsqu'un-e seul-e candidat-e est déclaré-e,

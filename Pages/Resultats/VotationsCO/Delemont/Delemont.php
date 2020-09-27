@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-        <?php include '/Juravote-dynamique/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Votation Develier 05.07.2020</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,7 +17,11 @@
         <script src="<?php echo $jsUikitIcons ?>"></script>
         <script src="<?php echo $jsUikitMin ?>"></script>
         <script src="<?php echo $jsUikitIconsMin ?>"></script>
-
+        <script src="https://www.amcharts.com/lib/4/core.js"></script>
+        <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+        <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
+        <script src="https://www.amcharts.com/lib/4/geodata/switzerlandHigh.js"></script>
+        <script src="https://www.amcharts.com/lib/4/maps.js"></script>
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166072477-1"></script>
@@ -45,16 +49,27 @@
             </div>
         </header>
 <main>
-    <section style="padding: 2%;">
+    <section style="padding: 2%">
         <h1 class="uk-heading-large">Résultats des votations communales (Delémont)</h1>
         <hr>
         <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
-            <div>
+            <!--<div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="2019-05-19/STEP.html">
                         <div class="uk-card-body">
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Votation communale du 19 mai 2019</h3>
+                                </div>
+                        </div>
+                    </a>
+                </div>      
+            </div>-->
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="2020-09-27/ComplexeScolaire.php">
+                        <div class="uk-card-body">
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Votation communale du 27 septembre 2020</h3>
                                 </div>
                         </div>
                     </a>

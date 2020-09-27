@@ -64,8 +64,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Élections au Conseil communale</p>
-                        <p><b>Participation : </b>#%</p>
-                        <p><b>Candidats élus : </b># et #</p>
+                        <p><b>Participation : </b>51.00 %</p>
+                        <p><b>Candidats-es élus-es : </b>Aurélie Juillerat et Yann Maurer</p>
                         <p><b>Type de l'élection : </b>Élection communale</p>
                         <p><b>Mode d'élection : </b>Élection complémentaire</p>
                         <p><a href="<?php echo $PHPdescriptionConseilLajoux2020 ?>">Lien vers les informations d'élection</a></p>
@@ -89,14 +89,14 @@
 
                                         // Add data
                                         resultatMairie.data = [{
-                                            "candidat": "François Brahier-Jeckelmann",
-                                            "suffrages": 116
+                                            "candidat": "Yann Maurer",
+                                            "suffrages": 165
+                                        }, {
+                                            "candidat": "Aurélie Juillerat",
+                                            "suffrages": 156
                                         }, {
                                             "candidat": "Luc Maillard",
-                                            "suffrages": 40
-                                        }, {
-                                            "candidat": "Jean-Paul Farine",
-                                            "suffrages": 8
+                                            "suffrages": 16                                       
                                         }];
 
                                         // Add and configure Series

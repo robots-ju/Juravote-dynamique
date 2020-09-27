@@ -68,7 +68,6 @@
                         <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Initiative populaire</p>
-                        <?php echo $PHPvotationsCHLimitation ?>
                     </div>
                 </div>
             </div>

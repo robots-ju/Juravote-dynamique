@@ -67,8 +67,7 @@
                         <p><b>Participation : </b>40.90 %</p>
                         <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
-                        <p><b>Mode de votation : </b>Référendum</p>
-                        <?php echo $PHPvotationsCHImpotDirect ?>
+                        <p><b>Mode de votation : </b>Référendum</p>                        
                     </div>
                 </div>
             </div>
@@ -306,6 +305,11 @@
                                         "title": "Courchapoix",
                                         "OUI": "38.50 %"
                                     }, {
+                                        "latitude": 47.36,
+                                        "longitude": 7.37,
+                                        "title": "Courroux",
+                                        "OUI": "37.87 %"
+                                    }, { 
                                         "latitude": 47.47,
                                         "longitude": 7.10,
                                         "title": "Damphreux",
@@ -315,7 +319,12 @@
                                         "longitude": 6.95,
                                         "title": "Fahy",
                                         "OUI": "32.20 %"
-                                    }, {                                                                     
+                                    }, {       
+                                        "latitude": 47.40,
+                                        "longitude": 7.08,
+                                        "title": "Fontenais",
+                                        "OUI": "34.54 %"
+                                    }, {                                                                  
                                         "latitude": 47.28,
                                         "longitude": 7.14,
                                         "title": "Lajoux",
@@ -326,6 +335,11 @@
                                         "title": "Le Bémont",
                                         "OUI": "38.73 %"
                                     }, {
+                                        "latitude": 47.23,
+                                        "longitude": 6.96,
+                                        "title": "Le Noirmont",
+                                        "OUI": "37.35 %"
+                                    }, {  
                                         "latitude": 47.21,
                                         "longitude": 7.00,
                                         "title": "Les Breuleux",
@@ -341,6 +355,11 @@
                                         "title": "Montfaucon",
                                         "OUI": "39.45 %"
                                     }, {   
+                                        "latitude": 47.41,
+                                        "longitude": 7.32,
+                                        "title": "Movelier",
+                                        "OUI": "34.66 %"
+                                    }, { 
                                         "latitude": 47.39,
                                         "longitude": 7.37,
                                         "title": "Soyhières",
@@ -353,26 +372,10 @@
                                     }, {
 
                                           
-                                        "latitude": 47.43,
-                                        "longitude": 7.17,
-                                        "title": "La Baroche",
-                                        "OUI": "36.34 %"
-                                    }, {                                                                           
-                                        "latitude": 47.36,
-                                        "longitude": 7.37,
-                                        "title": "Courroux",
-                                        "OUI": "39.23 %"
-                                    }, {                                      
-                                        "latitude": 47.35,
-                                        "longitude": 7.23,
-                                        "title": "Haute-Sorne",
-                                        "OUI": "37.74 %" 
-                                    }, {                                        
-                                        "latitude": 47.41,
-                                        "longitude": 7.32,
-                                        "title": "Movelier",
-                                        "OUI": "33.57 %"
-                                    }, {                                        
+                                                                                                                  
+                                                                             
+                                                                           
+                                                                               
                                         "latitude": 47.30,
                                         "longitude": 7.15,
                                         "title": "Saulcy",
@@ -449,6 +452,16 @@
                                         "title": "Courtedoux",
                                         "OUI": "45.81 %"
                                     }, {
+                                        "latitude": 47.34,
+                                        "longitude": 7.32,
+                                        "title": "Courtételle",
+                                        "OUI": "40.71 %"
+                                    }, {
+                                        "latitude": 47.37,
+                                        "longitude": 7.35,
+                                        "title": "Delémont",
+                                        "OUI": "40.33 %"
+                                    }, { 
                                         "latitude": 47.36,
                                         "longitude": 7.30,
                                         "title": "Develier",
@@ -463,7 +476,17 @@
                                         "longitude": 7.00,
                                         "title": "Haute-Ajoie",
                                         "OUI": "50.00 %"
-                                    }, {       
+                                    }, {      
+                                        "latitude": 47.35,
+                                        "longitude": 7.23,
+                                        "title": "Haute-Sorne",
+                                        "OUI": "41.03 %" 
+                                    }, {      
+                                        "latitude": 47.43,
+                                        "longitude": 7.17,
+                                        "title": "La Baroche",
+                                        "OUI": "42.91 %"
+                                    }, { 
                                         "latitude": 47.26,
                                         "longitude": 7.13,
                                         "title": "Les Genevez",
@@ -484,6 +507,11 @@
                                         "title": "Pleigne",
                                         "OUI": "37.00 %"  
                                     }, {
+                                        "latitude": 47.42,
+                                        "longitude": 7.08,
+                                        "title": "Porrentruy",
+                                        "OUI": "46.26 %"
+                                    }, {
                                         "latitude": 47.35,
                                         "longitude": 7.34,
                                         "title": "Rossemaison",
@@ -493,40 +521,6 @@
                                         "longitude": 7.11,
                                         "title": "Saint-Brais",
                                         "OUI": "41.60 %"                                     
-                                    }, {   
-                                        
-                                        
-                                        
-                                        "latitude": 47.34,
-                                        "longitude": 7.37,
-                                        "title": "Courrendlin",
-                                        "OUI": "40.98 %"  
-                                    }, {
-                                        "latitude": 47.34,
-                                        "longitude": 7.32,
-                                        "title": "Courtételle",
-                                        "OUI": "45.49 %"
-                                    }, {
-                                        "latitude": 47.37,
-                                        "longitude": 7.35,
-                                        "title": "Delémont",
-                                        "OUI": "47.81 %"
-                                    }, {                                      
-                                        "latitude": 47.40,
-                                        "longitude": 7.08,
-                                        "title": "Fontenais",
-                                        "OUI": "42.16 %"
-                                    }, {                                    
-                                        "latitude": 47.23,
-                                        "longitude": 6.96,
-                                        "title": "Le Noirmont",
-                                        "OUI": "48.16 %"
-                                    }, {                                        
-                                        "latitude": 47.42,
-                                        "longitude": 7.08,
-                                        "title": "Porrentruy",
-                                        "OUI": "43.63 %"
-                                    
                                     }];   
                                            
                                     var imageSeries50to60 = cantonJU.series.push(new am4maps.MapImageSeries());
@@ -586,6 +580,30 @@
                                         "OUI": "52.05 %" 
                                     
                                     }];
+
+                                    var imageSeries60to70 = cantonJU.series.push(new am4maps.MapImageSeries());
+                                    var imageSeries60to70Template = imageSeries60to70.mapImages.template;
+                                    var circle = imageSeries50to60Template.createChild(am4core.Circle);
+                                    circle.radius = 8;                        
+                                    circle.strokeWidth = 2;
+                                    circle.nonScaling = true;
+                                    circle.tooltipText = "{title} - {OUI}";
+                                    circle.fill = am4core.color("#63cf46");
+                                    
+                                    imageSeries60to70.fill = am4core.color("#63cf46")
+                                    imageSeries60to70.name = "50 à 60 %";
+                                    imageSeries60to70.value = "50 à 60 %";
+                                    imageSeries60to70.title = "Oui en %";
+
+                                    imageSeries60to70Template.propertyFields.latitude = "latitude";
+                                    imageSeries60to70Template.propertyFields.longitude = "longitude";                                    
+
+                                    imageSeries60to70.data = [{
+                                        "latitude": 47.34,
+                                        "longitude": 7.37,
+                                        "title": "Courrendlin",
+                                        "OUI": "60.59 %"  
+                                    }]
                                 </script>
                                 </li>
                                 <li>
@@ -624,30 +642,30 @@
                                                 <td>77</td>
                                                 <td>38.50 %</td>
                                             </tr>
-                                            <!--<tr>
+                                            <tr>
                                                 <td>Courrendlin</td>
-                                                <td>35.95 %</td>
-                                                <td>352</td>
-                                                <td>40.98 %</td>
+                                                <td>57.51 %</td>
+                                                <td>738</td>
+                                                <td>60.59 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Courroux</td>
-                                                <td>38.73 %</td>
-                                                <td>317</td>
-                                                <td>39.23 %</td>
+                                                <td>60.88 %</td>
+                                                <td>509</td>
+                                                <td>37.87 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Courtételle</td>
-                                                <td>38.74 %</td>
-                                                <td>338</td>
-                                                <td>45.49 %</td>
+                                                <td>60.75 %</td>
+                                                <td>434</td>
+                                                <td>40.71 %</td>
                                             </tr>
                                             <tr>
                                                 <td>Delémont</td>
-                                                <td>38.55 %</td>
-                                                <td>1'596</td>
-                                                <td>47.81 %</td>
-                                            </tr>-->
+                                                <td>55.30 %</td>
+                                                <td>1624</td>
+                                                <td>40.33 %</td>
+                                            </tr>
                                             <tr>
                                                 <td>Develier</td>
                                                 <td>61.40 %</td>
@@ -660,12 +678,12 @@
                                                 <td>14</td>
                                                 <td>25.00 %</td>
                                             </tr>
-                                            <!--<tr>
+                                            <tr>
                                                 <td>Haute-Sorne</td>
-                                                <td>38.77 %</td>
-                                                <td>742</td>
-                                                <td>37.74 %</td>
-                                            </tr>-->
+                                                <td>58.08 %</td>
+                                                <td>1'136</td>
+                                                <td>41.03 %</td>
+                                            </tr>
                                             <tr>
                                                 <td>Mervelier</td>
                                                 <td>65.49 %</td>
@@ -678,12 +696,12 @@
                                                 <td>18</td>
                                                 <td>31.03 %</td>
                                             </tr>
-                                            <!--<tr>
+                                            <tr>
                                                 <td>Movelier</td>
-                                                <td>41.90 %</td>
-                                                <td>847</td>
-                                                <td>33.57 %</td>
-                                            </tr>-->
+                                                <td>57.69 %</td>
+                                                <td>61</td>
+                                                <td>34.66 %</td>
+                                            </tr>
                                             <tr>
                                                 <td>Pleigne</td>
                                                 <td>65.31 %</td>
@@ -716,9 +734,9 @@
                                             </tr>-->
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>63.74 %</b></td>
-                                                <td><b>1'136</b></td>
-                                                <td><b>40.44 %</b></td>
+                                                <td><b>58.66 %</b></td>
+                                                <td><b>4'068</b></td>
+                                                <td><b>42.49 %</b></td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -742,12 +760,12 @@
                                                 <td>427</td>
                                                 <td>52.46 %</td>
                                             </tr>
-                                            <!--<tr>
+                                            <tr>
                                                 <td>La Baroche</td>
-                                                <td>47.78 %</td>
-                                                <td>161</td>
-                                                <td>36.34 %</td>
-                                            </tr>-->
+                                                <td>58.87 %</td>
+                                                <td>233</td>
+                                                <td>42.91 %</td>
+                                            </tr>
                                             <tr>
                                                 <td>Basse-Allaine</td>
                                                 <td>56.45 %</td>
@@ -825,12 +843,12 @@
                                                 <td>57</td>
                                                 <td>32.20 %</td>
                                             </tr>
-                                            <!--<tr>
+                                            <tr>
                                                 <td>Fontenais</td>
-                                                <td>51.07 %</td>
-                                                <td>261</td>
-                                                <td>42.16 %</td>
-                                            </tr>-->
+                                                <td>62.25 %</td>
+                                                <td>268</td>
+                                                <td>34.54 %</td>
+                                            </tr>
                                             <tr>
                                                 <td>Grandfontaine</td>
                                                 <td>61.49 %</td>
@@ -849,12 +867,12 @@
                                                 <td>51</td>
                                                 <td>53.13 %</td>
                                             </tr>
-                                            <!--<tr>
+                                            <tr>
                                                 <td>Porrentruy</td>
-                                                <td>43.94 %</td>
-                                                <td>914</td>
-                                                <td>43.63 %</td>
-                                            </tr>-->
+                                                <td>57.67 %</td>
+                                                <td>1'199</td>
+                                                <td>46.26 %</td>
+                                            </tr>
                                             <tr>
                                                 <td>Vendlincourt</td>
                                                 <td>59.15 %</td>
@@ -863,9 +881,9 @@
                                             </tr>
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>59.87 %</b></td>
-                                                <td><b>2'995</b></td>
-                                                <td><b>46.91 %</b></td>
+                                                <td><b>60.03 %</b></td>
+                                                <td><b>3'496</b></td>
+                                                <td><b>45.38 %</b></td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -937,13 +955,13 @@
                                                 <td>118</td>
                                                 <td>42.75 %</td>
                                             </tr>
-                                            <!--<tr>
-                                                <td>Le Noirmont</td>
-                                                <td>39.92 %</td>
-                                                <td>262</td>
-                                                <td>48.16 %</td>
-                                            </tr>
                                             <tr>
+                                                <td>Le Noirmont</td>
+                                                <td>61.92 %</td>
+                                                <td>304</td>
+                                                <td>37.35 %</td>
+                                            </tr>
+                                            <!--<tr>
                                                 <td>Saignelégier</td>
                                                 <td>44.82 %</td>
                                                 <td>458</td>
@@ -963,9 +981,9 @@
                                             </tr>
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>64.31 %</b></td>
-                                                <td><b>993</b></td>
-                                                <td><b>39.45 %</b></td>
+                                                <td><b>64.17 %</b></td>
+                                                <td><b>916</b></td>
+                                                <td><b>38.70 %</b></td>
                                             </tr>
                                         </tbody>
                                     </table>

@@ -150,12 +150,22 @@
                             polygonSeries.useGeodata = true;
 
                             //Create data series
+                            var série30to40 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
+                            série30to40.name = "30 à 40 %";
+                            série30to40.value = "30 à 40 %";
+                            série30to40.title = "Oui en %";
+                            série30to40.useGeodata = true;
+                            série30to40.include = ["CH-AI"];
+                            série30to40.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
+                            série30to40.fill = am4core.color("#e74545")
+                            série30to40.mapPolygons.template.fill = am4core.color("#e74545")
+
                             var série40to50 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
                             série40to50.name = "40 à 50 %";
                             série40to50.value = "40 à 50 %";
                             série40to50.title = "Oui en %";
                             série40to50.useGeodata = true;
-                            série40to50.include = ["CH-AI", "CH-SZ", "CH-UR"];
+                            série40to50.include = ["CH-UR", "CH-SZ", "CH-OW", "CH-NW", "CH-GL", "CH-AR", "CH-SG"];
                             série40to50.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série40to50.fill = am4core.color("#fd7272")
                             série40to50.mapPolygons.template.fill = am4core.color("#fd7272")
@@ -165,7 +175,7 @@
                             série50to60.value = "50 à 60 %";
                             série50to60.title = "Oui en %";
                             série50to60.useGeodata = true;
-                            série50to60.include = ["CH-BE", "CH-LU", "CH-OW", "CH-NW", "CH-GL", "CH-ZG", "CH-SO", "CH-SH", "CH-AR", "CH-SG", "CH-GR", "CH-AG", "CH-TG"];
+                            série50to60.include = ["CH-LU", "CH-ZG", "CH-SO", "CH-BL", "CH-SH", "CH-GR"];
                             série50to60.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série50to60.fill = am4core.color("#88e56f")
                             série50to60.mapPolygons.template.fill = am4core.color("#88e56f")
@@ -175,7 +185,7 @@
                             série60to70.value = "60 à 70 %";
                             série60to70.title = "Oui en %";
                             série60to70.useGeodata = true;
-                            série60to70.include = ["CH-ZH", "CH-FR", "CH-BL", "CH-TI", "CH-VS"];
+                            série60to70.include = ["CH-TI", "CH-VS"];
                             série60to70.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série60to70.fill = am4core.color("#63cf46")
                             série60to70.mapPolygons.template.fill = am4core.color("#63cf46")
@@ -390,11 +400,6 @@
                                                 "longitude": 7.05,
                                                 "title": "Montfaucon",
                                                 "OUI": "52.02 %"
-                                            }, {
-                                                "latitude": 47.26,
-                                                "longitude": 7.00,
-                                                "title": "Saignelégier",
-                                                "OUI": "52.05 %"
                                             }, {
                                                 "latitude": 47.31,
                                                 "longitude": 7.05,
@@ -625,6 +630,11 @@
                                                 "OUI": "78.26 %"
                                             },
                                             {
+                                                "latitude": 47.26,
+                                                "longitude": 7.00,
+                                                "title": "Saignelégier",
+                                                "OUI": "78.84 %"
+                                            }, {
                                                 "latitude": 47.30,
                                                 "longitude": 7.15,
                                                 "title": "Saulcy",
@@ -795,9 +805,9 @@
                                             </tr>
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>39.40 %</b></td>
-                                                <td><b>4'506</b></td>
-                                                <td><b>41.78 %</b></td>
+                                                <td><b>58.87 %</b></td>
+                                                <td><b>11'400</b></td>
+                                                <td><b>75.34 %</b></td>
                                             </tr>
                                             </tbody>
                                         </table>
@@ -943,9 +953,9 @@
                                             </tr>
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>44.89 %</b></td>
-                                                <td><b>3'416</b></td>
-                                                <td><b>40.90 %</b></td>
+                                                <td><b>59.32 %</b></td>
+                                                <td><b>8'079</b></td>
+                                                <td><b>73.31 %</b></td>
                                             </tr>
                                             </tbody>
                                         </table>
@@ -1025,9 +1035,9 @@
                                             </tr>
                                             <tr>
                                                 <td>Saignelégier</td>
-                                                <td>44.82 %</td>
-                                                <td>458</td>
-                                                <td>52.05 %</td>
+                                                <td>64.30 %</td>
+                                                <td>1'002</td>
+                                                <td>78.84 %</td>
                                             </tr>
                                             <tr>
                                                 <td>St-Brais</td>
@@ -1043,9 +1053,9 @@
                                             </tr>
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>42.78 %</b></td>
-                                                <td><b>1'708</b></td>
-                                                <td><b>51.05 %</b></td>
+                                                <td><b>63.70 %</b></td>
+                                                <td><b>3'816</b></td>
+                                                <td><b>75.01 %</b></td>
                                             </tr>
                                             </tbody>
                                         </table>

@@ -147,12 +147,22 @@
                             polygonSeries.useGeodata = true;
 
                             //Create data series
+                            var série30to40 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
+                            série30to40.name = "30 à 40 %";
+                            série30to40.value = "30 à 40 %";
+                            série30to40.title = "Oui en %";
+                            série30to40.useGeodata = true;
+                            série30to40.include = ["CH-BS", "CH-SH", "CH-NE"];
+                            série30to40.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
+                            série30to40.fill = am4core.color("#e74545")
+                            série30to40.mapPolygons.template.fill = am4core.color("#e74545")
+
                             var série40to50 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
                             série40to50.name = "40 à 50 %";
                             série40to50.value = "40 à 50 %";
                             série40to50.title = "Oui en %";
                             série40to50.useGeodata = true;
-                            série40to50.include = ["CH-AI", "CH-SZ", "CH-UR"];
+                            série40to50.include = ["CH-JU", "CH-SO", "CH-BL", "CH-VD", "CH-NE"];
                             série40to50.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série40to50.fill = am4core.color("#fd7272")
                             série40to50.mapPolygons.template.fill = am4core.color("#fd7272")
@@ -162,7 +172,7 @@
                             série50to60.value = "50 à 60 %";
                             série50to60.title = "Oui en %";
                             série50to60.useGeodata = true;
-                            série50to60.include = ["CH-BE", "CH-LU","CH-OW", "CH-NW", "CH-GL", "CH-ZG", "CH-SO", "CH-SH", "CH-AR", "CH-SG", "CH-GR", "CH-AG", "CH-TG"];
+                            série50to60.include = ["CH-LU", "CH-SZ", "CH-GL", "CH-ZG", "CH-AR", "CH-SG", "CH-TI"];
                             série50to60.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série50to60.fill = am4core.color("#88e56f")
                             série50to60.mapPolygons.template.fill = am4core.color("#88e56f")
@@ -172,7 +182,7 @@
                             série60to70.value = "60 à 70 %";
                             série60to70.title = "Oui en %";
                             série60to70.useGeodata = true;
-                            série60to70.include = ["CH-ZH", "CH-FR", "CH-BL", "CH-TI", "CH-VS"];
+                            série60to70.include = ["CH-UR", "CH-OW", "CH-NW", "CH-GR", "CH-VS"];
                             série60to70.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série60to70.fill = am4core.color("#63cf46")
                             série60to70.mapPolygons.template.fill = am4core.color("#63cf46")
@@ -182,7 +192,7 @@
                             série70to80.value = "70 à 80 %";
                             série70to80.title = "Oui en %";
                             série70to80.useGeodata = true;
-                            série70to80.include = ["CH-BS", "CH-NE", "CH-GE", "CH-JU"];
+                            série70to80.include = ["CH-AI"];
                             série70to80.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série70to80.fill = am4core.color("#42c121")
                             série70to80.mapPolygons.template.fill = am4core.color("#42c121")
@@ -192,7 +202,7 @@
                             série80to90.value = "80 à 90 %";
                             série80to90.title = "Oui en %";
                             série80to90.useGeodata = true;
-                            série80to90.include = ["CH-VD"];
+                            série80to90.include = [""];
                             série80to90.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série80to90.fill = am4core.color("#33d708")
                             série80to90.mapPolygons.template.fill = am4core.color("#33d708")
@@ -430,7 +440,12 @@
                                         "latitude": 47.45,
                                         "longitude": 7.15,
                                         "title": "Vendlincourt",
-                                        "OUI": "46.50 %"                                                         
+                                        "OUI": "46.50 %" 
+                                    },{ 
+                                        "latitude": 47.26,
+                                        "longitude": 7.00,
+                                        "title": "Saignelégier",
+                                        "OUI": "47.79 %"                                                        
                                     }];   
                                            
                                     var imageSeries50to60 = cantonJU.series.push(new am4maps.MapImageSeries());
@@ -545,12 +560,7 @@
                                         "longitude": 7.13,
                                         "title": "Les Genevez",
                                         "OUI": "56.47 %"
-                                    },{
-                                        "latitude": 47.26,
-                                        "longitude": 7.00,
-                                        "title": "Saignelégier",
-                                        "OUI": "52.05 %" 
-                                    },{
+                                    },{                                        
                                         "latitude": 47.41,
                                         "longitude": 7.29,
                                         "title": "Pleigne",
@@ -914,9 +924,9 @@
                                             </tr>
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>44.89 %</b></td> XXXXXXX
-                                                <td><b>3'416</b></td>
-                                                <td><b>40.90 %</b></td>
+                                                <td><b>59.32 %</b></td> 
+                                                <td><b>5'408</b></td>
+                                                <td><b>49.63 %</b></td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -996,9 +1006,9 @@
                                             </tr>
                                             <tr>
                                                 <td>Saignelégier</td>
-                                                <td>44.82 %</td> XXXXXXX
-                                                <td>458</td>
-                                                <td>52.05 %</td>
+                                                <td>64.30 %</td> 
+                                                <td>435</td>
+                                                <td>47.79 %</td>
                                             </tr>
                                             <tr>
                                                 <td>St-Brais</td>
@@ -1014,9 +1024,9 @@
                                             </tr>
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>42.78 %</b></td> XXXXXXXX
-                                                <td><b>1'708</b></td>
-                                                <td><b>51.05 %</b></td>
+                                                <td><b>63.70 %</b></td> 
+                                                <td><b>2'430</b></td>
+                                                <td><b>48.22 %</b></td>
                                             </tr>
                                         </tbody>
                                     </table>

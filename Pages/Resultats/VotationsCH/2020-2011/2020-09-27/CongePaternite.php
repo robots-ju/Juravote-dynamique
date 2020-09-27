@@ -64,8 +64,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Modification de la loi sur les allocations pour perte de gain</p>
-                        <p><b>Participation : </b>40.90 %</p>
-                        <p><b>Résultat : </b>Accepté</p>
+                        <p><b>Participation : </b>xx.xx %</p>
+                        <p><b>Résultat : </b>En attente</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Référendum</p>
                         <p><a href="<?php echo $PHPvotationsCHCongePaternite ?>">Lien vers les informations
@@ -89,10 +89,10 @@
                             // Add data
                             resultatDiscrimination.data = [{
                                 "votes": "OUI",
-                                "suffrages": 1413609
+                                "suffrages": 1206627
                             }, {
                                 "votes": "NON",
-                                "suffrages": 827361
+                                "suffrages": 752332
                             }];
 
                             // Add and configure Series

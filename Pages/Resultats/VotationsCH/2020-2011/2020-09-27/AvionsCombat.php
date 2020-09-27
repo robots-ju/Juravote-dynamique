@@ -65,7 +65,7 @@
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Arrêté fédéral relatif  à l’acquisition de nouveaux  avions de combat</p>
                         <p><b>Participation : </b>xx.xx %</p>
-                        <p><b>Résultat : </b>En attente</p>
+                        <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Référendum</p>
                     </div>
@@ -87,10 +87,10 @@
                             // Add data
                             resultatDiscrimination.data = [{
                                 "votes": "OUI",
-                                "suffrages": 959694
+                                "suffrages": 1605700
                             }, {
                                 "votes": "NON",
-                                "suffrages": 999918
+                                "suffrages": 1597030
                             }];
 
                             // Add and configure Series

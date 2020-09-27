@@ -87,10 +87,10 @@
                             // Add data
                             resultatDiscrimination.data = [{
                                 "votes": "OUI",
-                                "suffrages": 771311
+                                "suffrages": 1164329
                             }, {
                                 "votes": "NON",
-                                "suffrages": 1164009
+                                "suffrages": 2003012
                             }];
 
                             // Add and configure Series

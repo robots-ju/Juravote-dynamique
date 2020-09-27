@@ -412,6 +412,11 @@
                                         "title": "Basse-Allaine",
                                         "OUI": "48.10 %"
                                     }, {
+                                        "latitude": 47.50,
+                                        "longitude": 7.02,
+                                        "title": "Boncourt",
+                                        "OUI": "44.84 %"
+                                    }, {
                                         "latitude": 47.47,
                                         "longitude": 7.15,
                                         "title": "Bonfol",
@@ -601,12 +606,8 @@
                                         "latitude": 47.34,
                                         "longitude": 7.37,
                                         "title": "Courrendlin",
-                                        "OUI": "60.59 %"  
-                                    }, {
-                                        "latitude": 47.50,
-                                        "longitude": 7.02,
-                                        "title": "Boncourt",
                                         "OUI": "60.59 %"
+                                        
                                     }]
                                 </script>
                                 </li>

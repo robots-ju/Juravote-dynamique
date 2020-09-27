@@ -50,7 +50,7 @@
         </header>
 <main>
     <section style="padding: 2%">
-        <h1 class="uk-heading-large">Résultats de la votation communale du 5 juillet
+        <h1 class="uk-heading-large">Résultats de la votation communale du 27 septembre
             2020</h1>
         <hr>
         <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
@@ -63,7 +63,7 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Demande de crédit de CHF 1'350'000.- pour l'assainissement énergétique de l'Ecole de Montsevelier</p>
-                        <p><b>Participation : </b>41.34 %</p>
+                        <p><b>Participation : </b>55 %</p>
                         <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation communale (Val-Terbi)</p>
                         <p><b>Mode de votation : </b>Scrutin populaire</p>
@@ -88,10 +88,10 @@
                                         // Add data
                                         resultatprovita.data = [{
                                             "votes": "OUI",
-                                            "suffrages": 308
+                                            "suffrages": 1028
                                         }, {
                                             "votes": "NON",
-                                            "suffrages": 118
+                                            "suffrages": 289
                                         }];
 
                                         // Add and configure Series
@@ -154,9 +154,9 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td><b>41.34 %</b></td>
-                                    <td><b>308</b></td>
-                                    <td><b>72.30 %</b></td>
+                                    <td><b>55.00 % %</b></td>
+                                    <td><b>1028</b></td>
+                                    <td><b>78.10 %</b></td>
                                 </tr>
                             </tbody>
                         </table>

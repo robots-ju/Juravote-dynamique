@@ -603,6 +603,11 @@
                                         "longitude": 7.37,
                                         "title": "Courrendlin",
                                         "OUI": "60.59 %"  
+
+                                        "latitude": 47.50,
+                                        "longitude": 7.02,
+                                        "title": "Boncourt",
+                                        "OUI": "60.59 %"
                                     }]
                                 </script>
                                 </li>
@@ -726,17 +731,17 @@
                                                 <td>70</td>
                                                 <td>37.84 %</td>
                                             </tr>
-                                            <!--<tr>
+                                            <tr>
                                                 <td>Val-Terbi</td>
-                                                <td>37.60 %</td>
-                                                <td>344</td>
-                                                <td>38.01 %</td>
-                                            </tr>-->
+                                                <td>60.59 %</td>
+                                                <td>540</td>
+                                                <td>38.52 %</td>
+                                            </tr>
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>58.66 %</b></td>
-                                                <td><b>4'068</b></td>
-                                                <td><b>42.49 %</b></td>
+                                                <td><b>58.87 %</b></td>
+                                                <td><b>6'178</b></td>
+                                                <td><b>41.71 %</b></td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -881,9 +886,9 @@
                                             </tr>
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>60.03 %</b></td>
-                                                <td><b>3'496</b></td>
-                                                <td><b>45.38 %</b></td>
+                                                <td><b>59.42 %</b></td>
+                                                <td><b>4'695</b></td>
+                                                <td><b>45.60 %</b></td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -907,12 +912,12 @@
                                                 <td>67</td>
                                                 <td>38.73 %</td>
                                             </tr>
-                                            <!--<tr>
+                                            <tr>
                                                 <td>Les Bois</td>
-                                                <td>34.07 %</td>
-                                                <td>170</td>
-                                                <td>55.74 %</td>
-                                            </tr>-->
+                                                <td>63.08 %</td>
+                                                <td>244</td>
+                                                <td>42.29 %</td>
+                                            </tr>
                                             <tr>
                                                 <td>Les Breuleux</td>
                                                 <td>64.58 %</td>
@@ -981,9 +986,9 @@
                                             </tr>
                                             <tr>
                                                 <td><b>Totaux</b></td>
-                                                <td><b>64.17 %</b></td>
-                                                <td><b>916</b></td>
-                                                <td><b>38.70 %</b></td>
+                                                <td><b>63.50 %</b></td>
+                                                <td><b>1'464</b></td>
+                                                <td><b>38.96 %</b></td>
                                             </tr>
                                         </tbody>
                                     </table>

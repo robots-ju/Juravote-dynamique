@@ -378,6 +378,11 @@
                                         "title": "Les Bois",
                                         "OUI": "31.35 %"
                                     },{
+                                        "latitude": 47.50,
+                                        "longitude": 7.02,
+                                        "title": "Boncourt",
+                                        "OUI": "39.06 %"
+                                    },{
                                         "latitude": 47.35,
                                         "longitude": 7.15,
                                         "title": "Clos du Doubs",
@@ -605,11 +610,6 @@
                                         "longitude": 7.00,
                                         "title": "Saignelégier",
                                         "OUI": "52.05 %" 
-                                    },{
-                                        "latitude": 47.50,
-                                        "longitude": 7.02,
-                                        "title": "Boncourt",
-                                        "OUI": " %"
                                     }*/];
 
                                     var imageSeries70to80 = cantonJU.series.push(new am4maps.MapImageSeries());
@@ -809,12 +809,12 @@
                                                 <td>27</td>
                                                 <td>48.21 %</td>
                                             </tr>
-                                            <!--<tr>
+                                            <tr>
                                                 <td>Boncourt</td>
-                                                <td>40.09 %</td>
-                                                <td>181</td>
-                                                <td>44.58 %</td>
-                                            </tr>-->
+                                                <td>57.46 %</td>
+                                                <td>216</td>
+                                                <td>39.06 %</td>
+                                            </tr>
                                             <tr>
                                                 <td>Bonfol</td>
                                                 <td>49.83 %</td>

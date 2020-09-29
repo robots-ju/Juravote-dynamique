@@ -24,16 +24,16 @@
 
     //ElectionsJU2020
         //ParlementDelemont
-        $MeuryRemyGrand = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/Grandes/CSPOP_MeuryRemy.jpg";
-        $MeuryRemy = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/CSPOP_MeuryRemy.jpg";
+        $MeuryRemyGrand = "/IMG/Personnalites/ElectionsJU/ParlementD/Grandes/CSPOP_MeuryRemy.jpg";
+        $MeuryRemy = "/IMG/Personnalites/ElectionsJU/ParlementD/CSPOP_MeuryRemy.jpg";
 
-        $RenaudDaniel = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_RenaudDaniel.PNG";
+        $RenaudDaniel = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_RenaudDaniel.PNG";
 
-        $SirautPhilippe = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PEV_SirautPhilippe.jpg";
+        $SirautPhilippe = "/IMG/Personnalites/ElectionsJU/ParlementD/PEV_SirautPhilippe.jpg";
 
         //ParlementFM
-        $DonzeColinGrand = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementFM/Grandes/VERTS_DonzeColin.JPG";
-        $DonzeColin = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_DonzeColin.JPG";
+        $DonzeColinGrand = "/IMG/Personnalites/ElectionsJU/ParlementFM/Grandes/VERTS_DonzeColin.JPG";
+        $DonzeColin = "/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_DonzeColin.JPG";
 
 
         //ParlementAjoie

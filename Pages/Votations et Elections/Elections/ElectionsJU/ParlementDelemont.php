@@ -715,7 +715,7 @@
                                                     <tbody>
                                                         <tr>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>                                                    
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">Neutre</span></td>                                                    
                                                         </tr>
                                                     </tbody>
                                                 </table>

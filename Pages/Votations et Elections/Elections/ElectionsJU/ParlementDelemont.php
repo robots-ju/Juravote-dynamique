@@ -714,8 +714,8 @@
                                                     </thead>
                                                     <tbody>
                                                         <tr>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">Neutre</span></td>                                                    
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span></td>                                                    
                                                         </tr>
                                                     </tbody>
                                                 </table>

@@ -1715,12 +1715,12 @@
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
                                             src="<?php echo $inconnu ?>"
-                                            alt="Renée Chappuis">
+                                            alt="Renée Rebetez">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Renée Chappuis</h3>
+                                <h3 class="uk-card-title-center text-rouge-fonce">Renée Rebetez</h3>
                                 <p class="uk-text-center text-fonction">1959 - Porrentruy - Infirmière</p>
                             </div>
                         </div>

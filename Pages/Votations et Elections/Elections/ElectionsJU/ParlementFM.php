@@ -76,7 +76,7 @@
             </li>  
 
             <li>
-                <div class="uk-child-width-1-5@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-2@l  uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
@@ -270,7 +270,7 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-5@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-2@l  uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
@@ -463,7 +463,7 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-5@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-2@l  uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC-JDC</div>
@@ -657,10 +657,10 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-5@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-5@l  uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -679,7 +679,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -698,7 +698,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -718,7 +718,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -737,7 +737,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
+                            <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
@@ -757,7 +757,7 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-5@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-2@l  uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div>
@@ -951,7 +951,7 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-5@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-2@l  uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
@@ -1536,7 +1536,7 @@
             </li>
 
             <li>
-                <div class="uk-child-width-1-5@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-2@l  uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI</div>

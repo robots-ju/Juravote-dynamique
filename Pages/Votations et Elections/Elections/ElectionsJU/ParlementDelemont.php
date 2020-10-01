@@ -622,7 +622,7 @@
                     </div>
 
                     <div>
-                        <!--<a class="uk-button uk-button-default" href="#modal-full" uk-toggle>-->
+                        <a class="uk-button uk-button-default" href="#modal-full-2" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                                 <div class="uk-card-header">
@@ -639,8 +639,8 @@
                                     <p class="uk-text-center text-fonction">2000 - Develier - Employé de commerce</p>
                                 </div>
                             </div>
-                        <!--</a>
-                        <div id="modal-full" class="uk-modal-full uk-text-justify" uk-modal>
+                        </a>
+                        <div id="modal-full-2" class="uk-modal-full uk-text-justify" uk-modal>
                             <div class="uk-modal-dialog">
                                 <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
                                 <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
@@ -835,7 +835,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>-->
+                        </div>
                     </div>
 
                     <div>
@@ -2067,7 +2067,7 @@
                     </div>
 
                     <div>
-                        <!--<a class="uk-button uk-button-default" href="#modal-full" uk-toggle>-->
+                        <a class="uk-button uk-button-default" href="#modal-full-1" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                                 <div class="uk-card-header">
@@ -2084,8 +2084,8 @@
                                     <p class="uk-text-center text-fonction">1959 - Delémont - Secrétaire syndical</p>
                                 </div>
                             </div>
-                        <!--</a>
-                        <div id="modal-full" class="uk-modal-full uk-text-justify" uk-modal>
+                        </a>
+                        <div id="modal-full-1" class="uk-modal-full uk-text-justify" uk-modal>
                             <div class="uk-modal-dialog">
                                 <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
                                 <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
@@ -2286,7 +2286,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>-->                        
+                        </div>                     
                     </div>
 
                     <div>
@@ -2807,7 +2807,7 @@
                     </div>
 
                     <div>
-                        <!--<a class="uk-button uk-button-default" href="#modal-full" uk-toggle>-->
+                        <a class="uk-button uk-button-default" href="#modal-full-3" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV-Jura</div>
                                 <div class="uk-card-header">
@@ -2824,8 +2824,8 @@
                                     <p class="uk-text-center text-fonction">1961 - Delémont - Ingénieur</p>
                                 </div>
                             </div>
-                        <!--</a>
-                        <div id="modal-full" class="uk-modal-full uk-text-justify" uk-modal>
+                        </a>
+                        <div id="modal-full-3" class="uk-modal-full uk-text-justify" uk-modal>
                             <div class="uk-modal-dialog">
                                 <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
                                 <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
@@ -3021,7 +3021,7 @@
                                     </div>
                                 </div>                        
                             </div>
-                        </div>-->
+                        </div>
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">

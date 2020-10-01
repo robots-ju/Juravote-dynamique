@@ -25,42 +25,42 @@
     //ElectionsJU2020
         //ParlementDelemont
         //CSPOP
-        $MeuryRemyGrand = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/Grandes/CSPOP_MeuryRemy.jpg";
-        $MeuryRemy = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/CSPOP_MeuryRemy.jpg";
+        $MeuryRemyGrand = "/IMG/Personnalites/ElectionsJU/ParlementD/Grandes/CSPOP_MeuryRemy.jpg";
+        $MeuryRemy = "/IMG/Personnalites/ElectionsJU/ParlementD/CSPOP_MeuryRemy.jpg";
 
         //PEV
-        $SirautPhilippe = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PEV_SirautPhilippe.jpg";
+        $SirautPhilippe = "/IMG/Personnalites/ElectionsJU/ParlementD/PEV_SirautPhilippe.jpg";
 
         //PLR
-        $BraichetMartin = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_BraichetMartin.png";
-        $ChetelatFlorian = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ChetelatFlorian.PNG";
-        $FroteVincent = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_FroteVincent.jpeg";
-        $LuchingerMarcelle = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_LuchingerMarcelle.jpeg";
-        $PatrickParrat = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ParratPatrick.jpeg";
-        $RenaudDaniel = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_RenaudDaniel.PNG";
-        $SanerMatthieu = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";
+        $BraichetMartin = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_BraichetMartin.png";
+        $ChetelatFlorian = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ChetelatFlorian.PNG";
+        $FroteVincent = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_FroteVincent.jpeg";
+        $LuchingerMarcelle = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_LuchingerMarcelle.jpeg";
+        $PatrickParrat = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ParratPatrick.jpeg";
+        $RenaudDaniel = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_RenaudDaniel.PNG";
+        $SanerMatthieu = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";
         
         //PS
-        $ComtePA = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_ComtePA.jpg";
-        $MacquatFabrice = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_MacquatFabrice.jpeg";
+        $ComtePA = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_ComtePA.jpg";
+        $MacquatFabrice = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_MacquatFabrice.jpeg";
 
         //VERTS
-        $VoirolAnselme = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoirolAnselme.png";
+        $VoirolAnselme = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoirolAnselme.png";
 
         //ParlementFM
         //VERTS
-        $DonzeColinGrand = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementFM/Grandes/VERTS_DonzeColin.JPG";
-        $DonzeColin = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_DonzeColin.JPG";
-        $MarchandGaetan = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_MarchandGaetan.jpg";
+        $DonzeColinGrand = "/IMG/Personnalites/ElectionsJU/ParlementFM/Grandes/VERTS_DonzeColin.JPG";
+        $DonzeColin = "/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_DonzeColin.JPG";
+        $MarchandGaetan = "/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_MarchandGaetan.jpg";
 
 
         //ParlementAjoie
         //VERTS
-        $JMComment = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/VERTS_CommentJM.png";
+        $JMComment = "/IMG/Personnalites/ElectionsJU/ParlementA/VERTS_CommentJM.png";
 
         //PLR
-        $LudovicMonteiro = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PLR_MonteiroLudovic.jpeg";
-        $VuillaumeThomas = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PLR_VuillaumeThomas.jpeg";
+        $LudovicMonteiro = "/IMG/Personnalites/ElectionsJU/ParlementA/PLR_MonteiroLudovic.jpeg";
+        $VuillaumeThomas = "/IMG/Personnalites/ElectionsJU/ParlementA/PLR_VuillaumeThomas.jpeg";
 
     //juravote :
     $juravoteLogo = "/IMG/Logo/JuraVote/Logo.png";

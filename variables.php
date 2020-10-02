@@ -41,8 +41,10 @@
         $SanerMatthieu = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";
         
         //PS
+        $CerfPatrick = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_CerfPatrick.jpg";
         $ComtePA = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_ComtePA.jpg";
         $MacquatFabrice = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_MacquatFabrice.jpeg";
+        $MeratJocelyne = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_MeratJocelyne.png";
 
         //VERTS
         $VoirolAnselme = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoirolAnselme.png";
@@ -61,6 +63,10 @@
         //PLR
         $LudovicMonteiro = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PLR_MonteiroLudovic.jpeg";
         $VuillaumeThomas = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PLR_VuillaumeThomas.jpeg";
+
+        //PS
+        $AubryJelica = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PS_AubryJelica.jpg";
+        $SiessRomuald = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PS_SiessRomuald.jpg";
 
     //juravote :
     $juravoteLogo = "/Juravote-dynamique/IMG/Logo/JuraVote/Logo.png";
@@ -390,6 +396,7 @@
 
             //FM
             $siteBreuleux = "https://www.breuleux.ch/";
+            $siteLajoux = "https://www.lajoux.ch/";
 
         //PARTIS
             //FEDERAUX

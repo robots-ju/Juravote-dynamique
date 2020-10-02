@@ -146,36 +146,20 @@
 
                     <div class="uk-width-1-4@m uk-flex-first@m">
                         <div class="uk-card uk-card-body uk-padding-remove">
-                            <h3 class="uk-heading-divider">Prochains événements</h3>
-                            <a href="<?php echo $PHPresultats20200927Accueil ?>">
+                            <h3 class="uk-heading-divider">Prochains événements</h3>                            
+                            <a href="<?php echo $siteBreuleux ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">05.10</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Résultats des votations fédérales</h3>
+                                        <h3 class="uk-card-title uk-align-left">Assemblée communale - Breuleux</h3>
                                     </div>
                                 </div>
                             </a>
-                            <a href="<?php echo $PHPvotationsDelemont ?>">   
+                            <a href="<?php echo $siteLajoux ?>" target="blank">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">08.10</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Résultat de la votation Delémont</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $PHPresultatsConseilLajoux2020 ?>">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Résultats des élections Lajoux</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $PHPvotationValTerbiAccueil ?>">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Résultats des votations Val-Terbi</h3>
+                                        <h3 class="uk-card-title uk-align-left">Assemblée communale - Lajoux</h3>
                                     </div>
                                 </div>
                             </a>
@@ -183,7 +167,7 @@
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Elections Jura</h3>
+                                        <h3 class="uk-card-title uk-align-left">Elections - Jura</h3>
                                     </div>
                                 </div>
                             </a>
@@ -191,7 +175,7 @@
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Elections Bonfol</h3>
+                                        <h3 class="uk-card-title uk-align-left">Elections - Bonfol</h3>
                                     </div>
                                 </div>
                             </a>                            
@@ -199,7 +183,7 @@
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Elections Courtedoux</h3>
+                                        <h3 class="uk-card-title uk-align-left">Elections - Courtedoux</h3>
                                     </div>
                                 </div>
                             </a>
@@ -207,7 +191,7 @@
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Elections Movelier</h3>
+                                        <h3 class="uk-card-title uk-align-left">Elections - Movelier</h3>
                                     </div>
                                 </div>
                             </a>
@@ -215,7 +199,7 @@
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">08.11</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Elections Jura</h3>
+                                        <h3 class="uk-card-title uk-align-left">Elections - Jura</h3>
                                     </div>
                                 </div>
                             </a>
@@ -223,7 +207,7 @@
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">29.11</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Votations fédérales</h3>
+                                        <h3 class="uk-card-title uk-align-left">Votations - Suisse</h3>
                                     </div>
                                 </div>
                             </a>-->
@@ -233,44 +217,36 @@
 
                     <div class="uk-width-1-4@m">
                         <div class="uk-card uk-card-body uk-padding-remove">
-                            <h3 class="uk-heading-divider">Législatifs communaux</h3>                            
-                            <a href="<?php echo $siteRossemaison ?>" target="blank">
+                            <h3 class="uk-heading-divider">Derniers résultats</h3>                            
+                            <a href="<?php echo $PHPresultats20200927Accueil ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">28.09</div>
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Rossemaison</h3>
+                                        <h3 class="uk-card-title uk-align-left">Votations - Suisse</h3>
                                     </div>
                                 </div>
                             </a>
-                            <a href="<?php echo $siteCourgenay ?>" target="blank">
+                            <a href="<?php echo $PHPvotationsDelemont ?>">   
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">28.09</div>
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Courgenay</h3>
+                                        <h3 class="uk-card-title uk-align-left">Votation - Delémont</h3>
                                     </div>
                                 </div>
                             </a>
-                            <a href="<?php echo $siteSoyhieres ?>" target="blank">
+                            <a href="<?php echo $PHPresultatsConseilLajoux2020 ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">29.09</div>
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Soyhières</h3>
+                                        <h3 class="uk-card-title uk-align-left">Elections - Lajoux</h3>
                                     </div>
                                 </div>
                             </a>
-                            <a href="<?php echo $sitePorrentruy ?>" target="blank">
+                            <a href="<?php echo $PHPvotationValTerbiAccueil ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">01.10</div>
+                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">27.09</div>
                                     <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Porrentruy</h3>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="<?php echo $siteBreuleux ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">05.10</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Les Breuleux</h3>
+                                        <h3 class="uk-card-title uk-align-left">Votations - Val-Terbi</h3>
                                     </div>
                                 </div>
                             </a>

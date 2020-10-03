@@ -24,54 +24,74 @@
 
     //ElectionsJU2020
         //ParlementDelemont
-        //CSPOP
-        $MeuryRemyGrand = "/IMG/Personnalites/ElectionsJU/ParlementD/Grandes/CSPOP_MeuryRemy.jpg";
-        $MeuryRemy = "/IMG/Personnalites/ElectionsJU/ParlementD/CSPOP_MeuryRemy.jpg";
+            //CSPOP
+            $MeuryRemyGrand = "/IMG/Personnalites/ElectionsJU/ParlementD/Grandes/CSPOP_MeuryRemy.jpg";
+            $MeuryRemy = "/IMG/Personnalites/ElectionsJU/ParlementD/CSPOP_MeuryRemy.jpg";
 
-        //PEV
-        $SirautPhilippe = "/IMG/Personnalites/ElectionsJU/ParlementD/PEV_SirautPhilippe.jpg";
+            //PCSI
+            $MiserezJP = "/IMG/Personnalites/ElectionsJU/ParlementD/PCSI_MiserezJP.jpg";
+            $MorelDenis = "/IMG/Personnalites/ElectionsJU/ParlementD/PCSI_MorelDenis.jpeg";
+             
+            //PEV
+            $SirautPhilippe = "/IMG/Personnalites/ElectionsJU/ParlementD/PEV_SirautPhilippe.jpg";
 
-        //PLR
-        $BraichetMartin = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_BraichetMartin.png";
-        $ChetelatFlorian = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ChetelatFlorian.PNG";
-        $FroteVincent = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_FroteVincent.jpeg";
-        $LuchingerMarcelle = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_LuchingerMarcelle.png";
-        $PatrickParrat = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ParratPatrick.jpeg";
-        $RenaudDaniel = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_RenaudDaniel.PNG";
-        $SanerMatthieu = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";
-        $YannRufer = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YannRufer.png";
-        
-        
-        //PS
-        $CerfPatrick = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_CerfPatrick.jpg";
-        $ComtePA = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_ComtePA.jpg";
-        $MacquatFabrice = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_MacquatFabrice.jpeg";
-        $MeratJocelyne = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_MeratJocelyne2.png";
+            //PLR
+            $BraichetMartin = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_BraichetMartin.png";
+            $ChetelatFlorian = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ChetelatFlorian.PNG";
+            $FroteVincent = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_FroteVincent.jpeg";
+            $LuchingerMarcelle = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_LuchingerMarcelle.png";
+            $PatrickParrat = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ParratPatrick.jpeg";
+            $RenaudDaniel = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_RenaudDaniel.PNG";
+            $RuferYann = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YannRufer.png";    
+            $SanerMatthieu = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";            
+            
+            //PS
+            $BurkhalterJoel = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_BurkhalterJoel.png";
+            $CerfPatrick = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_CerfPatrick.jpg";
+            $ColombEva = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_ColombEva.JPG";
+            $ComtePA = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_ComtePA.jpg";
+            $MacquatFabrice = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_MacquatFabrice.jpeg";
+            $MeratJocelyne = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_MeratJocelyne2.png";
+            $SanglardYannick = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_SanglardYannick.jpg";
+            $SteuletValentine = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_SteuletValentine.JPG";
+            $RionValery = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_RionValery.jpg";
+            $WislerFanny = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_WislerFanny.jpg";
 
-        //VERTS
-        $BreuleuxRaphael = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_BreuleuxRaphael.png";
-        $VoirolAnselme = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoirolAnselme.png";
+            //VERTS
+            $BreuleuxRaphael = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_BreuleuxRaphael.png";
+            $FerreiraNelson = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_FerreiraNelson.JPG";
+            $VoirolAnselme = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoirolAnselme.png";
 
         //ParlementFM
-        //VERTS
-        $DonzeColinGrand = "/IMG/Personnalites/ElectionsJU/ParlementFM/Grandes/VERTS_DonzeColin.JPG";
-        $DonzeColin = "/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_DonzeColin.JPG";
-        $MarchandGaetan = "/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_MarchandGaetan.jpg";
-        //PS
-        $PretreEvelyne = "/IMG/Personnalites/ElectionsJU/ParlementFM/PS_PretreEvelyne.jpg";
+            //VERTS
+            $DonzeColinGrand = "/IMG/Personnalites/ElectionsJU/ParlementFM/Grandes/VERTS_DonzeColin.JPG";
+            $DonzeColin = "/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_DonzeColin.JPG";
+            $GodatPauline = "/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_GodatPauline.jpg";
+            $MarchandGaetan = "/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_MarchandGaetan.jpg";
+            $SchmittVincent = "/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_SchmittVincent.png";
+
+            //PS
+            $PretreEvelyne = "/IMG/Personnalites/ElectionsJU/ParlementFM/PS_PretreEvelyne.jpg";
 
         //ParlementAjoie
-        //VERTS
-        $JMComment = "/IMG/Personnalites/ElectionsJU/ParlementA/VERTS_CommentJM.png";
+            //PCSI
+            $SchaffterThomas = "/IMG/Personnalites/ElectionsJU/ParlementA/PCSI_SchaffterThomas.jpg";
 
-        //PLR
-        $LudovicMonteiro = "/IMG/Personnalites/ElectionsJU/ParlementA/PLR_MonteiroLudovic.jpeg";
-        $VuillaumeThomas = "/IMG/Personnalites/ElectionsJU/ParlementA/PLR_VuillaumeThomas.jpeg";
-        $YanNoirjean = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YanNoirjean.JPG";
+            //PLR
+            $LudovicMonteiro = "/IMG/Personnalites/ElectionsJU/ParlementA/PLR_MonteiroLudovic.jpeg";
+            $VuillaumeThomas = "/IMG/Personnalites/ElectionsJU/ParlementA/PLR_VuillaumeThomas.jpeg";
+            $YanNoirjean = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YanNoirjean.JPG";
 
-        //PS
-        $AubryJelica = "/IMG/Personnalites/ElectionsJU/ParlementA/PS_AubryJelica.jpg";
-        $SiessRomuald = "/IMG/Personnalites/ElectionsJU/ParlementA/PS_SiessRomuald.jpg";
+            //PS
+            $AubryJelica = "/IMG/Personnalites/ElectionsJU/ParlementA/PS_AubryJelica.jpg";
+            $CailletJoel = "/IMG/Personnalites/ElectionsJU/ParlementA/PS_CailletJoel.jpg";
+            $MartinsJoakim = "/IMG/Personnalites/ElectionsJU/ParlementA/PS_MartinsJoakim.jpg";
+            $SiessRomuald = "/IMG/Personnalites/ElectionsJU/ParlementA/PS_SiessRomuald.jpg";
+
+            //VERTS
+            $BassinPhilippe = "/IMG/Personnalites/ElectionsJU/ParlementA/VERTS_BassinPhilippe.jpg";
+            $JMComment = "/IMG/Personnalites/ElectionsJU/ParlementA/VERTS_CommentJM.png";
+            $PrudatBrice = "/IMG/Personnalites/ElectionsJU/ParlementA/VERTS_PrudatBrice.png";
 
     //juravote :
     $juravoteLogo = "/IMG/Logo/JuraVote/Logo.png";

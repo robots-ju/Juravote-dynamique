@@ -6,9 +6,7 @@
     </head>
     <body>
 
-    <div class="separateur">
-
-    </div>
+    
 
         <footer class="footer"> 
             <div class="uk-grid-collapse uk-child-width-1-2@l uk-text-left uk-flex uk-grid-match" uk-grid>

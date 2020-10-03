@@ -2475,7 +2475,7 @@
                                     <div class="uk-background-cover" style="background-image: url(<?php echo $MeuryRemy ?>);" uk-height-viewport></div>
                                     <div class="uk-padding-large">
                                     <h2>Gisèle Juillet, 1953, Courtemaîche, Aide soignante</h2>
-                                    <p>Divorcée, 3 enfants, employée de commerce et aide-familiale chez Caritas</p>
+                                    <p>Divorcée, 3 enfants, employée de commerce et aide-familiale</p>
                                         <div class="switcher-buttons uk-text-left" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%">
                                             <button class="uk-button uk-button-default" type="button">Présentation</button>
                                             <button class="uk-button uk-button-default" type="button">Votations du 27 septembre</button> 
@@ -2525,8 +2525,6 @@
                                                 <h4>Vos loisirs</h4>
                                                 <p>les randonnées, le jardinage, l'écriture, la peinture.</p>
 
-                                                <h4>Vos réseaux sociaux</h4>
-                                                <p>Facebook, twitter</p>
                                             </li>
 
                                             <li>

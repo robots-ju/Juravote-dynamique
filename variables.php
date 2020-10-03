@@ -35,7 +35,7 @@
         $BraichetMartin = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_BraichetMartin.png";
         $ChetelatFlorian = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ChetelatFlorian.PNG";
         $FroteVincent = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_FroteVincent.jpeg";
-        $LuchingerMarcelle = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_LuchingerMarcelle.jpeg";
+        $LuchingerMarcelle = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_LuchingerMarcelle.png";
         $PatrickParrat = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ParratPatrick.jpeg";
         $RenaudDaniel = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_RenaudDaniel.PNG";
         $SanerMatthieu = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";

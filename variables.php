@@ -55,7 +55,8 @@
         $DonzeColinGrand = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementFM/Grandes/VERTS_DonzeColin.JPG";
         $DonzeColin = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_DonzeColin.JPG";
         $MarchandGaetan = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_MarchandGaetan.jpg";
-
+        //PS
+        $PretreEvelyne = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementFM/PS_PretreEvelyne.jpg";
 
         //ParlementAjoie
         //VERTS

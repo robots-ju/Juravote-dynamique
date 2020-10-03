@@ -62,8 +62,6 @@
         //ParlementAjoie
         //VERTS
         $JMComment = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/VERTS_CommentJM.png";
-        $GiseleJuillet = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/VERTS_GiseleJuillet.png";
-
 
         //PLR
         $LudovicMonteiro = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PLR_MonteiroLudovic.jpeg";

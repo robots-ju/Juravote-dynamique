@@ -45,7 +45,7 @@
         $CerfPatrick = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_CerfPatrick.jpg";
         $ComtePA = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_ComtePA.jpg";
         $MacquatFabrice = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_MacquatFabrice.jpeg";
-        $MeratJocelyne = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_MeratJocelyne.png";
+        $MeratJocelyne = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_MeratJocelyne2.png";
 
         //VERTS
         $BreuleuxRaphael = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_BreuleuxRaphael.png";

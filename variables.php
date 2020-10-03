@@ -41,6 +41,7 @@
         $SanerMatthieu = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";
         $YannRufer = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YannRufer.png";
         
+        
         //PS
         $CerfPatrick = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_CerfPatrick.jpg";
         $ComtePA = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_ComtePA.jpg";
@@ -66,6 +67,7 @@
         //PLR
         $LudovicMonteiro = "/IMG/Personnalites/ElectionsJU/ParlementA/PLR_MonteiroLudovic.jpeg";
         $VuillaumeThomas = "/IMG/Personnalites/ElectionsJU/ParlementA/PLR_VuillaumeThomas.jpeg";
+        $YanNoirjean = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YanNoirjean.JPG";
 
         //PS
         $AubryJelica = "/IMG/Personnalites/ElectionsJU/ParlementA/PS_AubryJelica.jpg";

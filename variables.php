@@ -47,6 +47,7 @@
         $MeratJocelyne = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_MeratJocelyne.png";
 
         //VERTS
+        $BreuleuxRaphael = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_BreuleuxRaphael.png";
         $VoirolAnselme = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoirolAnselme.png";
 
         //ParlementFM

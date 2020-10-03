@@ -39,6 +39,7 @@
         $PatrickParrat = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ParratPatrick.jpeg";
         $RenaudDaniel = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_RenaudDaniel.PNG";
         $SanerMatthieu = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";
+        $YannRufer = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YannRufer.png";
         
         //PS
         $CerfPatrick = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_CerfPatrick.jpg";

@@ -234,10 +234,10 @@
                                                     </thead>
                                                     <tbody>
                                                         <tr>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span></td> 
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">non</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span></td> 
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>                                                      
                                                         </tr>
                                                     </tbody>
@@ -272,7 +272,7 @@
                                                         <div class="uk-card uk-card-body">Hausse des coûts des primes d'assurance maladie dans le Jura ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span>                                            
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
                                                         <div class="uk-card uk-card-body">Introduction d'une caisse-maladie unique dans le Jura ?</div>
                                                     </div>
                                                 </div>                                             
@@ -281,7 +281,7 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
                                                         <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -289,20 +289,20 @@
                                                         <div class="uk-card uk-card-body">Droit de vote à 16 ans ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
                                                         <div class="uk-card uk-card-body">Consommation légalisée de cannabis ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
                                                         <div class="uk-card uk-card-body">Mêmes droits pour les couples de même sexe que
                                                         les couples hétérosexuels ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
                                                         <div class="uk-card uk-card-body">Euthanasie active par des médecins en Suisse ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span>                                            
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
                                                         <div class="uk-card uk-card-body">Financement transparent des partis et
                                                         des campagnes pour les élections et votations ?</div>
                                                     </div>
@@ -320,11 +320,11 @@
                                                         <div class="uk-card uk-card-body">Evolution des impôts dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
                                                         <div class="uk-card uk-card-body">Imposition individuelle ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span>                                            
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
                                                         <div class="uk-card uk-card-body">Rentes AVS/AI exonérées d'impôt ?</div>
                                                     </div>
                                                 </div>  
@@ -337,11 +337,11 @@
                                                         <div class="uk-card uk-card-body">Libéralisation complète des heures d'ouverture des magasins ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
                                                         <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span>                                            
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
                                                         <div class="uk-card uk-card-body">Micro-impôt sur le trafic des paiements sans espèces ?</div>
                                                     </div>
                                                 </div>  
@@ -354,7 +354,7 @@
                                                         <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span>                                            
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
                                                         <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
                                                     </div> 
                                                 </div> 
@@ -364,7 +364,7 @@
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span>                                            
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
                                                         <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -401,7 +401,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-1" uk-toggle>
+                        <a class="uk-button uk-button-default" href="#modal-full-2" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                                 <div class="uk-card-header">
@@ -419,7 +419,7 @@
                                 </div>
                             </div>
                         </a>
-                        <div id="modal-full-1" class="uk-modal-full uk-text-justify" uk-modal>
+                        <div id="modal-full-2" class="uk-modal-full uk-text-justify" uk-modal>
                             <div class="uk-modal-dialog">
                                 <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
                                 <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
@@ -475,7 +475,7 @@
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>                                                  
                                                         </tr>
                                                     </tbody>
@@ -492,8 +492,8 @@
                                                     </thead>
                                                     <tbody>
                                                         <tr>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span></td>                                             
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">non</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">non</span></td>                                             
                                                         </tr>
                                                     </tbody>
                                                 </table>
@@ -502,7 +502,7 @@
                                             <li>          
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span>                                            
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
                                                         <div class="uk-card uk-card-body">Age de la retraite relevé et identique pour les femmes et les hommes ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -519,11 +519,11 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
                                                         <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span>                                            
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
                                                         <div class="uk-card uk-card-body">Droit de vote à 16 ans ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
@@ -531,16 +531,16 @@
                                                         <div class="uk-card uk-card-body">Consommation légalisée de cannabis ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
                                                         <div class="uk-card uk-card-body">Mêmes droits pour les couples de même sexe que
                                                         les couples hétérosexuels ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                    
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                    
                                                         <div class="uk-card uk-card-body">Euthanasie active par des médecins en Suisse ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span>                                            
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
                                                         <div class="uk-card uk-card-body">Financement transparent des partis et
                                                         des campagnes pour les élections et votations ?</div>
                                                     </div>
@@ -562,7 +562,7 @@
                                                         <div class="uk-card uk-card-body">Imposition individuelle ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                          
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                          
                                                         <div class="uk-card uk-card-body">Rentes AVS/AI exonérées d'impôt ?</div>
                                                     </div>
                                                 </div>  
@@ -571,15 +571,15 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                       <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                       <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
                                                         <div class="uk-card uk-card-body">Libéralisation complète des heures d'ouverture des magasins ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                       
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                       
                                                         <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span>                                            
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
                                                         <div class="uk-card uk-card-body">Micro-impôt sur le trafic des paiements sans espèces ?</div>
                                                     </div>
                                                 </div>  
@@ -588,11 +588,11 @@
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span>                                            
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
                                                         <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
                                                         <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
                                                     </div> 
                                                 </div>
@@ -601,7 +601,7 @@
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                           
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                           
                                                         <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -850,20 +850,245 @@
             <li>
                 <div class="uk-child-width-1-4@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
-                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                                    <div class="uk-width-auto uk-first-column">
-                                        <img class="uk-border-circle photo-personne"
-                                            src="<?php echo $inconnu ?>"
-                                            alt="Jelica Aubry-Janketic">
+                        <a class="uk-button uk-button-default" href="#modal-full-4" uk-toggle>
+                            <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                        <div class="uk-width-auto uk-first-column">
+                                            <img class="uk-border-circle photo-personne"
+                                                src="<?php echo $AubryJelica ?>"
+                                                alt="Jelica Aubry-Janketic">
+                                        </div>
                                     </div>
                                 </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title-center text-rouge-fonce">Jelica Aubry-Janketic</h3>
+                                    <p class="uk-text-center text-fonction">1978 - Courtedoux - Employée de commerce</p>
+                                </div>
                             </div>
-                            <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Jelica Aubry-Janketic</h3>
-                                <p class="uk-text-center text-fonction">1978 - Courtedoux - Employée de commerce</p>
+                        </a>
+                        <div id="modal-full-4" class="uk-modal-full uk-text-justify" uk-modal>
+                            <div class="uk-modal-dialog">
+                                <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+                                <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
+                                    <div class="uk-background-cover" style="background-image: url(<?php echo $AubryJelica ?>);" uk-height-viewport></div>
+                                    <div class="uk-padding-large">
+                                    <h2>Jelica Aubry-Janketic, 1978, Courtedoux, Employée de commerce</h2>
+                                    <p>Marié, 3 enfants de 11, 13 et 15 ans, Apprentissage d'employée de commerce CFC - 
+                                    Séjours linguistiques en Angleterre (1 an) et Allemagne (5 mois) couronnés par des 
+                                    diplômes CAMBRIDGE et GOETHE INSTITUT - Stage professionnel de 6 mois en Belgique avec le programme EURODYSSEE</p>
+                                        <div class="switcher-buttons uk-text-left" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%">
+                                            <button class="uk-button uk-button-default" type="button">Présentation</button>
+                                            <button class="uk-button uk-button-default" type="button">Votations du 27 septembre</button> 
+                                            <button class="uk-button uk-button-default" type="button">Votations du 29 novembre</button>
+                                            <button class="uk-button uk-button-default" type="button">Social et santé</button>  
+                                            <button class="uk-button uk-button-default" type="button">Société et éthique</button>          
+                                            <button class="uk-button uk-button-default" type="button">Finances et impositions</button>     
+                                            <button class="uk-button uk-button-default" type="button">Economie</button>     
+                                            <button class="uk-button uk-button-default" type="button">Energies et environnement</button>     
+                                            <button class="uk-button uk-button-default" type="button">Digitalisation</button>     
+                                        </div>
+                                        <ul class="uk-switcher uk-margin">
+                                            <li>
+                                                <h4>Motivations</h4>
+                                                <p>Arrêtons les « y’a qu’à … faut qu’on… » et la meilleure façon d’y arriver,
+                                                est de s’engager soi-même ! Voilà la réflexion qui m’a amenée à accepter de me
+                                                porter candidate aux élections du 18 octobre prochain pour le Parlement jurassien.
+                                                Au printemps dernier, je me suis indignée contre une décision politique, touchant
+                                                directement au pouvoir d’achat de certaines familles. J’ai publié une lettre
+                                                ouverte dans le journal local, laquelle a suscité pas mal de réactions et de
+                                                partages sur les réseaux sociaux. Convaincue de l’injustice de cette décision et
+                                                portée par de nombreux messages de soutien, j’ai pu ainsi démontrer aux plus hautes
+                                                sphères politiques de notre canton, avec une bonne argumentation, le « bien-fondé »
+                                                de mon intervention. Et, à ma grande satisfaction, cette décision a finalement et
+                                                officiellement été revue, me donnant certainement des ailes, ainsi que l’élan à cette
+                                                envie d’engagement.</p>
+                                                <p>Si je n’ai certes, aucune expérience politique, je peux toutefois mettre en avant un
+                                                riche bagage SOCIAL ! En effet, investie depuis toute jeune dans plusieurs associations ou
+                                                sociétés locales, j’ai toujours eu du plaisir à côtoyer les différentes générations qui font
+                                                la force de notre société. Et toutes ces expériences ont enrichi mon bagage et mes valeurs.
+                                                Et c'est avec beaucoup de motivation que je relèverais le défi d'être la voix des sans-voix
+                                                (comme le dit si bien mon camarade Mathias Reynard), si vous décidiez de me faire confiance le 18 octobre prochain !</p>
+
+                                                <h4>Priorités politiques</h4>
+                                                <p>Je souhaite m'engager pour le "BIEN VIVRE ENSEMBLE". Peu importe d'où l’on vient,
+                                                qu'on soit riche ou pauvre,  d'ici ou d'ailleurs, personne ne doit être laissé au bord du chemin.
+                                                Je crois en la force du collectif, et c'est ainsi que nous pourrons TOUS avancer ensemble pour un Jura plus SOLIDAIRE.</p>
+
+                                                <h4>Vos loisirs</h4>
+                                                <p>Mes loisirs actuels sont principalement ceux de mes enfants que mon mari et moi suivons avec beaucoup de plaisir dans leurs différentes activités, notamment au football et au cirque.
+                                                Mais à côté de cela, je fais partie de 2 sociétés de gymnastique (FSG Alle et Fémina Courtedoux) et active dans différents comités. 
+                                                Membre de la commission d'école du Cercle scolaire du Creugenat. 
+                                                Auparavant coordinatrice locale des cours de l'Université populaire pour Courtedoux. 
+                                                Et lorsqu'il me reste du temps, j'aime m'adonner au bricolage et suivre le sport en général !</p>
+
+                                                <h4>Vos réseaux sociaux</h4>
+                                                <ul>
+                                                    <li class="icon_resaux"><a href="instagram.com/aubryjanketicjelica" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
+                                                    <li class="icon_resaux"><a href="facebook.com/jelica.aubryjanketic/ " target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                </ul>
+                                            </li>
+
+                                            <li>
+                                                <table class="uk-table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th class="uk-text-center">Congé paternité</th>
+                                                            <th class="uk-text-center">Loi sur la chasse</th>
+                                                            <th class="uk-text-center">Initiative de limitation</th>
+                                                            <th class="uk-text-center">Loi sur l'impôt direct</th>
+                                                            <th class="uk-text-center">Avions de combat</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">non</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>                                                     
+                                                        </tr>
+                                                    </tbody>
+                                                </table>    
+                                            </li>
+
+                                            <li>
+                                                <table class="uk-table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th class="uk-text-center">Initiative "Entreprises responsables"</th>
+                                                            <th class="uk-text-center">Initiative "Interdiction du financement des producteurs de matériel de guerre</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>                                                    
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </li>
+
+                                            <li>          
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Age de la retraite relevé et identique pour les femmes et les hommes ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">Injustifiée</span>                                            
+                                                        <div class="uk-card uk-card-body">Hausse des coûts des primes d'assurance maladie dans le Jura ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Introduction d'une caisse-maladie unique dans le Jura ?</div>
+                                                    </div>
+                                                </div>    
+                                                <p>Il est intolérable que la droite et les assureurs (les uns rémunèrent les autres dans l'opacité la plus complète)
+                                                continuent à jouer avec la santé et le porte-monnaie des gens  . Il faut absolument reprendre les démarches en vue
+                                                de la création d'une assurance-maladie unique.</p>                                       
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <div class="uk-card uk-card-body">Droit de vote à 16 ans ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Consommation légalisée de cannabis ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Mêmes droits pour les couples de même sexe que
+                                                        les couples hétérosexuels ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Euthanasie active par des médecins en Suisse ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Financement transparent des partis et
+                                                        des campagnes pour les élections et votations ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Abolition du changement d'heure d'été / heure d'hiver ?</div>
+                                                    </div>
+                                                </div>  
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Maintien</span>                                            
+                                                        <div class="uk-card uk-card-body">Evolution des impôts dans le Jura ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Imposition individuelle ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <div class="uk-card uk-card-body">Rentes AVS/AI exonérées d'impôt ?</div>
+                                                    </div>
+                                                </div>  
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Libéralisation complète des heures d'ouverture des magasins ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <div class="uk-card uk-card-body">Micro-impôt sur le trafic des paiements sans espèces ?</div>
+                                                    </div>
+                                                </div>  
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt contre</span>                                            
+                                                        <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine">oui</span>                                            
+                                                        <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
+                                                    </div> 
+                                                </div> 
+                                                <p>Pas assez de recul concernant la géothermie profonde. En ce qui concerne l'énergie éolienne,
+                                                je suis plutôt POUR en veillant toutefois à leur bonne implantation géographique</p>
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Vote électronique en Suisse ?</div>
+                                                    </div> 
+                                                </div> 
+                                            </li>
+					                    </ul>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -1192,20 +1417,223 @@
                     </div>
 
                     <div>
-                        <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                            <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                                    <div class="uk-width-auto uk-first-column">
-                                        <img class="uk-border-circle photo-personne"
-                                            src="<?php echo $inconnu ?>"
-                                            alt="Romuald Siess">
+                        <a class="uk-button uk-button-default" href="#modal-full-5" uk-toggle>
+                            <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                        <div class="uk-width-auto uk-first-column">
+                                            <img class="uk-border-circle photo-personne"
+                                                src="<?php echo $SiessRomuald ?>"
+                                                alt="Romuald Siess">
+                                        </div>
                                     </div>
                                 </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title-center text-rouge-fonce">Romuald Siess</h3>
+                                    <p class="uk-text-center text-fonction">2001 - Vendlincourt - Etudiant en sciences sociales</p>
+                                </div>
                             </div>
-                            <div class="uk-card-body">
-                                <h3 class="uk-card-title-center text-rouge-fonce">Romuald Siess</h3>
-                                <p class="uk-text-center text-fonction">2001 - Vendlincourt Etudiant en sciences sociales</p>
+                        </a>
+                        <div id="modal-full-5" class="uk-modal-full uk-text-justify" uk-modal>
+                            <div class="uk-modal-dialog">
+                                <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+                                <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
+                                    <div class="uk-background-cover" style="background-image: url(<?php echo $SiessRomuald ?>);" uk-height-viewport></div>
+                                    <div class="uk-padding-large">
+                                    <h2>Romuald Siess, 2001, Vendlincourt, Etudiant en sciences sociales</h2>
+                                    <p>Célibataire, pas d'enfants, étudiant en bachelor en travail social et politiques sociales</p>
+                                        <div class="switcher-buttons uk-text-left" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%">
+                                            <button class="uk-button uk-button-default" type="button">Présentation</button>
+                                            <button class="uk-button uk-button-default" type="button">Votations du 27 septembre</button> 
+                                            <button class="uk-button uk-button-default" type="button">Votations du 29 novembre</button>
+                                            <button class="uk-button uk-button-default" type="button">Social et santé</button>  
+                                            <button class="uk-button uk-button-default" type="button">Société et éthique</button>          
+                                            <button class="uk-button uk-button-default" type="button">Finances et impositions</button>     
+                                            <button class="uk-button uk-button-default" type="button">Economie</button>     
+                                            <button class="uk-button uk-button-default" type="button">Energies et environnement</button>     
+                                            <button class="uk-button uk-button-default" type="button">Digitalisation</button>     
+                                        </div>
+                                        <ul class="uk-switcher uk-margin">
+                                            <li>
+                                                <h4>Motivations</h4>
+                                                <p>Je me porte candidat pour apporter un changement à la population du canton, car,
+                                                la situation actuelle le prouvant, les politiques néolibérales sans cesse amenées
+                                                par la droite cause la destruction de ce canton et des valeurs de celui-ci</p>
+
+                                                <h4>Priorités politiques</h4>
+                                                <p>Combattre toutes nouvelles tentatives de privatisation dans le canton, me battre
+                                                pour l’instauration de la caisse unique, contre le frein à l’endettement, et aider
+                                                à l’élaboration d’une politique climatique ambitieuse</p>
+
+                                                <h4>Vos loisirs</h4>
+                                                <p>La musique.</p>
+                                            </li>
+
+                                            <li>
+                                                <table class="uk-table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th class="uk-text-center">Congé paternité</th>
+                                                            <th class="uk-text-center">Loi sur la chasse</th>
+                                                            <th class="uk-text-center">Initiative de limitation</th>
+                                                            <th class="uk-text-center">Loi sur l'impôt direct</th>
+                                                            <th class="uk-text-center">Avions de combat</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">non</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>                                                   
+                                                        </tr>
+                                                    </tbody>
+                                                </table>    
+                                            </li>
+
+                                            <li>
+                                                <table class="uk-table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th class="uk-text-center">Initiative "Entreprises responsables"</th>
+                                                            <th class="uk-text-center">Initiative "Interdiction du financement des producteurs de matériel de guerre</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>                                                    
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </li>
+
+                                            <li>          
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Age de la retraite relevé et identique pour les femmes et les hommes ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">Injustifiée</span>                                            
+                                                        <div class="uk-card uk-card-body">Hausse des coûts des primes d'assurance maladie dans le Jura ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Introduction d'une caisse-maladie unique dans le Jura ?</div>
+                                                    </div>
+                                                </div>     
+                                                <ul>
+                                                    <li>Pas d’augmentation de la retraite des femmes tant qu’elles n’auront
+                                                    pas SYSTÉMATIQUEMENT le même salaire que les hommes</li>
+                                                    <li>la hausse des coûts est du au fait que les caisses maladies sont
+                                                    privées et donc motivées, non-pas par la protection de la population,
+                                                    mais par le profit, c’est pourquoi les primes augmentent chaque année
+                                                    et que la caisse unique est la seule solution pour endiguer durablement
+                                                    les augmentations des primes</li>                 
+                                                </ul>     
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Droit de vote à 16 ans ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Consommation légalisée de cannabis ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Mêmes droits pour les couples de même sexe que
+                                                        les couples hétérosexuels ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Euthanasie active par des médecins en Suisse ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Financement transparant des partis et
+                                                        des campagnes pour les élections et votations ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Abolition du changement d'heure d'été / heure d'hiver ?</div>
+                                                    </div>
+                                                </div>  
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">Augmentation</span>                                            
+                                                        <div class="uk-card uk-card-body">Evolution des impôts dans le Jura ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Imposition individuelle ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <div class="uk-card uk-card-body">Rentes AVS/AI exonérées d'impôt ?</div>
+                                                    </div>
+                                                </div>  
+                                                <p>Une augmentation d’impôt pour les plus riches permettra une baisse pour le reste de la population</p>
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Libéralisation complète des heures d'ouverture des magasins ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Micro-impôt sur le trafic des paiements sans espèces ?</div>
+                                                    </div>
+                                                </div>  
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
+                                                    </div> 
+                                                </div> 
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Vote électronique en Suisse ?</div>
+                                                    </div> 
+                                                </div> 
+                                            </li>
+					                    </ul>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -2021,6 +2449,7 @@
                     </div>
 
                     <div>
+                    <a class="uk-button uk-button-default" href="#modal-full-6" uk-toggle>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
                             <div class="uk-card-header">
@@ -2037,7 +2466,225 @@
                                 <p class="uk-text-center text-fonction">1953 - Courtemaîche - Aide soignante</p>
                             </div>
                         </div>
+                    </a>
                     </div>
+                    <div id="modal-full-6" class="uk-modal-full uk-text-justify" uk-modal>
+                            <div class="uk-modal-dialog">
+                                <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+                                <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
+                                    <div class="uk-background-cover" style="background-image: url(<?php echo $MeuryRemy ?>);" uk-height-viewport></div>
+                                    <div class="uk-padding-large">
+                                    <h2>Gisèle Juillet, 1953, Courtemaîche, Aide soignante</h2>
+                                    <p>Divorcée, 3 enfants, employée de commerce et aide-familiale</p>
+                                        <div class="switcher-buttons uk-text-left" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%">
+                                            <button class="uk-button uk-button-default" type="button">Présentation</button>
+                                            <button class="uk-button uk-button-default" type="button">Votations du 27 septembre</button> 
+                                            <button class="uk-button uk-button-default" type="button">Votations du 29 novembre</button>
+                                            <button class="uk-button uk-button-default" type="button">Social et santé</button>  
+                                            <button class="uk-button uk-button-default" type="button">Société et éthique</button>          
+                                            <button class="uk-button uk-button-default" type="button">Finances et impositions</button>     
+                                            <button class="uk-button uk-button-default" type="button">Economie</button>     
+                                            <button class="uk-button uk-button-default" type="button">Energies et environnement</button>     
+                                            <button class="uk-button uk-button-default" type="button">Digitalisation</button>     
+                                        </div>
+                                        <ul class="uk-switcher uk-margin">
+                                            <li>
+                                                <h4>Motivations</h4>
+                                                <p>Ce qui me motive, c'est que je m'aperçois jour après jour, que notre planète est de
+                                                 plus en plus polluée par des produits qui menacent les êtres humains, les animaux, les 
+                                                 plantes, par l'extension des surfaces agricoles qui détruit les écosystèmes, les engrais 
+                                                 et les pesticides non naturels qui polluent l'eau et le sol et l'hyper consommation de 
+                                                 viande qui mène à l'élevage industriel ce qui contribue à la mainmise des multinationales 
+                                                 au détriment des petits agriculteurs et souvent à la cruauté animale.</p>
+                                                <p>En tant que femme, je veux me battre pour l'égalité entre les femmes et les hommes dans 
+                                                tous les domaines, car il reste encore beaucoup à faire pour parvenir à la pleine égalité 
+                                                des droits. Il faut également mettre fin aux multiples formes de violences faites aux femmes
+                                                 qui sont une réalité quotidienne.</p>
+
+                                                <h4>Priorités politiques</h4>
+                                                <p>Mes priorités politiques sont le changement climatique, la place des femmes dans la société,
+                                                 la protection de la nature et des animaux.</p>
+                                                <p>Proposer des initiatives concrètes afin d'agir contre le dérèglement climatique et pour
+                                                 construire une société plus durable.</p>
+                                                <p>Devenir des consommateurs responsables en réduisant notre consommation d'eau, en évitant 
+                                                les produits toxiques dans les maisons et jardins, en modifiant nos habitudes alimentaires 
+                                                ainsi que notre consommation de viande.</p>
+                                                <p>Avoir un cadre politique et des entrepreneurs responsables.</p>
+                                                <p>Sortir de notre dépendance au pétrole, gaz et charbon, sortir du nucléaire.</p>
+                                                <p>Soutenir les petites exploitations agricoles et les canaux de vente directe entre 
+                                                les paysan-ne-s et consommatrices et consommateurs.</p>
+                                                <p>l'égalité entre les femmes et les hommes.</p>
+                                                <p>Les femmes doivent être plus représentées dans de nombreux métiers et ne plus être 
+                                                discriminées en termes de salaires et de retraites.</p>
+                                                <p>Promouvoir des places de travail à temps partiel non seulement pour les femmes, mais
+                                                 également pour les hommes.</p>
+                                                <p>Informer et sensibiliser sur la protection de la faune, préserver les ressources 
+                                                naturelles de la Terre (eau, sol minéraux, faune, forêts).</p>
+                                                
+
+                                                <h4>Vos loisirs</h4>
+                                                <p>les randonnées, le jardinage, l'écriture, la peinture.</p>
+
+                                            </li>
+
+                                            <li>
+                                                <table class="uk-table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th class="uk-text-center">Congé paternité</th>
+                                                            <th class="uk-text-center">Loi sur la chasse</th>
+                                                            <th class="uk-text-center">Initiative de limitation</th>
+                                                            <th class="uk-text-center">Loi sur l'impôt direct</th>
+                                                            <th class="uk-text-center">Avions de combat</th>
+                                                            
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>  
+                                                                                                                  
+                                                        </tr>
+                                                    </tbody>
+                                                </table>    
+                                            </li>
+
+                                            <li>
+                                                <table class="uk-table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th class="uk-text-center">Initiative "Entreprises responsables"</th>
+                                                            <th class="uk-text-center">Initiative "Interdiction du financement des producteurs de matériel de guerre</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>                                                    
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </li>
+
+                                            <li>          
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Age de la retraite relevé et identique pour les femmes et les hommes ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">Injustifiée</span>                                            
+                                                        <div class="uk-card uk-card-body">Hausse des coûts des primes d'assurance maladie dans le Jura ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Introduction d'une caisse-maladie unique dans le Jura ?</div>
+                                                    </div>
+                                                </div>                                             
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Droit de vote à 16 ans ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Consommation légalisée de cannabis ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Mêmes droits pour les couples de même sexe que
+                                                        les couples hétérosexuels ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Euthanasie active par des médecins en Suisse ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Financement transparant des partis et
+                                                        des campagnes pour les élections et votations ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Abolition du changement d'heure d'été / heure d'hiver ?</div>
+                                                    </div>
+                                                </div>  
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Diminution</span>                                            
+                                                        <div class="uk-card uk-card-body">Evolution des impôts dans le Jura ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
+                                                        <div class="uk-card uk-card-body">Imposition individuelle ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Rentes AVS/AI exonérées d'impôt ?</div>
+                                                    </div>
+                                                </div>  
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Libéralisation complète des heures d'ouverture des magasins ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt contre</span>                                            
+                                                        <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
+                                                    </div>  
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Micro-impôt sur le trafic des paiements sans espèces ?</div>
+                                                    </div>
+                                                </div>  
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
+                                                    </div> 
+                                                </div> 
+                                            </li>
+
+                                            <li>
+                                                <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
+                                                    </div>
+                                                    <div class="uk-card uk-card-body">       
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <div class="uk-card uk-card-body">Vote électronique en Suisse ?</div>
+                                                    </div> 
+                                                </div> 
+                                            </li>
+					</ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
@@ -2278,7 +2925,7 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Maintien</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">Diminution</span>                                            
                                                         <div class="uk-card uk-card-body">Evolution des impôts dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -2295,11 +2942,11 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
                                                         <div class="uk-card uk-card-body">Libéralisation complète des heures d'ouverture des magasins ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span>                                            
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
                                                         <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
@@ -2316,7 +2963,7 @@
                                                         <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt non</span>                                            
+                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
                                                         <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
                                                     </div> 
                                                 </div> 
@@ -2331,7 +2978,7 @@
                                                         <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
                                                         <div class="uk-card uk-card-body">Vote électronique en Suisse ?</div>
                                                     </div> 
                                                 </div> 

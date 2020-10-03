@@ -48,11 +48,14 @@
                         <li class="icon_resaux"><a href="https://www.instagram.com/juravote/?hl=fr" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
                         <li class="icon_resaux"><a href="https://www.facebook.com/JuraVote2020/" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
                         <li><a href="https://discord.gg/feYcNDY" target="_blank" ><img src="<?php echo $iconDiscord ?>" id="Discord" alt="Logo Discord Juravote" height= "50px" width= "50px"></a></li>
-                        <ul class="uk-nav uk-nav-default grid-nav uk-align-right">
-                            <hr>
-                            <li><p>© Juravote 2020</p></li>
-                        </ul>
+                        <li><a href="<?php echo $PHPequipe ?>" uk-icon="icon: file-edit; ratio: 2"></a></li>
                     </div>
+                    <ul class="uk-nav uk-nav-default grid-nav">
+                        <hr>
+                        <li><p>Juravote est hébergé exclusivement en Suisse, de manière totalement sécurisée pour l'utilisateur et
+                        les données sont protégées par le droit suisse.
+                        <li><p>© Juravote 2020</p></li>
+                    </ul>
                 </div>
             </div>   
         </footer>

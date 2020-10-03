@@ -35,16 +35,20 @@
         $BraichetMartin = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_BraichetMartin.png";
         $ChetelatFlorian = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ChetelatFlorian.PNG";
         $FroteVincent = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_FroteVincent.jpeg";
-        $LuchingerMarcelle = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_LuchingerMarcelle.jpeg";
+        $LuchingerMarcelle = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_LuchingerMarcelle.png";
         $PatrickParrat = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ParratPatrick.jpeg";
         $RenaudDaniel = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_RenaudDaniel.PNG";
         $SanerMatthieu = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";
+        $YannRufer = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YannRufer.png";
         
         //PS
+        $CerfPatrick = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_CerfPatrick.jpg";
         $ComtePA = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_ComtePA.jpg";
         $MacquatFabrice = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_MacquatFabrice.jpeg";
+        $MeratJocelyne = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_MeratJocelyne2.png";
 
         //VERTS
+        $BreuleuxRaphael = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_BreuleuxRaphael.png";
         $VoirolAnselme = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoirolAnselme.png";
 
         //ParlementFM
@@ -52,7 +56,8 @@
         $DonzeColinGrand = "/IMG/Personnalites/ElectionsJU/ParlementFM/Grandes/VERTS_DonzeColin.JPG";
         $DonzeColin = "/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_DonzeColin.JPG";
         $MarchandGaetan = "/IMG/Personnalites/ElectionsJU/ParlementFM/VERTS_MarchandGaetan.jpg";
-
+        //PS
+        $PretreEvelyne = "/IMG/Personnalites/ElectionsJU/ParlementFM/PS_PretreEvelyne.jpg";
 
         //ParlementAjoie
         //VERTS
@@ -61,6 +66,10 @@
         //PLR
         $LudovicMonteiro = "/IMG/Personnalites/ElectionsJU/ParlementA/PLR_MonteiroLudovic.jpeg";
         $VuillaumeThomas = "/IMG/Personnalites/ElectionsJU/ParlementA/PLR_VuillaumeThomas.jpeg";
+
+        //PS
+        $AubryJelica = "/IMG/Personnalites/ElectionsJU/ParlementA/PS_AubryJelica.jpg";
+        $SiessRomuald = "/IMG/Personnalites/ElectionsJU/ParlementA/PS_SiessRomuald.jpg";
 
     //juravote :
     $juravoteLogo = "/IMG/Logo/JuraVote/Logo.png";
@@ -390,6 +399,7 @@
 
             //FM
             $siteBreuleux = "https://www.breuleux.ch/";
+            $siteLajoux = "https://www.lajoux.ch/";
 
         //PARTIS
             //FEDERAUX

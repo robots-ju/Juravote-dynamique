@@ -41,6 +41,7 @@
         $SanerMatthieu = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";
         $YannRufer = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YannRufer.png";
         
+        
         //PS
         $CerfPatrick = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_CerfPatrick.jpg";
         $ComtePA = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_ComtePA.jpg";
@@ -65,6 +66,7 @@
         //PLR
         $LudovicMonteiro = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PLR_MonteiroLudovic.jpeg";
         $VuillaumeThomas = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PLR_VuillaumeThomas.jpeg";
+        $YanNoirjean = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YanNoirjean.JPG";
 
         //PS
         $AubryJelica = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PS_AubryJelica.jpg";

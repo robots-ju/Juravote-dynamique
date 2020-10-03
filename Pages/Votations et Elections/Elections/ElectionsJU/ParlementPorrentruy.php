@@ -234,10 +234,10 @@
                                                     </thead>
                                                     <tbody>
                                                         <tr>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">non</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span></td> 
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td> 
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>                                                      
                                                         </tr>
                                                     </tbody>
@@ -254,7 +254,7 @@
                                                     </thead>
                                                     <tbody>
                                                         <tr>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">Neutre</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">NEUTRE</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>                                                    
                                                         </tr>
                                                     </tbody>
@@ -264,15 +264,15 @@
                                             <li>          
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Age de la retraite relevé et identique pour les femmes et les hommes ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt injustifiée</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">Plutôt injustifiée</span>                                            
                                                         <div class="uk-card uk-card-body">Hausse des coûts des primes d'assurance maladie dans le Jura ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Introduction d'une caisse-maladie unique dans le Jura ?</div>
                                                     </div>
                                                 </div>                                             
@@ -281,7 +281,7 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -289,20 +289,20 @@
                                                         <div class="uk-card uk-card-body">Droit de vote à 16 ans ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Consommation légalisée de cannabis ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Mêmes droits pour les couples de même sexe que
                                                         les couples hétérosexuels ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Euthanasie active par des médecins en Suisse ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Financement transparent des partis et
                                                         des campagnes pour les élections et votations ?</div>
                                                     </div>
@@ -320,11 +320,11 @@
                                                         <div class="uk-card uk-card-body">Evolution des impôts dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Imposition individuelle ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Rentes AVS/AI exonérées d'impôt ?</div>
                                                     </div>
                                                 </div>  
@@ -333,15 +333,15 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Libéralisation complète des heures d'ouverture des magasins ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Micro-impôt sur le trafic des paiements sans espèces ?</div>
                                                     </div>
                                                 </div>  
@@ -350,11 +350,11 @@
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
                                                     </div> 
                                                 </div> 
@@ -364,15 +364,15 @@
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Vote électronique en Suisse ?</div>
                                                     </div> 
                                                 </div> 
-                                                <p>Vote électronique oui, mais en gardant quand même les bureaux de vote pour les personnes qui n’ont pas accès à internet.</p>
+                                                <p>Vote électronique OUI, mais en gardant quand même les bureaux de vote pour les personnes qui n’ont pas accès à internet.</p>
                                             </li>
 					                    </ul>
                                     </div>
@@ -475,7 +475,7 @@
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>                                                  
                                                         </tr>
                                                     </tbody>
@@ -492,8 +492,8 @@
                                                     </thead>
                                                     <tbody>
                                                         <tr>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">non</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">non</span></td>                                             
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>                                             
                                                         </tr>
                                                     </tbody>
                                                 </table>
@@ -502,7 +502,7 @@
                                             <li>          
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Age de la retraite relevé et identique pour les femmes et les hommes ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -510,7 +510,7 @@
                                                         <div class="uk-card uk-card-body">Hausse des coûts des primes d'assurance maladie dans le Jura ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Introduction d'une caisse-maladie unique dans le Jura ?</div>
                                                     </div>
                                                 </div>                                      
@@ -519,28 +519,28 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Droit de vote à 16 ans ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Consommation légalisée de cannabis ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Mêmes droits pour les couples de même sexe que
                                                         les couples hétérosexuels ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                    
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                    
                                                         <div class="uk-card uk-card-body">Euthanasie active par des médecins en Suisse ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Financement transparent des partis et
                                                         des campagnes pour les élections et votations ?</div>
                                                     </div>
@@ -554,7 +554,7 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">Plutôt diminution</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">Plutôt diminution</span>                                            
                                                         <div class="uk-card uk-card-body">Evolution des impôts dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -562,7 +562,7 @@
                                                         <div class="uk-card uk-card-body">Imposition individuelle ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                          
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                          
                                                         <div class="uk-card uk-card-body">Rentes AVS/AI exonérées d'impôt ?</div>
                                                     </div>
                                                 </div>  
@@ -571,15 +571,15 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                       <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                       <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Libéralisation complète des heures d'ouverture des magasins ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                       
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                       
                                                         <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Micro-impôt sur le trafic des paiements sans espèces ?</div>
                                                     </div>
                                                 </div>  
@@ -588,11 +588,11 @@
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
                                                     </div> 
                                                 </div>
@@ -601,7 +601,7 @@
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                           
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                           
                                                         <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -739,9 +739,9 @@
                                                     </thead>
                                                     <tbody>
                                                         <tr>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">non</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>  
                                                                                                                   
@@ -760,8 +760,8 @@
                                                     </thead>
                                                     <tbody>
                                                         <tr>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">non</span></td>                                                    
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>                                                    
                                                         </tr>
                                                     </tbody>
                                                 </table>
@@ -770,7 +770,7 @@
                                             <li>          
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Age de la retraite relevé et identique pour les femmes et les hommes ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -778,7 +778,7 @@
                                                         <div class="uk-card uk-card-body">Hausse des coûts des primes d'assurance maladie dans le Jura ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Introduction d'une caisse-maladie unique dans le Jura ?</div>
                                                     </div>
                                                 </div>                                             
@@ -787,7 +787,7 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -795,20 +795,20 @@
                                                         <div class="uk-card uk-card-body">Droit de vote à 16 ans ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Consommation légalisée de cannabis ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Mêmes droits pour les couples de même sexe que
                                                         les couples hétérosexuels ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Euthanasie active par des médecins en Suisse ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: green;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Financement transparant des partis et
                                                         des campagnes pour les élections et votations ?</div>
                                                     </div>
@@ -826,11 +826,11 @@
                                                         <div class="uk-card uk-card-body">Evolution des impôts dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Imposition individuelle ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Rentes AVS/AI exonérées d'impôt ?</div>
                                                     </div>
                                                 </div>  
@@ -839,15 +839,15 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Libéralisation complète des heures d'ouverture des magasins ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Micro-impôt sur le trafic des paiements sans espèces ?</div>
                                                     </div>
                                                 </div>  
@@ -856,7 +856,7 @@
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -869,7 +869,7 @@
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -1134,7 +1134,7 @@
                                                     <tbody>
                                                         <tr>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">non</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>                                                     
@@ -1183,11 +1183,11 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Droit de vote à 16 ans ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
@@ -1200,7 +1200,7 @@
                                                         les couples hétérosexuels ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Euthanasie active par des médecins en Suisse ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -1226,7 +1226,7 @@
                                                         <div class="uk-card uk-card-body">Imposition individuelle ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Rentes AVS/AI exonérées d'impôt ?</div>
                                                     </div>
                                                 </div>  
@@ -1239,11 +1239,11 @@
                                                         <div class="uk-card uk-card-body">Libéralisation complète des heures d'ouverture des magasins ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Micro-impôt sur le trafic des paiements sans espèces ?</div>
                                                     </div>
                                                 </div>  
@@ -1252,11 +1252,11 @@
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt contre</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">Plutôt contre</span>                                            
                                                         <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
                                                     </div> 
                                                 </div> 
@@ -1271,7 +1271,7 @@
                                                         <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Vote électronique en Suisse ?</div>
                                                     </div> 
                                                 </div> 
@@ -1674,7 +1674,7 @@
                                                     <tbody>
                                                         <tr>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: IndianRed;">non</span></td>
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>                                                   
@@ -1719,7 +1719,7 @@
                                                     <li>Pas d’augmentation de la retraite des femmes tant qu’elles n’auront
                                                     pas SYSTÉMATIQUEMENT le même salaire que les hommes</li>
                                                     <li>la hausse des coûts est du au fait que les caisses maladies sont
-                                                    privées et donc motivées, non-pas par la protection de la population,
+                                                    privées et donc motivées, NON-pas par la protection de la population,
                                                     mais par le profit, c’est pourquoi les primes augmentent chaque année
                                                     et que la caisse unique est la seule solution pour endiguer durablement
                                                     les augmentations des primes</li>                 
@@ -1729,7 +1729,7 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -1755,7 +1755,7 @@
                                                         des campagnes pour les élections et votations ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Abolition du changement d'heure d'été / heure d'hiver ?</div>
                                                     </div>
                                                 </div>  
@@ -1768,11 +1768,11 @@
                                                         <div class="uk-card uk-card-body">Evolution des impôts dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Imposition individuelle ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Rentes AVS/AI exonérées d'impôt ?</div>
                                                     </div>
                                                 </div>  
@@ -1799,7 +1799,7 @@
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -2683,7 +2683,7 @@
                                                 <p>Ce qui me motive, c'est que je m'aperçois jour après jour, que notre planète est de
                                                  plus en plus polluée par des produits qui menacent les êtres humains, les animaux, les 
                                                  plantes, par l'extension des surfaces agricoles qui détruit les écosystèmes, les engrais 
-                                                 et les pesticides non naturels qui polluent l'eau et le sol et l'hyper consommation de 
+                                                 et les pesticides NON naturels qui polluent l'eau et le sol et l'hyper consommation de 
                                                  viande qui mène à l'élevage industriel ce qui contribue à la mainmise des multinationales 
                                                  au détriment des petits agriculteurs et souvent à la cruauté animale.</p>
                                                 <p>En tant que femme, je veux me battre pour l'égalité entre les femmes et les hommes dans 
@@ -2706,7 +2706,7 @@
                                                 <p>l'égalité entre les femmes et les hommes.</p>
                                                 <p>Les femmes doivent être plus représentées dans de nombreux métiers et ne plus être 
                                                 discriminées en termes de salaires et de retraites.</p>
-                                                <p>Promouvoir des places de travail à temps partiel non seulement pour les femmes, mais
+                                                <p>Promouvoir des places de travail à temps partiel NON seulement pour les femmes, mais
                                                  également pour les hommes.</p>
                                                 <p>Informer et sensibiliser sur la protection de la faune, préserver les ressources 
                                                 naturelles de la Terre (eau, sol minéraux, faune, forêts).</p>
@@ -2796,7 +2796,7 @@
                                                         les couples hétérosexuels ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Euthanasie active par des médecins en Suisse ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
@@ -2822,7 +2822,7 @@
                                                         <div class="uk-card uk-card-body">Imposition individuelle ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Rentes AVS/AI exonérées d'impôt ?</div>
                                                     </div>
                                                 </div>  
@@ -2835,11 +2835,11 @@
                                                         <div class="uk-card uk-card-body">Libéralisation complète des heures d'ouverture des magasins ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">Plutôt contre</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">Plutôt contre</span>                                            
                                                         <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Micro-impôt sur le trafic des paiements sans espèces ?</div>
                                                     </div>
                                                 </div>  
@@ -2848,11 +2848,11 @@
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
                                                     </div> 
                                                 </div> 
@@ -2865,7 +2865,7 @@
                                                         <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Vote électronique en Suisse ?</div>
                                                     </div> 
                                                 </div> 
@@ -3064,7 +3064,7 @@
                                                         <div class="uk-card uk-card-body">Age de la retraite relevé et identique pour les femmes et les hommes ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Hausse des coûts des primes d'assurance maladie dans le Jura ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
@@ -3106,7 +3106,7 @@
                                                         des campagnes pour les élections et votations ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Abolition du changement d'heure d'été / heure d'hiver ?</div>
                                                     </div>
                                                 </div>  
@@ -3132,11 +3132,11 @@
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                        <span class="uk-badge" style="background-color: grey;">NEUTRE</span>                                            
                                                         <div class="uk-card uk-card-body">Libéralisation complète des heures d'ouverture des magasins ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
                                                     </div>  
                                                     <div class="uk-card uk-card-body">       
@@ -3153,7 +3153,7 @@
                                                         <div class="uk-card uk-card-body">Géothermie profonde à Haute-Sorne ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: IndianRed;">non</span>                                            
+                                                        <span class="uk-badge" style="background-color: red;">NON</span>                                            
                                                         <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
                                                     </div> 
                                                 </div> 
@@ -3168,7 +3168,7 @@
                                                         <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
                                                     </div>
                                                     <div class="uk-card uk-card-body">       
-                                                        <span class="uk-badge" style="background-color: MediumAquaMarine;">oui</span>                                            
+                                                        <span class="uk-badge" style="background-color: green;">OUI</span>                                            
                                                         <div class="uk-card uk-card-body">Vote électronique en Suisse ?</div>
                                                     </div> 
                                                 </div> 

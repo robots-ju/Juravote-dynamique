@@ -23,6 +23,10 @@
     $districtPorrentruy = "/IMG/Logo/Districts/Porrentruy.png";
 
     //ElectionsJU2020
+        //Gouvernement
+        $RobertCelineGVTGrand = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/Gouvernement/VERTS_RobertCelineGRAND.jpg";
+        $RobertCelineGVT = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/Gouvernement/VERTS_RobertCeline.jpg";
+
         //ParlementDelemont
             //CSPOP
             $MeuryRemyGrand = "/IMG/Personnalites/ElectionsJU/ParlementD/Grandes/CSPOP_MeuryRemy.jpg";
@@ -58,9 +62,10 @@
             $WislerFanny = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_WislerFanny.jpg";
 
             //VERTS
-            $BreuleuxRaphael = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_BreuleuxRaphael.png";
-            $FerreiraNelson = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_FerreiraNelson.JPG";
-            $VoirolAnselme = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoirolAnselme.png";
+            $BreuleuxRaphael = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_BreuleuxRaphael.png";
+            $FerreiraNelson = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_FerreiraNelson.JPG";
+            $RobertCelinePLT = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_RobertCeline.jpg";
+            $VoirolAnselme = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoirolAnselme.png";
 
         //ParlementFM
             //VERTS

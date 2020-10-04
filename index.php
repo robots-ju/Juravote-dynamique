@@ -111,6 +111,7 @@
                                                 <p>Gaëtan Marchand (Verts, Montfaucon)</p>                                                
                                                 <p>Ludovic Monteiro (PLR, Boncourt)</p>
                                                 <p>Yan Noirjean (PLR, Alle)</p>
+                                                <p>Céline Robert-Charrue Linder (Verts, Delémont)</p>
                                                 <p>Yann Rufer (PLR, Rossemaison)</p>
                                                 <p>Matthieu Saner (PLR, Delémont)</p>     
                                                 <p>Vincent Schmitt (Verts, Les Enfers)</p>  

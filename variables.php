@@ -23,6 +23,10 @@
     $districtPorrentruy = "/Juravote-dynamique/IMG/Logo/Districts/Porrentruy.png";
 
     //ElectionsJU2020
+        //Gouvernement
+        $RobertCelineGVTGrand = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/Gouvernement/VERTS_RobertCelineGRAND.jpg";
+        $RobertCelineGVT = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/Gouvernement/VERTS_RobertCeline.jpg";
+
         //ParlementDelemont
             //CSPOP
             $MeuryRemyGrand = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/Grandes/CSPOP_MeuryRemy.jpg";
@@ -60,6 +64,7 @@
             //VERTS
             $BreuleuxRaphael = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_BreuleuxRaphael.png";
             $FerreiraNelson = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_FerreiraNelson.JPG";
+            $RobertCelinePLT = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_RobertCeline.jpg";
             $VoirolAnselme = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoirolAnselme.png";
 
         //ParlementFM

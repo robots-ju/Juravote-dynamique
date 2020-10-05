@@ -108,7 +108,8 @@
                                                 <p>Vincent Froté (PLR, Delémont)</p>
                                                 <p>Gisèle Juillet (Verts, Courtemaîche)</p>
                                                 <p>Marcelle Luchinger-Fleury (PLR, Courroux)</p> 
-                                                <p>Gaëtan Marchand (Verts, Montfaucon)</p>                                                
+                                                <p>Gaëtan Marchand (Verts, Montfaucon)</p> 
+                                                <p>Pierre-Xavier Meury (PLR, Delémont)</p>                                               
                                                 <p>Ludovic Monteiro (PLR, Boncourt)</p>
                                                 <p>Yan Noirjean (PLR, Alle)</p>
                                                 <p>Céline Robert-Charrue Linder (Verts, Delémont)</p>

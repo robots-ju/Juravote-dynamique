@@ -44,6 +44,7 @@
             $ChetelatFlorian = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ChetelatFlorian.PNG";
             $FroteVincent = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_FroteVincent.jpeg";
             $LuchingerMarcelle = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_LuchingerMarcelle.png";
+            $MeuryPX = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_MeuryPX.jpg";
             $PatrickParrat = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ParratPatrick.jpeg";
             $RenaudDaniel = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_RenaudDaniel.PNG";
             $RuferYann = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YannRufer.png";    
@@ -80,6 +81,7 @@
 
         //ParlementAjoie
             //PCSI
+            $HaasQuentin = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PCSI_HaasQuentin.jpg";
             $SchaffterThomas = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PCSI_SchaffterThomas.jpg";
 
             //PLR

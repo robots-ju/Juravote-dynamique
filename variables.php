@@ -48,7 +48,7 @@
             $PatrickParrat = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ParratPatrick.jpeg";
             $RenaudDaniel = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_RenaudDaniel.PNG";
             $RuferYann = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YannRufer.png";    
-            $SanerMatthieu = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";            
+            $SanerMatthieu = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";         
             
             //PS
             $BurkhalterJoel = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_BurkhalterJoel.png";
@@ -60,13 +60,16 @@
             $SanglardYannick = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_SanglardYannick.jpg";
             $SteuletValentine = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_SteuletValentine.JPG";
             $RionValery = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_RionValery.jpg";
+            $VollmerColin = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_VollmerColin.jpg";
             $WislerFanny = "/IMG/Personnalites/ElectionsJU/ParlementD/PS_WislerFanny.jpg";
 
             //VERTS
+            $BlaserFrederic = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_BlaserFrederic.png";
             $BreuleuxRaphael = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_BreuleuxRaphael.png";
             $FerreiraNelson = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_FerreiraNelson.JPG";
             $RobertCelinePLT = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_RobertCeline.jpg";
             $VoirolAnselme = "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoirolAnselme.png";
+            $VoutatAudrey =  "/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoutatAudrey.jpg";            
 
         //ParlementFM
             //VERTS
@@ -87,7 +90,8 @@
             //PLR
             $LudovicMonteiro = "/IMG/Personnalites/ElectionsJU/ParlementA/PLR_MonteiroLudovic.jpeg";
             $VuillaumeThomas = "/IMG/Personnalites/ElectionsJU/ParlementA/PLR_VuillaumeThomas.jpeg";
-            $YanNoirjean = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YanNoirjean.JPG";
+            $YanNoirjean = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YanNoirjean.JPG";                
+            $VoirolGabriel = "/IMG/Personnalites/ElectionsJU/ParlementA/PLR_VoirolGabriel.jpg"; 
 
             //PS
             $AubryJelica = "/IMG/Personnalites/ElectionsJU/ParlementA/PS_AubryJelica.jpg";

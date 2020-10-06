@@ -44,6 +44,7 @@
             $ChetelatFlorian = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ChetelatFlorian.PNG";
             $FroteVincent = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_FroteVincent.jpeg";
             $LuchingerMarcelle = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_LuchingerMarcelle.png";
+            $MeuryPX = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_MeuryPX.jpg";
             $PatrickParrat = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ParratPatrick.jpeg";
             $RenaudDaniel = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_RenaudDaniel.PNG";
             $RuferYann = "/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YannRufer.png";    
@@ -80,6 +81,7 @@
 
         //ParlementAjoie
             //PCSI
+            $HaasQuentin = "/IMG/Personnalites/ElectionsJU/ParlementA/PCSI_HaasQuentin.jpg";
             $SchaffterThomas = "/IMG/Personnalites/ElectionsJU/ParlementA/PCSI_SchaffterThomas.jpg";
 
             //PLR

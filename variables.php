@@ -369,7 +369,7 @@
     $PHPvotationselectionsAccueil = "/Pages/Votations et Elections/accueilVE.php";
     $PHPelectionsAccueil = "/Pages/Votations et Elections/Elections/elections.php";
 
-    $PHPelectionsJUaccueil = "/Pages/Votations et Elections/Elections/ElectionsJU/accueil.php";
+    $PHPelectionsJUaccueil = "/Pages/Votations et Elections/Elections/ElectionsJU/Accueil.php";
     $PHPelectionsJUGouvernement1 = "/Pages/Votations et Elections/Elections/ElectionsJU/Gouvernement_20201018.php";
     $PHPelectionsJUGouvernement2 = "/Pages/Votations et Elections/Elections/ElectionsJU/Gouvernement_20201108.php";
     $PHPelectionsJUParlement = "/Pages/Votations et Elections/Elections/ElectionsJU/Parlement_20201018.php";

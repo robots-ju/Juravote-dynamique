@@ -101,6 +101,7 @@
                                         <li>                                   
                                             <div class="uk-column-1-2@m uk-column-1-1@s uk-column-divider uk-text-center">
                                                 <p>Philippe Bassin (Verts, Porrentruy)</p>
+                                                <p>Frédéric Blaser (Verts, Delémont)</p>
                                                 <p>Martin Braichet (PLR, Montavon)</p>
                                                 <p>Joël Burkhalter (PS, Courrendlin)</p>
                                                 <p>Jean-Marc Comment (Verts, St-Ursanne)</p>  
@@ -117,7 +118,9 @@
                                                 <p>Matthieu Saner (PLR, Delémont)</p>     
                                                 <p>Vincent Schmitt (Verts, Les Enfers)</p>  
                                                 <p>Romuald Siess (PS, Vendlincourt)</p>
-                                                <p>Valentine Steulet (PS, Rossemaison)</p>                                          
+                                                <p>Valentine Steulet (PS, Rossemaison)</p>
+                                                <p>Colin Vollmer (PS, Delémont)</p> 
+                                                <p>Audrey Voutat (Verts, Rossemaison)</p>                                         
                                                 <p>Thomas Vuillaume (PLR, Grandfontaine)</p>
                                                 <p>Fanny Wisler (PS, Delémont)</p>                                                                      
                                             </div> 

@@ -48,7 +48,7 @@
             $PatrickParrat = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_ParratPatrick.jpeg";
             $RenaudDaniel = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_RenaudDaniel.PNG";
             $RuferYann = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YannRufer.png";    
-            $SanerMatthieu = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";            
+            $SanerMatthieu = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_SanerMatthieu.png";         
             
             //PS
             $BurkhalterJoel = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_BurkhalterJoel.png";
@@ -60,13 +60,16 @@
             $SanglardYannick = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_SanglardYannick.jpg";
             $SteuletValentine = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_SteuletValentine.JPG";
             $RionValery = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_RionValery.jpg";
+            $VollmerColin = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_VollmerColin.jpg";
             $WislerFanny = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PS_WislerFanny.jpg";
 
             //VERTS
+            $BlaserFrederic = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_BlaserFrederic.png";
             $BreuleuxRaphael = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_BreuleuxRaphael.png";
             $FerreiraNelson = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_FerreiraNelson.JPG";
             $RobertCelinePLT = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_RobertCeline.jpg";
             $VoirolAnselme = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoirolAnselme.png";
+            $VoutatAudrey =  "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/VERTS_VoutatAudrey.jpg";            
 
         //ParlementFM
             //VERTS
@@ -87,7 +90,8 @@
             //PLR
             $LudovicMonteiro = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PLR_MonteiroLudovic.jpeg";
             $VuillaumeThomas = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PLR_VuillaumeThomas.jpeg";
-            $YanNoirjean = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YanNoirjean.JPG";
+            $YanNoirjean = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementD/PLR_YanNoirjean.JPG";                
+            $VoirolGabriel = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PLR_VoirolGabriel.jpg"; 
 
             //PS
             $AubryJelica = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/PS_AubryJelica.jpg";

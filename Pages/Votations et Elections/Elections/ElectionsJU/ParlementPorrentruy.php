@@ -453,10 +453,9 @@
                                                 <p>Hockey sur glace, bons repas, lecture, théâtre.</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="http://instagram.com/grizz_ly17" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/ludovic.monteiro.50" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="http://instagram.com/grizz_ly17" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
+                                                <a href="https://www.facebook.com/ludovic.monteiro.50" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                
                                             </li>
 
                                             <li>
@@ -1114,10 +1113,9 @@
                                                 Et lorsqu'il me reste du temps, j'aime m'adonner au bricolage et suivre le sport en général !</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="instagram.com/aubryjanketicjelica" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="facebook.com/jelica.aubryjanketic/ " target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="instagram.com/aubryjanketicjelica" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
+                                                <a href="facebook.com/jelica.aubryjanketic/ " target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                
                                             </li>
 
                                             <li>
@@ -1816,11 +1814,10 @@
                                                 <p>Jouer au football, matchs BCB/HCA, lire, voyager.</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="https://twitter.com/JoakimMartins" target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://www.instagram.com/joakim.martins/" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/joakim.martins.967" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="https://twitter.com/JoakimMartins" target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
+                                                <a href="https://www.instagram.com/joakim.martins/" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
+                                                <a href="https://www.facebook.com/joakim.martins.967" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                
                                             </li>
 
                                             <li>
@@ -3410,11 +3407,10 @@
                                                 <p>Marche, yoga, lecture, permaculture</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="https://twitter.com/jmcomment" target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://www.jeanmarccomment.net" target="_blank" uk-icon="icon: link; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/jeanmarc.comment" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="https://twitter.com/jmcomment" target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
+                                                <a href="https://www.jeanmarccomment.net" target="_blank" uk-icon="icon: link; ratio: 2"></a></li>
+                                                <a href="https://www.facebook.com/jeanmarc.comment" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                
                                             </li>
 
                                             <li>
@@ -3763,9 +3759,8 @@
                                                 <p>Lecture, randonnée.</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/brice.prudat/" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="https://www.facebook.com/brice.prudat/" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                
                                             </li>
 
                                             <li>
@@ -4794,8 +4789,8 @@
                                                 <p>Tennis, marche. Et le HCA, pour lequel je m'investis au comité directeur depuis 18 ans.</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <p>Je ne suis pas sur les réseaux sociaux que je préfère appeler la "fachosphère"
-                                                tant la libération de la parole y permet aux médiocres d'y déverser leur haine.</p>
+                                                <a href="https://www.facebook.com/thomas.schaffter.3" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                <a href="https://www.linkedin.com/in/thomas-schaffter-55b72426/" target="_blank" uk-icon="icon: linkedin; ratio: 2"></a></li>
                                             </li>
 
                                             <li>

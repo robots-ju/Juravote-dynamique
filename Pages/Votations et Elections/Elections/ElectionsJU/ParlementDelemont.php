@@ -150,9 +150,8 @@
                                                 <p>famille, marche, vélo, ski, cartes</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/marcelle.luchinger" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="https://www.facebook.com/marcelle.luchinger" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                               
                                             </li>
 
                                             <li>
@@ -440,12 +439,11 @@
                                                 <p>Sports divers & photographie</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="https://twitter.com/matthieusaner" target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="http://linkedin.com/in/matthieusaner" target="_blank" uk-icon="icon: linkedin; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://www.instagram.com/matthieusaner" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/matthieu.saner" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="https://twitter.com/matthieusaner" target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
+                                                <a href="http://linkedin.com/in/matthieusaner" target="_blank" uk-icon="icon: linkedin; ratio: 2"></a></li>
+                                                <a href="https://www.instagram.com/matthieusaner" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
+                                                <a href="https://www.facebook.com/matthieu.saner" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                
                                             </li>
 
                                             <li>
@@ -718,9 +716,8 @@
                                                 <p>Sport en général, HCA</p>
 
                                                 <h4>Vos réseaux sociaux</h4>                                               
-                                                <ul>
-                                                    <li class="icon_resaux"><a href=" https://ch.linkedin.com/in/martin-braichet-69284110b" target="_blank" uk-icon="icon: linkedin; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href=" https://ch.linkedin.com/in/martin-braichet-69284110b" target="_blank" uk-icon="icon: linkedin; ratio: 2"></a></li>
+                                                
                                             </li>
 
                                             <li>
@@ -2039,9 +2036,8 @@
                                                 <p>Chasse, pêche, montagne</p>
 
                                                 <h4>Vos réseaux sociaux</h4>                                               
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/profile.php?id=1225964143" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>                                                
+                                                <a href="https://www.facebook.com/profile.php?id=1225964143" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                                                                
                                             </li>
 
                                             <li>
@@ -2274,12 +2270,10 @@
                                                 <p>Cinéma / Informatique</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="https://twitter.com/DanRenaud3" target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="www.linkedin.com/in/danielrenaud2000" target="_blank" uk-icon="icon: linkedin; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://www.instagram.com/danielrenaud2000/" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/profile.php?id=100008360372402" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="https://twitter.com/DanRenaud3" target="_blank" uk-icon="icon: twitter; ratio: 2"></a>
+                                                <a href="www.linkedin.com/in/danielrenaud2000" target="_blank" uk-icon="icon: linkedin; ratio: 2"></a>
+                                                <a href="https://www.instagram.com/danielrenaud2000/" target="_blank" uk-icon="icon: instagram; ratio: 2"></a>
+                                                <a href="https://www.facebook.com/profile.php?id=100008360372402" target="_blank" uk-icon="icon: facebook; ratio: 2"></a>                                                
                                             </li>
 
                                             <li>
@@ -2516,9 +2510,7 @@
                                                 <p>La musique, la lecture, le dessin, les voyages en train...</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/eva.colomb.1/" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="https://www.facebook.com/eva.colomb.1/" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
                                             </li>
 
                                             <li>
@@ -3091,9 +3083,8 @@
                                                 <p>Lecture, badminton, balades</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/valery.rion/" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="https://www.facebook.com/valery.rion/" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                               
                                             </li>
 
                                             <li>
@@ -4107,9 +4098,8 @@
                                                 <p>Photographie; voyages; vieille cuisine française; football des talus</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>                                                    
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/patrick.cerf/" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="https://www.facebook.com/patrick.cerf/" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                
                                             </li>
 
                                             <li>
@@ -4349,11 +4339,10 @@
                                                 <p>La lecture et les promenades en forêt. La politique jurassienne.</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="https://twitter.com/PaComte/ " target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://www.linkedin.com/in/pierre-andr%C3%A9-comte-53a8ab139/" target="_blank" uk-icon="icon: linkedin; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/pierreandre.comte/" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="https://twitter.com/PaComte/ " target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
+                                                <a href="https://www.linkedin.com/in/pierre-andr%C3%A9-comte-53a8ab139/" target="_blank" uk-icon="icon: linkedin; ratio: 2"></a></li>
+                                                <a href="https://www.facebook.com/pierreandre.comte/" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                
                                             </li>
 
                                             <li>
@@ -4581,9 +4570,8 @@
                                                 <p>Passer du temps en famille.</p>
 
                                                 <h4>Vos réseaux sociaux</h4>                                               
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/fabrice.macquat" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="https://www.facebook.com/fabrice.macquat" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                
                                             </li>
 
                                             <li>
@@ -6442,10 +6430,9 @@
                                                 <p>Trekking, plongée, chant choral.</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="www.instagram.com/pev_ju" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="www.facebook.com/pevjura" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="www.instagram.com/pev_ju" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
+                                                <a href="www.facebook.com/pevjura" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                
                                             </li>
 
                                             <li>
@@ -7568,11 +7555,10 @@
                                                 art, archéologie, société, etc.....</p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="https://twitter.com/CelineLinder" target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://diju.ch/f/notices/detail/1003741" target="_blank" uk-icon="icon: link; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://www.facebook.com/celine.robertcharruelinder.3" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="https://twitter.com/CelineLinder" target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
+                                                <a href="https://diju.ch/f/notices/detail/1003741" target="_blank" uk-icon="icon: link; ratio: 2"></a></li>
+                                                <a href="https://www.facebook.com/celine.robertcharruelinder.3" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
+                                                
                                             </li>
 
                                             <li>

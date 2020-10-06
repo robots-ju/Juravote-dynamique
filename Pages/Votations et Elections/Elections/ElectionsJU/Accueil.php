@@ -54,7 +54,7 @@
                     <a href="Gouvernement_20201018.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $ElectionsJU ?>" alt="Election au Gouvernement jurassien">
+                                <img width="150" height="150" src="<?php echo $pouvoirCantonal ?>" alt="Election au Gouvernement jurassien">
                             </div>
                         </div>
                         <div class="uk-card-body">
@@ -73,7 +73,7 @@
                     <a href="Parlement_20201018.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $ElectionsJU ?>" alt="Election au Parlement jurassien">
+                                <img width="150" height="150" src="<?php echo $pouvoirCantonal ?>" alt="Election au Parlement jurassien">
                             </div>
                         </div>
                         <div class="uk-card-body">

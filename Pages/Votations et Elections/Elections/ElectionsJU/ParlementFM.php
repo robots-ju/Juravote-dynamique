@@ -1428,10 +1428,9 @@
                                                 <p>basket-ball, marche, vélo </p>
 
                                                 <h4>Vos réseaux sociaux</h4>
-                                                <ul>
-                                                    <li class="icon_resaux"><a href="https://www.linkedin.com/in/vincent-schmitt-8a030486/ " target="_blank" uk-icon="icon: linkedin; ratio: 2"></a></li>
-                                                    <li class="icon_resaux"><a href="https://www.cernievillers.ch/?page_id=65 " target="_blank" uk-icon="icon: link; ratio: 2"></a></li>
-                                                </ul>
+                                                <a href="https://www.linkedin.com/in/vincent-schmitt-8a030486/ " target="_blank" uk-icon="icon: linkedin; ratio: 2"></a></li>
+                                                <a href="https://www.cernievillers.ch/?page_id=65 " target="_blank" uk-icon="icon: link; ratio: 2"></a></li>
+                                                
                                             </li>
 
                                             <li>

@@ -369,7 +369,7 @@
     $PHPvotationselectionsAccueil = "/Juravote-dynamique/Pages/Votations et Elections/accueilVE.php";
     $PHPelectionsAccueil = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.php";
 
-    $PHPelectionsJUaccueil = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsJU/accueil.php";
+    $PHPelectionsJUaccueil = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsJU/Accueil.php";
     $PHPelectionsJUGouvernement1 = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsJU/Gouvernement_20201018.php";
     $PHPelectionsJUGouvernement2 = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsJU/Gouvernement_20201108.php";
     $PHPelectionsJUParlement = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsJU/Parlement_20201018.php";

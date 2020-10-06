@@ -174,7 +174,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <!--<a href="<?php echo $PHPelectionsJUGouvernement2 ?>">
+                            <a href="<?php echo $PHPelectionsJUGouvernement2 ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">08.11</div>
                                     <div class="uk-card-body">
@@ -182,14 +182,14 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="<?php echo $fichier ?>">
+                            <a href="<?php echo $PHPvotationsCHaccueil ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">29.11</div>
                                     <div class="uk-card-body">
                                         <h3 class="uk-card-title uk-align-left">Votations - Suisse</h3>
                                     </div>
                                 </div>
-                            </a>-->
+                            </a>
                         </div>
                     </div>
 

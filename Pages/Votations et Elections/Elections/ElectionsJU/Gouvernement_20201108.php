@@ -47,9 +47,11 @@
         </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Election du Gouvernement jurassien (1er tour) - 18 octobre 2020</h1>
+        <h1 class="uk-heading-large">Election du Gouvernement jurassien (2e tour) - 08 novembre 2020</h1>
         <hr>
-        <div class="uk-alert-primary" uk-alert>
+        <h3>Les informations sur le deuxième tour de l'Election au Gouvernement Jurassien seront disponibles la semaine suivant
+        le premier tour de la même élection !
+        <!--<div class="uk-alert-primary" uk-alert>
             <a class="uk-alert-close" uk-close></a>
             <p>Vous trouverez plus d'informations sur les candidates et candidats en cliquant sur leurs cartes respectives !
             (la mise en ligne se fait au fur et à mesure des retours des candidates et candidats)</p>
@@ -323,7 +325,7 @@
             
             <li>
             </li>
-        </ul>        
+        </ul> -->       
     </section>
 </main>
 </body>

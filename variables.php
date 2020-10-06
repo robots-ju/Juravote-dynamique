@@ -5,7 +5,7 @@
     //communes :
     $communeBonfol = "/IMG/Logo/Communes/Bonfol.png";
     $communeChatillon = "/IMG/Logo/Communes/Chatillon.png";
-    $communeCourtedoux ="Juravote-dynamique/IMG/Logo/Communes/Courtedoux.png";
+    $communeCourtedoux ="Juravote-dynamique/IMG/Logo/Communes/Courtedoux.PNG";
     $communeCourtetelle = "/IMG/Logo/Communes/Courtetelle.png";
     $communeDelemont = "/IMG/Logo/Communes/Delemont.png";
     $communeDevelier = "/IMG/Logo/Communes/Develier.png";
@@ -256,9 +256,11 @@
         $Légumes = "/IMG/Votations/BANQUE_IMAGE/Légumes.jpg";
         $Logements = "/IMG/Votations/BANQUE_IMAGE/Logements.jpg";
         $Mariage = "/IMG/Votations/BANQUE_IMAGE/Mariage.jpg";
+        $MaterielGuerre = "/IMG/Votations/BANQUE_IMAGE/MaterielGuerre.jpg";
         $Médicaments = "/IMG/Votations/BANQUE_IMAGE/Médicaments.jpg";
         $Menotte = "/IMG/Votations/BANQUE_IMAGE/Menotte.jpg";
         $Radio = "/IMG/Votations/BANQUE_IMAGE/radio.jpg";
+        $Responsables = "/IMG/Votations/BANQUE_IMAGE/Responsables.jpg";
         $Route = "/IMG/Votations/BANQUE_IMAGE/Route.jpg";
         $Senior = "/IMG/Votations/BANQUE_IMAGE/Senior.jpg";
         $Sous = "/IMG/Votations/BANQUE_IMAGE/Sous.jpg";

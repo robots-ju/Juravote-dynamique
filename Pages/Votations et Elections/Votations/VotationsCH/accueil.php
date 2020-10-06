@@ -48,20 +48,22 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Votations fédérales du 27 septembre 2020</h1>
         <hr>
-            <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
-
+            <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="CongePaternite.php">
+                        <a href="Responsable.php">
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
-                                    <img class="illustration" src="<?php echo $CongePaternite ?>" alt="Référendum congé paternité">
+                                    <img width="500" height="500" src="<?php echo $Responsables ?>" 
+                                    alt="Initiative populaire « Entreprises responsables – 
+                                    pour protéger l’être humain et l’environnement »">
                                 </div>
                             </div>
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-expand">
-                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Congé paternité</h3>
+                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Initiative populaire 
+                                        « Entreprises responsables – pour protéger l’être humain et l’environnement »</h3>
                                     </div>
                                 </div>
                             </div>
@@ -71,79 +73,25 @@
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="Chasse.php">
+                        <a href="Armes.php">
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
-                                    <img class="illustration" src="<?php echo $chasse ?>" alt="Modification loi sur la chasse">
+                                    <img width="500" height="500" src="<?php echo $MaterielGuerre ?>"
+                                     alt="Initiative populaire « Pour une interdiction du
+                                     financement des producteurs de matériel de guerre »">
                                 </div>
                             </div>
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-expand">
-                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Loi sur la chasse</h3>
+                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Initiative populaire
+                                         « Pour une interdiction du financement des producteurs de matériel de guerre »</h3>
                                     </div>
                                 </div>
                             </div>
                         </a>
                     </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="InitiativeLimitation.php">
-                            <div class="uk-card-header">
-                                <div class="uk-width-auto">
-                                    <img class="illustration" src="<?php echo $Europe ?>" alt="Initiative de limitation">
-                                </div>
-                            </div>
-                            <div class="uk-card-body">
-                                <div class="uk-grid-small uk-flex-column" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Initiative "de limitation"</h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="ImpotDirect.php">
-                            <div class="uk-card-header">
-                                <div class="uk-width-auto">
-                                    <img class="illustration" src="<?php echo $Sous ?>" alt="Votation LIFD">
-                                </div>
-                            </div>
-                            <div class="uk-card-body">
-                                <div class="uk-grid-small uk-flex-column" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Loi sur l'impôt direct</h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="AvionsCombat.php">
-                            <div class="uk-card-header">
-                                <div class="uk-width-auto">
-                                    <img class="illustration" src="<?php echo $avions ?>" alt="Référendum avions de combat">
-                                </div>
-                            </div>
-                            <div class="uk-card-body">
-                                <div class="uk-grid-small uk-flex-column" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Avions de combat</h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
+                </div>                
             </div>
     </section>
 </main>

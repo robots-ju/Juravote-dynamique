@@ -134,14 +134,6 @@
                     <div class="uk-width-1-4@m uk-flex-first@m">
                         <div class="uk-card uk-card-body uk-padding-remove">
                             <h3 class="uk-heading-divider">Prochains événements</h3> 
-                            <a href="<?php echo $siteLajoux ?>" target="blank">
-                                <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
-                                    <div class="uk-card-badge uk-label" style="background-color: #D20603;">08.10</div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title uk-align-left">Assemblée communale - Lajoux</h3>
-                                    </div>
-                                </div>
-                            </a>
                             <a href="<?php echo $PHPelectionsJUaccueil ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>

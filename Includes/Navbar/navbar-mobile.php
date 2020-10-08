@@ -21,9 +21,6 @@
                 <li id="Accueil">
                         <a href="<?php echo $PHPindex; ?>">Accueil</a>
                     </li>
-                    <!--<li id="News">
-                        <a href="<?php echo $PHPactualites; ?>">Actualités politiques</a>
-                    </li>-->
                     <li id="Votations">
                         <a href="<?php echo $PHPvotationselectionsAccueil; ?>">Prochaines votations et élections</a>
                     </li>

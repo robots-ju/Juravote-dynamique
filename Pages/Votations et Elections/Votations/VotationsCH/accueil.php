@@ -46,7 +46,7 @@
         </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Votations fédérales du 27 septembre 2020</h1>
+        <h1 class="uk-heading-large">Votations fédérales du 29 novembre 2020</h1>
         <hr>
             <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                 <div>

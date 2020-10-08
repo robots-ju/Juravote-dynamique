@@ -63,9 +63,9 @@
                         </div>
                     </div>
                     <div class="uk-card-body uk-text-left">
-                        <p><b>Objet : </b>Élections au Conseil communale</p>
+                        <p><b>Objet : </b>Élections au Conseil communal</p>
                         <p><b>Participation : </b>51.00 %</p>
-                        <p><b>Candidats-es élus-es : </b>Aurélie Juillerat et Yann Maurer</p>
+                        <p><b>Candidats-es élus-es : </b>Aurélie Juillerat et Yan Maurer</p>
                         <p><b>Type de l'élection : </b>Élection communale</p>
                         <p><b>Mode d'élection : </b>Élection complémentaire</p>
                         <p><a href="<?php echo $PHPdescriptionConseilLajoux2020 ?>">Lien vers les informations d'élection</a></p>
@@ -89,7 +89,7 @@
 
                                         // Add data
                                         resultatMairie.data = [{
-                                            "candidat": "Yann Maurer",
+                                            "candidat": "Yan Maurer",
                                             "suffrages": 165
                                         }, {
                                             "candidat": "Aurélie Juillerat",

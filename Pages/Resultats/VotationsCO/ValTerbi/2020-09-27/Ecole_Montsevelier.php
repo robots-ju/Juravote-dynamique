@@ -78,94 +78,85 @@
                             <h2>Résultats communaux</h2>
                         </div>
                     </div>
-                    <section style="padding: 2%;">                        
-                                <div class="uk-card-body">
-                                    <div id="chartdivprovita" style="width: 100%; height: 250px;"></div>
-                                    <script>
-                                        // Create chart instance
-                                        var resultatprovita = am4core.create("chartdivprovita", am4charts.PieChart);
+                    <div class="uk-card-body">
+                        <div class="uk-grid-small uk-align-center" uk-grid>
+                            <div uk-switcher="animation: uk-animation-fade; toggle: > *">
+                                <button class="uk-button uk-button-default" type="button">Résultats globaux</button>
+                                <button class="uk-button uk-button-default" type="button">Résultats détaillés</button>
+                            </div>
+                            <ul class="uk-switcher uk-margin">                                
+                                    <li>              
+                                        <section style="padding: 2%;">                        
+                                            <div class="uk-card-body">
+                                                <div id="chartdivprovita" style="width: 100%; height: 250px;"></div>
+                                                <script>
+                                                    // Create chart instance
+                                                    var resultatprovita = am4core.create("chartdivprovita", am4charts.PieChart);
 
-                                        // Add data
-                                        resultatprovita.data = [{
-                                            "votes": "OUI",
-                                            "suffrages": 1028
-                                        }, {
-                                            "votes": "NON",
-                                            "suffrages": 289
-                                        }];
+                                                    // Add data
+                                                    resultatprovita.data = [{
+                                                        "votes": "OUI",
+                                                        "suffrages": 1028
+                                                    }, {
+                                                        "votes": "NON",
+                                                        "suffrages": 289
+                                                    }];
 
-                                        // Add and configure Series
-                                        var dataprovita = resultatprovita.series.push(new am4charts.PieSeries());
-                                        dataprovita.dataFields.value = "suffrages";
-                                        dataprovita.dataFields.category = "votes";
+                                                    // Add and configure Series
+                                                    var dataprovita = resultatprovita.series.push(new am4charts.PieSeries());
+                                                    dataprovita.dataFields.value = "suffrages";
+                                                    dataprovita.dataFields.category = "votes";
 
-                                        // Let's cut a hole in our Pie chart the size of 40% the radius
-                                        resultatprovita.innerRadius = am4core.percent(40);
+                                                    // Let's cut a hole in our Pie chart the size of 40% the radius
+                                                    resultatprovita.innerRadius = am4core.percent(40);
 
-                                        // Disable ticks and labels
-                                        dataprovita.labels.template.disabled = true;
-                                        dataprovita.ticks.template.disabled = true;
+                                                    // Disable ticks and labels
+                                                    dataprovita.labels.template.disabled = true;
+                                                    dataprovita.ticks.template.disabled = true;
 
-                                        // Disable tooltips
-                                        dataprovita.slices.template.tooltipText = "";
+                                                    // Disable tooltips
+                                                    dataprovita.slices.template.tooltipText = "";
 
-                                        // Add a legend
-                                        resultatprovita.legend = new am4charts.Legend();
-                                        resultatprovita.legend.position = "right";
+                                                    // Add a legend
+                                                    resultatprovita.legend = new am4charts.Legend();
+                                                    resultatprovita.legend.position = "right";
 
-                                        dataprovita.colors.list = [
-                                        am4core.color("#89ff6a"),
-                                        am4core.color("#ff4242"),
-                                        ]
-                                    </script>
+                                                    dataprovita.colors.list = [
+                                                    am4core.color("#89ff6a"),
+                                                    am4core.color("#ff4242"),
+                                                    ]
+                                                </script>
+                                            </div>                                            
+                                        </section>
+                                    </li>
+                                    <li>
+                                        <table class="uk-table uk-table-divider uk-table-striped uk-table-hover">
+                                            <thead>
+                                                <tr>
+                                                    
+                                                    <th>Participation</th>
+                                                    <th>Nombre de oui (en voix)</th>
+                                                    <th>Nombre de oui (en %)</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td><b>55.00 % %</b></td>
+                                                    <td><b>1028</b></td>
+                                                    <td><b>78.10 %</b></td>
+                                                </tr>
+                                            </tbody>
+                                            </table>
+                                    </li>
                                 </div>
-                           
-                    </section>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default">
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column uk-align-left" uk-grid>
-                            <h2>Analyse du résultat</h2>
+                            </ul>
                         </div>
                     </div>
-                    <div class="uk-card-body uk-text-left">
-                        
-                    </div>
                 </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default">
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column uk-align-left" uk-grid>
-                            <h2>Résultats détaillés</h2>
-                        </div>
-                    </div>
-                    <section style="padding: 2%;">
-                        <table class="uk-table uk-table-divider uk-table-striped uk-table-hover">
-                            <thead>
-                                <tr>
-                                    
-                                    <th>Participation</th>
-                                    <th>Nombre de oui (en voix)</th>
-                                    <th>Nombre de oui (en %)</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td><b>55.00 % %</b></td>
-                                    <td><b>1028</b></td>
-                                    <td><b>78.10 %</b></td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </section>
-                </div>
-            </div>
+            </div>            
         </section>
-</main>
-<footer>
+    </main>
+    <footer>
         <div class="footer">
             <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Footer/footer.php"; ?>
         </div>

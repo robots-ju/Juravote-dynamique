@@ -2310,7 +2310,7 @@
                                                     <tbody>
                                                         <tr>
                                                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">Oui</span></td>
-                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">Oui</span></td>                                                    
+                                                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">Non</span></td>                                                    
                                                         </tr>
                                                     </tbody>
                                                 </table>

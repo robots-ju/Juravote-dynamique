@@ -47,7 +47,6 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Résultats des votations Val-Terbi du 27 septembre 2020</h1>
         <hr>
-        <p class="uk-text-center">Les informations seront bientôt disponibles !</p>
         <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">

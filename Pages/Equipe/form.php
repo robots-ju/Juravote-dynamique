@@ -21,15 +21,15 @@
 
             $message = wordwrap($message, 70, "\r\n");
 
-            $to      = 'gwenou.girard@gmail.com';
-            $subject = 'Mail de contact';
-            $headers = array(
-                'De' => $prenom.' '.$nom,
-                'reply to ' => $mail,
-                'X-Mailer' => 'PHP/' . phpversion()
-            );
+            $mail = "Mail de ".$prenom." ".$nom."\r\n <br/>".
+                    "(".$email.")"."\r\n <br/><br/>".
+                    "<em>Sujet : ".$sujet."</em>\r\n </br>".
+                    $message;
 
-            mail($to, $subject, $message, $headers);
+
+            $to      = 'gwenou.girard@gmail.com';
+            $subject = 'Contact';
+            mail($to, $subject, $message);
         }
     }
 ?>

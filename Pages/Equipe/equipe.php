@@ -148,7 +148,40 @@
 
 
                 <div class="uk-width-expand@m">
-                    <div class="uk-card uk-card-default uk-card-body">***FORMULAIRE DE CONTACT À VENIR***</div>
+                    <div class="uk-card uk-card-body">
+
+                        <div class="uk-width-expand">
+                            <h3 class="uk-card-title uk-margin-remove-bottom">Contactez-nous</h3>
+                            <hr>
+                        </div>
+                        <form class="uk-grid-small" uk-grid method="post" action="form.php">
+                                <div class="uk-width-1-2@s">
+                                    <input name="prenom" class="uk-input" type="text" placeholder="Prénom">
+                                </div>
+
+                                <div class="uk-width-1-2@s">
+                                    <input name="nom" class="uk-input" type="text" placeholder="Nom">
+                                </div>
+
+                                <div class="uk-width-2-3@s">
+                                    <input name="email" class="uk-input" type="mail" placeholder="Adresse mail">
+                                </div>
+
+                                <div class="uk-width-1-3@s">
+                                    <input name="sujet" class="uk-input" type="text" placeholder="Sujet du mail">
+                                </div>
+
+                                <div class="uk-width-1-1@s">
+                                    <label class="uk-form-label uk-align-left uk-margin-remove-bottom" for="form-stacked-select">Votre Message :</label>
+                                    <textarea name="message" class="uk-textarea" rows="8"></textarea>
+                                </div>
+
+                                <div class="uk-width-1-1@s">
+                                    <input type="submit" name="valider" value="OK"/>
+                                </div>
+                        </form>
+
+                    </div>
                 </div>
             </div>
         </div>

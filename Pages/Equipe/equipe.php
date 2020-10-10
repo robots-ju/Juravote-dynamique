@@ -53,14 +53,14 @@
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-middle" uk-grid>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom">L'équipe Juravote</h3>
+                                    <h3 class="uk-card-title uk-margin-top">L'équipe Juravote</h3>
                                     <hr>
                                 </div>
                             </div>
                         </div>  
                     </div>
 
-                    <div class="uk-card">
+                    <div class="uk-card uk-margin-remove-top">
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-middle" uk-grid>
                                 <div class="uk-width-auto">
@@ -130,7 +130,7 @@
                         </div>  
                     </div>
 
-                    <div class="uk-card">
+                    <div class="uk-card uk-margin-bottom">
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-middle" uk-grid>
                                 <div class="uk-width-auto">

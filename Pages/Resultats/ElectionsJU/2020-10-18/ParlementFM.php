@@ -104,10 +104,6 @@
                             "suffrages_liste": 165.8,
                             "color": am4core.color("#c50301")
                             },{
-                            "parti": "PEV",
-                            "suffrages_liste": 345.1,
-                            "color": am4core.color("#f5ff00")
-                            },{
                             "parti": "UDC",
                             "suffrages_liste": 586.1,
                             "color": am4core.color("#85ff00")
@@ -122,11 +118,7 @@
                             },{
                             "parti": "PVL",
                             "suffrages_liste": 234.1,
-                            "color": am4core.color("#00bc00")
-                            },{
-                            "parti": "AB",
-                            "suffrages_liste": 234,
-                            "color": am4core.color("#737575")
+                            "color": am4core.color("#00bc00")                            
                             }];
 
                             // Add and configure Series
@@ -149,12 +141,10 @@
             <button class="uk-button uk-button-default" type="button">PSJ-JSJ</button>
             <button class="uk-button uk-button-default" type="button">PDC-JDC</button>
             <button class="uk-button uk-button-default" type="button">CS-POP</button>
-            <button class="uk-button uk-button-default" type="button">PEV-Jura</button>
             <button class="uk-button uk-button-default" type="button">UDC</button>
             <button class="uk-button uk-button-default" type="button">Verts</button>
             <button class="uk-button uk-button-default" type="button">PCSI</button>
             <button class="uk-button uk-button-default" type="button">PVL</button>
-            <button class="uk-button uk-button-default" type="button">AB</button>
         </div>  
         <ul class="uk-switcher uk-margin">
             <li>   

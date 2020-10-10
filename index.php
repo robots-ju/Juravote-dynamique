@@ -221,7 +221,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">
+                            <!--<a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">
                                 <div class="uk-card uk-card-small uk-padding-remove uk-card-hover uk-card-header uk-margin-small uk-width-1-1">
                                     <div class="uk-card-badge uk-label" style="background-color: #D20603;">18.10</div>
                                     <div class="uk-card-body">
@@ -236,7 +236,7 @@
                                         <h3 class="uk-card-title uk-align-left">Election Parlement - Jura</h3>
                                     </div>
                                 </div>
-                            </a>
+                            </a>-->
                         </div>
                     </div>
                 </div>                                             

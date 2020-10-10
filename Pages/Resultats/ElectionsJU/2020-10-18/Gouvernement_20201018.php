@@ -84,6 +84,7 @@
                             chartECGouvernement.data = [{
                             "candidat": "David Eray",
                             "Suffrages": 10486,
+                            color: red
                             }, {
                             "candidat": "Jacques Gerber",
                             "Suffrages": 8491,

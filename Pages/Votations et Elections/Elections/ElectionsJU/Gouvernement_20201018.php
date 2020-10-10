@@ -243,7 +243,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-1" uk-toggle>
+                        <a href="#modal-full-1" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
                                 <div class="uk-card-header">
@@ -507,7 +507,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-2" uk-toggle>
+                        <a href="#modal-full-2" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
                                 <div class="uk-card-header">

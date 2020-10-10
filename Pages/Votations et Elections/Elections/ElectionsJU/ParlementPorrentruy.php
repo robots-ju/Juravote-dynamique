@@ -172,7 +172,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-3" uk-toggle>
+                        <a href="#modal-full-3" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                                 <div class="uk-card-header">
@@ -401,7 +401,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-2" uk-toggle>
+                        <a href="#modal-full-2" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                                 <div class="uk-card-header">
@@ -674,7 +674,7 @@
                     </div>
 
                     <div>
-                    <a class="uk-button uk-button-default" href="#modal-full-7" uk-toggle>
+                    <a href="#modal-full-7" uk-toggle>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                             <div class="uk-card-header">
@@ -902,7 +902,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-14" uk-toggle>
+                        <a href="#modal-full-14" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                                 <div class="uk-card-header">
@@ -1228,7 +1228,7 @@
             <li>
                 <div class="uk-child-width-1-4@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-4" uk-toggle>
+                        <a href="#modal-full-4" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
                                 <div class="uk-card-header">
@@ -1490,7 +1490,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-8" uk-toggle>
+                        <a href="#modal-full-8" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
                                 <div class="uk-card-header">
@@ -1949,7 +1949,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-9" uk-toggle>
+                        <a href="#modal-full-9" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
                                 <div class="uk-card-header">
@@ -2193,7 +2193,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-5" uk-toggle>
+                        <a href="#modal-full-5" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
                                 <div class="uk-card-header">
@@ -3225,7 +3225,7 @@
                     </div>
 
                     <div>
-                    <a class="uk-button uk-button-default" href="#modal-full-6" uk-toggle>
+                    <a href="#modal-full-6" uk-toggle>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
                             <div class="uk-card-header">
@@ -3539,7 +3539,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-1" uk-toggle>
+                        <a href="#modal-full-1" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
                                 <div class="uk-card-header">
@@ -3899,7 +3899,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-12" uk-toggle>
+                        <a href="#modal-full-12" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
                                 <div class="uk-card-header">
@@ -4132,7 +4132,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-11" uk-toggle>
+                        <a href="#modal-full-11" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
                                 <div class="uk-card-header">
@@ -4611,7 +4611,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-13" uk-toggle>
+                        <a href="#modal-full-13" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI</div>
                                 <div class="uk-card-header">
@@ -4928,7 +4928,7 @@
                     </div>
 
                     <div>
-                        <a class="uk-button uk-button-default" href="#modal-full-10" uk-toggle>
+                        <a href="#modal-full-10" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                                 <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI</div>
                                 <div class="uk-card-header">

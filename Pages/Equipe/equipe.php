@@ -146,8 +146,8 @@
 
                 </div>
 
-
-                <div class="uk-width-expand@m">
+                <h2 class="uk-align-center" style="padding-top: 2%">Le formulaire de contact sera bientôt disponible !</h2>
+                <!--<div class="uk-width-expand@m">
                     <div class="uk-card uk-card-body">
 
                         <div class="uk-width-expand">
@@ -220,7 +220,7 @@
 
 
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
     <footer>

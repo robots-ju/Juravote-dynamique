@@ -153,7 +153,7 @@
                             <h3 class="uk-card-title uk-margin-remove-bottom">Contactez-nous</h3>
                             <hr>
                         </div>
-                        <form class="uk-grid-small" uk-grid method="post" action="">
+                        <form class="uk-grid-small" uk-grid method="post" action="form.php">
                                 <div class="uk-width-1-2@s">
                                     <input name="prenom" class="uk-input" type="text" placeholder="Prénom">
                                 </div>
@@ -178,45 +178,6 @@
                                     <button type="submit" class="uk-button uk-button-secondary uk-width-1-1@s">Envoyer</button>
                                 </div>
                         </form>
-
-                        <?php
-
-                            function erreur($motif) {
-                                return 'ERREUR ! Motif : '.$motif;
-                            }
-
-                            $prenom = $_POST['prenom'];
-                            $nom = $_POST['nom'];
-                            $email = $_POST['email'];
-                            $sujet = $_POST['sujet'];
-                            $message = $_POST['message'];
-
-                            if ($prenom == '' || $nom == '' || $email == '' || $sujet == '' || $message == '') {
-                                echo erreur("donnée incomplètes");
-                            } else {
-
-                                $masque = "/^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@([a-zA-Z0-9-]+\.)+[a-zA-Z]{2,4}$/";
-                                if(!preg_match($masque, $email))  {
-                                echo erreur("L'adresse email '$email' est invalide.");
-                                } else {
-
-                                    $message = wordwrap($message, 70, "\r\n");
-
-                                    $mail = "Mail de ".$prenom." ".$nom."\r\n".
-                                            "(".$email.")"."\r\n".
-                                            "\r\n".
-                                            "Sujet : ".$sujet."\r\n".
-                                            $message;
-
-
-                                    $to      = 'gwenou.girard@gmail.com';
-                                    $subject = 'Contact';
-                                    mail($to, $subject, $mail);
-                                }
-                            }
-                        ?>
-
-
                     </div>
                 </div>
             </div>

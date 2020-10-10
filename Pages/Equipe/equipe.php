@@ -154,7 +154,7 @@
                             <h3 class="uk-card-title uk-margin-remove-bottom">Contactez-nous</h3>
                             <hr>
                         </div>
-                        <form class="uk-grid-small" uk-grid method="post" action="form.php">
+                        <form class="uk-grid-small" uk-grid method="post" action="">
                                 <div class="uk-width-1-2@s">
                                     <input name="prenom" class="uk-input" type="text" placeholder="Prénom">
                                 </div>

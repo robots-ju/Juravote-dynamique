@@ -4,6 +4,10 @@ body{
     background-color: #F5F5F5;
 }
 
+.uk-textarea {
+    resize: vertical;
+ }
+
 h1.uk-heading-large {
     text-align: center;
     font-size: 3rem;

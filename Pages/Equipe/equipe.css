@@ -1,3 +1,11 @@
 .conteneur {
     margin: 20px;
 }
+
+.uk-button-secondary {
+    background-color: #D20603;
+}
+
+.uk-button-secondary:hover {
+    background-color: #990000;
+}

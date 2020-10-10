@@ -51,7 +51,7 @@
         </header>
 <main>
     <section style="padding: 2%">
-        <h1 class="uk-heading-large">Résultats des élections cantonales du 1er mars 2020</h1>
+        <h1 class="uk-heading-large">Résultats des élections cantonales du 10 octobre 2020</h1>
         <hr>
         <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
             <div>
@@ -84,7 +84,6 @@
                             chartECGouvernement.data = [{
                             "candidat": "David Eray",
                             "Suffrages": 10486,
-                            color: red
                             }, {
                             "candidat": "Jacques Gerber",
                             "Suffrages": 8491,
@@ -124,19 +123,19 @@
                             }];
 
                             // Create axes
-                            var categoryAxis = chartECGouvernement.xAxes.push(new am4charts.CategoryAxis());
+                            var categoryAxis = chartECGouvernement.yAxes.push(new am4charts.CategoryAxis());
                             categoryAxis.dataFields.category = "candidat";
-                            categoryAxis.renderer.minGridDistance = 40;
+                            categoryAxis.renderer.minGridDistance = 4;
                             
 
-                            var valueAxis = chartECGouvernement.yAxes.push(new am4charts.ValueAxis());
+                            var valueAxis = chartECGouvernement.xAxes.push(new am4charts.ValueAxis());
                             valueAxis.title.text = "Suffrages";
-                            categoryAxis.renderer.labels.template.rotation = 90;
+                            
 
                             // Create series
                             var series = chartECGouvernement.series.push(new am4charts.ColumnSeries());
-                            series.dataFields.valueY = "Suffrages";
-                            series.dataFields.categoryX = "candidat";
+                            series.dataFields.valueX = "Suffrages";
+                            series.dataFields.categoryY = "candidat";
                             series.name = "Suffrages";
                         </script>
                     </div>

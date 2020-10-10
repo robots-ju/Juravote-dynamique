@@ -84,7 +84,7 @@
 
                     $header = "Mail de ".$prenom." ".$nom." (".$email.")\r\n";
 
-                    mail('contact@juravote.ch', $sujet, $message);
+                    mail('contact@juravote.ch', $sujet, $message, $header);
 
                     ?>
                     <div class="uk-alert-success uk-text-center" uk-alert>

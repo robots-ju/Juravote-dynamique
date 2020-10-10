@@ -21,9 +21,10 @@
 
             $message = wordwrap($message, 70, "\r\n");
 
-            $mail = "Mail de ".$prenom." ".$nom."\r\n <br/>".
-                    "(".$email.")"."\r\n <br/><br/>".
-                    "<em>Sujet : ".$sujet."</em>\r\n </br>".
+            $mail = "Mail de ".$prenom." ".$nom."\r\n".
+                    "(".$email.")"."\r\n".
+                    "\r\n".
+                    "Sujet : ".$sujet."\r\n".
                     $message;
 
 

@@ -61,7 +61,7 @@
                     </a>
                 </div>      
             </div>
-            <div>
+            <!--<div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">
                         <div class="uk-card-body">
@@ -71,7 +71,7 @@
                         </div>
                     </a>
                 </div>      
-            </div>
+            </div>-->
         </div>        
     </section>
 </main>

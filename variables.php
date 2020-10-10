@@ -343,6 +343,7 @@
     $PHPresultatsElectionsCH = "/Juravote-dynamique/Pages/Resultats/ElectionsCH/electionsCH.php";
     $PHPresultatsElectionsJU = "/Juravote-dynamique/Pages/Resultats/ElectionsJU/electionsJU.php";
         $PHPresultatGouvernementJU2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsJU/2020-03-01/Ecantonales.php";
+        $PHPresultatGouvernementJU20201018 = "/Juravote-dynamique/Pages/Resultats/ElectionsJU/2020-10-18/Acceuil.php";
         
     $PHPresultatsElectionsCO = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/electionsCO.php";
         $PHPresultatsChatillon = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Chatillon/Chatillon.php";

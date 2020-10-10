@@ -146,8 +146,7 @@
 
                 </div>
 
-                <h2 class="uk-align-center" style="padding-top: 2%">Le formulaire de contact sera bientôt disponible !</h2>
-                <!--<div class="uk-width-expand@m">
+                <div class="uk-width-expand@m">
                     <div class="uk-card uk-card-body">
 
                         <div class="uk-width-expand">
@@ -164,7 +163,7 @@
                                 </div>
 
                                 <div class="uk-width-2-3@s">
-                                    <input name="email" class="uk-input" type="mail" placeholder="Adresse mail">
+                                    <input name="email" class="uk-input" type="mail" placeholder="Adresse email">
                                 </div>
 
                                 <div class="uk-width-1-3@s">
@@ -172,12 +171,11 @@
                                 </div>
 
                                 <div class="uk-width-1-1@s">
-                                    <label class="uk-form-label uk-align-left uk-margin-remove-bottom" for="form-stacked-select">Votre Message :</label>
-                                    <textarea name="message" class="uk-textarea" rows="8"></textarea>
+                                    <textarea name="message" class="uk-textarea" rows="8" placeholder="Message"></textarea>
                                 </div>
 
                                 <div class="uk-width-1-1@s">
-                                    <input type="submit" name="valider" value="OK"/>
+                                    <button type="submit" class="uk-button uk-button-secondary uk-width-1-1@s">Envoyer</button>
                                 </div>
                         </form>
 
@@ -220,7 +218,7 @@
 
 
                     </div>
-                </div>-->
+                </div>
             </div>
         </div>
     <footer>

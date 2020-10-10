@@ -210,7 +210,7 @@
                             <h2>Résultats Jura</h2>
                         </div>
                     </div>
-                    <div class="uk-card-body">
+                    <div style="padding-top: 0.5%" class="uk-card-body">
                         <div class="uk-grid-small"  uk-grid>
                             <div uk-switcher="animation: uk-animation-fade; toggle: > *">
                                 <button class="uk-button uk-button-default" type="button">Jura</button>
@@ -220,7 +220,7 @@
                             </div>
                             <ul class="uk-switcher uk-margin">
                                 <li>
-                                <div id="chartdiv3" style="width: 100%; height: 350px; padding-top: 5%"></div>
+                                <div id="chartdiv3" style="width: 100%; height: 300px; padding-top: 1%"></div>
                                 <script>
                                     var cantonJU = am4core.create("chartdiv3", am4maps.MapChart);
                                     cantonJU.geodata = am4geodata_switzerlandHigh;

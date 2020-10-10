@@ -29,7 +29,7 @@
 
             $to      = 'gwenou.girard@gmail.com';
             $subject = 'Contact';
-            mail($to, $subject, $message);
+            mail($to, $subject, $mail);
         }
     }
 ?>

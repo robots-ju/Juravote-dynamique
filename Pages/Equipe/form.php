@@ -25,17 +25,11 @@
             $subject = 'Mail de contact';
             $headers = array(
                 'De' => $prenom.' '.$nom,
-                'Répondre à ' => $mail,
+                'reply to ' => $mail,
                 'X-Mailer' => 'PHP/' . phpversion()
             );
 
             mail($to, $subject, $message, $headers);
-
-            if (mail($to, $subject, $message, $headers)) {
-                echo "Message envoyé";
-            } else {
-                echo "Erreur d'envoi";
-            }
         }
     }
 ?>

@@ -24,6 +24,7 @@
         <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
         <script src="https://www.amcharts.com/lib/4/geodata/switzerlandHigh.js"></script>
         <script src="https://www.amcharts.com/lib/4/maps.js"></script>
+        <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
 
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -52,7 +53,7 @@
         </header>
 <main>
     <section style="padding: 2%;">
-    <h1 class="uk-heading-large">Résultats des élections cantonales du 10 octobre 2020</h1>
+    <h1 class="uk-heading-large">Résultats des élections cantonales du 18 octobre 2020</h1>
         <hr>
         <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
             <div>
@@ -78,44 +79,65 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <div id="chartDiscrimination" style="width: 100%; height: 250px;"></div>
+                        
+                        <div id="chartdiv" style="width: 100%; height: 250px;"></div>
+                    
                         <script>
                             // Create chart instance
-                            var resultatDiscrimination = am4core.create("chartDiscrimination", am4charts.PieChart);
+                            var chart = am4core.create("chartdiv", am4charts.PieChart);
 
                             // Add data
-                            resultatDiscrimination.data = [{
-                                "votes": "OUI",
-                                "suffrages": 1605700
+                            chart.data = [{
+                            "parti": "PLRJ",
+                            "suffrages_liste": 501.9,
+                            "color": am4core.color("#0066ff")
                             }, {
-                                "votes": "NON",
-                                "suffrages": 1597030
+                            "parti": "PSJ",
+                            "suffrages_liste": 301.9,
+                            "color": am4core.color("#fc0401")
+                            }, {
+                            "parti": "PDC",
+                            "suffrages_liste": 201.1,
+                            "color": am4core.color("#ff9e00")
+                            }, {
+                            "parti": "CS-POP",
+                            "suffrages_liste": 165.8,
+                            "color": am4core.color("#c50301")
+                            },{
+                            "parti": "PEV",
+                            "suffrages_liste": 345.1,
+                            "color": am4core.color("#f5ff00")
+                            },{
+                            "parti": "UDC",
+                            "suffrages_liste": 586.1,
+                            "color": am4core.color("#85ff00")
+                            },{
+                            "parti": "VERTS",
+                            "suffrages_liste": 45.1,
+                            "color": am4core.color("#00fa01")
+                            },{
+                            "parti": "PCSI",
+                            "suffrages_liste": 678.1,
+                            "color": am4core.color("#14b0b8")
+                            },{
+                            "parti": "PVL",
+                            "suffrages_liste": 234.1,
+                            "color": am4core.color("#00bc00")
+                            },{
+                            "parti": "AB",
+                            "suffrages_liste": 234,
+                            "color": am4core.color("#737575")
                             }];
 
                             // Add and configure Series
-                            var dataDiscrimination = resultatDiscrimination.series.push(new am4charts.PieSeries());
-                            dataDiscrimination.dataFields.value = "suffrages";
-                            dataDiscrimination.dataFields.category = "votes";
+                            var pieSeries = chart.series.push(new am4charts.PieSeries());
+                            pieSeries.dataFields.value = "suffrages_liste";
+                            pieSeries.dataFields.category = "parti";
+                            pieSeries.slices.template.propertyFields.fill = "color";
 
-                            // Let's cut a hole in our Pie chart the size of 40% the radius
-                            resultatDiscrimination.innerRadius = am4core.percent(40);
-
-                            // Disable ticks and labels
-                            dataDiscrimination.labels.template.disabled = true;
-                            dataDiscrimination.ticks.template.disabled = true;
-
-                            // Disable tooltips
-                            dataDiscrimination.slices.template.tooltipText = "";
-
-                            // Add a legend
-                            resultatDiscrimination.legend = new am4charts.Legend();
-                            resultatDiscrimination.legend.position = "right";
-
-                            dataDiscrimination.colors.list = [
-                            am4core.color("#89ff6a"),
-                            am4core.color("#ff4242"),
-                            ]
+                            
                         </script>
+                        
                     </div>
                 </div>
             </div>

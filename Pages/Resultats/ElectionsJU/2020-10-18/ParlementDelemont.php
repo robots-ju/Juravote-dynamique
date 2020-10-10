@@ -190,6 +190,7 @@
                         }, {
                         "candidat": "Didier Spies",
                         "Suffrages": 9491,
+                        "color": am4core.color("#737575")
                         }, {
                         "candidat": "Céline R.-C. Linder",
                         "Suffrages": 8491,
@@ -208,6 +209,7 @@
                         var categoryAxis = chartECGouvernement.yAxes.push(new am4charts.CategoryAxis());
                         categoryAxis.dataFields.category = "candidat";
                         categoryAxis.renderer.minGridDistance = 4;
+
                         
 
                         var valueAxis = chartECGouvernement.xAxes.push(new am4charts.ValueAxis());
@@ -219,6 +221,7 @@
                         series.dataFields.valueX = "Suffrages";
                         series.dataFields.categoryY = "candidat";
                         series.name = "Suffrages";
+                        series.propertyFields.fill = "color";
                     </script>
                 </div>
             </li> 
@@ -267,6 +270,7 @@
                         }, {
                         "candidat": "Alain Beuret",
                         "Suffrages": 3379,
+                        "color": am4core.color("#ff9e00"),
                         }];
 
                         // Create axes

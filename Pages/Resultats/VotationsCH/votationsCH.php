@@ -75,41 +75,170 @@
         </div>
         <ul class="uk-switcher uk-margin">
             <li>
-                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-1 uk-grid-match" uk-grid>
                     <div>
                         <ul uk-accordion="multiple: false">
-                            <li>
-                                <a class="uk-accordion-title">2020</a>
+                            <li>                            
+                                <a class="uk-accordion-title">2020</a>                                
                                 <div class="uk-accordion-content">
-                                    <a href="<?php echo $PHPresultats20200927Accueil; ?>"><p>Votations fédérales du 27.09.2020</p></a>
-                                    <a href="<?php echo $PHPresultats20200209Accueil; ?>"><p>Votations fédérales du 09.02.2020</p></a>
+                                    <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20200927Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 27.09.2020</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20200209Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 09.02.2020</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>            
+                                    </div> 
                                 </div>        
                             </li>
-                            <!--<li>
+                            <li>
                                 <a class="uk-accordion-title">2019</a>
                                 <div class="uk-accordion-content">
-                                    <a href="./2020-2011/2019-02-10/vfédérales.html"><p>Votations fédérales du 10.02.2019</p></a>
-                                    <a href="./2020-2011/2019-05-19/vfédérales.html"><p>Votations fédérales du 19.05.2019</p></a>
+                                    <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20190519Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 19.05.2019</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20190210Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votation du 10.02.2019</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>            
+                                    </div> 
                                 </div>
                             </li>
                             <li>
                                 <a class="uk-accordion-title">2018</a>
                                 <div class="uk-accordion-content">
-                                    <a href="./2020-2011/2018-11-25/vfédérales.html"><p>Votations fédérales du 25.11.2018</p></a>
-                                    <a href="./2020-2011/2018-09-23/vfédérales.html"><p>Votations fédérales du 23.09.2018</p></a>
-                                    <a href="./2020-2011/2018-06-10/vfédérales.html"><p>Votations fédérales du 10.06.2018</p></a>
-                                    <a href="./2020-2011/2018-03-04/vfédérales.html"><p>Votations fédérales du 03.04.2018</p></a>
+                                    <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20181125Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 25.11.2018</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20180923Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 23.09.2018</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>  
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20180610Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 10.06.2018</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20180403Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 04.03.2018</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>           
+                                    </div> 
                                 </div>
                             </li>
                             <li>
                                 <a class="uk-accordion-title">2017</a>
                                 <div class="uk-accordion-content">
-                                    <a href="./2020-2011/2017-09-24/vfédérales.html"><p>Votations fédérales du 24.09.2017</p></a>
-                                    <a href="./2020-2011/2017-05-21/vfédérales.html"><p>Votations fédérales du 21.05.2017</p></a>
-                                    <a href="./2020-2011/2017-02-12/vfédérales.html"><p>Votations fédérales du 12.02.2017</p></a>
+                                    <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20170924Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 24.09.2017</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>  
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20170521 ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votation du 21.05.2017</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20170212Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 12.02.2017</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>  
+                                    </div>
                                 </div>
                             </li>
-                            <li>
+                            <!--<li>
                                 <a class="uk-accordion-title">2016</a>
                                 <div class="uk-accordion-content">
                                     <a href="./2020-2011/2016-11-27/vfédérales.html"><p>Votations fédérales du 27.11.2016</p></a>
@@ -118,10 +247,8 @@
                                     <a href="./2020-2011/2016-02-28/vfédérales.html"><p>Votations fédérales du 28.02.2016</p></a>
                                 </div>
                             </li>
-                        </ul>
-                    </div>
-                    <div>
-                        <ul uk-accordion="multiple: false">
+                            
+                    
                             <li>
                                 <a class="uk-accordion-title">2015</a>
                                 <div class="uk-accordion-content">
@@ -161,12 +288,12 @@
                                 <div class="uk-accordion-content">
                                     <a href="./2020-2011/2011-02-13/vfédérales.html"><p>Votations fédérales du 13.02.2011</p></a>
                                 </div>
-                            </li>
+                            </li>-->
                         </ul>
-                    </div>
                 </div>
-            </li><li>
-                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+            </li>
+            <!--<li>
+                <div class="uk-child-width-1-1 uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <ul uk-accordion="multiple: false">
                             <li>
@@ -253,13 +380,12 @@
                                     <a href="./2010-2001/2001-06-10/vfédérales.html"><p>Votations fédérales du 10.06.2001</p></a>
                                     <a href="./2010-2001/2001-03-04/vfédérales.html"><p>Votations fédérales du 04.03.2001</p></a>
                                 </div>
-                            </li>-->
+                            </li>
                         </ul>
                     </div>
                 </div>
-            </li>
+            </li>-->
         </ul>
-        <h3 class="uk-text-center">Les résultats de votations fédérales d'avant 2020 seront disponibles prochainement.</h3>
     </section>
 </main>
 <footer>

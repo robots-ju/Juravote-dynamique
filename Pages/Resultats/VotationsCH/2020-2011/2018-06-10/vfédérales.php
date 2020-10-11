@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>Votations fédérales du 10 juin 2018</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -59,11 +59,11 @@
                 <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="MonnaiePleine.html">
+                            <a href="<?php echo $PHPvotationsCHMonnaiePleine ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img classe="illustration" src="../../../../img/Votations/Federales_27.09.2020/Sous.jpg"  alt="Initiative Monnaie pleine">
+                                        <img class="illustration" src="<?php echo $Sous ?>"  alt="Initiative Monnaie pleine">
                                     </div>
                                 </div>
                             </div>
@@ -77,11 +77,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="LJAr.html">
+                            <a href="<?php echo $PHPvotationsCHLJAR ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img classe="illustration" src="../../../../img/Votations/Federales_27.09.2020/JeuxArgent.jpg"  alt="Loi fédérale sur les jeux d'argent">
+                                        <img class="illustration" src="<?php echo $JeuxArgent ?>"  alt="Loi fédérale sur les jeux d'argent">
                                     </div>
                                 </div>
                             </div>

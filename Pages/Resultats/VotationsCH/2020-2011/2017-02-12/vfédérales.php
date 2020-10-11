@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>Votations fédérales du 12 février 2017</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -56,14 +56,14 @@
         <hr>
         <section>
             
-                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="naturalisation.html">
+                            <a href="<?php echo $PHPvotationsCHNaturalisation ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Europe.jpg" width="200" height="200" alt="Arrêté fédéral concernant la naturalisation facilitée
+                                        <img class="illustration" src="<?php echo $Europe ?>" alt="Arrêté fédéral concernant la naturalisation facilitée
                                         des étrangers de la troisième génération">
                                     </div>
                                 </div>
@@ -77,11 +77,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="routes.html">
+                            <a href="<?php echo $PHPvotationsCHRoutes ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Route.jpg" width="200" height="200" alt="Arrêté fédéral sur la création d'un fonds pour
+                                        <img class="illustration" src="<?php echo $Route ?>" alt="Arrêté fédéral sur la création d'un fonds pour
                                         les routes nationales et pour le trafic d'agglomération">
                                     </div>
                                 </div>
@@ -95,11 +95,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="entreprises.html">
+                            <a href="<?php echo $PHPvotationsCHEntreprises ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Sous.jpg" width="200" height="200" alt="Loi sur la réforme de l'imposition des entreprises III">
+                                        <img class="illustration" src="<?php echo $Sous ?>" alt="Loi sur la réforme de l'imposition des entreprises III">
                                     </div>
                                 </div>
                             </div>

@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>Votations du 24 septembre 2017</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -56,14 +56,14 @@
         <hr>
         <section>
             
-                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Sécurité.html">
+                            <a href="<?php echo $PHPvotationsCHSecurite ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Légumes.jpg" width="200" height="200" alt="Contre-projet à l'initiative pour la sécurité alimentaire">
+                                        <img class="illustration" src="<?php echo $Légumes ?>" alt="Contre-projet à l'initiative pour la sécurité alimentaire">
                                     </div>
                                 </div>
                             </div>
@@ -77,11 +77,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="TVA-AVS.html">
+                            <a href="<?php echo $PHPvotationsCHTVA_AVS ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Sous.jpg" width="200" height="200" alt="Arrêté fédéral sur le financement additionnel
+                                        <img class="illustration" src="<?php echo $Sous ?>" alt="Arrêté fédéral sur le financement additionnel
                                         de l'AVS par le biais d'un relèvement de la taxe sur la valeur ajoutée">
                                     </div>
                                 </div>
@@ -95,11 +95,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Prévoyance.html">
+                            <a href="<?php echo $PHPvotationsCHPrevoyance ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Senior.jpg" width="200" height="200" alt="Loi fédérale sur la réforme de la prévoyance vieillesse">
+                                        <img class="illustration" src="<?php echo $Senior ?>" alt="Loi fédérale sur la réforme de la prévoyance vieillesse">
                                     </div>
                                 </div>
                             </div>

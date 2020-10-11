@@ -59,7 +59,7 @@
                 <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Logements.php">
+                            <a href="<?php echo $PHPvotationsCHLogements ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
@@ -76,7 +76,7 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Discrimination.php">
+                            <a href="<?php echo $PHPvotationsCHDiscrimination ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">

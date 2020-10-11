@@ -361,13 +361,43 @@
         $PHPdescriptionConseilLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-09-27/Conseil_description.php";
 
     $PHPresultatsVotationsCH = "/Juravote-dynamique/Pages/Resultats/VotationsCH/votationsCH.php";
-        $PHPresultats20200209Accueil= "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php";
+        $PHPresultats20200209Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php";
+            $PHPvotationsCHDiscrimination = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/Discrimination.php";
+            $PHPvotationsCHLogements = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/Logements.php";
         $PHPresultats20200927Accueil= "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
             $PHPvotationsCHAvions = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_AvionsCombat.php";
             $PHPvotationsCHChasse = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_Chasse.php";
             $PHPvotationsCHCongePaternite = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_CongePaternite.php";
             $PHPvotationsCHImpotDirect = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_ImpotDirect.php";
             $PHPvotationsCHLimitation = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_InitiativeLimitation.php";
+        $PHPresultats20190519Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2019-05-19/vfédérales.php";
+            $PHPvotationsCHArmes = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2019-05-19/Armes.php";
+            $PHPvotationsCHRFFA = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2019-05-19/RFFA.php";
+        $PHPresultats20181125Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-11-25/vfédérales.php";
+            $PHPvotationsCHVachesACornes = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-11-25/Vaches.php";
+            $PHPvotationsCHAutodetermination = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-11-25/DroitSuisse.php";
+            $PHPvotationsCHSurveillanceAssures = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-11-25/LPGA.php";
+        $PHPresultats20180923Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-09-23/vfédérales.php";
+            $PHPvotationsCHVelos = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-09-23/Vélos.php";
+            $PHPvotationsCHAlimentsEquitables = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-09-23/Sécurité.php";
+            $PHPvotationsCHSouveraineteAlimentaire = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-09-23/Souveraineté.php";
+        $PHPresultats20180610Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-06-10/vfédérales.php";
+            $PHPvotationsCHLJAR = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-06-10/LJAR.php";
+            $PHPvotationsCHMonnaiePleine = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-06-10/MonnaiePleine.php";
+        $PHPresultats20180403Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-03-04/vfédérales.php";
+            $PHPvotationsCHBillag = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-03-04/Billag.php";
+            $PHPvotationsCHRF2021 = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2018-03-04/RF2021.php";
+        $PHPresultats20170924Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2017-09-24/vfédérales.php";
+            $PHPvotationsCHPrevoyance = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2017-09-24/Prévoyance.php";
+            $PHPvotationsCHSecurite = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2017-09-24/Sécurité.php";
+            $PHPvotationsCHTVA_AVS = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2017-09-24/TVA-AVS.php";
+        $PHPresultats20170521 = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2017-05-21/vfédérales.php";
+        $PHPresultats20170212Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2017-02-12/vfédérales.php";
+            $PHPvotationsCHEntreprises = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2017-02-12/entreprises.php";
+            $PHPvotationsCHNaturalisation = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2017-02-12/naturalisation.php";
+            $PHPvotationsCHRoutes = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2017-02-12/routes.php";
+        $PHPresultats20190210Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2019-02-10/vfédérales.php";
+
     $PHPresultatsVotationsJU = "/Juravote-dynamique/Pages/Resultats/VotationsJU/VotationsJU.php";
     $PHPresultatsVotationsCO = "/Juravote-dynamique/Pages/Resultats/VotationsCO/VotationsCO.php";
 

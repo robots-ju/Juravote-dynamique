@@ -52,3 +52,8 @@ h3 a.titre-carte{
         font-size: 2rem;
     }
 }
+
+.illustration {
+    height: 150px;
+    width: 150px;
+}

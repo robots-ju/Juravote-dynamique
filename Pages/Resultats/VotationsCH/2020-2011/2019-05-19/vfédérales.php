@@ -63,7 +63,7 @@
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img classe="illustration" src="<?php echo $Sous ?>" alt="Loi fédérale relative à la réforme fiscale
+                                        <img class="illustration" src="<?php echo $Sous ?>" alt="Loi fédérale relative à la réforme fiscale
                                         et au financement de l'AVS">
                                     </div>
                                 </div>
@@ -81,7 +81,7 @@
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img sclasse="illustration" src="<?php echo $arme ?>" alt="Arrêté fédéral portant approbation et mise en oeuvre
+                                        <img class="illustration" src="<?php echo $arme ?>" alt="Arrêté fédéral portant approbation et mise en oeuvre
                                         de l'échange de notes entre la Suisse et l'UE concernant la reprise de la directive modifiant
                                         la directive de l'UE sur les armes">
                                     </div>

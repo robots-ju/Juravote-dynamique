@@ -56,14 +56,14 @@
         <hr>
         <section>
             
-                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Vaches.html">
+                            <a href="<?php echo $PHPvotationsCHVachesACornes ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img classe="illustration" src="../../../../img/Votations/Federales_27.09.2020/Vache.jpg" alt="Initiative pour les vaches à corne">
+                                        <img class="illustration" src="<?php echo $Vache ?>" alt="Initiative pour les vaches à corne">
                                     </div>
                                 </div>
                             </div>
@@ -77,11 +77,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="DroitSuisse.html">
+                            <a href="<?php echo $PHPvotationsCHAutodetermination ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img classe="illustration" src="../../../../img/Votations/Federales_27.09.2020/Justice.jpg" alt="Initiative pour l'autodétermination">
+                                        <img class="illustration" src="<?php echo $Justice ?>" alt="Initiative pour l'autodétermination">
 
                                     </div>
                                 </div>
@@ -95,11 +95,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="LPGA.html">
+                            <a href="<?php echo $PHPvotationsCHSurveillanceAssures ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="#" width="200" height="200" alt="Modification de la loi fédérale sur la
+                                        <img class="illustration" src="<?php echo $caméra ?>" alt="Modification de la loi fédérale sur la
                                         partie générale du droit des assurances sociales">
                                     </div>
                                 </div>

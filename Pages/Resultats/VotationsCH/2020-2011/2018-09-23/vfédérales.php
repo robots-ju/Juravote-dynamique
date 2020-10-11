@@ -56,14 +56,14 @@
         <hr>
         <section>
             
-                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Vélos.html">
+                            <a href="<?php echo $PHPvotationsCHVelos ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img classe="illustration" src="../../../../img/Votations/Federales_27.09.2020/Vélo.jpg"  alt="Contre-projet à l'initiative vélo">
+                                        <img class="illustration" src="<?php echo $Vélo ?>"  alt="Contre-projet à l'initiative vélo">
                                     </div>
                                 </div>
                             </div>
@@ -78,11 +78,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Sécurité.html">
+                            <a href="<?php echo $PHPvotationsCHAlimentsEquitables ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img classe="illustration" src="../../../../img/Votations/Federales_27.09.2020/Légumes.jpg"  alt="Initiative pour des aliments équitables">
+                                        <img class="illustration" src="<?php echo $Légumes ?>"  alt="Initiative pour des aliments équitables">
                                     </div>
                                 </div>
                             </div>
@@ -96,11 +96,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Souveraineté.html">
+                            <a href="<?php echo $PHPvotationsCHSouveraineteAlimentaire ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img classe="illustration" src="../../../../img/Votations/Federales_27.09.2020/Légumes.jpg"  alt="Initiative pour la souveraineté alimentaire">
+                                        <img class="illustration" src="<?php echo $Légumes ?>"  alt="Initiative pour la souveraineté alimentaire">
                                     </div>
                                 </div>
                             </div>

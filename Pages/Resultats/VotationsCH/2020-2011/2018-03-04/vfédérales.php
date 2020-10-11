@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>Votations fédérales du 04 mars 2018</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -59,11 +59,11 @@
                 <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="RF2021.html">
+                            <a href="<?php echo $PHPvotationsCHRF2021 ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Sous.jpg" width="200" height="200" alt="Arrêté fédéral concernant le nouveau régime financier 2021">
+                                        <img class="illustration" src="<?php echo $Sous ?>" alt="Arrêté fédéral concernant le nouveau régime financier 2021">
                                     </div>
                                 </div>
                             </div>
@@ -76,11 +76,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Billag.html">
+                            <a href="<?php echo $PHPvotationsCHBillag ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/radio.jpg" width="200" height="200" alt="Initiative pour la suppression des redevances Billag">
+                                        <img class="illustration" src="<?php echo $Radio ?>" alt="Initiative pour la suppression des redevances Billag">
                                     </div>
                                 </div>
                             </div>

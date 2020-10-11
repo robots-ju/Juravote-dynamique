@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Votations fédérales du 19 mai 2019</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -59,12 +59,12 @@
                 <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="RFFA.html">
+                            <a href="<?php echo $PHPvotationsCHRFFA ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img classe="illustration" src="../../../../img/Votations/Federales_27.09.2020/Sous.jpg" alt="Loi fédérale relative à la réforme fiscale
-                                        et au finacement de l'AVS">
+                                        <img classe="illustration" src="<?php echo $Sous ?>" alt="Loi fédérale relative à la réforme fiscale
+                                        et au financement de l'AVS">
                                     </div>
                                 </div>
                             </div>
@@ -77,11 +77,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Armes.html">
+                            <a href="<?php echo $PHPvotationsCHArmes ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img sclasse="illustration" src="../../../../img/Votations/Federales_27.09.2020/Arme.jpg" alt="Arrêté fédéral portant approbation et mise en oeuvre
+                                        <img sclasse="illustration" src="<?php echo $arme ?>" alt="Arrêté fédéral portant approbation et mise en oeuvre
                                         de l'échange de notes entre la Suisse et l'UE concernant la reprise de la directive modifiant
                                         la directive de l'UE sur les armes">
                                     </div>

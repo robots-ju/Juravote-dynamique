@@ -54,7 +54,7 @@
                         <a href="Responsable.php">
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
-                                    <img width="500" height="500" src="<?php echo $Responsables ?>" 
+                                    <img src="<?php echo $Responsables ?>" 
                                     alt="Initiative populaire « Entreprises responsables – 
                                     pour protéger l’être humain et l’environnement »">
                                 </div>
@@ -76,7 +76,7 @@
                         <a href="Armes.php">
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
-                                    <img width="500" height="500" src="<?php echo $MaterielGuerre ?>"
+                                    <img src="<?php echo $MaterielGuerre ?>"
                                      alt="Initiative populaire « Pour une interdiction du
                                      financement des producteurs de matériel de guerre »">
                                 </div>

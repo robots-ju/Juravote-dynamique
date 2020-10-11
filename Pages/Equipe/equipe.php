@@ -68,7 +68,7 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Daniel Renaud</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Chef de projet / Développeur</p>
+                                    <p class="uk-text-meta uk-margin-remove-top">Chef de projet - Développeur</p>
                                 </div>
                             </div>
                         </div>  
@@ -82,7 +82,7 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Morgan Chételat</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Informatique / Développeur</p>
+                                    <p class="uk-text-meta uk-margin-remove-top">Informatique - Développeur</p>
                                 </div>
                             </div>
                         </div>  
@@ -96,7 +96,7 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Gael Fleury</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
+                                    <p class="uk-text-meta uk-margin-remove-top">Administration - Développeur</p>
                                 </div>
                             </div>
                         </div>  
@@ -110,7 +110,7 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Gwenaël Girard</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Design / Marketing / Développeur</p>
+                                    <p class="uk-text-meta uk-margin-remove-top">Design & Marketing - Développeur</p>
                                 </div>
                             </div>
                         </div>  
@@ -124,7 +124,7 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Sam Houser</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Finances / Développeur</p>
+                                    <p class="uk-text-meta uk-margin-remove-top">Design & Finances - Développeur</p>
                                 </div>
                             </div>
                         </div>  
@@ -138,7 +138,7 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Sylvain Lovis</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Administration</p>
+                                    <p class="uk-text-meta uk-margin-remove-top">Administration - Développeur</p>
                                 </div>
                             </div>
                         </div>  

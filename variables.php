@@ -106,7 +106,8 @@
 
     //juravote :
     $juravoteLogo = "/IMG/Logo/JuraVote/Logo.png";
-    $juravoteIcon = "/IMG/Logo/JuraVote/Icon.png";
+    $juravoteLogoDef = "/IMG/Logo/JuraVote/Logo_def.png";
+    $juravoteIcon = "/IMG/Logo/JuraVote/IconHeader.png";
     $juravoteLogoIcon = "/IMG/Logo/JuraVote/LogoIcon.png";
     $juravoteTwitter = "/IMG/Logo/ReseauxSociaux/Bannieres/Twitter.png";
     $juravoteFacebook = "/IMG/Logo/ReseauxSociaux/Bannieres/Facebook.png";

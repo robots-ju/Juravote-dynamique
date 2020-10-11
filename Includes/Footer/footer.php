@@ -9,7 +9,7 @@
     
 
         <footer class="footer"> 
-            <div class="uk-grid-collapse uk-child-width-1-2@l uk-text-left uk-flex uk-grid-match" uk-grid>
+            <div class="uk-grid-collapse uk-child-width-1-2@m uk-text-left uk-flex uk-grid-match" uk-grid>
                 <div class="nav-rapide" style="padding: 2%;">
                     <div>
                         <h3>Navigation rapide</h3>

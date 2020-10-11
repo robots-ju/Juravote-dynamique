@@ -194,7 +194,7 @@
                     </div>
                 </div>
             </div>
-            <div>
+            <!--<div>
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
@@ -1001,7 +1001,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>-->
         </div>
     </section>
 </main>

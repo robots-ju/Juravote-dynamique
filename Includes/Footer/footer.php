@@ -40,12 +40,11 @@
                         <h3>Contact @JuraVote</h3>
                         <hr>
                     </div>
-                    <div class="uk-light uk-child-width-1-5 grid-nav" uk-grid> 
-                        <li class="icon_resaux"><a href="mailto:info@juravote.ch" uk-icon="icon: mail; ratio: 2"></a></li>
+                    <div class="uk-light uk-child-width-1-4 grid-nav" style="padding-bottom: 2%" uk-grid> 
                         <li class="icon_resaux"><a href="https://twitter.com/JuraVote/" target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
                         <li class="icon_resaux"><a href="https://www.instagram.com/juravote/?hl=fr" target="_blank" uk-icon="icon: instagram; ratio: 2"></a></li>
                         <li class="icon_resaux"><a href="https://www.facebook.com/JuraVote2020/" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
-                        <li><a href="https://discord.gg/feYcNDY" target="_blank" ><img src="<?php echo $iconDiscord ?>" id="Discord" alt="Logo Discord Juravote" height= "50px" width= "50px"></a></li>
+                        <!--<li><a href="https://discord.gg/feYcNDY" target="_blank" ><img src="<?php echo $iconDiscord ?>" id="Discord" alt="Logo Discord Juravote" height= "50px" width= "50px"></a></li>-->
                         <li><a href="<?php echo $PHPequipe ?>" uk-icon="icon: file-edit; ratio: 2"></a></li>
                     </div>
                     <ul class="uk-nav uk-nav-default grid-nav">

@@ -67,6 +67,20 @@
                                     <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
                                 </div>
                                 <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Daniel Renaud</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Chef de projet / Développeur</p>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>
+
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                </div>
+                                <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Morgan Chételat</h3>
                                     <p class="uk-text-meta uk-margin-remove-top">Informatique / Développeur</p>
                                 </div>
@@ -128,22 +142,7 @@
                                 </div>
                             </div>
                         </div>  
-                    </div>
-
-                    <div class="uk-card uk-margin-bottom">
-                        <div class="uk-card-header">
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom">Daniel Renaud</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Chef de projet / Développeur</p>
-                                </div>
-                            </div>
-                        </div>  
-                    </div>
-
+                    </div>                   
                 </div>
 
                 <div class="uk-width-expand@m">

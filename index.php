@@ -105,7 +105,7 @@
                         <h3 class="uk-heading-divider uk-text-center">Bienvenue sur Juravote !</h3> 
                         <div class="uk-column-1-1@m" style="padding-top: 5%">
                             <div class="uk-card uk-card-body uk-padding-remove uk-width-expand@m">
-                                <img class="uk-align-center" src="<?php echo $juravoteTwitter ?>" style="width: 600px; height: 200px;" alt="Juravote">
+                                <img class="uk-align-center" src="<?php echo $juravoteLogo ?>" style="width: 200px; height: 200px;" alt="Juravote">
                             </div>
                             <p class="uk-text-center" style="padding-top: 5%">Toute <a href="<?php echo $PHPequipe ?>">l'équipe de Juravote</a> vous souhaite
                             la bienvenue sur son site Internet !</p>

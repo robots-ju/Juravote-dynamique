@@ -53,7 +53,7 @@
             <p>Les Communes de Courroux et de Beurnevésin n'ont pas souhaité collaborer avec nous. Aucune information
             ne sera donc disponible sur les votations de ces communes.</p>
         </div> 
-        <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>            
+        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>            
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="Elections/ElectionsJU/Accueil.php">
@@ -70,7 +70,7 @@
                     </a>
                 </div>
             </div>
-            <div>
+            <!--<div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="Elections/ElectionsCO/Bonfol_20201018/VicePresidentAssemblee.php">
                         <div class="uk-card-body">
@@ -117,7 +117,7 @@
                         </div>
                     </a>
                 </div>
-            </div>
+            </div>-->
             
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">

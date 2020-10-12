@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>Résultats des votations fédérales du 28 février 2016</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -56,14 +56,14 @@
         <hr>
         <section>
             
-                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Mariage.html">
+                            <a href="<?php echo $PHPvotationsCHMariage ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Mariage.jpg" width="200" height="200" alt="Initiative pour le couple et la famille - 
+                                        <img src="<?php echo $Mariage ?>" class="illustration" alt="Initiative pour le couple et la famille - 
                                         non à la pénalisation du mariage">
                                     </div>
                                 </div>
@@ -77,11 +77,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="MiseEnOeuvre.html">
+                            <a href="<?php echo $PHPvotationsCHMiseEnOeuvre ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Menotte.jpg" width="200" height="200" alt="Initiative pour le renvoi effectif des étrangers criminels">
+                                        <img src="<?php echo $Menotte ?>" class="illustration" alt="Initiative pour le renvoi effectif des étrangers criminels">
                                     </div>
                                 </div>
                             </div>
@@ -94,11 +94,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Denrées.html">
+                            <a href="<?php echo $PHPvotationsCHDenrées ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Légumes.jpg" width="200" height="200" alt="Initiative contre la spéculation sur les denrées alimentaires">
+                                        <img src="<?php echo $Légumes ?>" class="illustration" alt="Initiative contre la spéculation sur les denrées alimentaires">
                                     </div>
                                 </div>
                             </div>
@@ -111,11 +111,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="LTRA.html">
+                            <a href="<?php echo $PHPvotationsCHLTRA ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Tunnel.jpg" width="200" height="200" alt="Réfection du tunnel routier du Gothard">
+                                        <img src="<?php echo $Tunnel ?>" class="illustration" alt="Réfection du tunnel routier du Gothard">
                                     </div>
                                 </div>
                             </div>

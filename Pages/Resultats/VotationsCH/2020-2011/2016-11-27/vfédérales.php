@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>Résultats de la votation fédérale du 27 novembre 2016</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -64,7 +64,7 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Initiative populaire du 16.11.2012 «Pour la sortie programmée de l'énergie nucléaire (Initiative «Sortir du nucléaire»)»</p>
-                        <p><b>Participation : </b>45,38 %</p>
+                        <p><b>Participation : </b>45.38 %</p>
                         <p><b>Résultat : </b>Refusé</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Initiative</p>

@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>Votations fédérales du 05 juin 2016</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -56,14 +56,14 @@
         <hr>
         <section>
             
-                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="ServicePublic.html">
+                            <a href="<?php echo $PHPvotationsCHServicePublic ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="#" width="200" height="200" alt="Initiative en faveur du service public">
+                                        <img  class="illustration" src="<?php echo $Justice ?>" alt="Initiative en faveur du service public">
                                     </div>
                                 </div>
                             </div>
@@ -76,11 +76,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="RBI.html">
+                            <a href="<?php echo $PHPvotationsCHrbi ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Sous.jpg" width="200" height="200" alt="Initiative pour un revenu de base inconditionnel»">
+                                        <img class="illustration" src="<?php echo $Sous ?>" alt="Initiative pour un revenu de base inconditionnel»">
                                     </div>
                                 </div>
                             </div>
@@ -93,11 +93,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Transports.html">
+                            <a href="<?php echo $PHPvotationsCHTransports ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Gare.jpg" width="200" height="200" alt="Initiative pour un financement équitable des transports">
+                                        <img class="illustration" src="<?php echo $Gare ?>" alt="Initiative pour un financement équitable des transports">
                                     </div>
                                 </div>
                             </div>
@@ -110,11 +110,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="LPMA.html">
+                            <a href="<?php echo $PHPvotationsCHlpma ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="../../../../img/Votations/Federales_27.09.2020/Enceinte.jpg" width="200" height="200" alt="Modification de la loi fédérale sur
+                                        <img class="illustration" src="<?php echo $Enceinte ?>" alt="Modification de la loi fédérale sur
                                         la procréation médicalement assistée">
                                     </div>
                                 </div>
@@ -128,11 +128,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="LAsi.html">
+                            <a href="<?php echo $PHPvotationsCHLAsi ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="../../../../img/Logo/drapeau-suisse.png" width="200" height="200" alt="Modification de la loi sur l'asile">
+                                        <img class="illustration" src="<?php echo $pouvoirFederal ?>" alt="Modification de la loi sur l'asile">
                                     </div>
                                 </div>
                             </div>

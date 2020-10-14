@@ -414,6 +414,17 @@
             $PHPvotationsCHLTRA = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2016-02-28/LTRA.php";
             $PHPvotationsCHMariage = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2016-02-28/Mariage.php";
             $PHPvotationsCHMiseEnOeuvre = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2016-02-28/MiseEnOeuvre.php";
+        $PHPresultats20150614Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2015-06-14/vfédérales.php";
+            $PHPvotationsCHBourses = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2015-06-14/Bourses.php";
+            $PHPvotationsCHLRTV = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2015-06-14/LRTV.php";
+            $PHPvotationsCHSuccessions = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2015-06-14/Sucessions.php";
+            $PHPvotationsCHGénieHumain = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2015-06-14/GénieHumain.php";
+        $PHPresultats20150308Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2015-03-08/vfédérales.php";
+            $PHPvotationsCHAllocations = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2015-03-08/Allocations.php";
+            $PHPvotationsCHTaxeEnergie = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2015-03-08/TaxeEnergie.php";
+
+
+
 
     $PHPresultatsVotationsJU = "/Juravote-dynamique/Pages/Resultats/VotationsJU/VotationsJU.php";
     $PHPresultatsVotationsCO = "/Juravote-dynamique/Pages/Resultats/VotationsCO/VotationsCO.php";

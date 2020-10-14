@@ -292,17 +292,40 @@
                                         </div>           
                                     </div>
                                 </div>
-                            </li>
-                            
+                            </li>                            
                     
-                            <!--<li>
+                            <li>
                                 <a class="uk-accordion-title">2015</a>
                                 <div class="uk-accordion-content">
-                                    <a href="./2020-2011/2015-06-14/vfédérales.html"><p>Votations fédérales du 14.06.2015</p></a>
-                                    <a href="./2020-2011/2015-03-08/vfédérales.html"><p>Votations fédérales du 08.03.2015</p></a>
+                                    <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20150614Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 14.06.2015</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20150308Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 08.03.2015</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>
+                                    </div>
                                 </div>        
                             </li>
-                            <li>
+                            <!--<li>
                                 <a class="uk-accordion-title">2014</a>
                                 <div class="uk-accordion-content">
                                     <a href="./2020-2011/2014-11-30/vfédérales.html"><p>Votations fédérales du 30.11.2014</p></a>

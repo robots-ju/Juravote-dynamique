@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>Résultats des votations fédérales du 08 mars 2015</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -59,11 +59,11 @@
                 <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Allocations.html">
+                            <a href="<?php echo $PHPvotationsCHAllocations ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="#" width="200" height="200" alt="Initiative pour des allocations pour enfant
+                                        <img src="<?php echo $Sous ?>" class="illustration" alt="Initiative pour des allocations pour enfant
                                         et des allocations de formation professionnelle exonérées de l'impôt">
                                     </div>
                                 </div>
@@ -78,11 +78,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="TaxeEnergie.html">
+                            <a href="<?php echo $PHPvotationsCHTaxeEnergie ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="#" width="200" height="200" alt="Initiative pour remplacer la TVA par une taxe sur l'énergie">
+                                        <img src="<?php echo $Eolienne ?>" class="illustration" alt="Initiative pour remplacer la TVA par une taxe sur l'énergie">
                                     </div>
                                 </div>
                             </div>

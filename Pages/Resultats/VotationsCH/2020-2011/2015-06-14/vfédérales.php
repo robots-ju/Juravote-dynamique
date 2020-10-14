@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>Résultats des votations fédérales du 14 juin 2015</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -56,14 +56,14 @@
         <hr>
         <section>
             
-                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="GénieHumain.html">
+                            <a href="<?php echo $PHPvotationsCHGénieHumain ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="#" width="200" height="200" alt="Arrêté fédéral relatif à la procréation
+                                        <img class="illustration "src="<?php echo $Enceinte ?>" alt="Arrêté fédéral relatif à la procréation
                                         médicalement assistée et au génie génétique dans le domaine humain">
                                     </div>
                                 </div>
@@ -78,11 +78,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Bourses.html">
+                            <a href="<?php echo $PHPvotationsCHBourses ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="#" width="200" height="200" alt="Initiative sur les bourses d'étude">
+                                        <img src="<?php echo $Sous ?>" class="illustration" alt="Initiative sur les bourses d'étude">
                                     </div>
                                 </div>
                             </div>
@@ -95,11 +95,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Sucessions.html">
+                            <a href="<?php echo $PHPvotationsCHSuccessions ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="#" width="200" height="200" alt="Initiative pour imposer les successions de plusieurs
+                                        <img src="<?php echo $Sous ?>" class="illustration" alt="Initiative pour imposer les successions de plusieurs
                                         millions pour financer notre AVS">
                                     </div>
                                 </div>
@@ -114,11 +114,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="LRTV.html">
+                            <a href="<?php echo $PHPvotationsCHLRTV ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="#" width="200" height="200" alt="Modification de la loi sur la radio et la télévision">
+                                        <img src="<?php echo $Radio ?>" class="illustration" alt="Modification de la loi sur la radio et la télévision">
                                     </div>
                                 </div>
                             </div>

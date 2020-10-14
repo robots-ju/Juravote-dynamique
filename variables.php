@@ -414,6 +414,17 @@
             $PHPvotationsCHLTRA = "/Pages/Resultats/VotationsCH/2020-2011/2016-02-28/LTRA.php";
             $PHPvotationsCHMariage = "/Pages/Resultats/VotationsCH/2020-2011/2016-02-28/Mariage.php";
             $PHPvotationsCHMiseEnOeuvre = "/Pages/Resultats/VotationsCH/2020-2011/2016-02-28/MiseEnOeuvre.php";
+        $PHPresultats20150614Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2015-06-14/vfédérales.php";
+            $PHPvotationsCHBourses = "/Pages/Resultats/VotationsCH/2020-2011/2015-06-14/Bourses.php";
+            $PHPvotationsCHLRTV = "/Pages/Resultats/VotationsCH/2020-2011/2015-06-14/LRTV.php";
+            $PHPvotationsCHSuccessions = "/Pages/Resultats/VotationsCH/2020-2011/2015-06-14/Sucessions.php";
+            $PHPvotationsCHGénieHumain = "/Pages/Resultats/VotationsCH/2020-2011/2015-06-14/GénieHumain.php";
+        $PHPresultats20150308Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2015-03-08/vfédérales.php";
+            $PHPvotationsCHAllocations = "/Pages/Resultats/VotationsCH/2020-2011/2015-03-08/Allocations.php";
+            $PHPvotationsCHTaxeEnergie = "/Pages/Resultats/VotationsCH/2020-2011/2015-03-08/TaxeEnergie.php";
+
+
+
 
     $PHPresultatsVotationsJU = "/Pages/Resultats/VotationsJU/VotationsJU.php";
     $PHPresultatsVotationsCO = "/Pages/Resultats/VotationsCO/VotationsCO.php";

@@ -325,16 +325,62 @@
                                     </div>
                                 </div>        
                             </li>
-                            <!--<li>
+                            <li>
                                 <a class="uk-accordion-title">2014</a>
                                 <div class="uk-accordion-content">
-                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 30.11.2014</p></a>
-                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 28.09.2014</p></a>
-                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 18.05.2014</p></a>
-                                    <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 09.02.2014</p></a>
+                                    <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20141130Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 30.11.2014</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20140928Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 28.09.2014</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>  
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20140518Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 18.05.2014</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20140209Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 09.02.2014</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>           
+                                    </div>
                                 </div>
                             </li>
-                            <li>
+                            <!--<li>
                                 <a class="uk-accordion-title">2013</a>
                                 <div class="uk-accordion-content">
                                     <a href="<?php echo $NOM; ?>"><p>Votations fédérales du 24.11.2013</p></a>

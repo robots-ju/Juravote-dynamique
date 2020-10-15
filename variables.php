@@ -260,11 +260,15 @@
         $MaterielGuerre = "/IMG/Votations/BANQUE_IMAGE/MaterielGuerre.jpg";
         $Médicaments = "/IMG/Votations/BANQUE_IMAGE/Médicaments.jpg";
         $Menotte = "/IMG/Votations/BANQUE_IMAGE/Menotte.jpg";
+        $Or = "/IMG/Votations/BANQUE_IMAGE/OR.jpg";
         $Radio = "/IMG/Votations/BANQUE_IMAGE/radio.jpg";
         $Responsables = "/IMG/Votations/BANQUE_IMAGE/Responsables.jpg";
+        $Restauration = "/IMG/Votations/BANQUE_IMAGE/Restauration.jpg";
         $Route = "/IMG/Votations/BANQUE_IMAGE/Route.jpg";
         $Senior = "/IMG/Votations/BANQUE_IMAGE/Senior.jpg";
         $Sous = "/IMG/Votations/BANQUE_IMAGE/Sous.jpg";
+        $Surpopulation = "/IMG/Votations/BANQUE_IMAGE/Surpopulation.jpg";
+        $TransportsPublics = "/IMG/Votations/BANQUE_IMAGE/TransportsPublics.jpg";
         $Tunnel = "/IMG/Votations/BANQUE_IMAGE/Tunnel.jpg";
         $Vache = "/IMG/Votations/BANQUE_IMAGE/Vache.jpg";
         $Vélo = "/IMG/Votations/BANQUE_IMAGE/Vélo.jpg";
@@ -422,6 +426,22 @@
         $PHPresultats20150308Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2015-03-08/vfédérales.php";
             $PHPvotationsCHAllocations = "/Pages/Resultats/VotationsCH/2020-2011/2015-03-08/Allocations.php";
             $PHPvotationsCHTaxeEnergie = "/Pages/Resultats/VotationsCH/2020-2011/2015-03-08/TaxeEnergie.php";
+        $PHPresultats20141130Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2014-11-30/vfédérales.php";
+            $PHPvotationsCHForfaitsFiscaux = "/Pages/Resultats/VotationsCH/2020-2011/2014-11-30/ForfaitsFiscaux.php";
+            $PHPvotationsCHOr = "/Pages/Resultats/VotationsCH/2020-2011/2014-11-30/Or.php";
+            $PHPvotationsCHSurpopulation = "/Pages/Resultats/VotationsCH/2020-2011/2014-11-30/Surpopulation.php";
+        $PHPresultats20140928Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2014-09-28/vfédérales.php";
+            $PHPvotationsCHAssuranceMaladieUnique = "/Pages/Resultats/VotationsCH/2020-2011/2014-09-28/AssuranceMaladie.php";
+            $PHPvotationsCHTVARestauration = "/Pages/Resultats/VotationsCH/2020-2011/2014-09-28/TVA.php";
+        $PHPresultats20140518Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2014-05-18/vfédérales.php";
+            $PHPvotationsCHGripen = "/Pages/Resultats/VotationsCH/2020-2011/2014-05-18/Gripen.php";
+            $PHPvotationsCHMédecine = "/Pages/Resultats/VotationsCH/2020-2011/2014-05-18/Médecine.php";
+            $PHPvotationsCHPédophiles = "/Pages/Resultats/VotationsCH/2020-2011/2014-05-18/Pédophiles.php";
+            $PHPvotationsCHSalairesEquitables2 = "/Pages/Resultats/VotationsCH/2020-2011/2014-05-18/SalairesEquitables2.php";
+        $PHPresultats20140209Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2014-02-09/vfédérales.php";
+            $PHPvotationsCHAvortement = "/Pages/Resultats/VotationsCH/2020-2011/2014-02-09/Avortement.php";
+            $PHPvotationsCHImmigration1 = "/Pages/Resultats/VotationsCH/2020-2011/2014-02-09/Immigration.php";
+            $PHPvotationsCHTransportsPublics = "/Pages/Resultats/VotationsCH/2020-2011/2014-02-09/TransportsPublics.php";
 
 
 

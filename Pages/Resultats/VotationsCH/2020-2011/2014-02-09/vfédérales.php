@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>Résultats des votations fédérales du 09 février 2014</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -56,14 +56,14 @@
         <hr>
         <section>
             
-                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="TransportsPublics.html">
+                            <a href="<?php echo $PHPvotationsCHTransportsPublics ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="#" width="200" height="200" alt="Contre-projet à l'initiative pour les transports publics">
+                                        <img src="<?php echo $TransportsPublics ?>" class="illustration" alt="Contre-projet à l'initiative pour les transports publics">
                                     </div>
                                 </div>
                             </div>
@@ -78,11 +78,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Avortement.html">
+                            <a href="<?php echo $PHPvotationsCHAvortement ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="#" width="200" height="200" alt="Initiative pour alléger l'assurance-maladie
+                                        <img src="<?php echo $Médicaments ?>" class="illustration" alt="Initiative pour alléger l'assurance-maladie
                                         en radiant les coûts d'interruption de grossesse de l'assurance de base">
                                     </div>
                                 </div>
@@ -97,11 +97,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Immigration.html">
+                            <a href="<?php echo $PHPvotationsCHImmigration1 ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="#" width="200" height="200" alt="Initiative contre l'immigration de masse">
+                                        <img src="<?php echo $Surpopulation ?>" class="illustration" alt="Initiative contre l'immigration de masse">
                                     </div>
                                 </div>
                             </div>

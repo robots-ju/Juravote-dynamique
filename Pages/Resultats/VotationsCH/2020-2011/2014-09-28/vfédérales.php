@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>Résultats des votations fédérales du 28 septembre 2014</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -59,11 +59,11 @@
                 <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="TVA.html">
+                            <a href="<?php echo $PHPvotationsCHTVARestauration ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="#" width="200" height="200" alt="Initiative Stop à la TVA discriminatoire pour la restauration">
+                                        <img src="<?php echo $Restauration ?>" class="illustration" alt="Initiative Stop à la TVA discriminatoire pour la restauration">
                                     </div>
                                 </div>
                             </div>
@@ -76,11 +76,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="AssuranceMaladie.html">
+                            <a href="<?php echo $PHPvotationsCHAssuranceMaladieUnique ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="#" width="200" height="200" alt="Initiative pour une caisse publique d'assurance-maladie">
+                                        <img src="<?php echo $Médicaments ?>" class="illustration" alt="Initiative pour une caisse publique d'assurance-maladie">
                                     </div>
                                 </div>
                             </div>

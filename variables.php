@@ -260,11 +260,15 @@
         $MaterielGuerre = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/MaterielGuerre.jpg";
         $Médicaments = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Médicaments.jpg";
         $Menotte = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Menotte.jpg";
+        $Or = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/OR.jpg";
         $Radio = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/radio.jpg";
         $Responsables = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Responsables.jpg";
+        $Restauration = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Restauration.jpg";
         $Route = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Route.jpg";
         $Senior = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Senior.jpg";
         $Sous = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Sous.jpg";
+        $Surpopulation = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Surpopulation.jpg";
+        $TransportsPublics = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/TransportsPublics.jpg";
         $Tunnel = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Tunnel.jpg";
         $Vache = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Vache.jpg";
         $Vélo = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Vélo.jpg";
@@ -422,6 +426,22 @@
         $PHPresultats20150308Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2015-03-08/vfédérales.php";
             $PHPvotationsCHAllocations = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2015-03-08/Allocations.php";
             $PHPvotationsCHTaxeEnergie = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2015-03-08/TaxeEnergie.php";
+        $PHPresultats20141130Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-11-30/vfédérales.php";
+            $PHPvotationsCHForfaitsFiscaux = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-11-30/ForfaitsFiscaux.php";
+            $PHPvotationsCHOr = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-11-30/Or.php";
+            $PHPvotationsCHSurpopulation = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-11-30/Surpopulation.php";
+        $PHPresultats20140928Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-09-28/vfédérales.php";
+            $PHPvotationsCHAssuranceMaladieUnique = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-09-28/AssuranceMaladie.php";
+            $PHPvotationsCHTVARestauration = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-09-28/TVA.php";
+        $PHPresultats20140518Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-05-18/vfédérales.php";
+            $PHPvotationsCHGripen = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-05-18/Gripen.php";
+            $PHPvotationsCHMédecine = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-05-18/Médecine.php";
+            $PHPvotationsCHPédophiles = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-05-18/Pédophiles.php";
+            $PHPvotationsCHSalairesEquitables2 = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-05-18/SalairesEquitables2.php";
+        $PHPresultats20140209Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-02-09/vfédérales.php";
+            $PHPvotationsCHAvortement = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-02-09/Avortement.php";
+            $PHPvotationsCHImmigration1 = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-02-09/Immigration.php";
+            $PHPvotationsCHTransportsPublics = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2014-02-09/TransportsPublics.php";
 
 
 

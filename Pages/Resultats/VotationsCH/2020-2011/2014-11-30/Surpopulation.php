@@ -165,7 +165,7 @@
                             série10to20.value = "10 à 20 %";
                             série10to20.title = "Oui en %";
                             série10to20.useGeodata = true;
-                            série10to20.include = ["CH-VD"];
+                            série10to20.include = ["CH-VS"];
                             série10to20.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
                             série10to20.fill = am4core.color("#db0000")
                             série10to20.mapPolygons.template.fill = am4core.color("#db0000")

@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>Résultats des votations fédérales du 18 mai 2014</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -56,14 +56,14 @@
         <hr>
         <section>
             
-                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Médecine.html">
+                            <a href="<?php echo $PHPvotationsCHMédecine ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto ">
-                                        <img src="#" width="200" height="200" alt="Contre-projet à l'initiative pour la médecine de famille">
+                                        <img src="<?php echo $Médicaments ?>" class="illustration" alt="Contre-projet à l'initiative pour la médecine de famille">
                                     </div>
                                 </div>
                             </div>
@@ -77,11 +77,11 @@
                     </div>    
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Pédophiles.html">
+                            <a href="<?php echo $PHPvotationsCHPédophiles ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="#" width="200" height="200" alt="Initiative pour que les pédophiles ne travaillent plus avec des enfants">
+                                        <img src="<?php echo $Justice ?>" class="illustration" alt="Initiative pour que les pédophiles ne travaillent plus avec des enfants">
                                     </div>
                                 </div>
                             </div>
@@ -94,11 +94,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="SalairesEquitables2.html">
+                            <a href="<?php echo $PHPvotationsCHSalairesEquitables2 ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="#" width="200" height="200" alt="Initiative sur les salaires minimums">
+                                        <img src="<?php echo $Sous ?>" class="illustration" alt="Initiative sur les salaires minimums">
                                     </div>
                                 </div>
                             </div>
@@ -111,11 +111,11 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="Gripen.html">
+                            <a href="<?php echo $PHPvotationsCHGripen ?>">
                             <div class="uk-card-header">
                                 <div class="uk-grid-small uk-flex-column uk-text-center" uk-grid>
                                     <div class="uk-width-auto">
-                                        <img src="#" width="200" height="200" alt="Loi sur le fonds Gripen">
+                                        <img src="<?php echo $avions ?>" class="illustration" alt="Loi sur le fonds Gripen">
                                     </div>
                                 </div>
                             </div>

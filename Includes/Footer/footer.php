@@ -29,6 +29,7 @@
                             <ul class="uk-nav uk-nav-default grid-nav">
                                 <li><a class="uk-button uk-button-text" href="<?php echo $PHPpartisCH ?>">Partis politiques suisses</a></li>
                                 <li><a class="uk-button uk-button-text" href="<?php echo $PHPpartisJU ?>">Partis politiques jurassiens</a></li>
+                                <li><a class="uk-button uk-button-text" href="<?php echo $PHPpartisCO ?>">Partis politiques communaux</a></li>
                             </ul>
                         </div>
                     </div>

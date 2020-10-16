@@ -343,6 +343,7 @@
 
     $PHPpartisCH = "/Pages/Instances/PartisCH/2020_2023/PartisCH.php";
     $PHPpartisJU = "/Pages/Instances/PartisJU/2016_2020/PartisJU.php"; 
+    $PHPpartisCO = "/Pages/Instances/PartisCO/2019_2023/PartisCO.php"; 
     
     $PHPresultats = "/Pages/Resultats/resultats.php";
     $PHPresultatsElectionsCH = "/Pages/Resultats/ElectionsCH/electionsCH.php";

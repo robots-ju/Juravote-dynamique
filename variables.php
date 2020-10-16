@@ -494,6 +494,7 @@
     //SITES INTERNET
         //COMMUNES
             //AJOIE
+            $siteBasseAllaine = "http://www.basse-allaine.ch/";
             $siteBoncourt = "https://www.boncourt.ch/";
             $siteBure = "http://www.bure.ch/";
             $siteCoeuve = "https://coeuve.ch/";

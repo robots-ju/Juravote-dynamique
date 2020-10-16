@@ -63,10 +63,22 @@
                                 <h3 class="uk-card-title">Elections Jura</h3>                            
                             </div>
                         </a>
+                        <a href="<?php echo $siteBasseAllaine ?>">
+                            <div class="uk-card uk-card-hover uk-card-body uk-width-1-1">
+                                <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.11</div>
+                                <h3 class="uk-card-title">Assemblée communale Basse-Allaine</h3>                            
+                            </div>
+                        </a>
                         <a href="<?php echo $PHPvotationsCHaccueil ?>">
                             <div class="uk-card uk-card-hover uk-card-body uk-width-1-1">
                                 <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >29.11</div>
                                 <h3 class="uk-card-title">Votations fédérales</h3>                            
+                            </div>
+                        </a>
+                        <a href="#">
+                            <div class="uk-card uk-card-hover uk-card-body uk-width-1-1">
+                                <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >20.12</div>
+                                <h3 class="uk-card-title">Election Mervelier (infos à venir)</h3>                            
                             </div>
                         </a>
                     </div>

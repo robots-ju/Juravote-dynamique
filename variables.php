@@ -343,6 +343,7 @@
 
     $PHPpartisCH = "/Juravote-dynamique/Pages/Instances/PartisCH/2020_2023/PartisCH.php";
     $PHPpartisJU = "/Juravote-dynamique/Pages/Instances/PartisJU/2016_2020/PartisJU.php"; 
+    $PHPpartisCO = "/Juravote-dynamique/Pages/Instances/PartisCO/2019_2023/PartisCO.php"; 
     
     $PHPresultats = "/Juravote-dynamique/Pages/Resultats/resultats.php";
     $PHPresultatsElectionsCH = "/Juravote-dynamique/Pages/Resultats/ElectionsCH/electionsCH.php";

@@ -89,31 +89,31 @@
                             // Add data
                             chart.data = [{
                             "parti": "PLRJ",
-                            "suffrages_liste": 501.9,
+                            "suffrages_liste": 5,
                             "color": am4core.color("#0066ff")
                             }, {
                             "parti": "PSJ",
-                            "suffrages_liste": 301.9,
+                            "suffrages_liste": 3,
                             "color": am4core.color("#fc0401")
                             }, {
                             "parti": "PDC",
-                            "suffrages_liste": 201.1,
+                            "suffrages_liste": 7,
                             "color": am4core.color("#ff9e00")
                             }, {                            
                             "parti": "UDC",
-                            "suffrages_liste": 586.1,
+                            "suffrages_liste": 2,
                             "color": am4core.color("#85ff00")
                             },{
                             "parti": "VERTS",
-                            "suffrages_liste": 45.1,
+                            "suffrages_liste": 1,
                             "color": am4core.color("#00fa01")
                             },{
                             "parti": "PCSI",
-                            "suffrages_liste": 678.1,
+                            "suffrages_liste": 2,
                             "color": am4core.color("#14b0b8")
                             },{
                             "parti": "PVL",
-                            "suffrages_liste": 234.1,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#00bc00")                            
                             }];
 

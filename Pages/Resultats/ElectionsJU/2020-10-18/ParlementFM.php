@@ -25,7 +25,9 @@
         <script src="https://www.amcharts.com/lib/4/geodata/switzerlandHigh.js"></script>
         <script src="https://www.amcharts.com/lib/4/maps.js"></script>
         <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
-
+        <script src="https://www.gstatic.com/firebasejs/7.22.1/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.22.1/firebase-firestore.js"></script>
+        <script src="../../../../JS/db.js" type="module"></script>
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166072477-1"></script>
@@ -68,6 +70,9 @@
                         <p><b>Participation : </b>38.94 %</p>
                         <p><b>Type de la votation : </b>Election cantonale jurassienne</p>
                         <p><b>Mode de votation : </b>Election à un tour</p>
+                        <p><b>Candidats-es élus-es : </b><span style="color: #2ecc71">Elu-e</span></p>
+                        <p><b>Communes qui ont livré les résultats : </b><!--<span>Le Bémont, Les Bois, Les Breuleux, Les Enfers,
+                        Les Genevez, Lajoux, Montfaucon, Muriaux, Le Noirmont, Saignelégier, St-Brais, Soubey</span>--></p>
                     </div>
                 </div>
             </div>

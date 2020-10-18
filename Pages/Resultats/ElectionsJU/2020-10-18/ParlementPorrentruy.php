@@ -72,9 +72,9 @@
                         <p><b>Mode de votation : </b>Election à un tour</p>
                         <p><a href="<?php echo $PHPelectionsJUParlementA ?>">Lien vers les informations d'élection</a></p>
                         <p><b>Candidats-es élus-es : </b><span style="color: #2ecc71">Elu-e</span></p>
-                        <p><b>Communes qui ont livré les résultats : </b><!--<span>Alle, La Baroche, Basse-Allaine, Beurnevésin,
+                        <!--<p><b>Communes qui ont livré les résultats : </b><span>Alle, La Baroche, Basse-Allaine, Beurnevésin,
                         Boncourt, Bonfol, Bure, Clos-du-Doubs, Coeuve, Cornol, Courchavon, Courgenay, Courtedoux, Damphreux, Fahy,
-                        Fontenais, Grandfontaine, Haute-Ajoie, Lugnez, Porrentruy, Vendlincourt</span>--></p>
+                        Fontenais, Grandfontaine, Haute-Ajoie, Lugnez, Porrentruy, Vendlincourt</span></p>-->
                     </div>
                 </div>
             </div>

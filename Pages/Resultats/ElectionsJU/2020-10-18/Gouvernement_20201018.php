@@ -71,8 +71,8 @@
                         <p><b>Mode de votation : </b>Election à deux tours (Pour être élu-e au premier tour, il faut obtenir 50 % des voix + 1)</p>
                         <p><a href="<?php echo $PHPelectionsJUGouvernement1 ?>">Lien vers les informations d'élection</a></p>
                         <p><b>Les candidats-es élus-es sont indiqués-es de la couleur suivante : </b><span style="color: #2ecc71">Elu-e</span></p>
-                        <p><b>Communes qui ont livré les résultats : </b></p>
-                        <!--<p>Boécourt, Bourrignon, Châtillon, Courchapoix, Courrendlin,
+                        <!--<p><b>Communes qui ont livré les résultats : </b></p>
+                        <p>Boécourt, Bourrignon, Châtillon, Courchapoix, Courrendlin,
                         Courroux, Courtételle, Delémont, Develier, Ederswiler, Haute-Sorne, Mervelier, Mettembert, Movelier, Pleigne,
                         Rossemaison, Saulcy, Soyhières, Val-Terbi</span></p>
 

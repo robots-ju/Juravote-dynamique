@@ -99,43 +99,43 @@
 
                             chartECGouvernement.data = [{
                             "candidat": "David Eray",
-                            "Suffrages": 8,
+                            "Suffrages": 5242,
                             }, {
                             "candidat": "Jacques Gerber",
-                            "Suffrages": 12,
+                            "Suffrages": 8639,
                             }, {
                             "candidat": "Martial Courtet",
-                            "Suffrages": 13,
+                            "Suffrages": 8943,
                             }, {
                             "candidat": "Stéphane Babey",
-                            "Suffrages": 9,
+                            "Suffrages": 6279,
                             }, {
                             "candidat": "Nathalie Barthoulot",
-                            "Suffrages": 10,
+                            "Suffrages": 7983,
                             }, {
                             "candidat": "Rosalie Beuret Siess",
-                            "Suffrages": 11,
+                            "Suffrages": 7954,
                             }, {
                             "candidat": "Francisco Pires",
-                            "Suffrages": 7,
+                            "Suffrages": 1485,
                             }, {
                             "candidat": "Brigitte Favre",
-                            "Suffrages": 7,
+                            "Suffrages": 2045,
                             }, {
                             "candidat": "Didier Spies",
-                            "Suffrages": 7,
+                            "Suffrages": 2150,
                             }, {
                             "candidat": "Céline R.-C. Linder",
-                            "Suffrages": 7,
+                            "Suffrages": 2476,
                             }, {
                             "candidat": "Vincent Schmitt",
-                            "Suffrages": 7,
+                            "Suffrages": 2270,
                             }, {
                             "candidat": "Emilie Moreau",
-                            "Suffrages": 7,
+                            "Suffrages": 1953,
                             }, {
                             "candidat": "Alain Beuret",
-                            "Suffrages": 7,
+                            "Suffrages": 1269,
                             }];
 
                             // Create axes

@@ -66,7 +66,7 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Election au Gouvernement Jurassien (1er tour)</p>
-                        <p><b>Participation : </b>xx.xx %</p>
+                        <p><b>Participation : </b>47.49 %</p>
                         <p><b>Type de la votation : </b>Election cantonale jurassienne</p>
                         <p><b>Mode de votation : </b>Election à deux tours (Pour être élu-e au premier tour, il faut obtenir 50 % des voix + 1)</p>
                         <p><a href="<?php echo $PHPelectionsJUGouvernement1 ?>">Lien vers les informations d'élection</a></p>
@@ -98,44 +98,44 @@
                             var chartECGouvernement = am4core.create("chartECGouvernement", am4charts.XYChart);
 
                             chartECGouvernement.data = [{
-                            "candidat": "David Eray",
-                            "Suffrages": 6328,
+                                "candidat": "Alain Beuret",
+                                "Suffrages": 1977,
                             }, {
-                            "candidat": "Jacques Gerber",
-                            "Suffrages": 10203,
+                                "candidat": "Francisco Pires",
+                                "Suffrages": 2232,
+                            }, {
+                                "candidat": "Emilie Moreau",
+                                "Suffrages": 2705,
+                            }, { 
+                                "candidat": "Brigitte Favre",
+                                "Suffrages": 2711,
+                            }, {
+                                "candidat": "Didier Spies",
+                                "Suffrages": 2898,
+                            }, {
+                                "candidat": "Vincent Schmitt",
+                                "Suffrages": 3152,
+                            }, {
+                                "candidat": "Céline R.-C. Linder",
+                                "Suffrages": 3662,
+                            }, {
+                                "candidat": "David Eray",
+                                "Suffrages": 6987,
+                            }, { 
+                                "candidat": "Stéphane Babey",
+                                "Suffrages": 7721,
+                            }, { 
+                                "candidat": "Jacques Gerber",
+                                "Suffrages": 11008,
+                            }, {
+                                "candidat": "Rosalie Beuret Siess",
+                                "Suffrages": 11135,
+                            }, {
+                                "candidat": "Nathalie Barthoulot",
+                                "Suffrages": 11401,
                             }, {
                             "candidat": "Martial Courtet",
-                            "Suffrages": 10573,
-                            }, {
-                            "candidat": "Stéphane Babey",
-                            "Suffrages": 7168,
-                            }, {
-                            "candidat": "Nathalie Barthoulot",
-                            "Suffrages": 10396,
-                            }, {
-                            "candidat": "Rosalie Beuret Siess",
-                            "Suffrages": 10177,
-                            }, {
-                            "candidat": "Francisco Pires",
-                            "Suffrages": 2057,
-                            }, {
-                            "candidat": "Brigitte Favre",
-                            "Suffrages": 2448,
-                            }, {
-                            "candidat": "Didier Spies",
-                            "Suffrages": 2610,
-                            }, {
-                            "candidat": "Céline R.-C. Linder",
-                            "Suffrages": 3408,
-                            }, {
-                            "candidat": "Vincent Schmitt",
-                            "Suffrages": 2938,
-                            }, {
-                            "candidat": "Emilie Moreau",
-                            "Suffrages": 2501,
-                            }, {
-                            "candidat": "Alain Beuret",
-                            "Suffrages": 1788,
+                            "Suffrages": 11516,
                             }];
 
                             // Create axes

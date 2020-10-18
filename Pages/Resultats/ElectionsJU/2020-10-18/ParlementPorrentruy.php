@@ -163,12 +163,12 @@
 
                         db.collection('elections').doc('ju-plt-20201018')
                             .collection('districts').doc("Porrentruy").collection('Partis')
-                            .doc('liste1-PLRJ').collection('candidats').get().then(querySnapshot => {
+                            .doc('liste1-PLRJ').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
                             let candidats = querySnapshot.docs.map(doc => doc.data());
                             candidats.forEach(candidat => {
                                 PLRJCandidats.push({
                                     "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voies),
+                                    "Suffrages": parseInt(candidat.voix),
                                     "color": candidat.elu ? "#2ecc71" : "#3498db"
                                 });
                             })
@@ -212,12 +212,12 @@
 
                         db.collection('elections').doc('ju-plt-20201018')
                             .collection('districts').doc("Porrentruy").collection('Partis')
-                            .doc('liste2-PSJ').collection('candidats').get().then(querySnapshot => {
+                            .doc('liste2-PSJ').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
                             let candidats = querySnapshot.docs.map(doc => doc.data());
                             candidats.forEach(candidat => {
                                 PSJCandidats.push({
                                     "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voies),
+                                    "Suffrages": parseInt(candidat.voix),
                                     "color": candidat.elu ? "#2ecc71" : "#3498db"
                                 });
                             });
@@ -258,12 +258,12 @@
 
                         db.collection('elections').doc('ju-plt-20201018')
                             .collection('districts').doc("Porrentruy").collection('Partis')
-                            .doc('liste3-PDC').collection('candidats').get().then(querySnapshot => {
+                            .doc('liste3-PDC').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
                             let candidats = querySnapshot.docs.map(doc => doc.data());
                             candidats.forEach(candidat => {
                                 PDCCandidats.push({
                                     "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voies),
+                                    "Suffrages": parseInt(candidat.voix),
                                     "color": candidat.elu ? "#2ecc71" : "#3498db"
                                 });
                             });
@@ -302,12 +302,12 @@
 
                         db.collection('elections').doc('ju-plt-20201018')
                             .collection('districts').doc("Porrentruy").collection('Partis')
-                            .doc('liste4-UDC').collection('candidats').get().then(querySnapshot => {
+                            .doc('liste4-UDC').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
                             let candidats = querySnapshot.docs.map(doc => doc.data());
                             candidats.forEach(candidat => {
                                 UDCCandidats.push({
                                     "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voies),
+                                    "Suffrages": parseInt(candidat.voix),
                                     "color": candidat.elu ? "#2ecc71" : "#3498db"
                                 });
                             });
@@ -346,12 +346,12 @@
 
                         db.collection('elections').doc('ju-plt-20201018')
                             .collection('districts').doc("Porrentruy").collection('Partis')
-                            .doc('liste5-Verts').collection('candidats').get().then(querySnapshot => {
+                            .doc('liste5-Verts').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
                             let candidats = querySnapshot.docs.map(doc => doc.data());
                             candidats.forEach(candidat => {
                                 VertsCandidats.push({
                                     "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voies),
+                                    "Suffrages": parseInt(candidat.voix),
                                     "color": candidat.elu ? "#2ecc71" : "#3498db"
                                 });
                             });
@@ -390,12 +390,12 @@
 
                         db.collection('elections').doc('ju-plt-20201018')
                             .collection('districts').doc("Porrentruy").collection('Partis')
-                            .doc('liste6-PCSI').collection('candidats').get().then(querySnapshot => {
+                            .doc('liste6-PCSI').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
                             let candidats = querySnapshot.docs.map(doc => doc.data());
                             candidats.forEach(candidat => {
                                 PCSICandidats.push({
                                     "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voies),
+                                    "Suffrages": parseInt(candidat.voix),
                                     "color": candidat.elu ? "#2ecc71" : "#3498db"
                                 });
                             });
@@ -434,12 +434,12 @@
 
                         db.collection('elections').doc('ju-plt-20201018')
                             .collection('districts').doc("Porrentruy").collection('Partis')
-                            .doc('liste7-PVL').collection('candidats').get().then(querySnapshot => {
+                            .doc('liste7-PVL').collection('candidats').orderBy('voix', 'asc')get().then(querySnapshot => {
                             let candidats = querySnapshot.docs.map(doc => doc.data());
                             candidats.forEach(candidat => {
                                 PVLCandidats.push({
                                     "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voies),
+                                    "Suffrages": parseInt(candidat.voix),
                                     "color": candidat.elu ? "#2ecc71" : "#3498db"
                                 });
                             });

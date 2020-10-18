@@ -25,7 +25,9 @@
         <script src="https://www.amcharts.com/lib/4/geodata/switzerlandHigh.js"></script>
         <script src="https://www.amcharts.com/lib/4/maps.js"></script>
         <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
-
+        <script src="https://www.gstatic.com/firebasejs/7.22.1/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.22.1/firebase-firestore.js"></script>
+        <script src="../../../../JS/db.js" type="module"></script>
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166072477-1"></script>
@@ -65,9 +67,13 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Election au Parlement Jurassien</p>
-                        <p><b>Participation : </b>38.94 %</p>
+                        <p><b>Participation : </b>xx.xx %</p>
                         <p><b>Type de la votation : </b>Election cantonale jurassienne</p>
                         <p><b>Mode de votation : </b>Election à un tour</p>
+                        <p><a href="<?php echo $PHPelectionsJUParlementFM ?>">Lien vers les informations d'élection</a></p>
+                        <p><b>Candidats-es élus-es : </b><span style="color: #2ecc71">Elu-e</span></p>
+                        <p><b>Communes qui ont livré les résultats : </b><!--<span>Le Bémont, Les Bois, Les Breuleux, Les Enfers,
+                        Les Genevez, Lajoux, Montfaucon, Muriaux, Le Noirmont, Saignelégier, St-Brais, Soubey</span>--></p>
                     </div>
                 </div>
             </div>
@@ -89,35 +95,35 @@
                             // Add data
                             chart.data = [{
                             "parti": "PLRJ",
-                            "suffrages_liste": 501.9,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#0066ff")
                             }, {
                             "parti": "PSJ",
-                            "suffrages_liste": 301.9,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#fc0401")
                             }, {
                             "parti": "PDC",
-                            "suffrages_liste": 201.1,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#ff9e00")
                             }, {
                             "parti": "CS-POP",
-                            "suffrages_liste": 165.8,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#c50301")
                             },{
                             "parti": "UDC",
-                            "suffrages_liste": 586.1,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#85ff00")
                             },{
                             "parti": "VERTS",
-                            "suffrages_liste": 45.1,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#00fa01")
                             },{
                             "parti": "PCSI",
-                            "suffrages_liste": 678.1,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#14b0b8")
                             },{
                             "parti": "PVL",
-                            "suffrages_liste": 234.1,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#00bc00")                            
                             }];
 
@@ -147,653 +153,366 @@
             <button class="uk-button uk-button-default" type="button">PVL</button>
         </div>  
         <ul class="uk-switcher uk-margin">
-            <li>   
+        <li>   
                 <div class="uk-card-body">
                     <div class="uk-align-right" id="chartECGouvernement" style="width: 100%; height: 500px;"></div>
-                    <script>
-                        var chartECGouvernement = am4core.create("chartECGouvernement", am4charts.XYChart);
+                    <script type="module">
 
-                        chartECGouvernement.data = [{
-                        "candidat": "David Eray",
-                        "Suffrages": 10486,
-                        }, {
-                        "candidat": "Jacques Gerber",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Martial Courtet",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Stéphane Babey",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Nathalie Barthoulot",
-                        "Suffrages": 5491,
-                        }, {
-                        "candidat": "Rosalie Beuret Siess",
-                        "Suffrages": 6491,
-                        }, {
-                        "candidat": "Francisco Pires",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Brigitte Favre",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Didier Spies",
-                        "Suffrages": 9491,
-                        }, {
-                        "candidat": "Céline R.-C. Linder",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Vincent Schmitt",
-                        "Suffrages": 4391,
-                        }, {
-                        "candidat": "Emilie Moreau",
-                        "Suffrages": 7491,
-                        }, {
-                        "candidat": "Alain Beuret",
-                        "Suffrages": 3379,
-                        }];
+                        import { db } from  '../../../../JS/db.js'
 
-                        // Create axes
-                        var categoryAxis = chartECGouvernement.yAxes.push(new am4charts.CategoryAxis());
-                        categoryAxis.dataFields.category = "candidat";
-                        categoryAxis.renderer.minGridDistance = 4;
-                        
 
-                        var valueAxis = chartECGouvernement.xAxes.push(new am4charts.ValueAxis());
-                        valueAxis.title.text = "Suffrages";
-                        
 
-                        // Create series
-                        var series = chartECGouvernement.series.push(new am4charts.ColumnSeries());
-                        series.dataFields.valueX = "Suffrages";
-                        series.dataFields.categoryY = "candidat";
-                        series.name = "Suffrages";
+                        // PLRJ
+                        let PLRJCandidats = [];
+
+                        db.collection('elections').doc('ju-plt-20201018')
+                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
+                            .doc('liste1-PLRJ').collection('candidats').get().then(querySnapshot => {
+                            let candidats = querySnapshot.docs.map(doc => doc.data());
+                            candidats.forEach(candidat => {
+                                PLRJCandidats.push({
+                                    "candidat": candidat.nomPrenom,
+                                    "Suffrages": parseInt(candidat.voies),
+                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
+                                });
+                            })
+
+
+                            let chartECGouvernement = am4core.create("chartECGouvernement", am4charts.XYChart);
+
+                            // Create axes
+                            let categoryAxis = chartECGouvernement.yAxes.push(new am4charts.CategoryAxis());
+                            categoryAxis.dataFields.category = "candidat";
+                            categoryAxis.renderer.minGridDistance = 4;
+
+
+
+                            let valueAxis = chartECGouvernement.xAxes.push(new am4charts.ValueAxis());
+                            valueAxis.min = 0;
+                            valueAxis.title.text = "Suffrages";
+
+
+                            // Create series
+                            let series = chartECGouvernement.series.push(new am4charts.ColumnSeries());
+                            series.dataFields.valueX = "Suffrages";
+                            series.dataFields.categoryY = "candidat";
+                            series.name = "Suffrages";
+                            series.columns.template.propertyFields.fill = "color";
+
+                            chartECGouvernement.data = PLRJCandidats;
+                        }) ;
+
                     </script>
                 </div>
             </li> 
             <li>   
                 <div class="uk-card-body">
                     <div class="uk-align-right" id="chartECGouvernement2" style="width: 100%; height: 500px;"></div>
-                    <script>
-                        var chartECGouvernement2 = am4core.create("chartECGouvernement2", am4charts.XYChart);
+                    <script type="module">
 
-                        chartECGouvernement2.data = [{
-                        "candidat": "David Eray",
-                        "Suffrages": 10486,
-                        }, {
-                        "candidat": "Jacques Gerber",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Martial Courtet",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Stéphane Babey",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Nathalie Barthoulot",
-                        "Suffrages": 5491,
-                        }, {
-                        "candidat": "Rosalie Beuret Siess",
-                        "Suffrages": 6491,
-                        }, {
-                        "candidat": "Francisco Pires",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Brigitte Favre",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Didier Spies",
-                        "Suffrages": 9491,
-                        }, {
-                        "candidat": "Céline R.-C. Linder",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Vincent Schmitt",
-                        "Suffrages": 4391,
-                        }, {
-                        "candidat": "Emilie Moreau",
-                        "Suffrages": 7491,
-                        }, {
-                        "candidat": "Alain Beuret",
-                        "Suffrages": 3379,
-                        }];
+                        import { db } from  '../../../../JS/db.js'
 
-                        // Create axes
-                        var categoryAxis = chartECGouvernement2.yAxes.push(new am4charts.CategoryAxis());
-                        categoryAxis.dataFields.category = "candidat";
-                        categoryAxis.renderer.minGridDistance = 4;
-                        
+                        let PSJCandidats = [];
 
-                        var valueAxis = chartECGouvernement2.xAxes.push(new am4charts.ValueAxis());
-                        valueAxis.title.text = "Suffrages";
-                        
+                        db.collection('elections').doc('ju-plt-20201018')
+                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
+                            .doc('liste2-PSJ').collection('candidats').get().then(querySnapshot => {
+                            let candidats = querySnapshot.docs.map(doc => doc.data());
+                            candidats.forEach(candidat => {
+                                PSJCandidats.push({
+                                    "candidat": candidat.nomPrenom,
+                                    "Suffrages": parseInt(candidat.voies),
+                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
+                                });
+                            });
+                            let chartECGouvernement2 = am4core.create("chartECGouvernement2", am4charts.XYChart);
 
-                        // Create series
-                        var series = chartECGouvernement2.series.push(new am4charts.ColumnSeries());
-                        series.dataFields.valueX = "Suffrages";
-                        series.dataFields.categoryY = "candidat";
-                        series.name = "Suffrages";
+                            // Create axes
+                            let categoryAxis = chartECGouvernement2.yAxes.push(new am4charts.CategoryAxis());
+                            categoryAxis.dataFields.category = "candidat";
+                            categoryAxis.renderer.minGridDistance = 4;
+
+
+                            let valueAxis = chartECGouvernement2.xAxes.push(new am4charts.ValueAxis());
+                            valueAxis.min = 0;
+                            valueAxis.title.text = "Suffrages";
+
+
+                            // Create series
+                            let series = chartECGouvernement2.series.push(new am4charts.ColumnSeries());
+                            series.dataFields.valueX = "Suffrages";
+                            series.dataFields.categoryY = "candidat";
+                            series.name = "Suffrages";
+                            series.columns.template.propertyFields.fill = "color";
+
+                            chartECGouvernement2.data = PSJCandidats;
+
+                        });
                     </script>
                 </div>
             </li>
             <li>   
                 <div class="uk-card-body">
                     <div class="uk-align-right" id="chartECGouvernement3" style="width: 100%; height: 500px;"></div>
-                    <script>
-                        var chartECGouvernement3 = am4core.create("chartECGouvernement3", am4charts.XYChart);
+                    <script type="module">
 
-                        chartECGouvernement3.data = [{
-                        "candidat": "David Eray",
-                        "Suffrages": 10486,
-                        }, {
-                        "candidat": "Jacques Gerber",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Martial Courtet",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Stéphane Babey",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Nathalie Barthoulot",
-                        "Suffrages": 5491,
-                        }, {
-                        "candidat": "Rosalie Beuret Siess",
-                        "Suffrages": 6491,
-                        }, {
-                        "candidat": "Francisco Pires",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Brigitte Favre",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Didier Spies",
-                        "Suffrages": 9491,
-                        }, {
-                        "candidat": "Céline R.-C. Linder",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Vincent Schmitt",
-                        "Suffrages": 4391,
-                        }, {
-                        "candidat": "Emilie Moreau",
-                        "Suffrages": 7491,
-                        }, {
-                        "candidat": "Alain Beuret",
-                        "Suffrages": 3379,
-                        }];
+                        import { db } from  '../../../../JS/db.js'
 
-                        // Create axes
-                        var categoryAxis = chartECGouvernement3.yAxes.push(new am4charts.CategoryAxis());
-                        categoryAxis.dataFields.category = "candidat";
-                        categoryAxis.renderer.minGridDistance = 4;
-                        
+                        let PDCCandidats = [];
 
-                        var valueAxis = chartECGouvernement3.xAxes.push(new am4charts.ValueAxis());
-                        valueAxis.title.text = "Suffrages";
-                        
+                        db.collection('elections').doc('ju-plt-20201018')
+                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
+                            .doc('liste3-PDC').collection('candidats').get().then(querySnapshot => {
+                            let candidats = querySnapshot.docs.map(doc => doc.data());
+                            candidats.forEach(candidat => {
+                                PDCCandidats.push({
+                                    "candidat": candidat.nomPrenom,
+                                    "Suffrages": parseInt(candidat.voies),
+                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
+                                });
+                            });
+                            let chartECGouvernement3 = am4core.create("chartECGouvernement3", am4charts.XYChart);
 
-                        // Create series
-                        var series = chartECGouvernement3.series.push(new am4charts.ColumnSeries());
-                        series.dataFields.valueX = "Suffrages";
-                        series.dataFields.categoryY = "candidat";
-                        series.name = "Suffrages";
+                            // Create axes
+                            let categoryAxis = chartECGouvernement3.yAxes.push(new am4charts.CategoryAxis());
+                            categoryAxis.dataFields.category = "candidat";
+                            categoryAxis.renderer.minGridDistance = 4;
+
+
+                            let valueAxis = chartECGouvernement3.xAxes.push(new am4charts.ValueAxis());
+                            valueAxis.min = 0;
+                            valueAxis.title.text = "Suffrages";
+
+                            // Create series
+                            let series = chartECGouvernement3.series.push(new am4charts.ColumnSeries());
+                            series.dataFields.valueX = "Suffrages";
+                            series.dataFields.categoryY = "candidat";
+                            series.name = "Suffrages";
+                            series.columns.template.propertyFields.fill = "color";
+
+                            chartECGouvernement3.data = PDCCandidats;
+                        });
+
                     </script>
                 </div>
             </li>
             <li>   
                 <div class="uk-card-body">
                     <div class="uk-align-right" id="chartECGouvernement4" style="width: 100%; height: 500px;"></div>
-                    <script>
-                        var chartECGouvernement4 = am4core.create("chartECGouvernement4", am4charts.XYChart);
+                    <script type="module">
+                        import { db } from  '../../../../JS/db.js'
 
-                        chartECGouvernement4.data = [{
-                        "candidat": "David Eray",
-                        "Suffrages": 10486,
-                        }, {
-                        "candidat": "Jacques Gerber",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Martial Courtet",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Stéphane Babey",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Nathalie Barthoulot",
-                        "Suffrages": 5491,
-                        }, {
-                        "candidat": "Rosalie Beuret Siess",
-                        "Suffrages": 6491,
-                        }, {
-                        "candidat": "Francisco Pires",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Brigitte Favre",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Didier Spies",
-                        "Suffrages": 9491,
-                        }, {
-                        "candidat": "Céline R.-C. Linder",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Vincent Schmitt",
-                        "Suffrages": 4391,
-                        }, {
-                        "candidat": "Emilie Moreau",
-                        "Suffrages": 7491,
-                        }, {
-                        "candidat": "Alain Beuret",
-                        "Suffrages": 3379,
-                        }];
+                        let CSPOPCandidats = [];
 
-                        // Create axes
-                        var categoryAxis = chartECGouvernement4.yAxes.push(new am4charts.CategoryAxis());
-                        categoryAxis.dataFields.category = "candidat";
-                        categoryAxis.renderer.minGridDistance = 4;
-                        
+                        db.collection('elections').doc('ju-plt-20201018')
+                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
+                            .doc('liste4-CS-POP').collection('candidats').get().then(querySnapshot => {
+                            let candidats = querySnapshot.docs.map(doc => doc.data());
+                            candidats.forEach(candidat => {
+                                CSPOPCandidats.push({
+                                    "candidat": candidat.nomPrenom,
+                                    "Suffrages": parseInt(candidat.voies),
+                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
+                                });
+                            });
+                            let chartECGouvernement4 = am4core.create("chartECGouvernement4", am4charts.XYChart);
 
-                        var valueAxis = chartECGouvernement4.xAxes.push(new am4charts.ValueAxis());
-                        valueAxis.title.text = "Suffrages";
-                        
+                            // Create axes
+                            let categoryAxis = chartECGouvernement4.yAxes.push(new am4charts.CategoryAxis());
+                            categoryAxis.dataFields.category = "candidat";
+                            categoryAxis.renderer.minGridDistance = 4;
 
-                        // Create series
-                        var series = chartECGouvernement4.series.push(new am4charts.ColumnSeries());
-                        series.dataFields.valueX = "Suffrages";
-                        series.dataFields.categoryY = "candidat";
-                        series.name = "Suffrages";
+
+                            let valueAxis = chartECGouvernement4.xAxes.push(new am4charts.ValueAxis());
+                            valueAxis.min = 0;
+                            valueAxis.title.text = "Suffrages";
+
+
+                            // Create series
+                            let series = chartECGouvernement4.series.push(new am4charts.ColumnSeries());
+                            series.dataFields.valueX = "Suffrages";
+                            series.dataFields.categoryY = "candidat";
+                            series.name = "Suffrages";
+                            series.columns.template.propertyFields.fill = "color";
+
+                            chartECGouvernement4.data = CSPOPCandidats;
+                        });
                     </script>
                 </div>
             </li>
             <li>   
                 <div class="uk-card-body">
                     <div class="uk-align-right" id="chartECGouvernement5" style="width: 100%; height: 500px;"></div>
-                    <script>
-                        var chartECGouvernement5 = am4core.create("chartECGouvernement5", am4charts.XYChart);
+                    <script type="module">
+                        import { db } from  '../../../../JS/db.js'
 
-                        chartECGouvernement5.data = [{
-                        "candidat": "David Eray",
-                        "Suffrages": 10486,
-                        }, {
-                        "candidat": "Jacques Gerber",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Martial Courtet",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Stéphane Babey",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Nathalie Barthoulot",
-                        "Suffrages": 5491,
-                        }, {
-                        "candidat": "Rosalie Beuret Siess",
-                        "Suffrages": 6491,
-                        }, {
-                        "candidat": "Francisco Pires",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Brigitte Favre",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Didier Spies",
-                        "Suffrages": 9491,
-                        }, {
-                        "candidat": "Céline R.-C. Linder",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Vincent Schmitt",
-                        "Suffrages": 4391,
-                        }, {
-                        "candidat": "Emilie Moreau",
-                        "Suffrages": 7491,
-                        }, {
-                        "candidat": "Alain Beuret",
-                        "Suffrages": 3379,
-                        }];
+                        let UDCCandidats = [];
 
-                        // Create axes
-                        var categoryAxis = chartECGouvernement5.yAxes.push(new am4charts.CategoryAxis());
-                        categoryAxis.dataFields.category = "candidat";
-                        categoryAxis.renderer.minGridDistance = 4;
-                        
+                        db.collection('elections').doc('ju-plt-20201018')
+                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
+                            .doc('liste5-UDC').collection('candidats').get().then(querySnapshot => {
+                            let candidats = querySnapshot.docs.map(doc => doc.data());
+                            candidats.forEach(candidat => {
+                                UDCCandidats.push({
+                                    "candidat": candidat.nomPrenom,
+                                    "Suffrages": parseInt(candidat.voies),
+                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
+                                });
+                            });
+                            let chartECGouvernement5 = am4core.create("chartECGouvernement5", am4charts.XYChart);
 
-                        var valueAxis = chartECGouvernement5.xAxes.push(new am4charts.ValueAxis());
-                        valueAxis.title.text = "Suffrages";
-                        
+                            // Create axes
+                            let categoryAxis = chartECGouvernement5.yAxes.push(new am4charts.CategoryAxis());
+                            categoryAxis.dataFields.category = "candidat";
+                            categoryAxis.renderer.minGridDistance = 4;
 
-                        // Create series
-                        var series = chartECGouvernement5.series.push(new am4charts.ColumnSeries());
-                        series.dataFields.valueX = "Suffrages";
-                        series.dataFields.categoryY = "candidat";
-                        series.name = "Suffrages";
+
+                            let valueAxis = chartECGouvernement5.xAxes.push(new am4charts.ValueAxis());
+                            valueAxis.min = 0;
+                            valueAxis.title.text = "Suffrages";
+
+
+                            // Create series
+                            let series = chartECGouvernement5.series.push(new am4charts.ColumnSeries());
+                            series.dataFields.valueX = "Suffrages";
+                            series.dataFields.categoryY = "candidat";
+                            series.name = "Suffrages";
+                            series.columns.template.propertyFields.fill = "color";
+
+                            chartECGouvernement5.data = UDCCandidats;
+                        });
                     </script>
                 </div>
             </li>
             <li>   
                 <div class="uk-card-body">
                     <div class="uk-align-right" id="chartECGouvernement6" style="width: 100%; height: 500px;"></div>
-                    <script>
-                        var chartECGouvernement6 = am4core.create("chartECGouvernement6", am4charts.XYChart);
+                    <script type="module">
+                        import { db } from  '../../../../JS/db.js'
 
-                        chartECGouvernement6.data = [{
-                        "candidat": "David Eray",
-                        "Suffrages": 10486,
-                        }, {
-                        "candidat": "Jacques Gerber",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Martial Courtet",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Stéphane Babey",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Nathalie Barthoulot",
-                        "Suffrages": 5491,
-                        }, {
-                        "candidat": "Rosalie Beuret Siess",
-                        "Suffrages": 6491,
-                        }, {
-                        "candidat": "Francisco Pires",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Brigitte Favre",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Didier Spies",
-                        "Suffrages": 9491,
-                        }, {
-                        "candidat": "Céline R.-C. Linder",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Vincent Schmitt",
-                        "Suffrages": 4391,
-                        }, {
-                        "candidat": "Emilie Moreau",
-                        "Suffrages": 7491,
-                        }, {
-                        "candidat": "Alain Beuret",
-                        "Suffrages": 3379,
-                        }];
+                        let VertsCandidats = [];
 
-                        // Create axes
-                        var categoryAxis = chartECGouvernement6.yAxes.push(new am4charts.CategoryAxis());
-                        categoryAxis.dataFields.category = "candidat";
-                        categoryAxis.renderer.minGridDistance = 4;
-                        
+                        db.collection('elections').doc('ju-plt-20201018')
+                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
+                            .doc('liste6-Verts').collection('candidats').get().then(querySnapshot => {
+                            let candidats = querySnapshot.docs.map(doc => doc.data());
+                            candidats.forEach(candidat => {
+                                VertsCandidats.push({
+                                    "candidat": candidat.nomPrenom,
+                                    "Suffrages": parseInt(candidat.voies),
+                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
+                                });
+                            });
+                            let chartECGouvernement6 = am4core.create("chartECGouvernement6", am4charts.XYChart);
 
-                        var valueAxis = chartECGouvernement6.xAxes.push(new am4charts.ValueAxis());
-                        valueAxis.title.text = "Suffrages";
-                        
+                            // Create axes
+                            let categoryAxis = chartECGouvernement6.yAxes.push(new am4charts.CategoryAxis());
+                            categoryAxis.dataFields.category = "candidat";
+                            categoryAxis.renderer.minGridDistance = 4;
 
-                        // Create series
-                        var series = chartECGouvernement6.series.push(new am4charts.ColumnSeries());
-                        series.dataFields.valueX = "Suffrages";
-                        series.dataFields.categoryY = "candidat";
-                        series.name = "Suffrages";
+
+                            let valueAxis = chartECGouvernement6.xAxes.push(new am4charts.ValueAxis());
+                            valueAxis.min = 0;
+                            valueAxis.title.text = "Suffrages";
+
+
+                            // Create series
+                            let series = chartECGouvernement6.series.push(new am4charts.ColumnSeries());
+                            series.dataFields.valueX = "Suffrages";
+                            series.dataFields.categoryY = "candidat";
+                            series.name = "Suffrages";
+                            series.columns.template.propertyFields.fill = "color";
+
+                            chartECGouvernement6.data = VertsCandidats;
+                        });
                     </script>
                 </div>
             </li>
             <li>   
                 <div class="uk-card-body">
                     <div class="uk-align-right" id="chartECGouvernement7" style="width: 100%; height: 500px;"></div>
-                    <script>
-                        var chartECGouvernement7 = am4core.create("chartECGouvernement7", am4charts.XYChart);
+                    <script type="module">
+                        import { db } from  '../../../../JS/db.js'
 
-                        chartECGouvernement7.data = [{
-                        "candidat": "David Eray",
-                        "Suffrages": 10486,
-                        }, {
-                        "candidat": "Jacques Gerber",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Martial Courtet",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Stéphane Babey",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Nathalie Barthoulot",
-                        "Suffrages": 5491,
-                        }, {
-                        "candidat": "Rosalie Beuret Siess",
-                        "Suffrages": 6491,
-                        }, {
-                        "candidat": "Francisco Pires",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Brigitte Favre",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Didier Spies",
-                        "Suffrages": 9491,
-                        }, {
-                        "candidat": "Céline R.-C. Linder",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Vincent Schmitt",
-                        "Suffrages": 4391,
-                        }, {
-                        "candidat": "Emilie Moreau",
-                        "Suffrages": 7491,
-                        }, {
-                        "candidat": "Alain Beuret",
-                        "Suffrages": 3379,
-                        }];
+                        let PCSICandidats = [];
 
-                        // Create axes
-                        var categoryAxis = chartECGouvernement7.yAxes.push(new am4charts.CategoryAxis());
-                        categoryAxis.dataFields.category = "candidat";
-                        categoryAxis.renderer.minGridDistance = 4;
-                        
+                        db.collection('elections').doc('ju-plt-20201018')
+                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
+                            .doc('liste7-PCSI').collection('candidats').get().then(querySnapshot => {
+                            let candidats = querySnapshot.docs.map(doc => doc.data());
+                            candidats.forEach(candidat => {
+                                PCSICandidats.push({
+                                    "candidat": candidat.nomPrenom,
+                                    "Suffrages": parseInt(candidat.voies),
+                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
+                                });
+                            });
+                            let chartECGouvernement7 = am4core.create("chartECGouvernement7", am4charts.XYChart);
 
-                        var valueAxis = chartECGouvernement7.xAxes.push(new am4charts.ValueAxis());
-                        valueAxis.title.text = "Suffrages";
-                        
+                            // Create axes
+                            let categoryAxis = chartECGouvernement7.yAxes.push(new am4charts.CategoryAxis());
+                            categoryAxis.dataFields.category = "candidat";
+                            categoryAxis.renderer.minGridDistance = 4;
 
-                        // Create series
-                        var series = chartECGouvernement7.series.push(new am4charts.ColumnSeries());
-                        series.dataFields.valueX = "Suffrages";
-                        series.dataFields.categoryY = "candidat";
-                        series.name = "Suffrages";
+
+                            let valueAxis = chartECGouvernement7.xAxes.push(new am4charts.ValueAxis());
+                            valueAxis.min = 0;
+                            valueAxis.title.text = "Suffrages";
+
+
+                            // Create series
+                            let series = chartECGouvernement7.series.push(new am4charts.ColumnSeries());
+                            series.dataFields.valueX = "Suffrages";
+                            series.dataFields.categoryY = "candidat";
+                            series.name = "Suffrages";
+                            series.columns.template.propertyFields.fill = "color";
+
+                            chartECGouvernement7.data = PCSICandidats;
+                        });
                     </script>
                 </div>
             </li>
             <li>   
                 <div class="uk-card-body">
                     <div class="uk-align-right" id="chartECGouvernement8" style="width: 100%; height: 500px;"></div>
-                    <script>
-                        var chartECGouvernement8 = am4core.create("chartECGouvernement8", am4charts.XYChart);
+                    <script type="module">
+                        import { db } from  '../../../../JS/db.js'
 
-                        chartECGouvernement8.data = [{
-                        "candidat": "David Eray",
-                        "Suffrages": 10486,
-                        }, {
-                        "candidat": "Jacques Gerber",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Martial Courtet",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Stéphane Babey",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Nathalie Barthoulot",
-                        "Suffrages": 5491,
-                        }, {
-                        "candidat": "Rosalie Beuret Siess",
-                        "Suffrages": 6491,
-                        }, {
-                        "candidat": "Francisco Pires",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Brigitte Favre",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Didier Spies",
-                        "Suffrages": 9491,
-                        }, {
-                        "candidat": "Céline R.-C. Linder",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Vincent Schmitt",
-                        "Suffrages": 4391,
-                        }, {
-                        "candidat": "Emilie Moreau",
-                        "Suffrages": 7491,
-                        }, {
-                        "candidat": "Alain Beuret",
-                        "Suffrages": 3379,
-                        }];
+                        let PVLCandidats = [];
 
-                        // Create axes
-                        var categoryAxis = chartECGouvernement8.yAxes.push(new am4charts.CategoryAxis());
-                        categoryAxis.dataFields.category = "candidat";
-                        categoryAxis.renderer.minGridDistance = 4;
-                        
+                        db.collection('elections').doc('ju-plt-20201018')
+                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
+                            .doc('liste8-PVL').collection('candidats').get().then(querySnapshot => {
+                            let candidats = querySnapshot.docs.map(doc => doc.data());
+                            candidats.forEach(candidat => {
+                                PVLCandidats.push({
+                                    "candidat": candidat.nomPrenom,
+                                    "Suffrages": parseInt(candidat.voies),
+                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
+                                });
+                            });
+                            let chartECGouvernement8 = am4core.create("chartECGouvernement8", am4charts.XYChart);
 
-                        var valueAxis = chartECGouvernement8.xAxes.push(new am4charts.ValueAxis());
-                        valueAxis.title.text = "Suffrages";
-                        
+                            // Create axes
+                            let categoryAxis = chartECGouvernement8.yAxes.push(new am4charts.CategoryAxis());
+                            categoryAxis.dataFields.category = "candidat";
+                            categoryAxis.renderer.minGridDistance = 4;
 
-                        // Create series
-                        var series = chartECGouvernement8.series.push(new am4charts.ColumnSeries());
-                        series.dataFields.valueX = "Suffrages";
-                        series.dataFields.categoryY = "candidat";
-                        series.name = "Suffrages";
-                    </script>
-                </div>
-            </li>
-            <li>   
-                <div class="uk-card-body">
-                    <div class="uk-align-right" id="chartECGouvernement9" style="width: 100%; height: 500px;"></div>
-                    <script>
-                        var chartECGouvernement9 = am4core.create("chartECGouvernement9", am4charts.XYChart);
 
-                        chartECGouvernement9.data = [{
-                        "candidat": "David Eray",
-                        "Suffrages": 10486,
-                        }, {
-                        "candidat": "Jacques Gerber",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Martial Courtet",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Stéphane Babey",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Nathalie Barthoulot",
-                        "Suffrages": 5491,
-                        }, {
-                        "candidat": "Rosalie Beuret Siess",
-                        "Suffrages": 6491,
-                        }, {
-                        "candidat": "Francisco Pires",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Brigitte Favre",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Didier Spies",
-                        "Suffrages": 9491,
-                        }, {
-                        "candidat": "Céline R.-C. Linder",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Vincent Schmitt",
-                        "Suffrages": 4391,
-                        }, {
-                        "candidat": "Emilie Moreau",
-                        "Suffrages": 7491,
-                        }, {
-                        "candidat": "Alain Beuret",
-                        "Suffrages": 3379,
-                        }];
+                            let valueAxis = chartECGouvernement8.xAxes.push(new am4charts.ValueAxis());
+                            valueAxis.min = 0;
+                            valueAxis.title.text = "Suffrages";
 
-                        // Create axes
-                        var categoryAxis = chartECGouvernement9.yAxes.push(new am4charts.CategoryAxis());
-                        categoryAxis.dataFields.category = "candidat";
-                        categoryAxis.renderer.minGridDistance = 4;
-                        
 
-                        var valueAxis = chartECGouvernement9.xAxes.push(new am4charts.ValueAxis());
-                        valueAxis.title.text = "Suffrages";
-                        
+                            // Create series
+                            let series = chartECGouvernement8.series.push(new am4charts.ColumnSeries());
+                            series.dataFields.valueX = "Suffrages";
+                            series.dataFields.categoryY = "candidat";
+                            series.name = "Suffrages";
+                            series.columns.template.propertyFields.fill = "color";
 
-                        // Create series
-                        var series = chartECGouvernement9.series.push(new am4charts.ColumnSeries());
-                        series.dataFields.valueX = "Suffrages";
-                        series.dataFields.categoryY = "candidat";
-                        series.name = "Suffrages";
-                    </script>
-                </div>
-            </li>
-            <li>   
-                <div class="uk-card-body">
-                    <div class="uk-align-right" id="chartECGouvernement10" style="width: 100%; height: 500px;"></div>
-                    <script>
-                        var chartECGouvernement10 = am4core.create("chartECGouvernement10", am4charts.XYChart);
-
-                        chartECGouvernement10.data = [{
-                        "candidat": "David Eray",
-                        "Suffrages": 10486,
-                        }, {
-                        "candidat": "Jacques Gerber",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Martial Courtet",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Stéphane Babey",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Nathalie Barthoulot",
-                        "Suffrages": 5491,
-                        }, {
-                        "candidat": "Rosalie Beuret Siess",
-                        "Suffrages": 6491,
-                        }, {
-                        "candidat": "Francisco Pires",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Brigitte Favre",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Didier Spies",
-                        "Suffrages": 9491,
-                        }, {
-                        "candidat": "Céline R.-C. Linder",
-                        "Suffrages": 8491,
-                        }, {
-                        "candidat": "Vincent Schmitt",
-                        "Suffrages": 4391,
-                        }, {
-                        "candidat": "Emilie Moreau",
-                        "Suffrages": 7491,
-                        }, {
-                        "candidat": "Alain Beuret",
-                        "Suffrages": 3379,
-                        }];
-
-                        // Create axes
-                        var categoryAxis = chartECGouvernement10.yAxes.push(new am4charts.CategoryAxis());
-                        categoryAxis.dataFields.category = "candidat";
-                        categoryAxis.renderer.minGridDistance = 4;
-                        
-
-                        var valueAxis = chartECGouvernement10.xAxes.push(new am4charts.ValueAxis());
-                        valueAxis.title.text = "Suffrages";
-                        
-
-                        // Create series
-                        var series = chartECGouvernement10.series.push(new am4charts.ColumnSeries());
-                        series.dataFields.valueX = "Suffrages";
-                        series.dataFields.categoryY = "candidat";
-                        series.name = "Suffrages";
+                            chartECGouvernement8.data = PVLCandidats;
+                        });
                     </script>
                 </div>
             </li>

@@ -51,19 +51,13 @@
                 <div class="uk-card uk-grid-collapse uk-child-width-1-3@m uk-child-width-1-1@s uk-padding" uk-grid>   
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-auto">   
                         <h3 class="uk-heading-divider">Prochains événements</h3> 
-                        <a href="<?php echo $PHPelectionsJUaccueil ?>">
-                            <div class="uk-card uk-card-hover uk-card-body uk-width-1-1">
-                                <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >18.10</div>
-                                <h3 class="uk-card-title">Elections Jura</h3>                            
-                            </div>
-                        </a>
                         <a href="<?php echo $PHPelectionsJUGouvernement2 ?>">                          
                             <div class="uk-card uk-card-hover uk-card-body uk-width-1-1">
                                 <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >08.11</div>
-                                <h3 class="uk-card-title">Elections Jura</h3>                            
+                                <h3 class="uk-card-title">Elections Jura (2e tour)</h3>                            
                             </div>
                         </a>
-                        <a href="<?php echo $siteBasseAllaine ?>">
+                        <a href="<?php echo $siteBasseAllaine ?>" target="blank">
                             <div class="uk-card uk-card-hover uk-card-body uk-width-1-1">
                                 <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.11</div>
                                 <h3 class="uk-card-title">Assemblée communale Basse-Allaine</h3>                            
@@ -85,18 +79,24 @@
 
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-expand@m" style="padding: 10%">                                                
                         <h3 class="uk-heading-divider uk-text-center">Bienvenue sur Juravote !</h3> 
-                        <div class="uk-column-1-1@m" style="padding-top: 5%">
+                        <div class="uk-column-1-2@m" style="padding-top: 5%">
                             <div class="uk-card uk-card-body uk-padding-remove uk-width-expand@m">
                                 <img class="uk-align-center" src="<?php echo $juravoteLogo ?>" style="width: 200px; height: 200px;" alt="Juravote">
                             </div>
-                            <p class="uk-text-center" style="padding-top: 5%">Toute <a href="<?php echo $PHPequipe ?>">l'équipe de Juravote</a> vous souhaite
+                            <p class="uk-text-justify" style="padding-top: 5%">Toute <a href="<?php echo $PHPequipe ?>">l'équipe de Juravote</a> vous souhaite
                             la bienvenue sur son site Internet !</p>
-                            <p class="uk-text-center">Nous restons volontiers à disposition en cas de questions ou de suggestions
+                            <p class="uk-text-justify">Nous restons volontiers à disposition en cas de questions ou de suggestions
                             via <a href="<?php echo $PHPequipe ?>">le formulaire de contact.</a></p>
                         </div>                        
                     </div>   
-                    <div class="uk-card uk-card-body uk-padding-remove uk-width-medium">                       
+                    <div class="uk-card uk-card-body uk-padding-remove uk-width-auto">                       
                         <h3 class="uk-heading-divider uk-text-right">Derniers résultats</h3>
+                        <a href="<?php echo $PHPresultatsElectionsJU ?>">
+                            <div class="uk-card uk-card-hover uk-card-body uk-width-1-1">
+                                <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >18.10</div>
+                                <h3 class="uk-card-title">Election cantonales Jura</h3>
+                            </div>
+                        </a>
                         <a href="<?php echo $PHPresultats20200927Accueil ?>">
                             <div class="uk-card uk-card-hover uk-card-body uk-width-1-1">
                                 <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >27.09</div>
@@ -120,19 +120,7 @@
                                 <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >27.09</div>
                                 <h3 class="uk-card-title">Votation Val-Terbi</h3>                            
                             </div>
-                        </a>
-                        <!--<a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">
-                            <div class="uk-card uk-card-hover uk-card-body uk-width-1-1">
-                                <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >18.10</div>
-                                <h3 class="uk-card-title">Election Gouvernement - Jura</h3>
-                            </div>
-                        </a>
-                        <a href="<?php echo $PHPresultatParlementJU20201018 ?>">
-                            <div class="uk-card uk-card-hover uk-card-body uk-width-1-1">
-                                <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >18.10</div>
-                                <h3 class="uk-card-title">Election Parlement - Jura</h3>
-                            </div>
-                        </a>--> 
+                        </a>                        
                     </div>                                        
                 </div> 
                 <div style="padding: 2%;"> 

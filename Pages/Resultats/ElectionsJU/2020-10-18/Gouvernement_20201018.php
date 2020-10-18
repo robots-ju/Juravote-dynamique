@@ -23,6 +23,9 @@
         <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
         <script src="https://www.amcharts.com/lib/4/geodata/switzerlandHigh.js"></script>
         <script src="https://www.amcharts.com/lib/4/maps.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.22.1/firebase-app.js%22%3E"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.22.1/firebase-firestore.js%22%3E"></script>
+        <script src="../../../../JS/db.js" type="module"></script>
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166072477-1"></script>
@@ -63,9 +66,22 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Election au Gouvernement Jurassien (1er tour)</p>
-                        <p><b>Participation : </b>38.94 %</p>
+                        <p><b>Participation : </b>xx.xx %</p>
                         <p><b>Type de la votation : </b>Election cantonale jurassienne</p>
-                        <p><b>Mode de votation : </b>Election à deux tours</p>
+                        <p><b>Mode de votation : </b>Election à deux tours (Pour être élu-e au premier tour, il faut obtenir 50 % des voix + 1)</p>
+                        <p><a href="<?php echo $PHPelectionsJUGouvernement1 ?>">Lien vers les informations d'élection</a></p>
+                        <p><b>Les candidats-es élus-es sont indiqués-es de la couleur suivante : </b><span style="color: #2ecc71">Elu-e</span></p>
+                        <p><b>Communes qui ont livré les résultats : </b></p>
+                        <!--<p>Boécourt, Bourrignon, Châtillon, Courchapoix, Courrendlin,
+                        Courroux, Courtételle, Delémont, Develier, Ederswiler, Haute-Sorne, Mervelier, Mettembert, Movelier, Pleigne,
+                        Rossemaison, Saulcy, Soyhières, Val-Terbi</span></p>
+
+                        <p>Alle, La Baroche, Basse-Allaine, Beurnevésin,
+                        Boncourt, Bonfol, Bure, Clos-du-Doubs, Coeuve, Cornol, Courchavon, Courgenay, Courtedoux, Damphreux, Fahy,
+                        Fontenais, Grandfontaine, Haute-Ajoie, Lugnez, Porrentruy, Vendlincourt</p>
+
+                        <p>Le Bémont, Les Bois, Les Breuleux, Les Enfers,
+                        Les Genevez, Lajoux, Montfaucon, Muriaux, Le Noirmont, Saignelégier, St-Brais, Soubey</p>-->
                     </div>
                 </div>
             </div>
@@ -83,43 +99,43 @@
 
                             chartECGouvernement.data = [{
                             "candidat": "David Eray",
-                            "Suffrages": 10486,
+                            "Suffrages": 8,
                             }, {
                             "candidat": "Jacques Gerber",
-                            "Suffrages": 8491,
+                            "Suffrages": 12,
                             }, {
                             "candidat": "Martial Courtet",
-                            "Suffrages": 8491,
+                            "Suffrages": 13,
                             }, {
                             "candidat": "Stéphane Babey",
-                            "Suffrages": 8491,
+                            "Suffrages": 9,
                             }, {
                             "candidat": "Nathalie Barthoulot",
-                            "Suffrages": 5491,
+                            "Suffrages": 10,
                             }, {
                             "candidat": "Rosalie Beuret Siess",
-                            "Suffrages": 6491,
+                            "Suffrages": 11,
                             }, {
                             "candidat": "Francisco Pires",
-                            "Suffrages": 8491,
+                            "Suffrages": 7,
                             }, {
                             "candidat": "Brigitte Favre",
-                            "Suffrages": 8491,
+                            "Suffrages": 7,
                             }, {
                             "candidat": "Didier Spies",
-                            "Suffrages": 9491,
+                            "Suffrages": 7,
                             }, {
                             "candidat": "Céline R.-C. Linder",
-                            "Suffrages": 8491,
+                            "Suffrages": 7,
                             }, {
                             "candidat": "Vincent Schmitt",
-                            "Suffrages": 4391,
+                            "Suffrages": 7,
                             }, {
                             "candidat": "Emilie Moreau",
-                            "Suffrages": 7491,
+                            "Suffrages": 7,
                             }, {
                             "candidat": "Alain Beuret",
-                            "Suffrages": 3379,
+                            "Suffrages": 7,
                             }];
 
                             // Create axes

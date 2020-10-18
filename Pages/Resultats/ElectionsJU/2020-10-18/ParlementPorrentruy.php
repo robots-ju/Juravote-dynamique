@@ -67,11 +67,12 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Election au Parlement Jurassien</p>
-                        <p><b>Participation : </b>xx.xx %</p>
+                        <p><b>Participation : </b>51.61 %</p>
                         <p><b>Type de la votation : </b>Election cantonale jurassienne</p>
                         <p><b>Mode de votation : </b>Election à un tour</p>
                         <p><a href="<?php echo $PHPelectionsJUParlementA ?>">Lien vers les informations d'élection</a></p>
                         <p><b>Candidats-es élus-es : </b><span style="color: #2ecc71">Elu-e</span></p>
+                        <p><b>Dernière mise à jour à :</b><span style="color: #D20603">18 octobre, 19:30</span></p>
                         <!--<p><b>Communes qui ont livré les résultats : </b><span>Alle, La Baroche, Basse-Allaine, Beurnevésin,
                         Boncourt, Bonfol, Bure, Clos-du-Doubs, Coeuve, Cornol, Courchavon, Courgenay, Courtedoux, Damphreux, Fahy,
                         Fontenais, Grandfontaine, Haute-Ajoie, Lugnez, Porrentruy, Vendlincourt</span></p>-->

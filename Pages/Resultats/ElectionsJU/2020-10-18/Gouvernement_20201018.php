@@ -54,7 +54,7 @@
         </header>
 <main>
     <section style="padding: 2%">
-        <h1 class="uk-heading-large">Résultats des élections cantonales du 10 octobre 2020</h1>
+        <h1 class="uk-heading-large">Résultats des élections cantonales du 18 octobre 2020</h1>
         <hr>
         <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
             <div>

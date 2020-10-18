@@ -69,7 +69,7 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Election au Parlement Jurassien</p>
-                        <p><b>Participation : </b>38.94 %</p>
+                        <p><b>Participation : </b>xx.xx %</p>
                         <p><b>Type de la votation : </b>Election cantonale jurassienne</p>
                         <p><b>Mode de votation : </b>Election à un tour</p> 
                         <p><a href="<?php echo $PHPelectionsJUParlementD ?>">Lien vers les informations d'élection</a></p>                       
@@ -99,19 +99,19 @@
                             // Add data
                             chart.data = [{
                             "parti": "PLRJ",
-                            "suffrages_liste": 3,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#0066ff")
                             }, {
                             "parti": "PSJ",
-                            "suffrages_liste": 7,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#fc0401")
                             }, {
                             "parti": "PDC",
-                            "suffrages_liste": 7,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#ff9e00")
                             }, {
                             "parti": "CS-POP",
-                            "suffrages_liste": 2,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#c50301")
                             },{
                             "parti": "PEV",
@@ -119,15 +119,15 @@
                             "color": am4core.color("#f5ff00")
                             },{
                             "parti": "UDC",
-                            "suffrages_liste": 5,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#85ff00")
                             },{
                             "parti": "VERTS",
-                            "suffrages_liste": 2,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#00fa01")
                             },{
                             "parti": "PCSI",
-                            "suffrages_liste": 4,
+                            "suffrages_liste": 0,
                             "color": am4core.color("#14b0b8")
                             },{
                             "parti": "PVL",

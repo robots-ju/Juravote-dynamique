@@ -66,7 +66,7 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Election au Gouvernement Jurassien (1er tour)</p>
-                        <p><b>Participation : </b>38.94 %</p>
+                        <p><b>Participation : </b>xx.xx %</p>
                         <p><b>Type de la votation : </b>Election cantonale jurassienne</p>
                         <p><b>Mode de votation : </b>Election à deux tours (Pour être élu-e au premier tour, il faut obtenir 50 % des voix + 1)</p>
                         <p><a href="<?php echo $PHPelectionsJUGouvernement1 ?>">Lien vers les informations d'élection</a></p>
@@ -99,43 +99,43 @@
 
                             chartECGouvernement.data = [{
                             "candidat": "David Eray",
-                            "Suffrages": 10486,
+                            "Suffrages": 8,
                             }, {
                             "candidat": "Jacques Gerber",
-                            "Suffrages": 8491,
+                            "Suffrages": 12,
                             }, {
                             "candidat": "Martial Courtet",
-                            "Suffrages": 8491,
+                            "Suffrages": 13,
                             }, {
                             "candidat": "Stéphane Babey",
-                            "Suffrages": 8491,
+                            "Suffrages": 9,
                             }, {
                             "candidat": "Nathalie Barthoulot",
-                            "Suffrages": 5491,
+                            "Suffrages": 10,
                             }, {
                             "candidat": "Rosalie Beuret Siess",
-                            "Suffrages": 6491,
+                            "Suffrages": 11,
                             }, {
                             "candidat": "Francisco Pires",
-                            "Suffrages": 8491,
+                            "Suffrages": 7,
                             }, {
                             "candidat": "Brigitte Favre",
-                            "Suffrages": 8491,
+                            "Suffrages": 7,
                             }, {
                             "candidat": "Didier Spies",
-                            "Suffrages": 9491,
+                            "Suffrages": 7,
                             }, {
                             "candidat": "Céline R.-C. Linder",
-                            "Suffrages": 8491,
+                            "Suffrages": 7,
                             }, {
                             "candidat": "Vincent Schmitt",
-                            "Suffrages": 4391,
+                            "Suffrages": 7,
                             }, {
                             "candidat": "Emilie Moreau",
-                            "Suffrages": 7491,
+                            "Suffrages": 7,
                             }, {
                             "candidat": "Alain Beuret",
-                            "Suffrages": 3379,
+                            "Suffrages": 7,
                             }];
 
                             // Create axes

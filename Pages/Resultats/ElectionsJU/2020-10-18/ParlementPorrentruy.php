@@ -431,7 +431,7 @@
 
                         db.collection('elections').doc('ju-plt-20201018')
                             .collection('districts').doc("Porrentruy").collection('Partis')
-                            .doc('liste7-PVL').collection('candidats').orderBy('voix', 'asc')get().then(querySnapshot => {
+                            .doc('liste7-PVL').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
                             let candidats = querySnapshot.docs.map(doc => doc.data());
                             candidats.forEach(candidat => {
                                 PVLCandidats.push({

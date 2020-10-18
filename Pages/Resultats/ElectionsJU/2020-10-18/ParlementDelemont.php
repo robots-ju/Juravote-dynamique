@@ -74,7 +74,7 @@
                         <p><b>Mode de votation : </b>Election à un tour</p> 
                         <p><a href="<?php echo $PHPelectionsJUParlementD ?>">Lien vers les informations d'élection</a></p>                       
                         <p><b>Candidats-es élus-es : </b><span style="color: #2ecc71">Elu-e</span></p>
-                        <p><b>Dernière mise à jour à :</b><span style="color: #D20603">18 octobre, 19:30</span></p>
+                        <p><b>Dernière mise à jour à : </b><span style="color: #D20603">18 octobre, 21:00</span></p>
                         <!--<p><b>Communes qui ont livré les résultats : </b><span>Boécourt, Bourrignon, Châtillon, Courchapoix, Courrendlin,
                         Courroux, Courtételle, Delémont, Develier, Ederswiler, Haute-Sorne, Mervelier, Mettembert, Movelier, Pleigne,
                         Rossemaison, Saulcy, Soyhières, Val-Terbi</span></p>-->

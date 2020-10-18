@@ -67,15 +67,11 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Election au Parlement Jurassien</p>
-                        <p><b>Participation : </b>51.61 %</p>
+                        <p><b>Participation : </b>52.14 %</p>
                         <p><b>Type de la votation : </b>Election cantonale jurassienne</p>
                         <p><b>Mode de votation : </b>Election à un tour</p>
                         <p><a href="<?php echo $PHPelectionsJUParlementA ?>">Lien vers les informations d'élection</a></p>
                         <p><b>Candidats-es élus-es : </b><span style="color: #2ecc71">Elu-e</span></p>
-                        <p><b>Dernière mise à jour à :</b><span style="color: #D20603">18 octobre, 19:30</span></p>
-                        <!--<p><b>Communes qui ont livré les résultats : </b><span>Alle, La Baroche, Basse-Allaine, Beurnevésin,
-                        Boncourt, Bonfol, Bure, Clos-du-Doubs, Coeuve, Cornol, Courchavon, Courgenay, Courtedoux, Damphreux, Fahy,
-                        Fontenais, Grandfontaine, Haute-Ajoie, Lugnez, Porrentruy, Vendlincourt</span></p>-->
                     </div>
                 </div>
             </div>
@@ -97,31 +93,31 @@
                             // Add data
                             chart.data = [{
                             "parti": "PLRJ",
-                            "suffrages_liste": 0,
+                            "suffrages_liste": 4,
                             "color": am4core.color("#0066ff")
                             }, {
                             "parti": "PSJ",
-                            "suffrages_liste": 0,
+                            "suffrages_liste": 3,
                             "color": am4core.color("#fc0401")
                             }, {
                             "parti": "PDC",
-                            "suffrages_liste": 0,
+                            "suffrages_liste": 7,
                             "color": am4core.color("#ff9e00")
                             }, {                            
                             "parti": "UDC",
-                            "suffrages_liste": 0,
+                            "suffrages_liste": 2,
                             "color": am4core.color("#85ff00")
                             },{
                             "parti": "VERTS",
-                            "suffrages_liste": 0,
+                            "suffrages_liste": 2,
                             "color": am4core.color("#00fa01")
                             },{
                             "parti": "PCSI",
-                            "suffrages_liste": 0,
+                            "suffrages_liste": 1,
                             "color": am4core.color("#14b0b8")
                             },{
                             "parti": "PVL",
-                            "suffrages_liste": 0,
+                            "suffrages_liste": 1,
                             "color": am4core.color("#00bc00")                            
                             }];
 

@@ -64,7 +64,7 @@
                 <h1>Les élections cantonales en bref</h1>
                 <p>Les résultats du 1er tour sont disponibles <a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">ici.</a></p>
 
-                <p>Pour l'instant, les 5 Ministres sortants-es sont candidats-es à leur réelection, ainsi que X candidats-es.
+                <p>Pour l'instant, les 5 Ministres sortants-es sont candidats-es à leur réelection, ainsi que 1 candidat<!---es-->.
                 Au 1er tour, Martial Courtet (PDC) termine en 1re place, suivi de Nathalie Barthoulot (PS), de Rosalie Beuret Siess
                 (PS), de Jacques Gerber (PLR), de Stéphane Babey (PDC) et de David Eray (PCSI). Les candidats-es Verts Jura,
                 Verts-Libéraux, CS-POP et UDC figurent dans le bas de classement.</p>

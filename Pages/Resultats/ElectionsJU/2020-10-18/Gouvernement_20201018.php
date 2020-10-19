@@ -68,8 +68,8 @@
                         <p><b>Objet : </b>Election au Gouvernement Jurassien (1er tour)</p>
                         <p><b>Participation : </b>47.49 %</p>
                         <p><a href="<?php echo $PHPelectionsJUGouvernement1 ?>">Lien vers les présentations des candidats-es</a></p>
-                        <p><b>Résultats par communes : </b></p>
-                            <a class="uk-button uk-button-default" href="#modal-container1" uk-toggle>Boécourt</a>
+                        <p><b>Résultats par communes : </b></p>                        
+                            <a class="uk-button uk-button-link" href="#modal-container1" uk-toggle>Boécourt</a>
                             <div id="modal-container1" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -77,7 +77,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container2" uk-toggle>Bourrignon</a>
+                            <a class="uk-button uk-button-link" href="#modal-container2" uk-toggle>Bourrignon</a>
                             <div id="modal-container2" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -85,7 +85,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container3" uk-toggle>Châtillon</a>
+                            <a class="uk-button uk-button-link" href="#modal-container3" uk-toggle>Châtillon</a>
                             <div id="modal-container3" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -93,7 +93,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container4" uk-toggle>Courchapoix</a>
+                            <a class="uk-button uk-button-link" href="#modal-container4" uk-toggle>Courchapoix</a>
                             <div id="modal-container4" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -101,7 +101,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container5" uk-toggle>Courrendlin</a>
+                            <a class="uk-button uk-button-link" href="#modal-container5" uk-toggle>Courrendlin</a>
                             <div id="modal-container5" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -109,7 +109,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container6" uk-toggle>Courroux</a>
+                            <a class="uk-button uk-button-link" href="#modal-container6" uk-toggle>Courroux</a>
                             <div id="modal-container6" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -117,7 +117,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container7" uk-toggle>Courtételle</a>
+                            <a class="uk-button uk-button-link" href="#modal-container7" uk-toggle>Courtételle</a>
                             <div id="modal-container7" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -125,7 +125,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container8" uk-toggle>Delémont</a>
+                            <a class="uk-button uk-button-link" href="#modal-container8" uk-toggle>Delémont</a>
                             <div id="modal-container8" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -133,7 +133,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container9" uk-toggle>Develier</a>
+                            <a class="uk-button uk-button-link" href="#modal-container9" uk-toggle>Develier</a>
                             <div id="modal-container9" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -141,7 +141,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container10" uk-toggle>Ederswiler</a>
+                            <a class="uk-button uk-button-link" href="#modal-container10" uk-toggle>Ederswiler</a>
                             <div id="modal-container10" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -149,7 +149,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container11" uk-toggle>Haute-Sorne</a>
+                            <a class="uk-button uk-button-link" href="#modal-container11" uk-toggle>Haute-Sorne</a>
                             <div id="modal-container11" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -157,7 +157,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container12" uk-toggle>Mervelier</a>
+                            <a class="uk-button uk-button-link" href="#modal-container12" uk-toggle>Mervelier</a>
                             <div id="modal-container12" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -165,7 +165,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container13" uk-toggle>Mettembert</a>
+                            <a class="uk-button uk-button-link" href="#modal-container13" uk-toggle>Mettembert</a>
                             <div id="modal-container13" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -173,7 +173,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container14" uk-toggle>Movelier</a>
+                            <a class="uk-button uk-button-link" href="#modal-container14" uk-toggle>Movelier</a>
                             <div id="modal-container14" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -181,7 +181,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container15" uk-toggle>Pleigne</a>
+                            <a class="uk-button uk-button-link" href="#modal-container15" uk-toggle>Pleigne</a>
                             <div id="modal-container15" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -189,7 +189,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container16" uk-toggle>Rossemaison</a>
+                            <a class="uk-button uk-button-link" href="#modal-container16" uk-toggle>Rossemaison</a>
                             <div id="modal-container16" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -197,7 +197,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container17" uk-toggle>Saulcy</a>
+                            <a class="uk-button uk-button-link" href="#modal-container17" uk-toggle>Saulcy</a>
                             <div id="modal-container17" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -205,7 +205,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container18" uk-toggle>Soyhières</a>
+                            <a class="uk-button uk-button-link" href="#modal-container18" uk-toggle>Soyhières</a>
                             <div id="modal-container18" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -213,7 +213,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container19" uk-toggle>Val-Terbi</a>
+                            <a class="uk-button uk-button-link" href="#modal-container19" uk-toggle>Val-Terbi</a>
                             <div id="modal-container19" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -222,7 +222,7 @@
                             </div>
 
                         <p></p>
-                            <a class="uk-button uk-button-default" href="#modal-container20" uk-toggle>Alle</a>
+                            <a class="uk-button uk-button-link" href="#modal-container20" uk-toggle>Alle</a>
                             <div id="modal-container20" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -230,7 +230,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container21" uk-toggle>La Baroche</a>
+                            <a class="uk-button uk-button-link" href="#modal-container21" uk-toggle>La Baroche</a>
                             <div id="modal-container21" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -238,7 +238,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container22" uk-toggle>Basse-Allaine</a>
+                            <a class="uk-button uk-button-link" href="#modal-container22" uk-toggle>Basse-Allaine</a>
                             <div id="modal-container22" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -246,7 +246,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container23" uk-toggle>Beurnevésin</a>
+                            <a class="uk-button uk-button-link" href="#modal-container23" uk-toggle>Beurnevésin</a>
                             <div id="modal-container23" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -254,7 +254,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container24" uk-toggle>Boncourt</a>
+                            <a class="uk-button uk-button-link" href="#modal-container24" uk-toggle>Boncourt</a>
                             <div id="modal-container24" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -262,7 +262,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container25" uk-toggle>Bonfol</a>
+                            <a class="uk-button uk-button-link" href="#modal-container25" uk-toggle>Bonfol</a>
                             <div id="modal-container25" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -270,7 +270,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container25" uk-toggle>Bure</a>
+                            <a class="uk-button uk-button-link" href="#modal-container25" uk-toggle>Bure</a>
                             <div id="modal-container25" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -278,7 +278,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container26" uk-toggle>Clos-du-Doubs</a>
+                            <a class="uk-button uk-button-link" href="#modal-container26" uk-toggle>Clos-du-Doubs</a>
                             <div id="modal-container26" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -286,7 +286,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container27" uk-toggle>Coeuve</a>
+                            <a class="uk-button uk-button-link" href="#modal-container27" uk-toggle>Coeuve</a>
                             <div id="modal-container27" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -294,7 +294,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container28" uk-toggle>Cornol</a>
+                            <a class="uk-button uk-button-link" href="#modal-container28" uk-toggle>Cornol</a>
                             <div id="modal-container28" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -302,7 +302,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container29" uk-toggle>Courchavon</a>
+                            <a class="uk-button uk-button-link" href="#modal-container29" uk-toggle>Courchavon</a>
                             <div id="modal-container29" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -310,7 +310,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container30" uk-toggle>Courgenay</a>
+                            <a class="uk-button uk-button-link" href="#modal-container30" uk-toggle>Courgenay</a>
                             <div id="modal-container30" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -318,7 +318,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container31" uk-toggle>Courtedoux</a>
+                            <a class="uk-button uk-button-link" href="#modal-container31" uk-toggle>Courtedoux</a>
                             <div id="modal-container31" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -326,7 +326,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container32" uk-toggle>Damphreux</a>
+                            <a class="uk-button uk-button-link" href="#modal-container32" uk-toggle>Damphreux</a>
                             <div id="modal-container32" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -334,7 +334,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container33" uk-toggle>Fahy</a>
+                            <a class="uk-button uk-button-link" href="#modal-container33" uk-toggle>Fahy</a>
                             <div id="modal-container33" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -342,7 +342,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container34" uk-toggle>Fontenais</a>
+                            <a class="uk-button uk-button-link" href="#modal-container34" uk-toggle>Fontenais</a>
                             <div id="modal-container34" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -350,7 +350,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container35" uk-toggle>Grandfontaine</a>
+                            <a class="uk-button uk-button-link" href="#modal-container35" uk-toggle>Grandfontaine</a>
                             <div id="modal-container35" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -358,7 +358,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container36" uk-toggle>Haute-Ajoie</a>
+                            <a class="uk-button uk-button-link" href="#modal-container36" uk-toggle>Haute-Ajoie</a>
                             <div id="modal-container36" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -366,7 +366,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container37" uk-toggle>Lugnez</a>
+                            <a class="uk-button uk-button-link" href="#modal-container37" uk-toggle>Lugnez</a>
                             <div id="modal-container37" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -374,7 +374,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container38" uk-toggle>Porrentruy</a>
+                            <a class="uk-button uk-button-link" href="#modal-container38" uk-toggle>Porrentruy</a>
                             <div id="modal-container38" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -382,7 +382,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container39" uk-toggle>Vendlincourt</a>
+                            <a class="uk-button uk-button-link" href="#modal-container39" uk-toggle>Vendlincourt</a>
                             <div id="modal-container39" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -391,7 +391,7 @@
                             </div>
 
                         <p></p>
-                            <a class="uk-button uk-button-default" href="#modal-container40" uk-toggle>Le Bémont</a>
+                            <a class="uk-button uk-button-link" href="#modal-container40" uk-toggle>Le Bémont</a>
                             <div id="modal-container40" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -399,7 +399,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container41" uk-toggle>Les Bois</a>
+                            <a class="uk-button uk-button-link" href="#modal-container41" uk-toggle>Les Bois</a>
                             <div id="modal-container41" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -407,7 +407,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container42" uk-toggle>Les Breuleux</a>
+                            <a class="uk-button uk-button-link" href="#modal-container42" uk-toggle>Les Breuleux</a>
                             <div id="modal-container42" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -415,7 +415,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container43" uk-toggle>La Chaux-des-Breuleux</a>
+                            <a class="uk-button uk-button-link" href="#modal-container43" uk-toggle>La Chaux-des-Breuleux</a>
                             <div id="modal-container43" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -423,7 +423,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container44" uk-toggle>Les Enfers</a>
+                            <a class="uk-button uk-button-link" href="#modal-container44" uk-toggle>Les Enfers</a>
                             <div id="modal-container44" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -431,7 +431,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container45" uk-toggle>Les Genevez</a>
+                            <a class="uk-button uk-button-link" href="#modal-container45" uk-toggle>Les Genevez</a>
                             <div id="modal-container45" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -439,7 +439,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container46" uk-toggle>Lajoux</a>
+                            <a class="uk-button uk-button-link" href="#modal-container46" uk-toggle>Lajoux</a>
                             <div id="modal-container46" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -447,7 +447,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container47" uk-toggle>Montfaucon</a>
+                            <a class="uk-button uk-button-link" href="#modal-container47" uk-toggle>Montfaucon</a>
                             <div id="modal-container47" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -455,7 +455,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container48" uk-toggle>Muriaux</a>
+                            <a class="uk-button uk-button-link" href="#modal-container48" uk-toggle>Muriaux</a>
                             <div id="modal-container48" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -463,7 +463,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container49" uk-toggle>Le Noirmont</a>
+                            <a class="uk-button uk-button-link" href="#modal-container49" uk-toggle>Le Noirmont</a>
                             <div id="modal-container49" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -471,7 +471,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container50" uk-toggle>Saignelégier</a>
+                            <a class="uk-button uk-button-link" href="#modal-container50" uk-toggle>Saignelégier</a>
                             <div id="modal-container50" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -479,7 +479,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container51" uk-toggle>Saint-Brais</a>
+                            <a class="uk-button uk-button-link" href="#modal-container51" uk-toggle>Saint-Brais</a>
                             <div id="modal-container51" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -487,7 +487,7 @@
                                 </div>
                             </div>
 
-                            <a class="uk-button uk-button-default" href="#modal-container52" uk-toggle>Soubey</a>
+                            <a class="uk-button uk-button-link" href="#modal-container52" uk-toggle>Soubey</a>
                             <div id="modal-container52" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>

@@ -45,7 +45,7 @@
             </div>
         </header>
 <main>
-<section style="padding: 2%">
+    <section style="padding: 2%">
         <h1 class="uk-heading-large">Instances politiques</h1>
         <hr>
             <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *">
@@ -115,7 +115,7 @@
                 <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="<?php echo $PHPgouvernementJU ?>">
+                            <a href="<?php echo $PHPGouvernementJU ?>">
                                 <div class="uk-card-body">
                                     <div class="uk-grid-small uk-flex-column" uk-grid>
                                         <div class="uk-width-auto">
@@ -132,7 +132,7 @@
                     </div>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="<?php echo $PHPparlementJU ?>">
+                            <a href="<?php echo $PHPParlementJU ?>">
                                 <div class="uk-card-body">
                                     <div class="uk-grid-small uk-flex-column" uk-grid>
                                         <div class="uk-width-auto">

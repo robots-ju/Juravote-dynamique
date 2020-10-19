@@ -330,7 +330,9 @@
     $PHPgouvernementCH = "/Juravote-dynamique/Pages/Instances/GouvernementCH/2020_2023/GouvernementCH.php";    
     $PHPgouvernementCODistricts = "/Juravote-dynamique/Pages/Instances/GouvernementCO/Districts.php";
     $PHPgouvernementDevelier = "/Juravote-dynamique/Pages/Instances/GouvernementCO/Develier/2019_2023/GouvernementDevelier.php";
-    $PHPgouvernementJU = "/Juravote-dynamique/Pages/Instances/GouvernementJU/2016_2020/GouvernementJU.php";
+    $PHPGouvernementJU = "/Juravote-dynamique/Pages/Instances/GouvernementJU//GouvernementJU.php";
+        $PHPGouvernementJU20162020 = "/Juravote-dynamique/Pages/Instances/GouvernementJU/2016_2020/GouvernementJU.php";
+        $PHPGouvernementJU20212025 = "/Juravote-dynamique/Pages/Instances/GouvernementJU/2021_2025/GouvernementJU.php";
 
     $PHPparlementCH = "/Juravote-dynamique/Pages/Instances/ParlementCH/2020_2023/ParlementCH.php";
     $PHPparlementCO = "/Juravote-dynamique/Pages/Instances/ParlementCO/ParlementCO.php";
@@ -339,7 +341,9 @@
     $PHPparlementLesBois = "/Juravote-dynamique/Pages/Instances/ParlementCO/LesBois/2019_2023/ParlementLesBois.php";
     $PHPparlementPorrentruy = "/Juravote-dynamique/Pages/Instances/ParlementCO/Porrentruy/2019_2023/ParlementPorrentruy.php";
     $PHPparlementValTerbi = "/Juravote-dynamique/Pages/Instances/ParlementCO/ValTerbi/2019_2023/ParlementValTerbi.php";
-    $PHPparlementJU = "/Juravote-dynamique/Pages/Instances/ParlementJU/2016_2020/parlementJU.php";
+    $PHPParlementJU = "/Juravote-dynamique/Pages/Instances/ParlementJU/ParlementJU.php";
+        $PHPParlementJU20162020 = "/Juravote-dynamique/Pages/Instances/ParlementJU/2016_2020/parlementJU.php";
+        $PHPParlementJU20212025 = "/Juravote-dynamique/Pages/Instances/ParlementJU/2021_2025/parlementJU.php";
 
     $PHPpartisCH = "/Juravote-dynamique/Pages/Instances/PartisCH/2020_2023/PartisCH.php";
     $PHPpartisJU = "/Juravote-dynamique/Pages/Instances/PartisJU/2016_2020/PartisJU.php"; 

@@ -74,8 +74,6 @@
                         <p><b>Mode de votation : </b>Election à un tour</p> 
                         <p><a href="<?php echo $PHPelectionsJUParlementD ?>">Lien vers les informations d'élection</a></p>                       
                         <p><b>Candidats-es élus-es : </b><span style="color: #2ecc71">Elu-e</span></p>
-                        <p><b>Dernière mise à jour à : </b><span style="color: #D20603">18 octobre, 21:00</span></p>
-                        <p><b>Communes qui n'ont pas livré les résultats : </b><span>Movelier, Pleigne, Soyhières</span></p>
                     </div>
                 </div>
             </div>
@@ -102,7 +100,7 @@
                             "color": am4core.color("#0066ff")
                             }, {
                             "parti": "PSJ",
-                            "suffrages_liste": 7,
+                            "suffrages_liste": 8,
                             "color": am4core.color("#fc0401")
                             }, {
                             "parti": "PDC",
@@ -118,7 +116,7 @@
                             "color": am4core.color("#f5ff00")
                             },{
                             "parti": "UDC",
-                            "suffrages_liste": 3,
+                            "suffrages_liste": 4,
                             "color": am4core.color("#85ff00")
                             },{
                             "parti": "VERTS",

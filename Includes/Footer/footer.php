@@ -4,10 +4,7 @@
         <link rel="stylesheet" href="/Includes/Footer/footer.css">
         <base target="_parent">
     </head>
-    <body>
-
-    
-
+    <body>  
         <footer class="footer"> 
             <div class="uk-grid-collapse uk-child-width-1-2@m uk-text-left uk-flex uk-grid-match" uk-grid>
                 <div class="nav-rapide" style="padding: 2%;">
@@ -19,8 +16,8 @@
                         <div>
                             <p>Autorités politiques (Canton du Jura)</p>
                             <ul class="uk-nav uk-nav-default grid-nav">
-                                <li><a class="uk-button uk-button-text" href="<?php echo $PHPgouvernementJU ?>">Gouvernement jurassien</a></li>
-                                <li><a class="uk-button uk-button-text" href="<?php echo $PHPparlementJU ?>">Parlement jurassien</a></li>
+                                <li><a class="uk-button uk-button-text" href="<?php echo $PHPGouvernementJU20162020 ?>">Gouvernement jurassien</a></li>
+                                <li><a class="uk-button uk-button-text" href="<?php echo $PHPParlementJU20162020 ?>">Parlement jurassien</a></li>
                                 <li><a class="uk-button uk-button-text" href="<?php echo $PHPparlementCH ?>">Représentants-es aux Chambres fédérales</a></li>  
                             </ul>
                         </div>

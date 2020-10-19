@@ -330,7 +330,9 @@
     $PHPgouvernementCH = "/Pages/Instances/GouvernementCH/2020_2023/GouvernementCH.php";    
     $PHPgouvernementCODistricts = "/Pages/Instances/GouvernementCO/Districts.php";
     $PHPgouvernementDevelier = "/Pages/Instances/GouvernementCO/Develier/2019_2023/GouvernementDevelier.php";
-    $PHPgouvernementJU = "/Pages/Instances/GouvernementJU/2016_2020/GouvernementJU.php";
+    $PHPGouvernementJU = "/Pages/Instances/GouvernementJU//GouvernementJU.php";
+        $PHPGouvernementJU20162020 = "/Pages/Instances/GouvernementJU/2016_2020/GouvernementJU.php";
+        $PHPGouvernementJU20212025 = "/Pages/Instances/GouvernementJU/2021_2025/GouvernementJU.php";
 
     $PHPparlementCH = "/Pages/Instances/ParlementCH/2020_2023/ParlementCH.php";
     $PHPparlementCO = "/Pages/Instances/ParlementCO/ParlementCO.php";
@@ -339,7 +341,9 @@
     $PHPparlementLesBois = "/Pages/Instances/ParlementCO/LesBois/2019_2023/ParlementLesBois.php";
     $PHPparlementPorrentruy = "/Pages/Instances/ParlementCO/Porrentruy/2019_2023/ParlementPorrentruy.php";
     $PHPparlementValTerbi = "/Pages/Instances/ParlementCO/ValTerbi/2019_2023/ParlementValTerbi.php";
-    $PHPparlementJU = "/Pages/Instances/ParlementJU/2016_2020/parlementJU.php";
+    $PHPParlementJU = "/Pages/Instances/ParlementJU/ParlementJU.php";
+        $PHPParlementJU20162020 = "/Pages/Instances/ParlementJU/2016_2020/parlementJU.php";
+        $PHPParlementJU20212025 = "/Pages/Instances/ParlementJU/2021_2025/parlementJU.php";
 
     $PHPpartisCH = "/Pages/Instances/PartisCH/2020_2023/PartisCH.php";
     $PHPpartisJU = "/Pages/Instances/PartisJU/2016_2020/PartisJU.php"; 

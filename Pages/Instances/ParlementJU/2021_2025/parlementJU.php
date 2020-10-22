@@ -59,87 +59,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/FlorenceBoesch.jpg">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Florence Boesch</h3>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                            <div class="uk-width-auto uk-first-column">
-                                <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/FrancoiseChaignat.jpg">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Françoise Chaignat</h3>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                            <div class="uk-width-auto uk-first-column">
-                                <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/DanieleChariatte.jpg">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Danièle Chariatte</h3>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                            <div class="uk-width-auto uk-first-column">
-                                <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/EricDobler.jpg">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Eric Dobler</h3>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                            <div class="uk-width-auto uk-first-column">
-                                <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/VincentEschmann.jpg">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Vincent Eschmann</h3>
-                    </div>
-                </div>
-            </div> 
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                            <div class="uk-width-auto uk-first-column">
-                                <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/AnneFroidevaux.jpg">
+                                     src="<?php echo $AnneFroidevaux21 ?>">
                             </div>
                         </div>
                     </div>
@@ -155,12 +75,12 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/Jean-FrançoisPape.jpg">
+                                     src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Jean-François Pape</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Vincent Eschmann</h3>
                     </div>
                 </div>
             </div>
@@ -171,12 +91,12 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/AnneRoy.jpg">
+                                     src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Anne Roy-Fridez</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">François Monin</h3>
                     </div>
                 </div>
             </div>
@@ -187,12 +107,28 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/NoelSaucy.jpg">
+                                     src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Noël Saucy</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Boris Beuret</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                    <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                            <div class="uk-width-auto uk-first-column">
+                                <img class="uk-border-circle photo-personne"
+                                     src="#">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title-center text-rouge-fonce">Serge Beuret</h3>
                     </div>
                 </div>
             </div> 
@@ -203,12 +139,60 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/ChristianSpring.jpg">
+                                     src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Christian Spring</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Olivier Goffinet</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                    <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                            <div class="uk-width-auto uk-first-column">
+                                <img class="uk-border-circle photo-personne"
+                                     src="#">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title-center text-rouge-fonce">Amélie Brahier</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                    <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                            <div class="uk-width-auto uk-first-column">
+                                <img class="uk-border-circle photo-personne"
+                                     src="<?php echo $BernardVarin21 ?>">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title-center text-rouge-fonce">Bernard Varin</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                    <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                            <div class="uk-width-auto uk-first-column">
+                                <img class="uk-border-circle photo-personne"
+                                     src="#">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title-center text-rouge-fonce">Stéphane Babey</h3>
                     </div>
                 </div>
             </div> 
@@ -219,12 +203,28 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/JosianeSudan.jpg">
+                                     src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Josiane Sudan</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Gauthier Corbat</h3>
+                    </div>
+                </div>
+            </div> 
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                    <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                            <div class="uk-width-auto uk-first-column">
+                                <img class="uk-border-circle photo-personne"
+                                     src="#">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title-center text-rouge-fonce">Marcel Meyer</h3>
                     </div>
                 </div>
             </div>
@@ -251,12 +251,12 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/DominiqueThievent.jpg">
+                                     src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Dominique Thiévent</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Mathieu Cerf</h3>
                     </div>
                 </div>
             </div>
@@ -267,12 +267,28 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/BernardVarin.jpg">
+                                     src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Bernard Varin</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Bernard Studer</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                    <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                            <div class="uk-width-auto uk-first-column">
+                                <img class="uk-border-circle photo-personne"
+                                     src="<?php echo $JosianeSudan21 ?>">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title-center text-rouge-fonce">Josiane Sudan-Girardin</h3>
                     </div>
                 </div>
             </div>
@@ -283,23 +299,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/MelanieBrulhart.jpg">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Mélanie Brülhart</h3>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                            <div class="uk-width-auto uk-first-column">
-                                <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/RaphaelCiocchi.jpg">
+                                     src="<?php echo $RaphaelCiocchi21 ?>">
                             </div>
                         </div>
                     </div>
@@ -315,7 +315,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/Pierre-AndreComte.jpg">
+                                     src="<?php echo $PierreAndreComte21 ?>">
                             </div>
                         </div>
                     </div>
@@ -331,12 +331,12 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/JosianeDaepp.jpg">
+                                     src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Josianne Daepp</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Fabrice Macquat</h3>
                     </div>
                 </div>
             </div>
@@ -347,7 +347,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/LoicDobler.jpg">
+                                     src="<?php echo $LoicDobler21 ?>">
                             </div>
                         </div>
                     </div>
@@ -363,12 +363,12 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/Jean-DanielEcoeur.jpg">
+                                     src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Jean-Daniel Ecoeur</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Leïla Hanini</h3>
                     </div>
                 </div>
             </div>
@@ -379,7 +379,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/NicolasGirard.jpg">
+                                     src="<?php echo $NicolasGirard21 ?>">
                             </div>
                         </div>
                     </div>
@@ -395,7 +395,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/KatiaLehmann.jpg">
+                                     src="<?php echo $KatiaLehmann21 ?>">
                             </div>
                         </div>
                     </div>
@@ -411,12 +411,12 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/AmiLievre.jpg">
+                                     src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Ami Lièvre</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Gaëlle Frossard</h3>
                     </div>
                 </div>
             </div>
@@ -427,12 +427,12 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/MurielleMacchi.jpg">
+                                     src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Murielle Macchi</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Patrick Cerf</h3>
                     </div>
                 </div>
             </div>
@@ -443,7 +443,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/NicolasMaitre.jpg">
+                                     src="<?php echo $NicolasMaitre21 ?>">
                             </div>
                         </div>
                     </div>
@@ -459,7 +459,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/ClaudeSchluchter.jpg">
+                                     src="<?php echo $ClaudeSchluchter21 ?>">
                             </div>
                         </div>
                     </div>
@@ -470,17 +470,33 @@
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                    <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/AlainBohlinger.jpg">
+                                     src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Alain Bohlinger</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Florence Chaignat</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                    <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                            <div class="uk-width-auto uk-first-column">
+                                <img class="uk-border-circle photo-personne"
+                                     src="#">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title-center text-rouge-fonce">Jelica Aubry-Janketic</h3>
                     </div>
                 </div>
             </div>
@@ -491,12 +507,12 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/StephaneBrosy.jpg">
+                                     src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Stéphane Brosy</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Yann Rufer</h3>
                     </div>
                 </div>
             </div>
@@ -507,7 +523,23 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/ErnestGerber.jpg">
+                                     src="#">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title-center text-rouge-fonce">Michel Périat</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                    <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                            <div class="uk-width-auto uk-first-column">
+                                <img class="uk-border-circle photo-personne"
+                                     src="<?php echo $ErnestGerber21 ?>">
                             </div>
                         </div>
                     </div>
@@ -523,7 +555,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/AndreHenzelin.jpg">
+                                     src="<?php echo $AndreHenzelin21 ?>">
                             </div>
                         </div>
                     </div>
@@ -539,23 +571,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/AlainLachat.jpg">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Alain Lachat</h3>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                            <div class="uk-width-auto uk-first-column">
-                                <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/PierreParietti.jpg">
+                                     src="<?php echo $PierreParietti21 ?>">
                             </div>
                         </div>
                     </div>
@@ -571,7 +587,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/EdgarSauser.jpg">
+                                     src="<?php echo $EdgarSauser21 ?>">
                             </div>
                         </div>
                     </div>
@@ -587,7 +603,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/AlainSchweingruber.jpg">
+                                     src="<?php echo $AlainSchweingruber21 ?>">
                             </div>
                         </div>
                     </div>
@@ -603,7 +619,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/GabrielVoirol.jpg">
+                                     src="<?php echo $GabrielVoirol21 ?>">
                             </div>
                         </div>
                     </div>
@@ -619,7 +635,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/BrigitteFavre.jpg">
+                                     src="<?php echo $BrigitteFavre21 ?>">
                             </div>
                         </div>
                     </div>
@@ -635,15 +651,31 @@
                     <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                         <div class="uk-width-auto uk-first-column">
                             <img class="uk-border-circle photo-personne"
-                                 src="../../../../IMG/Personnalites/ParlementJU/2016_2020/ClaudeGerber.jpg">
+                                 src="<?php echo $YvesGigon21 ?>">
                         </div>
                     </div>
                 </div>
                 <div class="uk-card-body">
-                    <h3 class="uk-card-title-center text-rouge-fonce">Claude Gerber</h3>
+                    <h3 class="uk-card-title-center text-rouge-fonce">Yves Gigon</h3>
                 </div>
             </div>
             </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                    <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div>
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                            <div class="uk-width-auto uk-first-column">
+                                <img class="uk-border-circle photo-personne"
+                                    src="<?php echo $AlainKoller21 ?>">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title-center text-rouge-fonce">Alain Koller</h3>
+                    </div>
+                </div>
+            </div>            
             <div>
             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                 <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div>
@@ -651,39 +683,7 @@
                     <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                         <div class="uk-width-auto uk-first-column">
                             <img class="uk-border-circle photo-personne"
-                                 src="../../../../IMG/Personnalites/ParlementJU/2016_2020/AlainKoller.jpg">
-                        </div>
-                    </div>
-                </div>
-                <div class="uk-card-body">
-                    <h3 class="uk-card-title-center text-rouge-fonce">Alain Koller</h3>
-                </div>
-            </div>
-            </div>
-            <div>
-            <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div>
-                <div class="uk-card-header">
-                    <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                        <div class="uk-width-auto uk-first-column">
-                            <img class="uk-border-circle photo-personne"
-                                 src="../../../../IMG/Personnalites/ParlementJU/2016_2020/JeanLeuenberger.jpg">
-                        </div>
-                    </div>
-                </div>
-                <div class="uk-card-body">
-                    <h3 class="uk-card-title-center text-rouge-fonce">Jean Leuenberger</h3>
-                </div>
-            </div>
-            </div>  
-            <div>
-            <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div>
-                <div class="uk-card-header">
-                    <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                        <div class="uk-width-auto uk-first-column">
-                            <img class="uk-border-circle photo-personne"
-                                 src="../../../../IMG/Personnalites/ParlementJU/2016_2020/LionelMontavon.jpg">
+                                 src="<?php echo $LionelMontavon21 ?>">
                         </div>
                     </div>
                 </div>
@@ -699,7 +699,7 @@
                     <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                         <div class="uk-width-auto uk-first-column">
                             <img class="uk-border-circle photo-personne"
-                                 src="../../../../IMG/Personnalites/ParlementJU/2016_2020/PhilippeRottet.jpg">
+                                 src="<?php echo $PhilippeRottet21 ?>">
                         </div>
                     </div>
                 </div>
@@ -715,7 +715,7 @@
                     <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                         <div class="uk-width-auto uk-first-column">
                             <img class="uk-border-circle photo-personne"
-                                 src="../../../../IMG/Personnalites/ParlementJU/2016_2020/RomainSchaer.jpg">
+                                 src="<?php echo $RomainSchaer21 ?>">
                         </div>
                     </div>
                 </div>
@@ -731,7 +731,7 @@
                     <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                         <div class="uk-width-auto uk-first-column">
                             <img class="uk-border-circle photo-personne"
-                                 src="../../../../IMG/Personnalites/ParlementJU/2016_2020/DidierSpiess.jpg">
+                                 src="<?php echo $DidierSpies21 ?>">
                         </div>
                     </div>
                 </div>
@@ -747,7 +747,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                     src="../../../../IMG/Personnalites/ParlementJU/2016_2020/GeraldineBeuchat.jpg">
+                                     src="<?php echo $GeraldineBeuchat21 ?>">
                             </div>
                         </div>
                     </div>
@@ -763,12 +763,12 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/DamienChappuis.jpg">
+                                    src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Damien Chappuis</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Blaise Schüll</h3>
                     </div>
                 </div> 
             </div>
@@ -779,7 +779,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/QuentinHaas.jpg">
+                                    src="<?php echo $QuentinHaas21 ?>">
                             </div>
                         </div>
                     </div>
@@ -795,7 +795,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/VincentHennin.jpg">
+                                    src="<?php echo $VincentHennin21 ?>">
                             </div>
                         </div>
                     </div>
@@ -811,12 +811,12 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/MonikaKornmayer.jpg">
+                                    src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Monika Kornmayer</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Patrick Chappuis</h3>
                     </div>
                 </div> 
             </div>
@@ -827,47 +827,15 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/FredericLovis.jpg">
+                                    src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Frédéric Lovis</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Vincent Wermeille</h3>
                     </div>
                 </div> 
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI</div>
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                            <div class="uk-width-auto uk-first-column">
-                                <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/SuzanneMaitre.jpg">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Suzanne Maître</h3>
-                    </div>
-                </div> 
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI</div>
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                            <div class="uk-width-auto uk-first-column">
-                                <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/ThomasSchaffter.jpg">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Thomas Schaffter</h3>
-                    </div>
-                </div> 
-            </div>
+            </div>            
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                     <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
@@ -875,7 +843,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/IvanGodat.jpg">
+                                    src="<?php echo $IvanGodat21 ?>">
                             </div>
                         </div>
                     </div>
@@ -891,7 +859,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/BaptisteLaville.jpg">
+                                    src="<?php echo $BaptisteLaville21 ?>">
                             </div>
                         </div>
                     </div>
@@ -907,7 +875,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/MagaliRohner.jpg">
+                                    src="<?php echo $MagaliRohner21 ?>">
                             </div>
                         </div>
                     </div>
@@ -923,60 +891,108 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/AnselmeVoirol.jpg">
+                                    src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Anselme Voirol</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Céline Robert-Charrue Linder</h3>
                     </div>
                 </div> 
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label uk-border-rounded"></div>
+                    <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/YvesGIgon.jpg">
+                                    src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Yves Gigon</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Audrey Voutat</h3>
                     </div>
                 </div> 
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label uk-border-rounded"></div>
+                    <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/RaoulJaeggi.jpg">
+                                    src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Raoul Jaeggi</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Pauline Godat</h3>
                     </div>
                 </div> 
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label uk-border-rounded"></div>
+                    <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/PaulineQueloz.jpg">
+                                    src="#">
                             </div>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Pauline Queloz</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Philippe Bassin</h3>
+                    </div>
+                </div> 
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                    <div class="uk-card-badge badge-pvl uk-label uk-border-rounded">PVL</div>
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                            <div class="uk-width-auto uk-first-column">
+                                <img class="uk-border-circle photo-personne"
+                                    src="#">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title-center text-rouge-fonce">Emilie Moreau</h3>
+                    </div>
+                </div> 
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                    <div class="uk-card-badge badge-pvl uk-label uk-border-rounded">PVL</div>
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                            <div class="uk-width-auto uk-first-column">
+                                <img class="uk-border-circle photo-personne"
+                                    src="#">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title-center text-rouge-fonce">Alain Beuret</h3>
+                    </div>
+                </div> 
+            </div>            
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                    <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                            <div class="uk-width-auto uk-first-column">
+                                <img class="uk-border-circle photo-personne"
+                                    src="#">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title-center text-rouge-fonce">Christophe Schaffter</h3>
                     </div>
                 </div> 
             </div>
@@ -987,23 +1003,7 @@
                         <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                             <div class="uk-width-auto uk-first-column">
                                 <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/JérômeCourbat.jpg">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Jérôme Corbat</h3>
-                    </div>
-                </div> 
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
-                    <div class="uk-card-header">
-                        <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
-                            <div class="uk-width-auto uk-first-column">
-                                <img class="uk-border-circle photo-personne"
-                                    src="../../../../IMG/Personnalites/ParlementJU/2016_2020/RemyMeury.jpg">
+                                    src="<?php echo $RemyMeury21 ?>">
                             </div>
                         </div>
                     </div>

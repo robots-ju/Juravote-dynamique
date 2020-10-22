@@ -48,7 +48,7 @@
         </header>
 <main>
 <section style="padding: 2%">
-        <h1 class="uk-heading-large">Gouvernement jurassien 2016 - 2020</h1>
+        <h1 class="uk-heading-large">Gouvernement jurassien 2021 - 2025</h1>
         <hr>
         <h3>Les 5 Ministres seront connus-es le 08 novembre, après le 2e tour !</h3>
         <!--<div class="conteneur_cartes">

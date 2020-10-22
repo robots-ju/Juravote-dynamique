@@ -165,11 +165,11 @@
     $AlainSchweingruber = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AlainSchweingruber.png";
     $AmiLievre = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AmiLievre.png";
     $AndreHenzelin = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AndreHenzelin.png";
-    $AnneFroidevaux = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AnneFroidevaux.png";
+    $AnneFroidevaux = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AnneFroidevaux.jpg";
     $AnneRoy = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AnneRoy.png";
     $AnselmeVoirol = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AnselmeVoirol.png";
     $BaptisteLaville = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/BaptisteLaville.png";
-    $BernardVarin = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/BernardVarin.png";
+    $BernardVarin = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/BernardVarin.jpg";
     $BrigitteFavre = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/BrigitteFavre.png";
     $ChristianSpring = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/ChristianSpring.png";
     $ClaudeGerber = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/ClaudeGerber.png";
@@ -213,11 +213,88 @@
     $RemyMeury = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/RemyMeury.png";
     $RomainSchaer = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/RomainSchaer.png";
     $StephaneBrosy = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/StephaneBrosy.png";
-    $StephaneTheurillat = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/StephaneTheurillat.png";
+    $StephaneTheurillat = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/StephaneTheurillat.jpg";
     $SuzanneMaitre = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/SuzanneMaitre.png";
     $ThomasSchaffter = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/ThomasSchaffter.png";
     $VincentHennin = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/VincentHennin.png";
     $YvesGigon = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/YvesGigon.png";
+
+    //ParlementJU2021_2025
+        //PDC
+        $AnneFroidevaux21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2016_2020/AnneFroidevaux.jpg";
+        $VincentEschmann21 = "#";
+        $FrançoisMonin21 = "#";
+        $BorisBeuret21 = "#";
+        $SergeBeuret21 = "#";
+        $OlivierGoffinet21 = "#";
+        $AmélieBrahier21 = "#";
+        $BernardVarin21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/BernardVarin.jpg";
+        $StéphaneBabey21 = "#";
+        $GauthierCorbat21 = "#";
+        $MarcelMeyer21 = "#";
+        $StephaneTheurillat21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/StephaneTheurillat.jpg";
+        $MathieuCerf21 = "#";
+        $BernardStuder21 = "#";
+        $JosianeSudan21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/JosianeSudan.jpg";
+
+        //PS
+        $RaphaelCiocchi21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/RaphaelCiocchi.jpg";
+        $PierreAndreComte21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/Pierre-AndreComte.jpg";
+        $FabriceMacquat21 = "#";
+        $LoicDobler21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/LoicDobler.jpg";
+        $LeilaHanini21 = "#";
+        $NicolasGirard21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/NicolasGirard.jpg";
+        $KatiaLehmann21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/KatiaLehmann.jpg";
+        $GaelleFrossard = "#";
+        $PatrickCerf21 = "#";
+        $NicolasMaitre21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/NicolasMaitre.jpg";
+        $ClaudeSchluchter21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/ClaudeSchluchter.jpg";
+        $FlorenceChaignat21 = "#";
+        $JelicaAubryJanketic21 = "#";
+
+        //PLR
+        $YannRufer21 = "#";
+        $MichelPeriat21 = "#";
+        $ErnestGerber21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/ErnestGerber.jpg";
+        $AndreHenzelin21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/AndreHenzelin.jpg";
+        $PierreParietti21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/PierreParietti.jpg";
+        $EdgarSauser21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/EdgarSauser.jpg";
+        $AlainSchweingruber21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/AlainSchweingruber.jpg";
+        $GabrielVoirol21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/GabrielVoirol.jpg";
+
+        //UDC
+        $BrigitteFavre21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/BrigitteFavre.jpg";
+        $AlainKoller21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/AlainKoller.jpg";
+        $LionelMontavon21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/LionelMontavon.jpg";
+        $PhilippeRottet21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/PhilippeRottet.jpg";
+        $RomainSchaer21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/RomainSchaer.jpg";
+        $DidierSpies21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/DidierSpies.jpg";
+        $YvesGigon21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/YvesGigon.jpg";
+
+        //PCSI
+        $GeraldineBeuchat21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/GeraldineBeuchat.jpg";
+        $BlaiseSchull21 = "#";
+        $QuentinHaas21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/QuentinHaas.jpg";
+        $VincentHennin21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/VincentHennin.jpg";
+        $PatrickChapuis21 = "#";
+        $VincentWermeille21 = "#";
+
+        //VERTS
+        $IvanGodat21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/IvanGodat.jpg";
+        $BaptisteLaville21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/BaptisteLaville.jpg";
+        $MagaliRohner21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/MagaliRohner.jpg";
+        $CélineRobertCharrueLinder21 = "#";
+        $AudreyVoutat21 = "#";
+        $PaulineGodat21 = "#";
+        $PhilippeBassin21 = "#";
+
+        //PVL
+        $EmilieMoreau21 = "#";
+        $AlainBeuret21 = "#";
+
+        //CSPOP
+        $ChristopheSchaffter21 = "#";
+        $RemyMeury21 = "/Juravote-dynamique/IMG/Personnalites/ParlementJU/2021_2025/RemyMeury.jpg";
 
     //ParlementCH2020_2023
     $CharlesJuillard = "/Juravote-dynamique/IMG/Personnalites/ParlementCH/2020_2023/CharlesJuillard.jpg";
@@ -346,7 +423,9 @@
         $PHPParlementJU20212025 = "/Juravote-dynamique/Pages/Instances/ParlementJU/2021_2025/parlementJU.php";
 
     $PHPpartisCH = "/Juravote-dynamique/Pages/Instances/PartisCH/2020_2023/PartisCH.php";
-    $PHPpartisJU = "/Juravote-dynamique/Pages/Instances/PartisJU/2016_2020/PartisJU.php"; 
+    $PHPpartisJU = "/Juravote-dynamique/Pages/Instances/PartisJU/PartisJU.php"; 
+        $PHPpartisJU20162020 = "/Juravote-dynamique/Pages/Instances/PartisJU/2016_2020/PartisJU.php"; 
+        $PHPpartisJU20212025 = "/Juravote-dynamique/Pages/Instances/PartisJU/2021_2025/PartisJU.php";
     $PHPpartisCO = "/Juravote-dynamique/Pages/Instances/PartisCO/2019_2023/PartisCO.php"; 
     
     $PHPresultats = "/Juravote-dynamique/Pages/Resultats/resultats.php";
@@ -545,6 +624,7 @@
             $siteUDCJ = "http://www.udc-ju.ch/fr/";
             $siteVertsJ = "https://verts-jura.ch";
             $siteCSPOPJ = "http://www.cspop.ch/";  
+            $sitePVL = "https://ju.vertliberaux.ch/";
 
 
 //INCLUDES

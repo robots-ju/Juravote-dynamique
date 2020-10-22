@@ -192,7 +192,7 @@
                             <p>Nous félicitons vivement toute cette jeune équipe pour leur intérêt à la chose
                             publique et la mise en oeuvre de ce formidable support et leur souhaitons plein succès.</p>     
 
-                            <b><p class="uk-align-right" style="padding-bottom: 10%">Gabriel M. Chappuis, Maire de Develier</p></b>                      
+                            <b><p class="uk-align-right">Gabriel M. Chappuis, Maire de Develier</p></b>                      
                         </div>      
                     </div> 
                 </div>                            

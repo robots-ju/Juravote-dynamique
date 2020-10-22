@@ -5,7 +5,7 @@
         <base target="_parent">
     </head>
     <body>  
-        <footer class="footer"> 
+        <footer class="footer" style="padding-top: 5%;"> 
             <div class="uk-grid-collapse uk-child-width-1-2@m uk-text-left uk-flex uk-grid-match" uk-grid>
                 <div class="nav-rapide" style="padding: 2%;">
                     <div>

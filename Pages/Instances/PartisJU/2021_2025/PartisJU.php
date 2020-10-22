@@ -263,7 +263,7 @@
 
 <footer>
         <div class="footer">
-            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </html>

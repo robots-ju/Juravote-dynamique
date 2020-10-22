@@ -13,15 +13,6 @@
     }
 }
 
-.photo-personne {
-    border-color: #990000;
-    border-style: solid;
-    border-width: 3px;
-
-    height: 100px;
-    width: auto;
-}
-
 .text-fonction {
     font-size: 1.1rem;
 }

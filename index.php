@@ -63,7 +63,7 @@
                         </div>                        
                     </div>
                     
-                    <div class="uk-card uk-card-body uk-padding-remove uk-width-auto uk-flex-first@s">   
+                    <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s uk-flex-first@s">   
                         <h3 class="uk-heading-divider uk-text-center">Prochains événements</h3> 
 
                         <a href="<?php echo $PHPelectionsJUGouvernement2 ?>">                          
@@ -111,7 +111,7 @@
                         </a>
                     </div>
 
-                    <div class="uk-card uk-card-body uk-padding-remove uk-width-auto">                       
+                    <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       
                         <h3 class="uk-heading-divider uk-text-center">Derniers résultats</h3>
 
                         <a href="<?php echo $PHPresultatsElectionsJU ?>">                          

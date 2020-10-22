@@ -106,9 +106,9 @@
 
     //juravote :
     $juravoteLogo = "/Juravote-dynamique/IMG/Logo/JuraVote/Logo.png";
-    $juravoteLogoDef = "/Juravote-dynamique/IMG/Logo/JuraVote/Logo_def.png";
-    $juravoteIcon = "/Juravote-dynamique/IMG/Logo/JuraVote/IconHeader.png";
     $juravoteLogoIcon = "/Juravote-dynamique/IMG/Logo/JuraVote/LogoIcon.png";
+    $juravoteIcon = "/Juravote-dynamique/IMG/Logo/JuraVote/Icon.png";
+    $juravoteIconWhite = "/Juravote-dynamique/IMG/Logo/JuraVote/IconWhite.png";
     $juravoteTwitter = "/Juravote-dynamique/IMG/Logo/ReseauxSociaux/Bannieres/Twitter.png";
     $juravoteFacebook = "/Juravote-dynamique/IMG/Logo/ReseauxSociaux/Bannieres/Facebook.png";
     $iconDiscord = "/Juravote-dynamique/IMG/Logo/ReseauxSociaux/Discord.png";

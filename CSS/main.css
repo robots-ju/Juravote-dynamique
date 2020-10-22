@@ -4,6 +4,15 @@ body{
     background-color: #F5F5F5;
 }
 
+.photo-personne {
+    border-color: #990000;
+    border-style: solid;
+    border-width: 3px;
+
+    height: 100px;
+    width: auto;
+}
+
 .uk-textarea {
     resize: vertical;
  }

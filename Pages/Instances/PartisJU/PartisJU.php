@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-        <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Instances politiques</title>
@@ -37,21 +37,21 @@
     <body>
         <header>
             <div class="navbar-normal">
-                <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
         <main>
             <section style="padding: 2%">
-                <h1 class="uk-heading-large">Parlement jurassien</h1>
+                <h1 class="uk-heading-large">Partis politiques jurassiens</h1>
                 <hr>
                 <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="<?php echo $PHPParlementJU20212025 ?>">
+                            <a href="<?php echo $PHPpartisJU20212025 ?>">
                                 <div class="uk-card-body">
                                         <div class="uk-width-expand">
                                             <h3 class="uk-card-title uk-margin-remove-bottom montserrat
@@ -60,10 +60,10 @@
                                 </div>
                             </a>
                         </div>      
-                    </div>
+                    </div> 
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
-                            <a href="<?php echo $PHPParlementJU20162020 ?>">
+                            <a href="<?php echo $PHPpartisJU20162020 ?>">
                                 <div class="uk-card-body">
                                         <div class="uk-width-expand">
                                             <h3 class="uk-card-title uk-margin-remove-bottom montserrat
@@ -73,14 +73,14 @@
                             </a>
                         </div>      
                     </div>
-                                
+                               
                 </div> 
             </section>
         </main>
     </body>
     <footer>
         <div class="footer">
-            <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </html>

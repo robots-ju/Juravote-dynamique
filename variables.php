@@ -165,11 +165,11 @@
     $AlainSchweingruber = "/IMG/Personnalites/ParlementJU/2016_2020/AlainSchweingruber.png";
     $AmiLievre = "/IMG/Personnalites/ParlementJU/2016_2020/AmiLievre.png";
     $AndreHenzelin = "/IMG/Personnalites/ParlementJU/2016_2020/AndreHenzelin.png";
-    $AnneFroidevaux = "/IMG/Personnalites/ParlementJU/2016_2020/AnneFroidevaux.png";
+    $AnneFroidevaux = "/IMG/Personnalites/ParlementJU/2016_2020/AnneFroidevaux.jpg";
     $AnneRoy = "/IMG/Personnalites/ParlementJU/2016_2020/AnneRoy.png";
     $AnselmeVoirol = "/IMG/Personnalites/ParlementJU/2016_2020/AnselmeVoirol.png";
     $BaptisteLaville = "/IMG/Personnalites/ParlementJU/2016_2020/BaptisteLaville.png";
-    $BernardVarin = "/IMG/Personnalites/ParlementJU/2016_2020/BernardVarin.png";
+    $BernardVarin = "/IMG/Personnalites/ParlementJU/2016_2020/BernardVarin.jpg";
     $BrigitteFavre = "/IMG/Personnalites/ParlementJU/2016_2020/BrigitteFavre.png";
     $ChristianSpring = "/IMG/Personnalites/ParlementJU/2016_2020/ChristianSpring.png";
     $ClaudeGerber = "/IMG/Personnalites/ParlementJU/2016_2020/ClaudeGerber.png";
@@ -213,11 +213,88 @@
     $RemyMeury = "/IMG/Personnalites/ParlementJU/2016_2020/RemyMeury.png";
     $RomainSchaer = "/IMG/Personnalites/ParlementJU/2016_2020/RomainSchaer.png";
     $StephaneBrosy = "/IMG/Personnalites/ParlementJU/2016_2020/StephaneBrosy.png";
-    $StephaneTheurillat = "/IMG/Personnalites/ParlementJU/2016_2020/StephaneTheurillat.png";
+    $StephaneTheurillat = "/IMG/Personnalites/ParlementJU/2016_2020/StephaneTheurillat.jpg";
     $SuzanneMaitre = "/IMG/Personnalites/ParlementJU/2016_2020/SuzanneMaitre.png";
     $ThomasSchaffter = "/IMG/Personnalites/ParlementJU/2016_2020/ThomasSchaffter.png";
     $VincentHennin = "/IMG/Personnalites/ParlementJU/2016_2020/VincentHennin.png";
     $YvesGigon = "/IMG/Personnalites/ParlementJU/2016_2020/YvesGigon.png";
+
+    //ParlementJU2021_2025
+        //PDC
+        $AnneFroidevaux21 = "/IMG/Personnalites/ParlementJU/2016_2020/AnneFroidevaux.jpg";
+        $VincentEschmann21 = "#";
+        $FrançoisMonin21 = "#";
+        $BorisBeuret21 = "#";
+        $SergeBeuret21 = "#";
+        $OlivierGoffinet21 = "#";
+        $AmélieBrahier21 = "#";
+        $BernardVarin21 = "/IMG/Personnalites/ParlementJU/2021_2025/BernardVarin.jpg";
+        $StéphaneBabey21 = "#";
+        $GauthierCorbat21 = "#";
+        $MarcelMeyer21 = "#";
+        $StephaneTheurillat21 = "/IMG/Personnalites/ParlementJU/2021_2025/StephaneTheurillat.jpg";
+        $MathieuCerf21 = "#";
+        $BernardStuder21 = "#";
+        $JosianeSudan21 = "/IMG/Personnalites/ParlementJU/2021_2025/JosianeSudan.jpg";
+
+        //PS
+        $RaphaelCiocchi21 = "/IMG/Personnalites/ParlementJU/2021_2025/RaphaelCiocchi.jpg";
+        $PierreAndreComte21 = "/IMG/Personnalites/ParlementJU/2021_2025/Pierre-AndreComte.jpg";
+        $FabriceMacquat21 = "#";
+        $LoicDobler21 = "/IMG/Personnalites/ParlementJU/2021_2025/LoicDobler.jpg";
+        $LeilaHanini21 = "#";
+        $NicolasGirard21 = "/IMG/Personnalites/ParlementJU/2021_2025/NicolasGirard.jpg";
+        $KatiaLehmann21 = "/IMG/Personnalites/ParlementJU/2021_2025/KatiaLehmann.jpg";
+        $GaelleFrossard = "#";
+        $PatrickCerf21 = "#";
+        $NicolasMaitre21 = "/IMG/Personnalites/ParlementJU/2021_2025/NicolasMaitre.jpg";
+        $ClaudeSchluchter21 = "/IMG/Personnalites/ParlementJU/2021_2025/ClaudeSchluchter.jpg";
+        $FlorenceChaignat21 = "#";
+        $JelicaAubryJanketic21 = "#";
+
+        //PLR
+        $YannRufer21 = "#";
+        $MichelPeriat21 = "#";
+        $ErnestGerber21 = "/IMG/Personnalites/ParlementJU/2021_2025/ErnestGerber.jpg";
+        $AndreHenzelin21 = "/IMG/Personnalites/ParlementJU/2021_2025/AndreHenzelin.jpg";
+        $PierreParietti21 = "/IMG/Personnalites/ParlementJU/2021_2025/PierreParietti.jpg";
+        $EdgarSauser21 = "/IMG/Personnalites/ParlementJU/2021_2025/EdgarSauser.jpg";
+        $AlainSchweingruber21 = "/IMG/Personnalites/ParlementJU/2021_2025/AlainSchweingruber.jpg";
+        $GabrielVoirol21 = "/IMG/Personnalites/ParlementJU/2021_2025/GabrielVoirol.jpg";
+
+        //UDC
+        $BrigitteFavre21 = "/IMG/Personnalites/ParlementJU/2021_2025/BrigitteFavre.jpg";
+        $AlainKoller21 = "/IMG/Personnalites/ParlementJU/2021_2025/AlainKoller.jpg";
+        $LionelMontavon21 = "/IMG/Personnalites/ParlementJU/2021_2025/LionelMontavon.jpg";
+        $PhilippeRottet21 = "/IMG/Personnalites/ParlementJU/2021_2025/PhilippeRottet.jpg";
+        $RomainSchaer21 = "/IMG/Personnalites/ParlementJU/2021_2025/RomainSchaer.jpg";
+        $DidierSpies21 = "/IMG/Personnalites/ParlementJU/2021_2025/DidierSpies.jpg";
+        $YvesGigon21 = "/IMG/Personnalites/ParlementJU/2021_2025/YvesGigon.jpg";
+
+        //PCSI
+        $GeraldineBeuchat21 = "/IMG/Personnalites/ParlementJU/2021_2025/GeraldineBeuchat.jpg";
+        $BlaiseSchull21 = "#";
+        $QuentinHaas21 = "/IMG/Personnalites/ParlementJU/2021_2025/QuentinHaas.jpg";
+        $VincentHennin21 = "/IMG/Personnalites/ParlementJU/2021_2025/VincentHennin.jpg";
+        $PatrickChapuis21 = "#";
+        $VincentWermeille21 = "#";
+
+        //VERTS
+        $IvanGodat21 = "/IMG/Personnalites/ParlementJU/2021_2025/IvanGodat.jpg";
+        $BaptisteLaville21 = "/IMG/Personnalites/ParlementJU/2021_2025/BaptisteLaville.jpg";
+        $MagaliRohner21 = "/IMG/Personnalites/ParlementJU/2021_2025/MagaliRohner.jpg";
+        $CélineRobertCharrueLinder21 = "#";
+        $AudreyVoutat21 = "#";
+        $PaulineGodat21 = "#";
+        $PhilippeBassin21 = "#";
+
+        //PVL
+        $EmilieMoreau21 = "#";
+        $AlainBeuret21 = "#";
+
+        //CSPOP
+        $ChristopheSchaffter21 = "#";
+        $RemyMeury21 = "/IMG/Personnalites/ParlementJU/2021_2025/RemyMeury.jpg";
 
     //ParlementCH2020_2023
     $CharlesJuillard = "/IMG/Personnalites/ParlementCH/2020_2023/CharlesJuillard.jpg";
@@ -346,7 +423,9 @@
         $PHPParlementJU20212025 = "/Pages/Instances/ParlementJU/2021_2025/parlementJU.php";
 
     $PHPpartisCH = "/Pages/Instances/PartisCH/2020_2023/PartisCH.php";
-    $PHPpartisJU = "/Pages/Instances/PartisJU/2016_2020/PartisJU.php"; 
+    $PHPpartisJU = "/Pages/Instances/PartisJU/PartisJU.php"; 
+        $PHPpartisJU20162020 = "/Pages/Instances/PartisJU/2016_2020/PartisJU.php"; 
+        $PHPpartisJU20212025 = "/Pages/Instances/PartisJU/2021_2025/PartisJU.php";
     $PHPpartisCO = "/Pages/Instances/PartisCO/2019_2023/PartisCO.php"; 
     
     $PHPresultats = "/Pages/Resultats/resultats.php";
@@ -545,6 +624,7 @@
             $siteUDCJ = "http://www.udc-ju.ch/fr/";
             $siteVertsJ = "https://verts-jura.ch";
             $siteCSPOPJ = "http://www.cspop.ch/";  
+            $sitePVL = "https://ju.vertliberaux.ch/";
 
 
 //INCLUDES

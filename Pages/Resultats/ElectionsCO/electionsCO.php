@@ -56,7 +56,8 @@
                 <ul>
                     <li><b>Courtételle (29 juin 2020)</b></li>
                     <li><b>Lajoux (05 juillet 2020)</b></li>   
-                    <li><b>Châtillon (24 août 2020)</b></li>                                     
+                    <li><b>Châtillon (24 août 2020)</b></li>           
+                    <li><b>Mervelier (26 octobre 2020)</b></li>                           
                 </ul>
         </div>
         <div class="conteneur-cartes">
@@ -82,17 +83,17 @@
                                     <ul class="uk-nav-sub">
                                         <!--<li><a href="#">Boécourt</a></li>
                                         <li><a href="#">Bourrignon</a></li>-->
-                                        <li><a href="<?php echo $PHPresultatsChatillon?>">Châtillon</a></li>
+                                        <li><a href="<?php echo $PHPresultatsChatillon ?>">Châtillon</a></li>
                                         <!--<li><a href="#">Courchapoix</a></li>
                                         <li><a href="#">Courrendlin</a></li>
                                         <li><a href="#">Courroux</a></li>-->
-                                        <li><a href="<?php echo $PHPresultatsCourtetelle?>">Courtételle</a></li>
+                                        <li><a href="<?php echo $PHPresultatsCourtetelle ?>">Courtételle</a></li>
                                         <!--<li><a href="#">Delémont</a></li>
                                         <li><a href="#">Develier</a></li>
                                         <li><a href="#">Ederswiler</a></li>
-                                        <li><a href="#">Haute-Sorne</a></li>
-                                        <li><a href="#">Mervelier</a></li>
-                                        <li><a href="#">Mettembert</a></li>
+                                        <li><a href="#">Haute-Sorne</a></li>-->
+                                        <li><a href="<?php echo $PHPresultatsMervelier ?>">Mervelier</a></li>
+                                        <!--<li><a href="#">Mettembert</a></li>
                                         <li><a href="#">Movelier</a></li>
                                         <li><a href="#">Pleigne</a></li>
                                         <li><a href="#">Rossemaison</a></li>

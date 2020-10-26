@@ -72,7 +72,7 @@
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >08.11</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Elections Jura (2e tour)</h3>
+                                    <h3 class="uk-card-title">Election Gouvernement jurassien (2e tour)</h3>
                                 </div>                          
                             </div>
                         </a>
@@ -97,77 +97,45 @@
                                     <h3 class="uk-card-title">Votations fédérales</h3>
                                 </div>                          
                             </div>
-                        </a>
-
-                        <a href="#">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >20.12</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Election Mervelier (infos à venir)</h3>
-                                </div>                          
-                            </div>
-                        </a>
+                        </a>                        
                     </div>
 
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       
                         <h3 class="uk-heading-divider uk-text-center">Derniers résultats</h3>
+                        <a href="Pages/Resultats/ElectionsCO/Mervelier/2020-10-25/Conseil.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >26.10 (20.12)</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Mervelier</h3>
+                                </div>                          
+                            </div>
+                        </a>
 
-                        <a href="<?php echo $PHPresultatsElectionsJU ?>">                          
+                        <a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >18.10</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Election cantonales Jura</h3>
+                                    <h3 class="uk-card-title">Election Gouvernement Jura</h3>
                                 </div>                          
                             </div>
                         </a>
 
-                        <a href="<?php echo $PHPresultats20200927Accueil ?>">                          
+                        <a href="<?php echo $PHPresultatParlementJU20201018 ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >27.09</div>
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >18.10</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votations fédérales</h3>
+                                    <h3 class="uk-card-title">Election Parlement Jura</h3>
                                 </div>                          
                             </div>
                         </a>
 
-                        <a href="<?php echo $PHPvotationsDelemont ?>">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >27.09</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation Delémont</h3>
-                                </div>                          
-                            </div>
-                        </a>
-
-                        <a href="<?php echo $PHPresultatsConseilLajoux2020 ?>">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >27.09</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Elections Lajoux</h3>
-                                </div>                          
-                            </div>
-                        </a>
-
-                        <a href="<?php echo $PHPvotationValTerbiAccueil ?>">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >27.09</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation Val-Terbi</h3>
-                                </div>                          
-                            </div>
-                        </a>                       
+                                               
                     </div>                                        
                 </div> 
                 <div style="padding-left: 2%; padding-right: 2%;"> 

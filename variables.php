@@ -449,6 +449,9 @@
         $PHPresultatsConseilLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-09-27/Conseil.php";
         $PHPdescriptionConseilLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-09-27/Conseil_description.php";
 
+        $PHPresultatsMervelier = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Mervelier/Mervelier.php";
+        $PHPresultatsMervelier20201026 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Mervelier/2020-10-25/Conseil.php";
+
     $PHPresultatsVotationsCH = "/Juravote-dynamique/Pages/Resultats/VotationsCH/votationsCH.php";
         $PHPresultats20200209Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php";
             $PHPvotationsCHDiscrimination = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/Discrimination.php";

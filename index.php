@@ -76,18 +76,7 @@
                                 </div>                          
                             </div>
                         </a>
-
-                        <a href="<?php echo $siteBasseAllaine ?>">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.11</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Assemblée communale Basse-Allaine</h3>
-                                </div>                          
-                            </div>
-                        </a>
-
+                        
                         <a href="<?php echo $PHPvotationsCHaccueil ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">

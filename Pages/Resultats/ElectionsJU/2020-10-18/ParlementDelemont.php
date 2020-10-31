@@ -209,6 +209,7 @@
                             series.dataFields.categoryY = "candidat";
                             series.name = "Suffrages";
                             series.columns.template.propertyFields.fill = "color";
+                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
 
                             chartECGouvernement.data = PLRJCandidats;
                         }) ;
@@ -255,6 +256,7 @@
                             series.dataFields.categoryY = "candidat";
                             series.name = "Suffrages";
                             series.columns.template.propertyFields.fill = "color";
+                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
 
                             chartECGouvernement2.data = PSJCandidats;
 
@@ -300,6 +302,7 @@
                             series.dataFields.categoryY = "candidat";
                             series.name = "Suffrages";
                             series.columns.template.propertyFields.fill = "color";
+                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
 
                             chartECGouvernement3.data = PDCCandidats;
                         });
@@ -345,6 +348,7 @@
                             series.dataFields.categoryY = "candidat";
                             series.name = "Suffrages";
                             series.columns.template.propertyFields.fill = "color";
+                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
 
                             chartECGouvernement4.data = CSPOPCandidats;
                         });
@@ -389,6 +393,7 @@
                             series.dataFields.categoryY = "candidat";
                             series.name = "Suffrages";
                             series.columns.template.propertyFields.fill = "color";
+                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
 
                             chartECGouvernement5.data = PEVCandidats;
                         });
@@ -433,6 +438,7 @@
                             series.dataFields.categoryY = "candidat";
                             series.name = "Suffrages";
                             series.columns.template.propertyFields.fill = "color";
+                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
 
                             chartECGouvernement6.data = UDCCandidats;
                         });
@@ -477,6 +483,7 @@
                             series.dataFields.categoryY = "candidat";
                             series.name = "Suffrages";
                             series.columns.template.propertyFields.fill = "color";
+                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
 
                             chartECGouvernement7.data = VertsCandidats;
                         });
@@ -521,6 +528,7 @@
                             series.dataFields.categoryY = "candidat";
                             series.name = "Suffrages";
                             series.columns.template.propertyFields.fill = "color";
+                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
 
                             chartECGouvernement8.data = PCSICandidats;
                         });
@@ -565,6 +573,7 @@
                             series.dataFields.categoryY = "candidat";
                             series.name = "Suffrages";
                             series.columns.template.propertyFields.fill = "color";
+                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
 
                             chartECGouvernement9.data = PVLCandidats;
                         });
@@ -609,6 +618,7 @@
                             series.dataFields.categoryY = "candidat";
                             series.name = "Suffrages";
                             series.columns.template.propertyFields.fill = "color";
+                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
 
                             chartECGouvernement10.data = ABCandidats;
                         });

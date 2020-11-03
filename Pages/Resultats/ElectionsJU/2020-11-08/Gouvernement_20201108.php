@@ -20,6 +20,7 @@
         <script src="<?php echo $jsUikitIconsMin ?>"></script>
         <script src="https://www.amcharts.com/lib/4/core.js"></script>
         <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+        <script src="//cdn.amcharts.com/lib/4/themes/animated.js"></script>
         <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
         <script src="https://www.amcharts.com/lib/4/geodata/switzerlandHigh.js"></script>
         <script src="https://www.amcharts.com/lib/4/maps.js"></script>
@@ -54,7 +55,7 @@
         </header>
 <main>
     <section style="padding: 2%">
-        <h1 class="uk-heading-large">Résultats des élections cantonales du 18 octobre 2020</h1>
+        <h1 class="uk-heading-large">Résultats des élections cantonales du 08 novembre 2020</h1>
         <hr>
         <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
             <div>
@@ -65,15 +66,16 @@
                         </div>
                     </div>
                     <div class="uk-card-body uk-text-justify">
-                        <p><b>Objet : </b>Election au Gouvernement Jurassien (1er tour)</p>
-                        <p><b>Participation : </b>47.49 %</p>
-                        <p><a href="<?php echo $PHPelectionsJUGouvernement1 ?>">Lien vers les présentations des candidats-es</a></p>
-                        <p><b>Résultats par communes : </b></p>                        
-                            <a class="uk-button uk-button-link" href="#modal-container1" uk-toggle>Boécourt</a>
+                        <p><b>Objet : </b>Election au Gouvernement Jurassien (2e tour)</p>
+                        <p><b>Participation : </b>xx.xx %</p>
+                        <p><a href="<?php echo $PHPelectionsJUGouvernement2 ?>">Lien vers les présentations des candidats-es</a></p>
+                        <p><a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">Lien vers les résultats du 1er tour</a></p>
+                        <p><b>Communes qui ont livré les résultats : </b></p>                        
+                            <!--<a class="uk-button uk-button-link" href="#modal-container1" uk-toggle>Boécourt</a>
                             <div id="modal-container1" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Boécourt.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Boécourt.png">
                                 </div>
                             </div>
 
@@ -81,7 +83,7 @@
                             <div id="modal-container2" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Bourrignon.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Bourrignon.png">
                                 </div>
                             </div>
 
@@ -89,7 +91,7 @@
                             <div id="modal-container3" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Châtillon.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Châtillon.png">
                                 </div>
                             </div>
 
@@ -97,7 +99,7 @@
                             <div id="modal-container4" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Courchapoix.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Courchapoix.png">
                                 </div>
                             </div>
 
@@ -105,7 +107,7 @@
                             <div id="modal-container5" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Courrendlin.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Courrendlin.png">
                                 </div>
                             </div>
 
@@ -113,7 +115,7 @@
                             <div id="modal-container6" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Courroux.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Courroux.png">
                                 </div>
                             </div>
 
@@ -121,7 +123,7 @@
                             <div id="modal-container7" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Courtételle.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Courtételle.png">
                                 </div>
                             </div>
 
@@ -129,7 +131,7 @@
                             <div id="modal-container8" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Delémont.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Delémont.png">
                                 </div>
                             </div>
 
@@ -137,7 +139,7 @@
                             <div id="modal-container9" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Develier.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Develier.png">
                                 </div>
                             </div>
 
@@ -145,7 +147,7 @@
                             <div id="modal-container10" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Ederswiler.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Ederswiler.png">
                                 </div>
                             </div>
 
@@ -153,7 +155,7 @@
                             <div id="modal-container11" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Haute-Sorne.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Haute-Sorne.png">
                                 </div>
                             </div>
 
@@ -161,7 +163,7 @@
                             <div id="modal-container12" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Mervelier.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Mervelier.png">
                                 </div>
                             </div>
 
@@ -169,7 +171,7 @@
                             <div id="modal-container13" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Mettembert.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Mettembert.png">
                                 </div>
                             </div>
 
@@ -177,7 +179,7 @@
                             <div id="modal-container14" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Movelier.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Movelier.png">
                                 </div>
                             </div>
 
@@ -185,7 +187,7 @@
                             <div id="modal-container15" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Pleigne.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Pleigne.png">
                                 </div>
                             </div>
 
@@ -193,7 +195,7 @@
                             <div id="modal-container16" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Rossemaison.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Rossemaison.png">
                                 </div>
                             </div>
 
@@ -201,7 +203,7 @@
                             <div id="modal-container17" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Saulcy.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Saulcy.png">
                                 </div>
                             </div>
 
@@ -209,7 +211,7 @@
                             <div id="modal-container18" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Soyhières.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Soyhières.png">
                                 </div>
                             </div>
 
@@ -217,7 +219,7 @@
                             <div id="modal-container19" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Val-Terbi.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Val-Terbi.png">
                                 </div>
                             </div>
 
@@ -226,7 +228,7 @@
                             <div id="modal-container20" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Alle.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Alle.png">
                                 </div>
                             </div>
 
@@ -234,7 +236,7 @@
                             <div id="modal-container21" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/La Baroche.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/La Baroche.png">
                                 </div>
                             </div>
 
@@ -242,7 +244,7 @@
                             <div id="modal-container22" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Basse-Allaine.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Basse-Allaine.png">
                                 </div>
                             </div>
 
@@ -250,7 +252,7 @@
                             <div id="modal-container23" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Beurnevésin.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Beurnevésin.png">
                                 </div>
                             </div>
 
@@ -258,7 +260,7 @@
                             <div id="modal-container24" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Boncourt.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Boncourt.png">
                                 </div>
                             </div>
 
@@ -266,7 +268,7 @@
                             <div id="modal-container25" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Bonfol.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Bonfol.png">
                                 </div>
                             </div>
 
@@ -274,7 +276,7 @@
                             <div id="modal-container25" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Bure.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Bure.png">
                                 </div>
                             </div>
 
@@ -282,7 +284,7 @@
                             <div id="modal-container26" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Clos-du-Doubs.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Clos-du-Doubs.png">
                                 </div>
                             </div>
 
@@ -290,7 +292,7 @@
                             <div id="modal-container27" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Coeuve.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Coeuve.png">
                                 </div>
                             </div>
 
@@ -298,7 +300,7 @@
                             <div id="modal-container28" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Cornol.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Cornol.png">
                                 </div>
                             </div>
 
@@ -306,7 +308,7 @@
                             <div id="modal-container29" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Courchavon.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Courchavon.png">
                                 </div>
                             </div>
 
@@ -314,7 +316,7 @@
                             <div id="modal-container30" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Courgenay.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Courgenay.png">
                                 </div>
                             </div>
 
@@ -322,7 +324,7 @@
                             <div id="modal-container31" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Courtedoux.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Courtedoux.png">
                                 </div>
                             </div>
 
@@ -330,7 +332,7 @@
                             <div id="modal-container32" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Damphreux.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Damphreux.png">
                                 </div>
                             </div>
 
@@ -338,7 +340,7 @@
                             <div id="modal-container33" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Fahy.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Fahy.png">
                                 </div>
                             </div>
 
@@ -346,7 +348,7 @@
                             <div id="modal-container34" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Fontenais.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Fontenais.png">
                                 </div>
                             </div>
 
@@ -354,7 +356,7 @@
                             <div id="modal-container35" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Grandfontaine.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Grandfontaine.png">
                                 </div>
                             </div>
 
@@ -362,7 +364,7 @@
                             <div id="modal-container36" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Haute-Ajoie.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Haute-Ajoie.png">
                                 </div>
                             </div>
 
@@ -370,7 +372,7 @@
                             <div id="modal-container37" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Lugnez.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Lugnez.png">
                                 </div>
                             </div>
 
@@ -378,7 +380,7 @@
                             <div id="modal-container38" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Porrentruy.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Porrentruy.png">
                                 </div>
                             </div>
 
@@ -386,7 +388,7 @@
                             <div id="modal-container39" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Vendlincourt.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Vendlincourt.png">
                                 </div>
                             </div>
 
@@ -395,7 +397,7 @@
                             <div id="modal-container40" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Le Bémont.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Le Bémont.png">
                                 </div>
                             </div>
 
@@ -403,7 +405,7 @@
                             <div id="modal-container41" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Les Bois.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Les Bois.png">
                                 </div>
                             </div>
 
@@ -411,7 +413,7 @@
                             <div id="modal-container42" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Les Breuleux.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Les Breuleux.png">
                                 </div>
                             </div>
 
@@ -419,7 +421,7 @@
                             <div id="modal-container43" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/La Chaux-des-Breuleux.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/La Chaux-des-Breuleux.png">
                                 </div>
                             </div>
 
@@ -427,7 +429,7 @@
                             <div id="modal-container44" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Les Enfers.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Les Enfers.png">
                                 </div>
                             </div>
 
@@ -435,7 +437,7 @@
                             <div id="modal-container45" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Les Genevez.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Les Genevez.png">
                                 </div>
                             </div>
 
@@ -443,7 +445,7 @@
                             <div id="modal-container46" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Lajoux.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Lajoux.png">
                                 </div>
                             </div>
 
@@ -451,7 +453,7 @@
                             <div id="modal-container47" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Montfaucon.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Montfaucon.png">
                                 </div>
                             </div>
 
@@ -459,7 +461,7 @@
                             <div id="modal-container48" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Muriaux.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Muriaux.png">
                                 </div>
                             </div>
 
@@ -467,7 +469,7 @@
                             <div id="modal-container49" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Le Noirmont.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Le Noirmont.png">
                                 </div>
                             </div>
 
@@ -475,7 +477,7 @@
                             <div id="modal-container50" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Saignelégier.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Saignelégier.png">
                                 </div>
                             </div>
 
@@ -483,7 +485,7 @@
                             <div id="modal-container51" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Saint-Brais.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Saint-Brais.png">
                                 </div>
                             </div>
 
@@ -491,9 +493,9 @@
                             <div id="modal-container52" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <img src="../../../../IMG/Elections/JURA_20201018/GVT/Soubey.png">
+                                    <img src="../../../../IMG/Elections/JURA_20200811/Soubey.png">
                                 </div>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -510,44 +512,40 @@
                                 var chartECGouvernement = am4core.create("chartECGouvernement", am4charts.XYChart);
 
                                 chartECGouvernement.data = [{
-                                    "candidat": "Alain Beuret",
-                                    "Suffrages": 1977,
+                                    "candidat": "C. Linder",
+                                    "Suffrages": 1,
+                                    "Elu": "Non élue",
+                                    "color": am4core.color("#ff4242")
                                 }, {
-                                    "candidat": "Francisco Pires",
-                                    "Suffrages": 2232,
-                                }, {
-                                    "candidat": "Emilie Moreau",
-                                    "Suffrages": 2705,
+                                    "candidat": "D. Eray",
+                                    "Suffrages": 1,
+                                    "Elu": "Non élu",
+                                    "color": am4core.color("#ff4242")
                                 }, { 
-                                    "candidat": "Brigitte Favre",
-                                    "Suffrages": 2711,
-                                }, {
-                                    "candidat": "Didier Spies",
-                                    "Suffrages": 2898,
-                                }, {
-                                    "candidat": "Vincent Schmitt",
-                                    "Suffrages": 3152,
-                                }, {
-                                    "candidat": "Céline R.-C. Linder",
-                                    "Suffrages": 3662,
-                                }, {
-                                    "candidat": "David Eray",
-                                    "Suffrages": 6987,
+                                    "candidat": "S. Babey",
+                                    "Suffrages": 1,
+                                    "Elu": "Elu",
+                                    "color": am4core.color("#89ff6a")
                                 }, { 
-                                    "candidat": "Stéphane Babey",
-                                    "Suffrages": 7721,
-                                }, { 
-                                    "candidat": "Jacques Gerber",
-                                    "Suffrages": 11008,
+                                    "candidat": "J. Gerber",
+                                    "Suffrages": 1,
+                                    "Elu": "Elu",
+                                    "color": am4core.color("#89ff6a")
                                 }, {
-                                    "candidat": "Rosalie Beuret Siess",
-                                    "Suffrages": 11135,
+                                    "candidat": "R. Beuret",
+                                    "Suffrages": 1,
+                                    "Elu": "Elue",
+                                    "color": am4core.color("#89ff6a")
                                 }, {
-                                    "candidat": "Nathalie Barthoulot",
-                                    "Suffrages": 11401,
+                                    "candidat": "N. Barthoulot",
+                                    "Suffrages": 1,
+                                    "Elu": "Elue",
+                                    "color": am4core.color("#89ff6a")
                                 }, {
-                                    "candidat": "Martial Courtet",
-                                    "Suffrages": 11516,
+                                    "candidat": "M. Courtet",
+                                    "Suffrages": 1,
+                                    "Elu": "Elu",
+                                    "color": am4core.color("#89ff6a")
                                 }];
 
                                 // Create axes
@@ -559,8 +557,6 @@
 
                                 var valueAxis = chartECGouvernement.xAxes.push(new am4charts.ValueAxis());
                                 valueAxis.title.text = "Suffrages";
-                                valueAxis.min = 0;
-                                valueAxis.max = 12000;
                                 
 
                                 // Create series
@@ -568,7 +564,8 @@
                                 series.dataFields.valueX = "Suffrages";
                                 series.dataFields.categoryY = "candidat";
                                 series.name = "Suffrages";
-                                series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
+                                series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages, {Elu}";
+                                series.columns.template.propertyFields.fill = "color";
                             </script>
                         </div>
                     </div>

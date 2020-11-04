@@ -26,6 +26,7 @@
         //Gouvernement
         $RobertCelineGVTGrand = "/IMG/Personnalites/ElectionsJU/Gouvernement/VERTS_RobertCelineGRAND.jpg";
         $RobertCelineGVT = "/IMG/Personnalites/ElectionsJU/Gouvernement/VERTS_RobertCeline.jpg";
+        $StephaneBabey = "/IMG/Personnalites/ElectuonsJU/Gouvernement/StephaneBabey.jpg";
 
         //ParlementDelemont
             //CSPOP

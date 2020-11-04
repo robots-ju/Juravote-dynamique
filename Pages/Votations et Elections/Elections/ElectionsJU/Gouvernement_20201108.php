@@ -134,7 +134,7 @@
                                 <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                     <div class="uk-width-auto uk-first-column">
                                         <img class="uk-border-circle photo-personne"
-                                            src="<?php echo $inconnu ?>"
+                                            src="<?php echo $SetphaneBabey ?>"
                                             alt="Stephane Babey">
                                     </div>
                                 </div>

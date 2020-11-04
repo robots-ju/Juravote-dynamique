@@ -546,13 +546,14 @@
                                     "candidat": "Nathalie Barthoulot",
                                     "Suffrages": 11401,
                                 }, {
-                                "candidat": "Martial Courtet",
-                                "Suffrages": 11516,
+                                    "candidat": "Martial Courtet",
+                                    "Suffrages": 11516,
                                 }];
 
                                 // Create axes
                                 var categoryAxis = chartECGouvernement.yAxes.push(new am4charts.CategoryAxis());
                                 categoryAxis.dataFields.category = "candidat";
+                                categoryAxis.title.text = "Candidats";
                                 categoryAxis.renderer.minGridDistance = 4;
                                 
 
@@ -565,6 +566,7 @@
                                 series.dataFields.valueX = "Suffrages";
                                 series.dataFields.categoryY = "candidat";
                                 series.name = "Suffrages";
+                                series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
                             </script>
                         </div>
                     </div>

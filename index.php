@@ -65,6 +65,27 @@
                     
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s uk-flex-first@s">   
                         <h3 class="uk-heading-divider uk-text-center">Prochains événements</h3> 
+                        <a href="<?php echo $siteHauteSorne ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >16.11</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Conseil général Haute-Sorne</h3>
+                                </div>                          
+                            </div>
+                        </a>  
+                        <a href="<?php echo $sitePorrentruy ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >19.11</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Conseil de ville Porrentruy</h3>
+                                </div>                          
+                            </div>
+                        </a>
+                        
                         <a href="<?php echo $PHPvotationsCHaccueil ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -75,7 +96,8 @@
                                 </div>                          
                             </div>
                         </a>  
-                        <h3 style="padding-top: 5%" class="uk-heading-divider uk-text-center">Evénements 2021 (infos à venir)</h3>   
+                        
+                        <!--<h3 style="padding-top: 5%" class="uk-heading-divider uk-text-center">Evénements 2021 (infos à venir)</h3>   
                         <a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -89,13 +111,23 @@
                         <a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Delémont</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+                        <a href="<?php echo $lien ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.03</div>
                                 </div>
                                 <div class="uk-card-body">
                                     <h3 class="uk-card-title">Votation de Moutier</h3>
                                 </div>                          
                             </div>
-                        </a>                     
+                        </a>-->                  
                     </div>
 
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       

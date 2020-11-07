@@ -49,11 +49,11 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Résultats des votations cantonales (Jura)</h1>
         <hr>
-        <h3 class="uk-text-center">Les résultats des votations cantonales d'avant 2020 seront disponibles prochainement !</h3>
-        <!--<div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+        
+        <div class="uk-child-width-1-1@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="./2019-10-20/vcantonales.html">
+                    <a href="2019-10-20/vcantonales.php">
                         <div class="uk-card-body">
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Votation cantonale du 20 octobre 2019</h3>
@@ -62,7 +62,8 @@
                     </a>
                 </div>      
             </div>
-            <div>
+            <h3 class="uk-text-center">Les résultats des votations cantonales d'avant 2019 seront disponibles prochainement !</h3>
+            <!--<div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="VotationsJU/2018-06-10/vcantonales.html">
                         <div class="uk-card-body">

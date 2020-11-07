@@ -92,7 +92,7 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <iframe title="Modification de la loi sur les allocations pour perte de gain (Copy)" aria-label="map" id="datawrapper-chart-uftv3" src="https://datawrapper.dwcdn.net/uftv3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="446"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Loi fédérale sur la chasse et la protection des mammifères et oiseaux sauvages (Loi sur la chasse, LChP)_SUISSE" aria-label="map" id="datawrapper-chart-uftv3" src="https://datawrapper.dwcdn.net/uftv3/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="446"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>
@@ -105,7 +105,7 @@
                         </div>
                     </div>
                     <div style="padding-top: 0.5%" class="uk-card-body">
-                        <iframe title="Modification de la loi sur les allocations pour perte de gain (Jura) (Copy)" aria-label="map" id="datawrapper-chart-CI9Z8" src="https://datawrapper.dwcdn.net/CI9Z8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Loi fédérale sur la chasse et la protection des mammifères et oiseaux sauvages (Loi sur la chasse, LChP) - JURA" aria-label="map" id="datawrapper-chart-CI9Z8" src="https://datawrapper.dwcdn.net/CI9Z8/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>

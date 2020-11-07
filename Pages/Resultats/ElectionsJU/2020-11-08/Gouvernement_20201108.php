@@ -67,7 +67,7 @@
                     </div>
                     <div class="uk-card-body uk-text-justify">
                         <p><b>Objet : </b>Election au Gouvernement Jurassien (2e tour)</p>
-                        <p><b>Participation : </b>xx.xx %</p>
+                        <p><b>Participation : </b>Non disponible</p>
                         <p><a href="<?php echo $PHPelectionsJUGouvernement2 ?>">Lien vers les présentations des candidats-es</a></p>
                         <p><a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">Lien vers les résultats du 1er tour</a></p>
                         <p><b>Communes qui ont livré les résultats : </b></p>                        
@@ -507,66 +507,9 @@
                             </div>
                         </div>
                         <div class="uk-card-body">
-                            <div class="uk-align-right" id="chartECGouvernement" style="width: 100%; height: 500px;"></div>
-                            <script>
-                                var chartECGouvernement = am4core.create("chartECGouvernement", am4charts.XYChart);
-
-                                chartECGouvernement.data = [{
-                                    "candidat": "C. Linder",
-                                    "Suffrages": 1,
-                                    "Elu": "Non élue",
-                                    "color": am4core.color("#ff4242")
-                                }, {
-                                    "candidat": "D. Eray",
-                                    "Suffrages": 1,
-                                    "Elu": "Non élu",
-                                    "color": am4core.color("#ff4242")
-                                }, { 
-                                    "candidat": "S. Babey",
-                                    "Suffrages": 1,
-                                    "Elu": "Elu",
-                                    "color": am4core.color("#89ff6a")
-                                }, { 
-                                    "candidat": "J. Gerber",
-                                    "Suffrages": 1,
-                                    "Elu": "Elu",
-                                    "color": am4core.color("#89ff6a")
-                                }, {
-                                    "candidat": "R. Beuret",
-                                    "Suffrages": 1,
-                                    "Elu": "Elue",
-                                    "color": am4core.color("#89ff6a")
-                                }, {
-                                    "candidat": "N. Barthoulot",
-                                    "Suffrages": 1,
-                                    "Elu": "Elue",
-                                    "color": am4core.color("#89ff6a")
-                                }, {
-                                    "candidat": "M. Courtet",
-                                    "Suffrages": 1,
-                                    "Elu": "Elu",
-                                    "color": am4core.color("#89ff6a")
-                                }];
-
-                                // Create axes
-                                var categoryAxis = chartECGouvernement.yAxes.push(new am4charts.CategoryAxis());
-                                categoryAxis.dataFields.category = "candidat";
-                                categoryAxis.title.text = "Candidats";
-                                categoryAxis.renderer.minGridDistance = 4;
-                                
-
-                                var valueAxis = chartECGouvernement.xAxes.push(new am4charts.ValueAxis());
-                                valueAxis.title.text = "Suffrages";
-                                
-
-                                // Create series
-                                var series = chartECGouvernement.series.push(new am4charts.ColumnSeries());
-                                series.dataFields.valueX = "Suffrages";
-                                series.dataFields.categoryY = "candidat";
-                                series.name = "Suffrages";
-                                series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages, {Elu}";
-                                series.columns.template.propertyFields.fill = "color";
-                            </script>
+                        <h3>Les premiers résultats seront disponibles dès 13:00 !</h3>
+                            <!--<iframe title="Election au Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-wgEEe" src="https://datawrapper.dwcdn.net/wgEEe/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                            </script>-->
                         </div>
                     </div>
                 </div>            

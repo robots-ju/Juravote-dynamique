@@ -83,53 +83,8 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        
-                        <div id="chartdiv" style="width: 100%; height: 250px;"></div>
-                    
-                        <script>
-                            // Create chart instance
-                            var chart = am4core.create("chartdiv", am4charts.PieChart);
-
-                            // Add data
-                            chart.data = [{
-                            "parti": "PLRJ",
-                            "suffrages_liste": 4,
-                            "color": am4core.color("#0066ff")
-                            }, {
-                            "parti": "PSJ",
-                            "suffrages_liste": 3,
-                            "color": am4core.color("#fc0401")
-                            }, {
-                            "parti": "PDC",
-                            "suffrages_liste": 7,
-                            "color": am4core.color("#ff9e00")
-                            }, {                            
-                            "parti": "UDC",
-                            "suffrages_liste": 2,
-                            "color": am4core.color("#85ff00")
-                            },{
-                            "parti": "VERTS",
-                            "suffrages_liste": 2,
-                            "color": am4core.color("#00fa01")
-                            },{
-                            "parti": "PCSI",
-                            "suffrages_liste": 1,
-                            "color": am4core.color("#14b0b8")
-                            },{
-                            "parti": "PVL",
-                            "suffrages_liste": 1,
-                            "color": am4core.color("#00bc00")                            
-                            }];
-
-                            // Add and configure Series
-                            var pieSeries = chart.series.push(new am4charts.PieSeries());
-                            pieSeries.dataFields.value = "suffrages_liste";
-                            pieSeries.dataFields.category = "parti";
-                            pieSeries.slices.template.propertyFields.fill = "color";
-
-                            
+                        <iframe title="Parlement jurassien (district de Porrentruy)" aria-label="chart" id="datawrapper-chart-Qsvc9" src="https://datawrapper.dwcdn.net/Qsvc9/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
-                        
                     </div>
                 </div>
             </div>

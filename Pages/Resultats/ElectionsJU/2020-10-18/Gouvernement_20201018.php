@@ -505,69 +505,8 @@
                             </div>
                         </div>
                         <div class="uk-card-body">
-                            <div class="uk-align-right" id="chartECGouvernement" style="width: 100%; height: 500px;"></div>
-                            <script>
-                                var chartECGouvernement = am4core.create("chartECGouvernement", am4charts.XYChart);
-
-                                chartECGouvernement.data = [{
-                                    "candidat": "Alain Beuret",
-                                    "Suffrages": 1977,
-                                }, {
-                                    "candidat": "Francisco Pires",
-                                    "Suffrages": 2232,
-                                }, {
-                                    "candidat": "Emilie Moreau",
-                                    "Suffrages": 2705,
-                                }, { 
-                                    "candidat": "Brigitte Favre",
-                                    "Suffrages": 2711,
-                                }, {
-                                    "candidat": "Didier Spies",
-                                    "Suffrages": 2898,
-                                }, {
-                                    "candidat": "Vincent Schmitt",
-                                    "Suffrages": 3152,
-                                }, {
-                                    "candidat": "Céline R.-C. Linder",
-                                    "Suffrages": 3662,
-                                }, {
-                                    "candidat": "David Eray",
-                                    "Suffrages": 6987,
-                                }, { 
-                                    "candidat": "Stéphane Babey",
-                                    "Suffrages": 7721,
-                                }, { 
-                                    "candidat": "Jacques Gerber",
-                                    "Suffrages": 11008,
-                                }, {
-                                    "candidat": "Rosalie Beuret Siess",
-                                    "Suffrages": 11135,
-                                }, {
-                                    "candidat": "Nathalie Barthoulot",
-                                    "Suffrages": 11401,
-                                }, {
-                                    "candidat": "Martial Courtet",
-                                    "Suffrages": 11516,
-                                }];
-
-                                // Create axes
-                                var categoryAxis = chartECGouvernement.yAxes.push(new am4charts.CategoryAxis());
-                                categoryAxis.dataFields.category = "candidat";
-                                categoryAxis.title.text = "Candidats";
-                                categoryAxis.renderer.minGridDistance = 4;
-                                
-
-                                var valueAxis = chartECGouvernement.xAxes.push(new am4charts.ValueAxis());
-                                valueAxis.title.text = "Suffrages";
-                                
-
-                                // Create series
-                                var series = chartECGouvernement.series.push(new am4charts.ColumnSeries());
-                                series.dataFields.valueX = "Suffrages";
-                                series.dataFields.categoryY = "candidat";
-                                series.name = "Suffrages";
-                                series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
-                            </script>
+                            <iframe title="Election au Gouvernement jurassien (1er tour)" aria-label="Histogramme" id="datawrapper-chart-skTwO" src="https://datawrapper.dwcdn.net/skTwO/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="378"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                            </script>       
                         </div>
                     </div>
                 </div>            

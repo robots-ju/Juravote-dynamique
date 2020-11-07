@@ -436,6 +436,7 @@
         $PHPresultatElectionsJU20201018 = "/Pages/Resultats/ElectionsJU/2020-10-18/Accueil.php";
         $PHPresultatGouvernementJU20201018 = "/Pages/Resultats/ElectionsJU/2020-10-18/Gouvernement_20201018.php";
         $PHPresultatParlementJU20201018 = "/Pages/Resultats/ElectionsJU/2020-10-18/Parlement_20201018.php";
+    $PHPresultatGouvernementJU20201108 = "/Pages/Resultats/ElectionsJU/2020-11-08/Gouvernement_20201108.php";
         
     $PHPresultatsElectionsCO = "/Pages/Resultats/ElectionsCO/electionsCO.php";
         $PHPresultatsChatillon = "/Pages/Resultats/ElectionsCO/Chatillon/Chatillon.php";
@@ -454,15 +455,16 @@
         $PHPresultatsMervelier20201026 = "/Pages/Resultats/ElectionsCO/Mervelier/2020-10-25/Conseil.php";
 
     $PHPresultatsVotationsCH = "/Pages/Resultats/VotationsCH/votationsCH.php";
-        $PHPresultats20200209Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php";
-            $PHPvotationsCHDiscrimination = "/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/Discrimination.php";
-            $PHPvotationsCHLogements = "/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/Logements.php";
         $PHPresultats20200927Accueil= "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
             $PHPvotationsCHAvions = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_AvionsCombat.php";
             $PHPvotationsCHChasse = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_Chasse.php";
             $PHPvotationsCHCongePaternite = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_CongePaternite.php";
             $PHPvotationsCHImpotDirect = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_ImpotDirect.php";
-            $PHPvotationsCHLimitation = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_InitiativeLimitation.php";
+            $PHPvotationsCHLimitation = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_InitiativeLimitation.php";    
+        $PHPresultats20200209Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php";
+            $PHPvotationsCHDiscrimination = "/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/Discrimination.php";
+            $PHPvotationsCHLogements = "/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/Logements.php";
+        
         $PHPresultats20190519Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2019-05-19/vfédérales.php";
             $PHPvotationsCHArmes = "/Pages/Resultats/VotationsCH/2020-2011/2019-05-19/Armes.php";
             $PHPvotationsCHRFFA = "/Pages/Resultats/VotationsCH/2020-2011/2019-05-19/RFFA.php";

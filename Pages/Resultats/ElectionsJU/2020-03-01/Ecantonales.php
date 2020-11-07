@@ -78,34 +78,7 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <div class="uk-align-right" id="chartECGouvernement" style="width: 100%; height: 300px;"></div>
-                        <script>
-                            var chartECGouvernement = am4core.create("chartECGouvernement", am4charts.XYChart);
-
-                            chartECGouvernement.data = [{
-                            "candidat": "Rosalie Beuret Siess",
-                            "Suffrages": 10486,
-                            }, {
-                            "candidat": "Anne Seydoux-Christe",
-                            "Suffrages": 8491,
-                            }, {
-                            "candidat": "Romain Schaer",
-                            "Suffrages": 3379,
-                            }];
-
-                            // Create axes
-                            var categoryAxis = chartECGouvernement.xAxes.push(new am4charts.CategoryAxis());
-                            categoryAxis.dataFields.category = "candidat";
-                            categoryAxis.renderer.minGridDistance = 40;
-
-                            var valueAxis = chartECGouvernement.yAxes.push(new am4charts.ValueAxis());
-                            valueAxis.title.text = "Suffrages";
-
-                            // Create series
-                            var series = chartECGouvernement.series.push(new am4charts.ColumnSeries());
-                            series.dataFields.valueY = "Suffrages";
-                            series.dataFields.categoryX = "candidat";
-                            series.name = "Suffrages";
+                        <iframe title="Election complémentaire au Gouvernement" aria-label="Histogramme" id="datawrapper-chart-7a3h7" src="https://datawrapper.dwcdn.net/7a3h7/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="182"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>

@@ -53,25 +53,7 @@
             <p>Les Communes de Courroux et de Beurnevésin n'ont pas souhaité collaborer avec nous. Aucune information
             ne sera donc disponible sur les votations de ces communes.</p>
         </div> 
-        <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>            
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="<?php echo $PHPelectionsJUGouvernement2 ?>">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $pouvoirCantonal ?>"
-                                        alt="drapeau jura">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Elections - Jura - 08 novembre 2020</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            
+        <div class="uk-child-width-1-1@m uk-grid-small uk-grid-match" uk-grid>            
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="<?php echo $PHPvotationsCHaccueil ?>">

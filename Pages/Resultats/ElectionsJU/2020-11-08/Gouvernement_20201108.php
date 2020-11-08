@@ -67,7 +67,7 @@
                     </div>
                     <div class="uk-card-body uk-text-justify">
                         <p><b>Objet : </b>Election au Gouvernement Jurassien (2e tour)</p>
-                        <p><b>Participation : </b>46.58 %</p>
+                        <p><b>Participation : </b>47.60 %</p>
                         <p><a href="<?php echo $PHPelectionsJUGouvernement2 ?>">Lien vers les présentations des candidats-es</a></p>
                         <p><a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">Lien vers les résultats du 1er tour</a></p>
                         <p><b>Communes qui ont livré les résultats :</b></p>                        

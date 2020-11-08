@@ -48,7 +48,7 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Résultats des élections cantonales (JU)</h1>
         <hr>
-        <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="<?php echo $PHPresultatGouvernementJU20201108 ?>">

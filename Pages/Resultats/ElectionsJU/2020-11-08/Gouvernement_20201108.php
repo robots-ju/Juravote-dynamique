@@ -279,14 +279,14 @@
                                 </div>
                             </div>
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container24" uk-toggle>Boncourt</a>
+                            <a class="uk-button uk-button-link" href="#modal-container24" uk-toggle>Boncourt</a>
                             <div id="modal-container24" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Boncourt - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-32NgF" src="https://datawrapper.dwcdn.net/32NgF/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container25" uk-toggle>Bonfol</a>
                             <div id="modal-container25" class="uk-modal-container" uk-modal>
@@ -342,23 +342,23 @@
                                 </div>
                             </div>
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container30" uk-toggle>Courgenay</a>
+                            <a class="uk-button uk-button-link" href="#modal-container30" uk-toggle>Courgenay</a>
                             <div id="modal-container30" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Courgenay - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-0cHQi" src="https://datawrapper.dwcdn.net/0cHQi/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container31" uk-toggle>Courtedoux</a>
+                            <a class="uk-button uk-button-link" href="#modal-container31" uk-toggle>Courtedoux</a>
                             <div id="modal-container31" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Courtedoux - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-LL2C5" src="https://datawrapper.dwcdn.net/LL2C5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container32" uk-toggle>Damphreux</a>
                             <div id="modal-container32" class="uk-modal-container" uk-modal>
@@ -396,14 +396,14 @@
                                 </div>
                             </div>
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container36" uk-toggle>Haute-Ajoie</a>
+                            <a class="uk-button uk-button-link" href="#modal-container36" uk-toggle>Haute-Ajoie</a>
                             <div id="modal-container36" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Haute-Ajoie - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-eLehl" src="https://datawrapper.dwcdn.net/eLehl/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container37" uk-toggle>Lugnez</a>
                             <div id="modal-container37" class="uk-modal-container" uk-modal>

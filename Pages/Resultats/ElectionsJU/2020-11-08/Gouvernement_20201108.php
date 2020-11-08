@@ -560,9 +560,8 @@
                             </div>
                         </div>
                         <div class="uk-card-body">
-                        <h3>Les premiers résultats seront disponibles dès 13:00 !</h3>
-                            <!--<iframe title="Election au Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-wgEEe" src="https://datawrapper.dwcdn.net/wgEEe/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                            </script>-->
+                        <iframe title="Election au Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-wgEEe" src="https://datawrapper.dwcdn.net/wgEEe/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                            </script>
                         </div>
                     </div>
                 </div>            

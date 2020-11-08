@@ -487,14 +487,14 @@
                                 </div>
                             </div>
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container46" uk-toggle>Lajoux</a>
+                            <a class="uk-button uk-button-link" href="#modal-container46" uk-toggle>Lajoux</a>
                             <div id="modal-container46" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Lajoux - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-ad6D6" src="https://datawrapper.dwcdn.net/ad6D6/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container47" uk-toggle>Montfaucon</a>
                             <div id="modal-container47" class="uk-modal-container" uk-modal>

@@ -69,7 +69,15 @@
                         <p><b>Objet : </b>Election au Gouvernement Jurassien (2e tour)</p>
                         <p><b>Participation : </b>45.66 %</p>
                         <p><a href="<?php echo $PHPelectionsJUGouvernement2 ?>">Lien vers les présentations des candidats-es</a></p>
-                        <p><a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">Lien vers les résultats du 1er tour</a></p>                                            
+                        <p><a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">Lien vers les résultats du 1er tour</a></p>
+                        <p><b>Candidats-élus-es : </b>
+                        <ol>
+                            <li>Jacques Gerber (PLR)</li>
+                            <li>Martial Courtet (PDC)</li>
+                            <li>Nathalie Barthoulot (PS)</li>
+                            <li>Rosalie Beuret Siess (PS)</li>
+                            <li>David Eray (PCSI)</li>
+                        </ol></p>                                          
                     </div>
                 </div>
             </div>

@@ -387,14 +387,14 @@
                                 </div>
                             </div>-->
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container35" uk-toggle>Grandfontaine</a>
+                            <a class="uk-button uk-button-link" href="#modal-container35" uk-toggle>Grandfontaine</a>
                             <div id="modal-container35" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Grandfontaine - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-V8B4S" src="https://datawrapper.dwcdn.net/V8B4S/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <!--<a class="uk-button uk-button-link" href="#modal-container36" uk-toggle>Haute-Ajoie</a>
                             <div id="modal-container36" class="uk-modal-container" uk-modal>

@@ -80,23 +80,23 @@
                                 </div>
                             </div>-->
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container2" uk-toggle>Bourrignon</a>
+                            <a class="uk-button uk-button-link" href="#modal-container2" uk-toggle>Bourrignon</a>
                             <div id="modal-container2" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Election du Gouvernement jurassien (2e tour) - Bourrignon" aria-label="Histogramme" id="datawrapper-chart-WDDlJ" src="https://datawrapper.dwcdn.net/WDDlJ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
-                           <!--<a class="uk-button uk-button-link" href="#modal-container3" uk-toggle>Châtillon</a>
+                           <a class="uk-button uk-button-link" href="#modal-container3" uk-toggle>Châtillon</a>
                             <div id="modal-container3" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                         <iframe title="Châtillon - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-34L3j" src="https://datawrapper.dwcdn.net/34L3j/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                         </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <!--<a class="uk-button uk-button-link" href="#modal-container4" uk-toggle>Courchapoix</a>
                             <div id="modal-container4" class="uk-modal-container" uk-modal>
@@ -215,23 +215,23 @@
                                 </div>
                             </div>-->
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container17" uk-toggle>Saulcy</a>
+                            <a class="uk-button uk-button-link" href="#modal-container17" uk-toggle>Saulcy</a>
                             <div id="modal-container17" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Saulcy- élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-GqGR8" src="https://datawrapper.dwcdn.net/GqGR8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container18" uk-toggle>Soyhières</a>
+                            <a class="uk-button uk-button-link" href="#modal-container18" uk-toggle>Soyhières</a>
                             <div id="modal-container18" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Soyhières - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-tcLoE" src="https://datawrapper.dwcdn.net/tcLoE/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <!--<a class="uk-button uk-button-link" href="#modal-container19" uk-toggle>Val-Terbi</a>
                             <div id="modal-container19" class="uk-modal-container" uk-modal>

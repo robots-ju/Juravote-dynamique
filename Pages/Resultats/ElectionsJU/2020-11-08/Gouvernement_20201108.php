@@ -69,9 +69,33 @@
                         <p><b>Objet : </b>Election au Gouvernement Jurassien (2e tour)</p>
                         <p><b>Participation : </b>47.60 %</p>
                         <p><a href="<?php echo $PHPelectionsJUGouvernement2 ?>">Lien vers les présentations des candidats-es</a></p>
-                        <p><a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">Lien vers les résultats du 1er tour</a></p>
-                        <p><b>Communes qui ont livré les résultats :</b></p>                        
-                            <a class="uk-button uk-button-link" href="#modal-container1" uk-toggle>Boécourt</a>
+                        <p><a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">Lien vers les résultats du 1er tour</a></p>                                            
+                    </div>
+                </div>
+            </div>
+                <div>
+                    <div class="uk-card uk-card-default">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <h2>Résultats cantonaux</h2>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                        <iframe title="Election au Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-wgEEe" src="https://datawrapper.dwcdn.net/wgEEe/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                            </script>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <h2>Résultats par communes</h2>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                        <a class="uk-button uk-button-link" href="#modal-container1" uk-toggle>Boécourt</a>
                             <div id="modal-container1" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
@@ -552,15 +576,16 @@
                         </div>
                     </div>
                 </div>
+
                 <div>
                     <div class="uk-card uk-card-default">
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <h2>Résultats cantonaux</h2>
+                                <h2>Comparaison entre le 1er tour et le 2e tour</h2>
                             </div>
                         </div>
                         <div class="uk-card-body">
-                        <iframe title="Election au Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-wgEEe" src="https://datawrapper.dwcdn.net/wgEEe/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                            <iframe title="Election au Gouvernement jurassien - comparaison entre 1er et 2e tour" aria-label="grouped bars" id="datawrapper-chart-nHfkZ" src="https://datawrapper.dwcdn.net/nHfkZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="557"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                             </script>
                         </div>
                     </div>

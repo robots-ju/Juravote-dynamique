@@ -170,14 +170,14 @@
                                 </div>
                             </div>-->
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container12" uk-toggle>Mervelier</a>
+                            <a class="uk-button uk-button-link" href="#modal-container12" uk-toggle>Mervelier</a>
                             <div id="modal-container12" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Mervelier - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-arI7x" src="https://datawrapper.dwcdn.net/arI7x/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container13" uk-toggle>Mettembert</a>
                             <div id="modal-container13" class="uk-modal-container" uk-modal>
@@ -188,14 +188,14 @@
                                 </div>
                             </div>
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container14" uk-toggle>Movelier</a>
+                            <a class="uk-button uk-button-link" href="#modal-container14" uk-toggle>Movelier</a>
                             <div id="modal-container14" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Movelier - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-0BFUF" src="https://datawrapper.dwcdn.net/0BFUF/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container15" uk-toggle>Pleigne</a>
                             <div id="modal-container15" class="uk-modal-container" uk-modal>
@@ -297,14 +297,14 @@
                                 </div>
                             </div>-->
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container25" uk-toggle>Bure</a>
+                            <a class="uk-button uk-button-link" href="#modal-container25" uk-toggle>Bure</a>
                             <div id="modal-container25" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Bure - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-UH6yF" src="https://datawrapper.dwcdn.net/UH6yF/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <!--<a class="uk-button uk-button-link" href="#modal-container26" uk-toggle>Clos-du-Doubs</a>
                             <div id="modal-container26" class="uk-modal-container" uk-modal>
@@ -333,14 +333,14 @@
                                 </div>
                             </div>-->
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container29" uk-toggle>Courchavon</a>
+                            <a class="uk-button uk-button-link" href="#modal-container29" uk-toggle>Courchavon</a>
                             <div id="modal-container29" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Courchavon - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-b1VV8" src="https://datawrapper.dwcdn.net/b1VV8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <!--<a class="uk-button uk-button-link" href="#modal-container30" uk-toggle>Courgenay</a>
                             <div id="modal-container30" class="uk-modal-container" uk-modal>
@@ -478,14 +478,14 @@
                                 </div>
                             </div>-->
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container45" uk-toggle>Les Genevez</a>
+                            <a class="uk-button uk-button-link" href="#modal-container45" uk-toggle>Les Genevez</a>
                             <div id="modal-container45" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Les Genevez - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-d7Fi9" src="https://datawrapper.dwcdn.net/d7Fi9/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <!--<a class="uk-button uk-button-link" href="#modal-container46" uk-toggle>Lajoux</a>
                             <div id="modal-container46" class="uk-modal-container" uk-modal>
@@ -505,14 +505,14 @@
                                 </div>
                             </div>
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container48" uk-toggle>Muriaux</a>
+                            <a class="uk-button uk-button-link" href="#modal-container48" uk-toggle>Muriaux</a>
                             <div id="modal-container48" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Muriaux - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-QpocM" src="https://datawrapper.dwcdn.net/QpocM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container49" uk-toggle>Le Noirmont</a>
                             <div id="modal-container49" class="uk-modal-container" uk-modal>
@@ -532,14 +532,14 @@
                                 </div>
                             </div>-->
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container51" uk-toggle>Saint-Brais</a>
+                            <a class="uk-button uk-button-link" href="#modal-container51" uk-toggle>Saint-Brais</a>
                             <div id="modal-container51" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Saint-Brais - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-tcNq0" src="https://datawrapper.dwcdn.net/tcNq0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container52" uk-toggle>Soubey</a>
                             <div id="modal-container52" class="uk-modal-container" uk-modal>

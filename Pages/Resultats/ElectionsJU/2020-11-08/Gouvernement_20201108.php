@@ -71,14 +71,14 @@
                         <p><a href="<?php echo $PHPelectionsJUGouvernement2 ?>">Lien vers les présentations des candidats-es</a></p>
                         <p><a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">Lien vers les résultats du 1er tour</a></p>
                         <p><b>Communes qui ont livré les résultats :</b></p>                        
-                            <!--<a class="uk-button uk-button-link" href="#modal-container1" uk-toggle>Boécourt</a>
+                            <a class="uk-button uk-button-link" href="#modal-container1" uk-toggle>Boécourt</a>
                             <div id="modal-container1" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Election du Gouvernement jurassien (2e tour) - Boécourt" aria-label="Histogramme" id="datawrapper-chart-omWpb" src="https://datawrapper.dwcdn.net/omWpb/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container2" uk-toggle>Bourrignon</a>
                             <div id="modal-container2" class="uk-modal-container" uk-modal>
@@ -98,14 +98,14 @@
                                 </div>
                             </div>
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container4" uk-toggle>Courchapoix</a>
+                            <a class="uk-button uk-button-link" href="#modal-container4" uk-toggle>Courchapoix</a>
                             <div id="modal-container4" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Courchapoix - élection du Gouvernement jurassien (2e tour) (Copy)" aria-label="Histogramme" id="datawrapper-chart-fTeUe" src="https://datawrapper.dwcdn.net/fTeUe/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <!--<a class="uk-button uk-button-link" href="#modal-container5" uk-toggle>Courrendlin</a>
                             <div id="modal-container5" class="uk-modal-container" uk-modal>
@@ -116,14 +116,14 @@
                                 </div>
                             </div>-->
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container6" uk-toggle>Courroux</a>
+                            <a class="uk-button uk-button-link" href="#modal-container6" uk-toggle>Courroux</a>
                             <div id="modal-container6" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Courroux - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-EbFhb" src="https://datawrapper.dwcdn.net/EbFhb/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container7" uk-toggle>Courtételle</a>
                             <div id="modal-container7" class="uk-modal-container" uk-modal>
@@ -143,14 +143,14 @@
                                 </div>
                             </div>-->
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container9" uk-toggle>Develier</a>
+                            <a class="uk-button uk-button-link" href="#modal-container9" uk-toggle>Develier</a>
                             <div id="modal-container9" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Develier - élection du Gouvernement jurassien (2e tour) " aria-label="Histogramme" id="datawrapper-chart-QDXB8" src="https://datawrapper.dwcdn.net/QDXB8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container10" uk-toggle>Ederswiler</a>
                             <div id="modal-container10" class="uk-modal-container" uk-modal>
@@ -433,32 +433,32 @@
                             </div>
 
                         <p></p>
-                            <!--<a class="uk-button uk-button-link" href="#modal-container40" uk-toggle>Le Bémont</a>
+                            <a class="uk-button uk-button-link" href="#modal-container40" uk-toggle>Le Bémont</a>
                             <div id="modal-container40" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Le Bémont - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-eUXfT" src="https://datawrapper.dwcdn.net/eUXfT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container41" uk-toggle>Les Bois</a>
+                            <a class="uk-button uk-button-link" href="#modal-container41" uk-toggle>Les Bois</a>
                             <div id="modal-container41" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Les Bois - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-WJ45i" src="https://datawrapper.dwcdn.net/WJ45i/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container42" uk-toggle>Les Breuleux</a>
+                            <a class="uk-button uk-button-link" href="#modal-container42" uk-toggle>Les Breuleux</a>
                             <div id="modal-container42" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Les Breuleux - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-KH0yF" src="https://datawrapper.dwcdn.net/KH0yF/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container43" uk-toggle>La Chaux-des-Breuleux</a>
                             <div id="modal-container43" class="uk-modal-container" uk-modal>
@@ -469,14 +469,14 @@
                                 </div>
                             </div>
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container44" uk-toggle>Les Enfers</a>
+                            <a class="uk-button uk-button-link" href="#modal-container44" uk-toggle>Les Enfers</a>
                             <div id="modal-container44" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Les Enfers - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-jmtjf" src="https://datawrapper.dwcdn.net/jmtjf/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container45" uk-toggle>Les Genevez</a>
                             <div id="modal-container45" class="uk-modal-container" uk-modal>

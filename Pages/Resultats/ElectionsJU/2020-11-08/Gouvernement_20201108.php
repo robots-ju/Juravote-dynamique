@@ -125,14 +125,14 @@
                                 </div>
                             </div>-->
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container7" uk-toggle>Courtételle</a>
+                            <a class="uk-button uk-button-link" href="#modal-container7" uk-toggle>Courtételle</a>
                             <div id="modal-container7" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Courtételle - élection du Gouvernement jurassien (2e tour) " aria-label="Histogramme" id="datawrapper-chart-YLUPM" src="https://datawrapper.dwcdn.net/YLUPM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <!--<a class="uk-button uk-button-link" href="#modal-container8" uk-toggle>Delémont</a>
                             <div id="modal-container8" class="uk-modal-container" uk-modal>
@@ -197,14 +197,14 @@
                                 </div>
                             </div>-->
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container15" uk-toggle>Pleigne</a>
+                            <a class="uk-button uk-button-link" href="#modal-container15" uk-toggle>Pleigne</a>
                             <div id="modal-container15" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Pleigne- élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-6RIo8" src="https://datawrapper.dwcdn.net/6RIo8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container16" uk-toggle>Rossemaison</a>
                             <div id="modal-container16" class="uk-modal-container" uk-modal>

@@ -67,7 +67,7 @@
                     </div>
                     <div class="uk-card-body uk-text-justify">
                         <p><b>Objet : </b>Election au Gouvernement Jurassien (2e tour)</p>
-                        <p><b>Participation : </b>48.31 %</p>
+                        <p><b>Participation : </b>46.05 %</p>
                         <p><a href="<?php echo $PHPelectionsJUGouvernement2 ?>">Lien vers les présentations des candidats-es</a></p>
                         <p><a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">Lien vers les résultats du 1er tour</a></p>                                            
                     </div>
@@ -131,14 +131,14 @@
                                 </div>
                             </div>
 
-                            <!--<a class="uk-button uk-button-link" href="#modal-container5" uk-toggle>Courrendlin</a>
+                            <a class="uk-button uk-button-link" href="#modal-container5" uk-toggle>Courrendlin</a>
                             <div id="modal-container5" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
                                     <iframe title="Courrendlin- élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-9SPVE" src="https://datawrapper.dwcdn.net/9SPVE/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
-                            </div>-->
+                            </div>
 
                             <a class="uk-button uk-button-link" href="#modal-container6" uk-toggle>Courroux</a>
                             <div id="modal-container6" class="uk-modal-container" uk-modal>
@@ -542,7 +542,7 @@
                             <div id="modal-container49" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
                                     <button class="uk-modal-close-default" type="button" uk-close></button>
-                                    <iframe title="Le Noirmont - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-mCm76" src="https://datawrapper.dwcdn.net/mCm76/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                                    <iframe title="Le Noirmont - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-mCm76" src="https://datawrapper.dwcdn.net/mCm76/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
                             </div>

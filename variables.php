@@ -404,6 +404,14 @@
 
     $PHPinstances = "/Juravote-dynamique/Pages/Instances/instances.php";
 
+    $PHPCommissionsCO = "/Juravote-dynamique/Pages/Instances/CommissionsCO/Districts.php";   
+        //CHATILLON
+        $PHPCommissionsChatillon = "/Juravote-dynamique/Pages/Instances/CommissionsCO/Châtillon/CommissionsChâtillon.php";  
+            $PHPCommissionsFinances = "/Juravote-dynamique/Pages/Instances/CommissionsCO/Châtillon/Finances/Finances.php"; 
+                $ChatillonFinancesLégislature19_23 = "/Juravote-dynamique/Pages/Instances/CommissionsCO/Châtillon/Finances/2019_2023/CommissionFinances.php";
+            $PHPCommissionsEcole = "/Juravote-dynamique/Pages/Instances/CommissionsCO/Châtillon/Ecole/Ecole.php"; 
+                $ChatillonEcoleLégislature19_23 = "/Juravote-dynamique/Pages/Instances/CommissionsCO/Châtillon/Ecole/2019_2023/CommissionEcole.php";  
+
     $PHPgouvernementCH = "/Juravote-dynamique/Pages/Instances/GouvernementCH/2020_2023/GouvernementCH.php";    
     $PHPgouvernementCODistricts = "/Juravote-dynamique/Pages/Instances/GouvernementCO/Districts.php";
     $PHPgouvernementDevelier = "/Juravote-dynamique/Pages/Instances/GouvernementCO/Develier/2019_2023/GouvernementDevelier.php";

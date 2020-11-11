@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Conseil communal Lajoux</title>
+        <title>JuraVote | Conseil communal La Baroche</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -48,69 +48,69 @@
         </header>
 <main>
     <section style="padding: 2%">
-        <h1 class="uk-heading-large">Conseil communal 2019 - 2023 Lajoux</h1>
+        <h1 class="uk-heading-large">Conseil communal 2019 - 2023 La Baroche</h1>
         <hr>
         <div class="uk-child-width-1-3@xl uk-child-width-1-3@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">François Brahier-Jeckelmann</h3>
-                        <p>Administration, police, développement, urbanisme</p>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Romain Schaer</h3>
+                        <p>Mairie, finances, gestion du personnel, communication</p>
                     </div>
                 </div>
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Judith Fricke Pallaoro</h3>
-                        <p>Finances</p>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Jean-Charles Witschi</h3>
+                        <p>Bâtiments, police des constructions</p>
                     </div>
                 </div>
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Christian Frund</h3>
-                        <p>Santé et action sociale</p>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Jacques Bourquard</h3>
+                        <p>Eaux propres, eaux usées, eaux de surface</p>
                     </div>
                 </div>
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Aurélie Juillerat</h3>
-                        <p>Ecole et activités culturelles</p>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Thomas Huber</h3>
+                        <p>Economie forestière et énergétique</p>
                     </div>
                 </div>
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Yan Maurer</h3>
-                        <p>Agriculture, forêts, service d'entretien</p>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Cédric Sprunger</h3>
+                        <p>Manifestations, déchets, écoles, cimetières</p>
                     </div>
                 </div>
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Bernard Gogniat</h3>
-                        <p>Eaux, environnement, déchets</p>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Marc Meier</h3>
+                        <p>Développement économique, aménagement local, social</p>
                     </div>
                 </div>
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Dominique Mauron</h3>
-                        <p>Travaux publics</p>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Yvan Schori</h3>
+                        <p>Travaux publics, environnement, chemins communaux</p>
                     </div>
                 </div>
             </div>

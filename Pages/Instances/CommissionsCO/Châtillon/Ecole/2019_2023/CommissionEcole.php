@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Conseil communal Lajoux</title>
+        <title>JuraVote | Commission d'Ecole Châtillon</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -48,15 +48,15 @@
         </header>
 <main>
     <section style="padding: 2%">
-        <h1 class="uk-heading-large">Conseil communal 2019 - 2023 Lajoux</h1>
+        <h1 class="uk-heading-large">Commission d'Ecole 2019 - 2023 Châtillon</h1>
         <hr>
-        <div class="uk-child-width-1-3@xl uk-child-width-1-3@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small" uk-grid>
+        <div class="uk-child-width-1-4@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-badge uk-label badge-pev uk-border-rounded"></div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">François Brahier-Jeckelmann</h3>
-                        <p>Administration, police, développement, urbanisme</p>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Thibault Fluri</h3>
+                        <p>Conseiller communal</p>
                     </div>
                 </div>
             </div>
@@ -64,8 +64,15 @@
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                     <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Judith Fricke Pallaoro</h3>
-                        <p>Finances</p>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Nathalie Mouttet</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                    <div class="uk-card-badge uk-label badge-pvl uk-border-rounded"></div><br>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title-center text-rouge-fonce">Anouck Eschmann</h3>
                     </div>
                 </div>
             </div>
@@ -73,44 +80,7 @@
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                     <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Christian Frund</h3>
-                        <p>Santé et action sociale</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Aurélie Juillerat</h3>
-                        <p>Ecole et activités culturelles</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Yan Maurer</h3>
-                        <p>Agriculture, forêts, service d'entretien</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Bernard Gogniat</h3>
-                        <p>Eaux, environnement, déchets</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Dominique Mauron</h3>
-                        <p>Travaux publics</p>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Josya Seuret</h3>
                     </div>
                 </div>
             </div>

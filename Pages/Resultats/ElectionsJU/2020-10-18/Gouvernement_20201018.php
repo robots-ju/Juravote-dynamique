@@ -67,7 +67,9 @@
                     <div class="uk-card-body uk-text-justify">
                         <p><b>Objet : </b>Election au Gouvernement Jurassien (1er tour)</p>
                         <p><b>Participation : </b>47.49 %</p>
-                        <p><a href="<?php echo $PHPelectionsJUGouvernement1 ?>">Lien vers les présentations des candidats-es</a></p>
+                        <p><a href="<?php echo $PHPelectionsJUGouvernement2 ?>">Présentations des candidats-es</a></p>
+                        <p><a href="<?php echo $PHPresultatGouvernementJU20201108 ?>">Résultats du 2e tour</a></p>
+                        <p><a href="<?php echo $PHPGouvernementJU20212025 ?>">Composition du nouveau Gouvernement</a></p>
                         <p><b>Résultats par communes : </b></p>                        
                             <a class="uk-button uk-button-link" href="#modal-container1" uk-toggle>Boécourt</a>
                             <div id="modal-container1" class="uk-modal-container" uk-modal>

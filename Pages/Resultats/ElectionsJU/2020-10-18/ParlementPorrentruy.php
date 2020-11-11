@@ -71,7 +71,7 @@
                         <p><b>Type de la votation : </b>Election cantonale jurassienne</p>
                         <p><b>Mode de votation : </b>Election à un tour</p>
                         <p><a href="<?php echo $PHPelectionsJUParlementA ?>">Lien vers les informations d'élection</a></p>
-                        <p><b>Candidats-es élus-es : </b><span style="color: #2ecc71">Elu-e</span></p>
+                        <p><a href="<?php echo $PHPParlementJU20212025 ?>">Composition du nouveau Parlement</a></p>
                     </div>
                 </div>
             </div>

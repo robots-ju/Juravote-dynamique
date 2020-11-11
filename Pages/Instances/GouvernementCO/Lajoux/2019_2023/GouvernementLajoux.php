@@ -82,7 +82,7 @@
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                     <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">A repourvoir</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Aurélie Juillerat</h3>
                         <p>Ecole et activités culturelles</p>
                     </div>
                 </div>
@@ -91,7 +91,7 @@
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                     <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">A repourvoir</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Yan Maurer</h3>
                         <p>Agriculture, forêts, service d'entretien</p>
                     </div>
                 </div>

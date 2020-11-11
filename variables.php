@@ -405,6 +405,14 @@
 
     $PHPinstances = "/Pages/Instances/instances.php";
 
+    $PHPCommissionsCO = "/Pages/Instances/CommissionsCO/Districts.php";   
+        //CHATILLON
+        $PHPCommissionsChatillon = "/Pages/Instances/CommissionsCO/Châtillon/CommissionsChâtillon.php";  
+            $PHPCommissionsFinances = "/Pages/Instances/CommissionsCO/Châtillon/Finances/Finances.php"; 
+                $ChatillonFinancesLégislature19_23 = "/Pages/Instances/CommissionsCO/Châtillon/Finances/2019_2023/CommissionFinances.php";
+            $PHPCommissionsEcole = "/Pages/Instances/CommissionsCO/Châtillon/Ecole/Ecole.php"; 
+                $ChatillonEcoleLégislature19_23 = "/Pages/Instances/CommissionsCO/Châtillon/Ecole/2019_2023/CommissionEcole.php";  
+
     $PHPgouvernementCH = "/Pages/Instances/GouvernementCH/2020_2023/GouvernementCH.php";    
     $PHPgouvernementCODistricts = "/Pages/Instances/GouvernementCO/Districts.php";
     $PHPgouvernementDevelier = "/Pages/Instances/GouvernementCO/Develier/2019_2023/GouvernementDevelier.php";

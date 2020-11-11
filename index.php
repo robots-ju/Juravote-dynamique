@@ -74,7 +74,19 @@
                                     <h3 class="uk-card-title">Conseil général Haute-Sorne</h3>
                                 </div>                          
                             </div>
+                        </a>
+
+                        <a href="https://www.jura.ch/PLT/Calendrier-des-seances-plenieres.html">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >18-19.11</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Parlement Jurassien</h3>
+                                </div>                          
+                            </div>
                         </a>  
+
                         <a href="<?php echo $sitePorrentruy ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -95,39 +107,28 @@
                                     <h3 class="uk-card-title">Votations fédérales</h3>
                                 </div>                          
                             </div>
-                        </a>  
-                        
-                        <!--<h3 style="padding-top: 5%" class="uk-heading-divider uk-text-center">Evénements 2021 (infos à venir)</h3>   
-                        <a href="<?php echo $lien ?>">                          
+                        </a>   
+
+                        <a href="https://www.jura.ch/PLT/Calendrier-des-seances-plenieres.html">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03 / 13.06 / 26.09 / 28.11</div>
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >09.12</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votations fédérales</h3>
+                                    <h3 class="uk-card-title">Parlement Jurassien</h3>
                                 </div>                          
                             </div>
-                        </a>  
-                        <a href="<?php echo $lien ?>">                          
+                        </a>        
+                        <a href="https://www.jura.ch/PLT/Calendrier-des-seances-plenieres.html">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >16-17.12</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation Delémont</h3>
+                                    <h3 class="uk-card-title">Parlement Jurassien</h3>
                                 </div>                          
                             </div>
-                        </a> 
-                        <a href="<?php echo $lien ?>">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.03</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation de Moutier</h3>
-                                </div>                          
-                            </div>
-                        </a>-->                  
+                        </a>                        
                     </div>
 
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       
@@ -179,31 +180,106 @@
                                                
                     </div>                                        
                 </div> 
-                <div style="padding-left: 2%; padding-right: 2%;"> 
-                    <h3 class="uk-heading-divider uk-text-center">Soutiens de Juravote</h3>
-                    <div class="uk-column-1-1@m uk-column-divider">
-                        <div class="uk-card-body uk-text-justify">                            
-                            <p>Juravote, site internet au design simple et plaisant, informe la population, de
-                            manière indépendante et concise, sur les votations. Les arguments pour et contre,
-                            ainsi que les prises de positions des partis, sont mentionnés de façon totalement
-                            neutre. JuraVote renseigne également sur les autorités, les élections à venir, ainsi
-                            que sur les activités politiques. Les résultats des votations et élections sont
-                            consignés.</p>
+                <div class="uk-card uk-grid-collapse uk-child-width-1-2@m uk-child-width-1-1@s uk-padding uk-flex" uk-grid>
+                    <div>
+                        <h3 class="uk-heading-divider uk-text-center">Evénements 2021 (infos à venir)</h3>   
+                        <a href="<?php echo $lien ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >17.01</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Châtillon</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+                        <a href="<?php echo $lien ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votations fédérales</h3>
+                                </div>                          
+                            </div>
+                        </a>  
+                        <a href="<?php echo $lien ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Delémont</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+                        <a href="<?php echo $lien ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.03</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation de Moutier</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+                        <a href="<?php echo $lien ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votations fédérales</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+                        <a href="<?php echo $lien ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >26.09</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votations fédérales</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+                        <a href="<?php echo $lien ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.11</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votations fédérales</h3>
+                                </div>                          
+                            </div>
+                        </a>  
+                    </div>
+                    <div>    
+                        <h3 class="uk-heading-divider uk-text-center">Soutiens de Juravote</h3>
+                        <div class="uk-column-1-1@m uk-column-divider">
+                            <div class="uk-card-body uk-text-justify">                            
+                                <p>Juravote, site internet au design simple et plaisant, informe la population, de
+                                manière indépendante et concise, sur les votations. Les arguments pour et contre,
+                                ainsi que les prises de positions des partis, sont mentionnés de façon totalement
+                                neutre. JuraVote renseigne également sur les autorités, les élections à venir, ainsi
+                                que sur les activités politiques. Les résultats des votations et élections sont
+                                consignés.</p>
 
-                            <p>Concentrées sur un seul site, ces informations sont accessibles en tout temps et
-                            assurent une partialité et neutralité, tant estimées par la population suisse. Cet
-                            avantage permet à tout un chacun d'être informé de façon claire et objective. Cette
-                            source d'informations fiable devrait aussi intéresser les communes et autres
-                            instances politiques, aujourd'hui uniquement jurassiennes, à la mise en place d'outils
-                            informatiques communs permettant de faire des économies d'échelles substantielles.
-                            Peut-être un futur "SwissVote".</p>
+                                <p>Concentrées sur un seul site, ces informations sont accessibles en tout temps et
+                                assurent une partialité et neutralité, tant estimées par la population suisse. Cet
+                                avantage permet à tout un chacun d'être informé de façon claire et objective. Cette
+                                source d'informations fiable devrait aussi intéresser les communes et autres
+                                instances politiques, aujourd'hui uniquement jurassiennes, à la mise en place d'outils
+                                informatiques communs permettant de faire des économies d'échelles substantielles.
+                                Peut-être un futur "SwissVote".</p>
 
-                            <p>Nous félicitons vivement toute cette jeune équipe pour leur intérêt à la chose
-                            publique et la mise en oeuvre de ce formidable support et leur souhaitons plein succès.</p>     
+                                <p>Nous félicitons vivement toute cette jeune équipe pour leur intérêt à la chose
+                                publique et la mise en oeuvre de ce formidable support et leur souhaitons plein succès.</p>     
 
-                            <b><p class="uk-align-right">Gabriel M. Chappuis, Maire de Develier</p></b>                      
-                        </div>      
-                    </div> 
+                                <b><p class="uk-align-right">Gabriel M. Chappuis, Maire de Develier</p></b>                      
+                            </div>      
+                        </div> 
+                    </div>                    
                 </div>                            
             </section>
         </main>

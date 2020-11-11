@@ -167,7 +167,7 @@
                 </div>
             </li>
             <li>
-                <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover">
                             <a href="<?php echo $PHPgouvernementCODistricts ?>">
@@ -194,6 +194,22 @@
                                         </div>
                                         <div class="uk-width-expand">
                                             <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Législatifs communaux (Jura)</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-hover">
+                            <a href="<?php echo $PHPCommissionsCO ?>">
+                                <div class="uk-card-body">
+                                    <div class="uk-grid-small uk-flex-column" uk-grid>
+                                        <div class="uk-width-auto">
+                                            <img width="150" height="150" src="../../IMG/Logo/Pouvoirs/communal.png" alt="Communes jurassiennes">
+                                        </div>
+                                        <div class="uk-width-expand">
+                                            <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Commissions communales (Jura)</h3>
                                         </div>
                                     </div>
                                 </div>

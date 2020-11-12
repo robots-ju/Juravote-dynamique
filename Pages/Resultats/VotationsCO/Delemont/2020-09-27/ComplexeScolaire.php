@@ -80,72 +80,8 @@
                     </div>
                     <div class="uk-card-body">
                         <div class="uk-grid-small uk-align-center" uk-grid>
-                            <div uk-switcher="animation: uk-animation-fade; toggle: > *">
-                                <button class="uk-button uk-button-default" type="button">Résultats globaux</button>
-                                <button class="uk-button uk-button-default" type="button">Résultats détaillés</button>
-                            </div>
-                            <ul class="uk-switcher uk-margin">                                
-                                    <li>                                                       
-                                        <div id="chartdivprovita" style="width: 100%; height: 250px;"></div>
-                                        <script>
-                                            // Create chart instance
-                                            var resultatprovita = am4core.create("chartdivprovita", am4charts.PieChart);
-
-                                            // Add data
-                                            resultatprovita.data = [{
-                                                "votes": "OUI",
-                                                "suffrages": 2797
-                                            }, {
-                                                "votes": "NON",
-                                                "suffrages": 1238
-                                            }];
-
-                                            // Add and configure Series
-                                            var dataprovita = resultatprovita.series.push(new am4charts.PieSeries());
-                                            dataprovita.dataFields.value = "suffrages";
-                                            dataprovita.dataFields.category = "votes";
-
-                                            // Let's cut a hole in our Pie chart the size of 40% the radius
-                                            resultatprovita.innerRadius = am4core.percent(40);
-
-                                            // Disable ticks and labels
-                                            dataprovita.labels.template.disabled = true;
-                                            dataprovita.ticks.template.disabled = true;
-
-                                            // Disable tooltips
-                                            dataprovita.slices.template.tooltipText = "";
-
-                                            // Add a legend
-                                            resultatprovita.legend = new am4charts.Legend();
-                                            resultatprovita.legend.position = "right";
-
-                                            dataprovita.colors.list = [
-                                            am4core.color("#89ff6a"),
-                                            am4core.color("#ff4242"),
-                                            ]
-                                        </script>                                          
-                                    </li>
-                                    <li>                                    
-                                        <table class="uk-table uk-table-divider uk-table-striped uk-table-hover">
-                                            <thead>
-                                                <tr>
-                                                    
-                                                    <th>Participation</th>
-                                                    <th>Nombre de oui (en voix)</th>
-                                                    <th>Nombre de oui (en %)</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td><b>47.80 %</b></td>
-                                                    <td><b>2'797</b></td>
-                                                    <td><b>69.30 %</b></td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                    </li>
-                                </div>
-                            </ul>
+                            <iframe title="Crédit d'étude pour le développement du secteur des Arquebusiers" aria-label="chart" id="datawrapper-chart-tJvIP" src="https://datawrapper.dwcdn.net/tJvIP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="323"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                            </script>                          
                         </div>
                     </div>
                 </div>

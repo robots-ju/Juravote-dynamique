@@ -118,7 +118,19 @@
                                     <h3 class="uk-card-title">Parlement Jurassien</h3>
                                 </div>                          
                             </div>
-                        </a>        
+                        </a>  
+
+                        <a href="Pages/Votations Et Elections/Votations/VotationsCO/Develier_20201213.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.12</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Develier</h3>
+                                </div>                          
+                            </div>
+                        </a>  
+
                         <a href="https://www.jura.ch/PLT/Calendrier-des-seances-plenieres.html">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -128,7 +140,7 @@
                                     <h3 class="uk-card-title">Parlement Jurassien</h3>
                                 </div>                          
                             </div>
-                        </a>                        
+                        </a>                                             
                     </div>
 
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       

@@ -127,15 +127,15 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
                         </tr>
                     </tbody>
                 </table>    
@@ -189,6 +189,30 @@
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>L'initiative contre le commerce de guerre est sensée économiquement.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité jurassien du OUI</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Avoir une place financière suisse plus éthique et durable.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité jurassien du OUI</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>L'impact sur les PME est négligeable.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité jurassien du OUI</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>L'argent suisse tue.</p>
                         </div>
                     </div>
                 </li>

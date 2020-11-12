@@ -17,6 +17,8 @@
     $communePorrentruy = "/Juravote-dynamique/IMG/Logo/Communes/Porrentruy.png";
     $communeValTerbi = "/Juravote-dynamique/IMG/Logo/Communes/ValTerbi.png";
 
+    $communeMoutier = "/Juravote-dynamique/IMG/Logo/Communes/Moutier.jpg";
+
     //districts :
     $districtDelemont = "/Juravote-dynamique/IMG/Logo/Districts/Delemont.png";
     $districtFranchesMontagnes = "/Juravote-dynamique/IMG/Logo/Districts/Franches-montagnes.png";

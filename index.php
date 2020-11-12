@@ -120,13 +120,13 @@
                             </div>
                         </a>  
 
-                        <a href="<?php echo $lien ?>">                          
+                        <a href="Pages/Votations Et Elections/Votations/VotationsCO/Develier_20201213.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.12</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation Develier (infos à venir)</h3>
+                                    <h3 class="uk-card-title">Votation Develier</h3>
                                 </div>                          
                             </div>
                         </a>  

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Initiative populaire « Pour une interdiction du financement des producteurs de matériel de guerre »</title>
@@ -39,11 +39,11 @@
     <body>
     <header>
         <div class="navbar-normal">
-            <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
         </div>
 
         <div>
-            <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar-mobile.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
         </div>
     </header>
     <main>
@@ -127,15 +127,15 @@
                     </thead>
                     <tbody>
                         <tr>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A venir</span></td>
                         </tr>
                     </tbody>
                 </table>    
@@ -191,30 +191,6 @@
                             <p>L'initiative contre le commerce de guerre est sensée économiquement.</p>
                         </div>
                     </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité jurassien du OUI</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Avoir une place financière suisse plus éthique et durable.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité jurassien du OUI</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>L'impact sur les PME est négligeable.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité jurassien du OUI</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>L'argent suisse tue.</p>
-                        </div>
-                    </div>
                 </li>
                 <li>
                 <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
@@ -266,7 +242,7 @@
 
 <footer>
         <div class="footer">
-            <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </html>

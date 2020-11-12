@@ -448,32 +448,35 @@
         $PHPresultatParlementJU20201018 = "/Pages/Resultats/ElectionsJU/2020-10-18/Parlement_20201018.php";
     $PHPresultatGouvernementJU20201108 = "/Pages/Resultats/ElectionsJU/2020-11-08/Gouvernement_20201108.php";
         
-    $PHPresultatsElectionsCO = "/Pages/Resultats/ElectionsCO/electionsCO.php";
-        $PHPresultatsChatillon = "/Pages/Resultats/ElectionsCO/Chatillon/Chatillon.php";
-        $PHPresultatCommissionEcoleChatillon2020 = "/Pages/Resultats/ElectionsCO/Chatillon/2020-10-18/MembreCommissionEcole.php";
+    $PHPresultatsElectionsCO = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/electionsCO.php";
+        $PHPresultatsChatillon = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Chatillon/Chatillon.php";
+        $PHPresultatCommissionEcoleChatillon2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Chatillon/2020-10-18/MembreCommissionEcole.php";
 
-        $PHPresultatsCourtetelle = "/Pages/Resultats/ElectionsCO/Courtetelle/Courtetelle.php";
-        $PHPresultatsMairieCourtetelle2020 = "/Pages/Resultats/ElectionsCO/Courtetelle/2020-06-29/Mairie.php";
+        $PHPresultatsCourtetelle = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Courtetelle/Courtetelle.php";
+        $PHPresultatsMairieCourtetelle2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Courtetelle/2020-06-29/Mairie.php";
 
-        $PHPresultatsLajoux = "/Pages/Resultats/ElectionsCO/Lajoux/Lajoux.php";
-        $PHPresultatsMairieLajoux2020 = "/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie.php";
-        $PHPdescriptionMairieLajoux2020 = "/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie_description.php";
-        $PHPresultatsConseilLajoux2020 = "/Pages/Resultats/ElectionsCO/Lajoux/2020-09-27/Conseil.php";
-        $PHPdescriptionConseilLajoux2020 = "/Pages/Resultats/ElectionsCO/Lajoux/2020-09-27/Conseil_description.php";
+        $PHPresultatsLajoux = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/Lajoux.php";
+        $PHPresultatsMairieLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie.php";
+        $PHPdescriptionMairieLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-07-05/Mairie_description.php";
+        $PHPresultatsConseilLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-09-27/Conseil.php";
+        $PHPdescriptionConseilLajoux2020 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Lajoux/2020-09-27/Conseil_description.php";
 
-        $PHPresultatsMervelier = "/Pages/Resultats/ElectionsCO/Mervelier/Mervelier.php";
-        $PHPresultatsMervelier20201026 = "/Pages/Resultats/ElectionsCO/Mervelier/2020-10-25/Conseil.php";
+        $PHPresultatsMervelier = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Mervelier/Mervelier.php";
+        $PHPresultatsMervelier20201026 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Mervelier/2020-10-25/Conseil.php";
 
-    $PHPresultatsVotationsCH = "/Pages/Resultats/VotationsCH/votationsCH.php";
-        $PHPresultats20200927Accueil= "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
-            $PHPvotationsCHAvions = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_AvionsCombat.php";
-            $PHPvotationsCHChasse = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_Chasse.php";
-            $PHPvotationsCHCongePaternite = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_CongePaternite.php";
-            $PHPvotationsCHImpotDirect = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_ImpotDirect.php";
-            $PHPvotationsCHLimitation = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_InitiativeLimitation.php";    
-        $PHPresultats20200209Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php";
-            $PHPvotationsCHDiscrimination = "/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/Discrimination.php";
-            $PHPvotationsCHLogements = "/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/Logements.php";
+    $PHPresultatsVotationsCH = "/Juravote-dynamique/Pages/Resultats/VotationsCH/votationsCH.php";
+        $PHPresultats20201129Accueil= "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/vfédérales.php";
+            $PHPvotationsCHEntreprisesResponsables = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/Responsables.php";
+            $PHPvotationsCHFinancementGuerre = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/Armes.php";
+        $PHPresultats20200927Accueil= "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
+            $PHPvotationsCHAvions = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_AvionsCombat.php";
+            $PHPvotationsCHChasse = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_Chasse.php";
+            $PHPvotationsCHCongePaternite = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_CongePaternite.php";
+            $PHPvotationsCHImpotDirect = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_ImpotDirect.php";
+            $PHPvotationsCHLimitation = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_InitiativeLimitation.php";    
+        $PHPresultats20200209Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/vfédérales.php";
+            $PHPvotationsCHDiscrimination = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/Discrimination.php";
+            $PHPvotationsCHLogements = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-02-09/Logements.php";
         
         $PHPresultats20190519Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2019-05-19/vfédérales.php";
             $PHPvotationsCHArmes = "/Pages/Resultats/VotationsCH/2020-2011/2019-05-19/Armes.php";

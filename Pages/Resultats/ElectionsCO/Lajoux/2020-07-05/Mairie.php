@@ -80,42 +80,8 @@
                         </div>
                     </div>
                     <section style="padding: 2%;">
-                        <li>
-                            <div class="uk-card-body">
-                                <div id="chartdivMairie" style="width: 100%; height: 250px;"></div>
-                                    <script>
-                                        // Create chart instance
-                                        var resultatMairie = am4core.create("chartdivMairie", am4charts.XYChart);
-
-                                        // Add data
-                                        resultatMairie.data = [{
-                                            "candidat": "François Brahier-Jeckelmann",
-                                            "suffrages": 116
-                                        }, {
-                                            "candidat": "Luc Maillard",
-                                            "suffrages": 40
-                                        }, {
-                                            "candidat": "Jean-Paul Farine",
-                                            "suffrages": 8
-                                        }];
-
-                                        // Add and configure Series
-                                        var dataMairie = resultatMairie.xAxes.push(new am4charts.CategoryAxis());
-                                        dataMairie.dataFields.category = "candidat";
-                                        var valueMairie = resultatMairie.yAxes.push(new am4charts.ValueAxis());
-                                        valueMairie.title.text="Suffrages";
-                                        valueMairie.min=0;
-                                        var seriesMairie = resultatMairie.series.push(new am4charts.ColumnSeries());
-                                        seriesMairie.name="Voies";
-                                        seriesMairie.columns.template.tooltipText="Candidat: {categoryX}\nSuffrages: {valueY}";
-                                        seriesMairie.columns.template.fill = am4core.color("#D20603");
-                                        seriesMairie.dataFields.valueY="suffrages";
-                                        seriesMairie.dataFields.categoryX="candidat";
-                                        
-                                    </script>
-                                </div>
-                            </li>
-                            
+                        <iframe title="Election complémentaire à la Mairie de Lajoux" aria-label="Histogramme" id="datawrapper-chart-G6Luj" src="https://datawrapper.dwcdn.net/G6Luj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="165"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
                     </section>
                 </div>
             </div>

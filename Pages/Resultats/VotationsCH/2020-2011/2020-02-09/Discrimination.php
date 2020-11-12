@@ -76,47 +76,11 @@
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
-                            <h2>Résultats nationaux</h2>
+                            <h2>Résultats</h2>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <div id="chartDiscrimination" style="width: 100%; height: 250px;"></div>
-                        <script>
-                            // Create chart instance
-                            var resultatDiscrimination = am4core.create("chartDiscrimination", am4charts.PieChart);
-
-                            // Add data
-                            resultatDiscrimination.data = [{
-                                "votes": "OUI",
-                                "suffrages": 1413609
-                            }, {
-                                "votes": "NON",
-                                "suffrages": 827361
-                            }];
-
-                            // Add and configure Series
-                            var dataDiscrimination = resultatDiscrimination.series.push(new am4charts.PieSeries());
-                            dataDiscrimination.dataFields.value = "suffrages";
-                            dataDiscrimination.dataFields.category = "votes";
-
-                            // Let's cut a hole in our Pie chart the size of 40% the radius
-                            resultatDiscrimination.innerRadius = am4core.percent(40);
-
-                            // Disable ticks and labels
-                            dataDiscrimination.labels.template.disabled = true;
-                            dataDiscrimination.ticks.template.disabled = true;
-
-                            // Disable tooltips
-                            dataDiscrimination.slices.template.tooltipText = "";
-
-                            // Add a legend
-                            resultatDiscrimination.legend = new am4charts.Legend();
-                            resultatDiscrimination.legend.position = "right";
-
-                            dataDiscrimination.colors.list = [
-                            am4core.color("#89ff6a"),
-                            am4core.color("#ff4242"),
-                            ]
+                        <iframe title="Modification du 14.12.2018 du code pénal et du code pénal militaire (Discrimination et incitation à la haine en raison de l'orientation sexuelle)" aria-label="chart" id="datawrapper-chart-1bgsg" src="https://datawrapper.dwcdn.net/1bgsg/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="323"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>
@@ -125,11 +89,12 @@
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
-                            <h2>Analyse du résultat</h2>
+                            <h2>Résultats suisses</h2>
                         </div>
                     </div>
                     <div class="uk-card-body uk-text-left">
-                        
+                        <iframe title="Modification du 14.12.2018 du code pénal et du code pénal militaire (Discrimination et incitation à la haine en raison de l'orientation sexuelle)" aria-label="map" id="datawrapper-chart-6Zhff" src="https://datawrapper.dwcdn.net/6Zhff/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
                     </div>
                 </div>
             </div>
@@ -137,81 +102,11 @@
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
-                            <h2>Résultats détaillés</h2>
+                            <h2>Résultats Jura</h2>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <div class="uk-align-right" id="chartDiscriminationCH" style="width: 100%; height: 300px;"></div>
-                        <script>
-                            // Create map instance
-                            var resultatsDiscriminationCH = am4core.create("chartDiscriminationCH", am4maps.MapChart);
-
-                            // Set map definition
-                            resultatsDiscriminationCH.geodata = am4geodata_switzerlandHigh;
-
-                            // Set projection
-                            resultatsDiscriminationCH.projection = new am4maps.projections.Miller();
-
-                            // Create map polygon series
-                            var polygonSeries = resultatsDiscriminationCH.series.push
-
-
-                            // Make map load polygon (like country names) data from GeoJSON
-                            polygonSeries.useGeodata = true;
-
-                            //Create data series
-                            var série40to50 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
-                            série40to50.name = "40 à 50 %";
-                            série40to50.value = "40 à 50 %";
-                            série40to50.title = "Oui en %";
-                            série40to50.useGeodata = true;
-                            série40to50.include = ["CH-AI", "CH-SZ", "CH-UR"];
-                            série40to50.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série40to50.fill = am4core.color("#fd7272")
-                            série40to50.mapPolygons.template.fill = am4core.color("#fd7272")
-
-                            var série50to60 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
-                            série50to60.name = "50 à 60 %";
-                            série50to60.value = "50 à 60 %";
-                            série50to60.title = "Oui en %";
-                            série50to60.useGeodata = true;
-                            série50to60.include = ["CH-BE", "CH-LU","CH-OW", "CH-NW", "CH-GL", "CH-ZG", "CH-SO", "CH-SH", "CH-AR", "CH-SG", "CH-GR", "CH-AG", "CH-TG"];
-                            série50to60.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série50to60.fill = am4core.color("#88e56f")
-                            série50to60.mapPolygons.template.fill = am4core.color("#88e56f")
-
-                            var série60to70 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
-                            série60to70.name = "60 à 70 %";
-                            série60to70.value = "60 à 70 %";
-                            série60to70.title = "Oui en %";
-                            série60to70.useGeodata = true;
-                            série60to70.include = ["CH-ZH", "CH-FR", "CH-BL", "CH-TI", "CH-VS"];
-                            série60to70.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série60to70.fill = am4core.color("#63cf46")
-                            série60to70.mapPolygons.template.fill = am4core.color("#63cf46")
-
-                            var série70to80 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
-                            série70to80.name = "70 à 80 %";
-                            série70to80.value = "70 à 80 %";
-                            série70to80.title = "Oui en %";
-                            série70to80.useGeodata = true;
-                            série70to80.include = ["CH-BS", "CH-NE", "CH-GE", "CH-JU"];
-                            série70to80.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série70to80.fill = am4core.color("#42c121")
-                            série70to80.mapPolygons.template.fill = am4core.color("#42c121")
-
-                            var série80to90 = resultatsDiscriminationCH.series.push(new am4maps.MapPolygonSeries());
-                            série80to90.name = "80 à 90 %";
-                            série80to90.value = "80 à 90 %";
-                            série80to90.title = "Oui en %";
-                            série80to90.useGeodata = true;
-                            série80to90.include = ["CH-VD"];
-                            série80to90.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série80to90.fill = am4core.color("#33d708")
-                            série80to90.mapPolygons.template.fill = am4core.color("#33d708")
-
-                            resultatsDiscriminationCH.legend = new am4maps.Legend();
-                            resultatsDiscriminationCH.legend.position = "left";
+                        <iframe title="Modification du 14.12.2018 du code pénal et du code pénal militaire (Discrimination et incitation à la haine en raison de l'orientation sexuelle)" aria-label="map" id="datawrapper-chart-eZKi1" src="https://datawrapper.dwcdn.net/eZKi1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>

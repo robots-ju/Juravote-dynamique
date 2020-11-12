@@ -7,8 +7,7 @@
     </head>
     <body>
         <nav class="uk-navbar-container uk-light" uk-navbar>
-            <div class="uk-navbar-left">
-        
+            <div class="uk-navbar-left">        
                 <ul class="uk-navbar-nav">
                     <li id="Accueil">
                         <a href="<?php echo $PHPindex; ?>">Accueil</a>
@@ -23,9 +22,16 @@
                     </li>                
                     <li id="Equipe">
                         <a href="<?php echo $PHPequipe; ?>">L'équipe Juravote</a>
-                    </li>
+                    </li>                    
                 </ul>
             </div>
+            <!--<div class="uk-navbar-right"> 
+                <ul class="uk-navbar-nav">
+                    <li id="Forum">
+                        <a href="https://juravote.ch/forum">Forum</a>
+                    </li>
+                </ul>
+            </div>-->
         </nav>
     <script>
         document.location.search.slice(1).split("&").forEach(function (param) {

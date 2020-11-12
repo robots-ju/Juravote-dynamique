@@ -32,6 +32,9 @@
                     <li id="Equipe">
                         <a href="<?php echo $PHPequipe; ?>">L'équipe Juravote</a>
                     </li>
+                    <!--<li id="Forum">
+                        <a href="https://juravote.ch/forum">Forum</a>
+                    </li>-->
                     <li><a class="uk-button uk-button-text" href="https://twitter.com/JuraVote/" target="_blank"
                         uk-icon="icon: twitter; ratio: 1.2"></a></li>
                     <li><a class="uk-button uk-button-text" href="https://www.instagram.com/juravote/?hl=fr" target="_blank"

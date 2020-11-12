@@ -17,7 +17,7 @@
                         <a href="<?php echo $PHPvotationselectionsAccueil; ?>">Prochaines votations et élections</a>
                     </li>
                     <li id="Resultats">
-                        <a href="<?php echo $PHPresultats; ?>">Archives des résultats</a></li>
+                        <a href="<?php echo $PHPresultats; ?>">Résultats et archives</a></li>
                     <li id="Instances">
                         <a href="<?php echo $PHPinstances; ?>">Instances politiques</a>
                     </li>                

@@ -116,9 +116,9 @@
                         <div class="uk-width-1-1">
                             <ul class="uk-nav-primary uk-nav-parent-icon" uk-nav>
                                 <li class="uk-parent">
-                                    <a href="#">Sélectionnez une commune</a>
+                                    <a href="#"><!--Sélectionnez une commune-->A venir</a>
                                     <ul class="uk-nav-sub">
-                                        <li><a href="Alle/2019_2023/GouvernementAlle.php">Alle</a></li>
+                                        <!--<li><a href="Alle/2019_2023/GouvernementAlle.php">Alle</a></li>
                                         <li><a href="La Baroche/2019_2023/GouvernementLa Baroche.php">La Baroche</a></li>
                                         <li><a href="Basse-Allaine/2019_2023/GouvernementBasse-Allaine.php">Basse-Allaine</a></li>
                                         <li><a href="Beurnevesin/2019_2023/GouvernementBeurnevesin.php">Beurnevésin</a></li>
@@ -138,7 +138,7 @@
                                         <li><a href="Haute-Ajoie/2019_2023/GouvernementHaute-Ajoie.php">Haute-Ajoie</a></li>
                                         <li><a href="Lugnez/2019_2023/GouvernementLugnez.php">Lugnez</a></li>
                                         <li><a href="Porrentruy/2019_2023/GouvernementPorrentruy.php">Porrentruy</a></li>
-                                        <li><a href="Vendlincourt/2019_2023/GouvernementVendlincourt.php">Vendlincourt</a></li>
+                                        <li><a href="Vendlincourt/2019_2023/GouvernementVendlincourt.php">Vendlincourt</a></li>-->
                                     </ul>
                                 </li>
                             </ul>
@@ -164,9 +164,9 @@
                         <div class="uk-width-1-1">
                             <ul class="uk-nav-primary uk-nav-parent-icon" uk-nav>
                                 <li class="uk-parent">
-                                    <a href="#">Sélectionnez une commune</a>
+                                    <a href="#"><!--Sélectionnez une commune-->A venir</a>
                                     <ul class="uk-nav-sub">
-                                        <li><a href="Le Bémont/2019_2023/GouvernementLe Bémont.php">Le Bémont</a></li>
+                                        <!--<li><a href="Le Bémont/2019_2023/GouvernementLe Bémont.php">Le Bémont</a></li>
                                         <li><a href="Les Bois/2019_2023/GouvernementLes Bois.php">Les Bois</a></li>
                                         <li><a href="Les Breuleux/2019_2023/GouvernementLes Breuleux.php">Les Breuleux</a></li>
                                         <li><a href="Les Enfers/2019_2023/GouvernementLes Enfers.php">Les Enfers</a></li>
@@ -177,7 +177,7 @@
                                         <li><a href="Le Noirmont/2019_2023/GouvernementLe Noirmont.php">Le Noirmont</a></li>
                                         <li><a href="Saignelégier/2019_2023/GouvernementSaignelégier.php">Saignelégier</a></li>
                                         <li><a href="Saint-Brais/2019_2023/GouvernementSaint-Brais.php">Saint-Brais</a></li>
-                                        <li><a href="Soubey/2019_2023/GouvernementSoubey.php">Soubey</a></li>
+                                        <li><a href="Soubey/2019_2023/GouvernementSoubey.php">Soubey</a></li>-->
                                     </ul>
                                 </li>
                             </ul>

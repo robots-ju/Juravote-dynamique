@@ -120,7 +120,7 @@
                             </div>
                         </a>  
 
-                        <a href="Pages/Votations Et Elections/Votations/VotationsCO/Develier_20201213.php">                          
+                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Develier_20201213.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.12</div>

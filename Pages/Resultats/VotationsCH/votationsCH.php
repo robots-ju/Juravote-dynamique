@@ -81,7 +81,19 @@
                             <li>                            
                                 <a class="uk-accordion-title">2020</a>                                
                                 <div class="uk-accordion-content">
-                                    <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                                    <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20201129Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 29.11.2020</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>
                                         <div>
                                             <div class="uk-card uk-card-default uk-card-hover">
                                                 <a href="<?php echo $PHPresultats20200927Accueil ?>">

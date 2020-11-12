@@ -464,6 +464,9 @@
         $PHPresultatsMervelier20201026 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Mervelier/2020-10-25/Conseil.php";
 
     $PHPresultatsVotationsCH = "/Juravote-dynamique/Pages/Resultats/VotationsCH/votationsCH.php";
+        $PHPresultats20201129Accueil= "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/vfédérales.php";
+            $PHPvotationsCHEntreprisesResponsables = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/Responsables.php";
+            $PHPvotationsCHFinancementGuerre = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/Armes.php";
         $PHPresultats20200927Accueil= "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
             $PHPvotationsCHAvions = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_AvionsCombat.php";
             $PHPvotationsCHChasse = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_Chasse.php";

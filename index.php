@@ -109,6 +109,17 @@
                             </div>
                         </a>   
 
+                        <a href="<?php echo $siteLesEnfers ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.12</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Assemblée communale Les Enfers</h3>
+                                </div>                          
+                            </div>
+                        </a>
+
                         <a href="https://www.jura.ch/PLT/Calendrier-des-seances-plenieres.html">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">

@@ -76,7 +76,7 @@
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
-                            <h2>Résultats nationaux</h2>
+                            <h2>Résultats</h2>
                         </div>
                     </div>
                     <div class="uk-card-body">
@@ -89,7 +89,7 @@
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
-                            <h2>Résultats détaillés</h2>
+                            <h2>Résultats</h2>
                         </div>
                     </div>
                     <div class="uk-card-body">

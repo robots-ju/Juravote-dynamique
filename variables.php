@@ -620,6 +620,7 @@
             //FM
             $siteBreuleux = "https://www.breuleux.ch/";
             $siteLajoux = "https://www.lajoux.ch/";
+            $siteLesEnfers = "http://lesenfers.ch/";
 
         //PARTIS
             //FEDERAUX

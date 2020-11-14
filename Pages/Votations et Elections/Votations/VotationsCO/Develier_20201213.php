@@ -222,7 +222,7 @@
                         d’alimentation en eau de secours.Des discussions ont déjà été menées avec les propriétaires
                         fonciers concernés, afin d’obtenir les servitudes de passage,
                         et de garantir la faisabilité du projet.</p>
-                        <img src="PlanDeSituation.jpg" alt="Carte Develier">
+                        <img src="PlanDeSituation.JPG" alt="Carte Develier">
                     </div>
                     
 
@@ -245,10 +245,10 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A VENIR</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A VENIR</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A VENIR</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">A VENIR</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">-</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">-</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">-</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">-</span></td>
                         </tr>
                     </tbody>
                 </table>  

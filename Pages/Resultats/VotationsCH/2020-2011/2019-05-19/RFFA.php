@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Votations fédérales du 19 mai 2019</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -79,43 +79,7 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <div id="chartRFFA" style="width: 100%; height: 250px;"></div>
-                        <script>
-                            // Create chart instance
-                            var resultatRFFA = am4core.create("chartRFFA", am4charts.PieChart);
-
-                            // Add data
-                            resultatRFFA.data = [{
-                                "votes": "OUI",
-                                "suffrages": 1541147
-                            }, {
-                                "votes": "NON",
-                                "suffrages": 780457
-                            }];
-
-                            // Add and configure Series
-                            var dataRFFA = resultatRFFA.series.push(new am4charts.PieSeries());
-                            dataRFFA.dataFields.value = "suffrages";
-                            dataRFFA.dataFields.category = "votes";
-
-                            // Let's cut a hole in our Pie chart the size of 40% the radius
-                            resultatRFFA.innerRadius = am4core.percent(40);
-
-                            // Disable ticks and labels
-                            dataRFFA.labels.template.disabled = true;
-                            dataRFFA.ticks.template.disabled = true;
-
-                            // Disable tooltips
-                            dataRFFA.slices.template.tooltipText = "";
-
-                            // Add a legend
-                            resultatRFFA.legend = new am4charts.Legend();
-                            resultatRFFA.legend.position = "right";
-
-                            dataRFFA.colors.list = [
-                            am4core.color("#89ff6a"),
-                            am4core.color("#ff4242"),
-                            ]
+                        <iframe title="Loi fédérale du 28.09.2018 relative à la réforme fiscale et au financement de l’AVS (RFFA)" aria-label="chart" id="datawrapper-chart-HwIo9" src="https://datawrapper.dwcdn.net/HwIo9/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="323"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>
@@ -124,11 +88,12 @@
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
-                            <h2>Analyse du résultat</h2>
+                            <h2>Résultats Suisse</h2>
                         </div>
                     </div>
                     <div class="uk-card-body uk-text-left">
-                        
+                        <iframe title="Loi fédérale du 28.09.2018 relative à la réforme fiscale et au financement de l’AVS (RFFA)" aria-label="map" id="datawrapper-chart-7uhOD" src="https://datawrapper.dwcdn.net/7uhOD/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="446"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
                     </div>
                 </div>
             </div>
@@ -136,72 +101,11 @@
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
-                            <h2>Résultats détaillés</h2>
+                            <h2>Résultats Jura</h2>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <div class="uk-align-right" id="chartRFFAch" style="width: 100%; height: 300px;"></div>
-                        <script>
-                            // Create map instance
-                            var resultatsRFFACH = am4core.create("chartRFFAch", am4maps.MapChart);
-
-                            // Set map definition
-                            resultatsRFFACH.geodata = am4geodata_switzerlandHigh;
-
-                            // Set projection
-                            resultatsRFFACH.projection = new am4maps.projections.Miller();
-
-                            // Create map polygon series
-                            var polygonSeries = resultatsRFFACH.series.push
-
-
-                            // Make map load polygon (like country names) data from GeoJSON
-                            polygonSeries.useGeodata = true;
-
-                            //Create data series
-                            var série50to60 = resultatsRFFACH.series.push(new am4maps.MapPolygonSeries());
-                            série50to60.name = "50 à 60 %";
-                            série50to60.value = "50 à 60 %";
-                            série50to60.title = "Oui en %";
-                            série50to60.useGeodata = true;
-                            série50to60.include = ["CH-SO"];
-                            série50to60.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série50to60.fill = am4core.color("#88e56f")
-                            série50to60.mapPolygons.template.fill = am4core.color("#88e56f")
-
-                            var série60to70 = resultatsRFFACH.series.push(new am4maps.MapPolygonSeries());
-                            série60to70.name = "60 à 70 %";
-                            série60to70.value = "60 à 70 %";
-                            série60to70.title = "Oui en %";
-                            série60to70.useGeodata = true;
-                            série60to70.include = ["CH-ZH", "CH-BE", "CH-LU", "CH-UR", "CH-SZ", "CH-OW", "CH-NW", "CH-GL", "CH-ZG", "CH-FR", "CH-BS","CH-BL",
-                            "CH-SH", "CH-AR", "CH-AI", "CH-SG", "CH-GR", "CH-AG", "CH-TG", "CH-TI", "CH-GE", "CH-JU"];
-                            série60to70.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série60to70.fill = am4core.color("#63cf46")
-                            série60to70.mapPolygons.template.fill = am4core.color("#63cf46")
-
-                            var série70to80 = resultatsRFFACH.series.push(new am4maps.MapPolygonSeries());
-                            série70to80.name = "70 à 80 %";
-                            série70to80.value = "70 à 80 %";
-                            série70to80.title = "Oui en %";
-                            série70to80.useGeodata = true;
-                            série70to80.include = ["CH-VS","CH-NE"];
-                            série70to80.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série70to80.fill = am4core.color("#42c121")
-                            série70to80.mapPolygons.template.fill = am4core.color("#42c121")
-
-                            var série80to90 = resultatsRFFACH.series.push(new am4maps.MapPolygonSeries());
-                            série80to90.name = "80 à 90 %";
-                            série80to90.value = "80 à 90 %";
-                            série80to90.title = "Oui en %";
-                            série80to90.useGeodata = true;
-                            série80to90.include = ["CH-VD"];
-                            série80to90.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série80to90.fill = am4core.color("#33d708")
-                            série80to90.mapPolygons.template.fill = am4core.color("#33d708")
-
-                            resultatsRFFACH.legend = new am4maps.Legend();
-                            resultatsRFFACH.legend.position = "left";
+                        <iframe title="Loi fédérale du 28.09.2018 relative à la réforme fiscale et au financement de l’AVS (RFFA)" aria-label="map" id="datawrapper-chart-KX19G" src="https://datawrapper.dwcdn.net/KX19G/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>

@@ -233,27 +233,8 @@
                     la compétence au Conseil communal de contracter l’emprunt et de le consolider ?</p></b>
                 </li>
                 <li>
-                <h2>Partis communaux</h2>
-                <table class="uk-table">
-                    <thead>
-                        <tr>
-                            <th class="uk-text-center">PS</th>
-                            <th class="uk-text-center">PDC</th>
-                            <th class="uk-text-center">PLR</th>
-                            <th class="uk-text-center">UDC</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">-</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">-</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">-</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">-</span></td>
-                        </tr>
-                    </tbody>
-                </table>  
-
-                <h2>Autorités</h2>
+                
+                <h2>Autorités et partis</h2>
                 <table class="uk-table">
                     <thead>
                         <tr>
@@ -263,10 +244,12 @@
                             <th class="uk-text-center">Office fédéral des routes (OFROU)</th>
                             <th class="uk-text-center">Commission communale de gestion des Finances</th>
                             <th class="uk-text-center">Commission communale des Services industriels</th>
+                            <th class="uk-text-center">PLR</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
@@ -278,7 +261,7 @@
                 </table> 
                 </li>  
                 <li>            
-                <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil communal</div>
@@ -320,6 +303,21 @@
                             <p>Ce projet permet de sécuriser l’alimentation en eau
                             potable de la Commune mixte de Develier lors de périodes
                             sèches de longue durée ou de pollution d’une ressource.</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Ce projet est important pour sécuriser l'alimentation en eau potable de la Commune mixte de Develier
+                            lors de périodes sèches de longue durée ou de pollution d'une ressource.</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Un grand OUI pour s'assurer que le précieux liquide ne vient pas à manquer dans le village.</p>
                         </div>
                     </div>
                 </li>

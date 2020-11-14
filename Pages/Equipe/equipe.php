@@ -68,7 +68,77 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Daniel Renaud</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Chef de projet - Développeur</p>
+                                    <p class="uk-text-meta uk-margin-remove-top">Chef de projet - Marketing - Développeur</p>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>                    
+
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Gwenaël Girard</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Informatique - Design - Développeur</p>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>
+
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Sam Houser</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Finances - Design - Développeur</p>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>
+
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Gael Fleury</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>
+
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Antoine Freléchoux</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>
+
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Sylvain Lovis</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Développeur</p>
                                 </div>
                             </div>
                         </div>  
@@ -86,63 +156,7 @@
                                 </div>
                             </div>
                         </div>  
-                    </div>
-
-                    <div class="uk-card">
-                        <div class="uk-card-header">
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom">Gael Fleury</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Administration - Développeur</p>
-                                </div>
-                            </div>
-                        </div>  
-                    </div>
-
-                    <div class="uk-card">
-                        <div class="uk-card-header">
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom">Gwenaël Girard</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Design & Marketing - Développeur</p>
-                                </div>
-                            </div>
-                        </div>  
-                    </div>
-
-                    <div class="uk-card">
-                        <div class="uk-card-header">
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom">Sam Houser</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Design & Finances - Développeur</p>
-                                </div>
-                            </div>
-                        </div>  
-                    </div>
-
-                    <div class="uk-card">
-                        <div class="uk-card-header">
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom">Sylvain Lovis</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Administration - Développeur</p>
-                                </div>
-                            </div>
-                        </div>  
-                    </div>                   
+                    </div>                  
                 </div>
 
                 <div class="uk-width-expand@m">

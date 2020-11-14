@@ -82,7 +82,7 @@
                                 <a class="uk-accordion-title">2020</a>                                
                                 <div class="uk-accordion-content">
                                     <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
-                                        <div>
+                                        <!--<div>
                                             <div class="uk-card uk-card-default uk-card-hover">
                                                 <a href="<?php echo $PHPresultats20201129Accueil ?>">
                                                     <div class="uk-card-body">
@@ -93,7 +93,7 @@
                                                     </div>
                                                 </a>
                                             </div>      
-                                        </div>
+                                        </div>-->
                                         <div>
                                             <div class="uk-card uk-card-default uk-card-hover">
                                                 <a href="<?php echo $PHPresultats20200927Accueil ?>">

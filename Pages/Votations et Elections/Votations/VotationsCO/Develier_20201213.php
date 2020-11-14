@@ -244,7 +244,7 @@
                             <th class="uk-text-center">Office fédéral des routes (OFROU)</th>
                             <th class="uk-text-center">Commission communale de gestion des Finances</th>
                             <th class="uk-text-center">Commission communale des Services industriels</th>
-                            <th class="uk-text-center">PLR</th>
+                            <th class="uk-text-center">PLR Develier</th>
                         </tr>
                     </thead>
                     <tbody>

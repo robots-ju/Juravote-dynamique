@@ -81,43 +81,7 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <div id="chartSchengen" style="width: 100%; height: 250px;"></div>
-                        <script>
-                            // Create chart instance
-                            var resultatSchengen = am4core.create("chartSchengen", am4charts.PieChart);
-
-                            // Add data
-                            resultatSchengen.data = [{
-                                "votes": "OUI",
-                                "suffrages": 1501880
-                            }, {
-                                "votes": "NON",
-                                "suffrages": 854274
-                            }];
-
-                            // Add and configure Series
-                            var dataSchengen = resultatSchengen.series.push(new am4charts.PieSeries());
-                            dataSchengen.dataFields.value = "suffrages";
-                            dataSchengen.dataFields.category = "votes";
-
-                            // Let's cut a hole in our Pie chart the size of 40% the radius
-                            resultatSchengen.innerRadius = am4core.percent(40);
-
-                            // Disable ticks and labels
-                            dataSchengen.labels.template.disabled = true;
-                            dataSchengen.ticks.template.disabled = true;
-
-                            // Disable tooltips
-                            dataSchengen.slices.template.tooltipText = "";
-
-                            // Add a legend
-                            resultatSchengen.legend = new am4charts.Legend();
-                            resultatSchengen.legend.position = "right";
-
-                            dataSchengen.colors.list = [
-                            am4core.color("#89ff6a"),
-                            am4core.color("#ff4242"),
-                            ]
+                        <iframe title="Arrêté fédéral du 28.09.2018 portant approbation et mise en oeuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise de la directive (UE) 2017/853 modifiant la directive de l’UE sur les armes (Développement de l’acquis de Schengen)" aria-label="chart" id="datawrapper-chart-JEuWz" src="https://datawrapper.dwcdn.net/JEuWz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>
@@ -126,11 +90,12 @@
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
-                            <h2>Analyse du résultat</h2>
+                            <h2>Résultats Suisse</h2>
                         </div>
                     </div>
                     <div class="uk-card-body uk-text-left">
-                        
+                        <iframe title="Arrêté fédéral du 28.09.2018 portant approbation et mise en oeuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise de la directive (UE) 2017/853 modifiant la directive de l’UE sur les armes (Développement de l’acquis de Schengen)" aria-label="map" id="datawrapper-chart-LY1t0" src="https://datawrapper.dwcdn.net/LY1t0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="446"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
                     </div>
                 </div>
             </div>
@@ -138,72 +103,11 @@
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column" uk-grid>
-                            <h2>Résultats détaillés</h2>
+                            <h2>Résultats Jura</h2>
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <div class="uk-align-right" id="chartSchengench" style="width: 100%; height: 300px;"></div>
-                        <script>
-                            // Create map instance
-                            var resultatsSchengenCH = am4core.create("chartSchengench", am4maps.MapChart);
-
-                            // Set map definition
-                            resultatsSchengenCH.geodata = am4geodata_switzerlandHigh;
-
-                            // Set projection
-                            resultatsSchengenCH.projection = new am4maps.projections.Miller();
-
-                            // Create map polygon series
-                            var polygonSeries = resultatsSchengenCH.series.push
-
-
-                            // Make map load polygon (like country names) data from GeoJSON
-                            polygonSeries.useGeodata = true;
-
-                            //Create data series
-                            var série40to50 = resultatsSchengenCH.series.push(new am4maps.MapPolygonSeries());
-                            série40to50.name = "40 à 50 %";
-                            série40to50.value = "40 à 50 %";
-                            série40to50.title = "Oui en %";
-                            série40to50.useGeodata = true;
-                            série40to50.include = ["CH-TI"];
-                            série40to50.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série40to50.fill = am4core.color("#fd7272")
-                            série40to50.mapPolygons.template.fill = am4core.color("#fd7272")
-
-                            var série50to60 = resultatsSchengenCH.series.push(new am4maps.MapPolygonSeries());
-                            série50to60.name = "50 à 60 %";
-                            série50to60.value = "50 à 60 %";
-                            série50to60.title = "Oui en %";
-                            série50to60.useGeodata = true;
-                            série50to60.include = ["CH-UR", "CH-SZ", "CH-OW", "CH-NW", "CH-GL", "CH-SO", "CH-SH", "CH-AI", "CH-GR", "CH-AG",
-                            "CH-TG", "CH-VS"];
-                            série50to60.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série50to60.fill = am4core.color("#88e56f")
-                            série50to60.mapPolygons.template.fill = am4core.color("#88e56f")
-
-                            var série60to70 = resultatsSchengenCH.series.push(new am4maps.MapPolygonSeries());
-                            série60to70.name = "60 à 70 %";
-                            série60to70.value = "60 à 70 %";
-                            série60to70.title = "Oui en %";
-                            série60to70.useGeodata = true;
-                            série60to70.include = ["CH-BE", "CH-LU", "CH-ZG", "CH-FR", "CH-BL", "CH-AR", "CH-SG", "CH-JU"];
-                            série60to70.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série60to70.fill = am4core.color("#63cf46")
-                            série60to70.mapPolygons.template.fill = am4core.color("#63cf46")
-
-                            var série70to80 = resultatsSchengenCH.series.push(new am4maps.MapPolygonSeries());
-                            série70to80.name = "70 à 80 %";
-                            série70to80.value = "70 à 80 %";
-                            série70to80.title = "Oui en %";
-                            série70to80.useGeodata = true;
-                            série70to80.include = ["CH-ZH", "CH-BS", "CH-VD", "CH-NE", "CH-GE"];
-                            série70to80.mapPolygons.template.tooltipText = "{title} - {name} - {value}";
-                            série70to80.fill = am4core.color("#42c121")
-                            série70to80.mapPolygons.template.fill = am4core.color("#42c121")
-
-                            resultatsSchengenCH.legend = new am4maps.Legend();
-                            resultatsSchengenCH.legend.position = "left";
+                        <iframe title="Arrêté fédéral du 28.09.2018 portant approbation et mise en oeuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise de la directive (UE) 2017/853 modifiant la directive de l’UE sur les armes (Développement de l’acquis de Schengen)" aria-label="map" id="datawrapper-chart-QKMff" src="https://datawrapper.dwcdn.net/QKMff/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>

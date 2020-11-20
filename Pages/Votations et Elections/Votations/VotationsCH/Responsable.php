@@ -104,7 +104,7 @@
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
                         </tr>
                     </tbody>
                 </table>    
@@ -117,9 +117,9 @@
                             <th class="uk-text-center">Verts</th>
                             <th class="uk-text-center">PS</th>
                             <th class="uk-text-center">PEV</th>
+                            <th class="uk-text-center">PCSI</th>
                             <th class="uk-text-center">PVL</th>
                             <th class="uk-text-center">PDC</th>
-                            <th class="uk-text-center">PCSI</th>
                             <th class="uk-text-center">PLR</th>
                             <th class="uk-text-center">UDC</th>
                         </tr>
@@ -131,10 +131,10 @@
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">NEUTRE</span></td>
+                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">NEUTRE</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                             <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
                         </tr>
                     </tbody>
                 </table>    

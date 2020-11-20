@@ -599,9 +599,11 @@
             $siteBasseAllaine = "http://www.basse-allaine.ch/";
             $siteBoncourt = "https://www.boncourt.ch/";
             $siteBure = "http://www.bure.ch/";
+            $siteClosDuDoubs = "http://www.closdudoubs.ch/";
             $siteCoeuve = "https://coeuve.ch/";
             $siteCornol = "http://www.cornol.ch/fr/";
             $siteCourgenay = "http://www.courgenay.ch/fr/";
+            $siteCourtedoux = "https://courtedoux.ch/";
             $siteFahy = "http://www.fahy.ch/";
             $sitePorrentruy = "https://porrentruy.ch/";
 
@@ -621,6 +623,7 @@
             $siteBreuleux = "https://www.breuleux.ch/";
             $siteLajoux = "https://www.lajoux.ch/";
             $siteLesEnfers = "http://lesenfers.ch/";
+            $siteSoubey = "http://www.soubey.ch/";
 
         //PARTIS
             //FEDERAUX

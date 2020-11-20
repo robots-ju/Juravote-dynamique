@@ -63,41 +63,8 @@
                         </div>                        
                     </div>
                     
-                    <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s uk-flex-first@s">   
+                    <div class="uk-card uk-card-body uk-padding-remove uk-width-1-3@s uk-flex-first@s">   
                         <h3 class="uk-heading-divider uk-text-center">Prochains événements</h3> 
-                        <a href="<?php echo $siteHauteSorne ?>">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >16.11</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Conseil général Haute-Sorne</h3>
-                                </div>                          
-                            </div>
-                        </a>
-
-                        <a href="https://www.jura.ch/PLT/Calendrier-des-seances-plenieres.html">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >18-19.11</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Parlement Jurassien</h3>
-                                </div>                          
-                            </div>
-                        </a>  
-
-                        <a href="<?php echo $sitePorrentruy ?>">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >19.11</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Conseil de ville Porrentruy</h3>
-                                </div>                          
-                            </div>
-                        </a>
-                        
                         <a href="<?php echo $PHPvotationsCHaccueil ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -131,6 +98,39 @@
                             </div>
                         </a>  
 
+                        <a href="<?php echo $siteClosDuDoubs ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.12</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Assemblée communale Clos-du-Doubs</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
+                        <a href="<?php echo $siteCourtedoux ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.12</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Assemblée communale Courtedoux</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
+                        <a href="<?php echo $siteSoubey ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.12</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Assemblée communale Soubey</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
                         <a href="Pages/Votations et Elections/Votations/VotationsCO/Develier_20201213.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -151,7 +151,18 @@
                                     <h3 class="uk-card-title">Parlement Jurassien</h3>
                                 </div>                          
                             </div>
-                        </a>                                             
+                        </a>   
+
+                        <a href="<?php echo $siteBreuleux ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >21.12</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Assemblée communale Les Breuleux</h3>
+                                </div>                          
+                            </div>
+                        </a>                                          
                     </div>
 
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       
@@ -234,6 +245,16 @@
                                 </div>
                                 <div class="uk-card-body">
                                     <h3 class="uk-card-title">Election Châtillon</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+                        <a href="<?php echo $lien ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >24.01</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Soyhières</h3>
                                 </div>                          
                             </div>
                         </a> 

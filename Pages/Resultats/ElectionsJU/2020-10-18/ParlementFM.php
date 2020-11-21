@@ -72,6 +72,7 @@
                         <p><b>Mode de votation : </b>Election à un tour</p>
                         <p><a href="<?php echo $PHPelectionsJUParlementFM ?>">Lien vers les informations d'élection</a></p>
                         <p><a href="<?php echo $PHPParlementJU20212025 ?>">Composition du nouveau Parlement</a></p>
+                        <p><b>Résultats par communes : </b></p>   
                     </div>
                 </div>
             </div>
@@ -104,372 +105,49 @@
         <ul class="uk-switcher uk-margin">
         <li>   
                 <div class="uk-card-body">
-                    <div class="uk-align-right" id="chartECGouvernement" style="width: 100%; height: 500px;"></div>
-                    <script type="module">
-
-                        import { db } from  '../../../../JS/db.js'
-
-
-
-                        // PLRJ
-                        let PLRJCandidats = [];
-
-                        db.collection('elections').doc('ju-plt-20201018')
-                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
-                            .doc('liste1-PLRJ').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
-                            let candidats = querySnapshot.docs.map(doc => doc.data());
-                            candidats.forEach(candidat => {
-                                PLRJCandidats.push({
-                                    "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voix),
-                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
-                                });
-                            })
-
-
-                            let chartECGouvernement = am4core.create("chartECGouvernement", am4charts.XYChart);
-
-                            // Create axes
-                            let categoryAxis = chartECGouvernement.yAxes.push(new am4charts.CategoryAxis());
-                            categoryAxis.dataFields.category = "candidat";
-                            categoryAxis.renderer.minGridDistance = 4;
-
-
-
-                            let valueAxis = chartECGouvernement.xAxes.push(new am4charts.ValueAxis());
-                            valueAxis.min = 0;
-                            valueAxis.title.text = "Suffrages";
-
-
-                            // Create series
-                            let series = chartECGouvernement.series.push(new am4charts.ColumnSeries());
-                            series.dataFields.valueX = "Suffrages";
-                            series.dataFields.categoryY = "candidat";
-                            series.name = "Suffrages";
-                            series.columns.template.propertyFields.fill = "color";
-                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
-
-                            chartECGouvernement.data = PLRJCandidats;
-                        }) ;
-
+                    <iframe title="Election 2020 du Parlement jurassien - District des Franches-Montagnes - PLR" aria-label="Histogramme" id="datawrapper-chart-WehY4" src="https://datawrapper.dwcdn.net/WehY4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="360"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                     </script>
                 </div>
             </li> 
             <li>   
                 <div class="uk-card-body">
-                    <div class="uk-align-right" id="chartECGouvernement2" style="width: 100%; height: 500px;"></div>
-                    <script type="module">
-
-                        import { db } from  '../../../../JS/db.js'
-
-                        let PSJCandidats = [];
-
-                        db.collection('elections').doc('ju-plt-20201018')
-                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
-                            .doc('liste2-PSJ').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
-                            let candidats = querySnapshot.docs.map(doc => doc.data());
-                            candidats.forEach(candidat => {
-                                PSJCandidats.push({
-                                    "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voix),
-                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
-                                });
-                            });
-                            let chartECGouvernement2 = am4core.create("chartECGouvernement2", am4charts.XYChart);
-
-                            // Create axes
-                            let categoryAxis = chartECGouvernement2.yAxes.push(new am4charts.CategoryAxis());
-                            categoryAxis.dataFields.category = "candidat";
-                            categoryAxis.renderer.minGridDistance = 4;
-
-
-                            let valueAxis = chartECGouvernement2.xAxes.push(new am4charts.ValueAxis());
-                            valueAxis.min = 0;
-                            valueAxis.title.text = "Suffrages";
-
-
-                            // Create series
-                            let series = chartECGouvernement2.series.push(new am4charts.ColumnSeries());
-                            series.dataFields.valueX = "Suffrages";
-                            series.dataFields.categoryY = "candidat";
-                            series.name = "Suffrages";
-                            series.columns.template.propertyFields.fill = "color";
-                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
-
-                            chartECGouvernement2.data = PSJCandidats;
-
-                        });
+                    <iframe title="Election 2020 du Parlement jurassien - District des Franches-Montagnes - PS" aria-label="Histogramme" id="datawrapper-chart-00Is6" src="https://datawrapper.dwcdn.net/00Is6/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="360"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                     </script>
                 </div>
             </li>
             <li>   
                 <div class="uk-card-body">
-                    <div class="uk-align-right" id="chartECGouvernement3" style="width: 100%; height: 500px;"></div>
-                    <script type="module">
-
-                        import { db } from  '../../../../JS/db.js'
-
-                        let PDCCandidats = [];
-
-                        db.collection('elections').doc('ju-plt-20201018')
-                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
-                            .doc('liste3-PDC').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
-                            let candidats = querySnapshot.docs.map(doc => doc.data());
-                            candidats.forEach(candidat => {
-                                PDCCandidats.push({
-                                    "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voix),
-                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
-                                });
-                            });
-                            let chartECGouvernement3 = am4core.create("chartECGouvernement3", am4charts.XYChart);
-
-                            // Create axes
-                            let categoryAxis = chartECGouvernement3.yAxes.push(new am4charts.CategoryAxis());
-                            categoryAxis.dataFields.category = "candidat";
-                            categoryAxis.renderer.minGridDistance = 4;
-
-
-                            let valueAxis = chartECGouvernement3.xAxes.push(new am4charts.ValueAxis());
-                            valueAxis.min = 0;
-                            valueAxis.title.text = "Suffrages";
-
-                            // Create series
-                            let series = chartECGouvernement3.series.push(new am4charts.ColumnSeries());
-                            series.dataFields.valueX = "Suffrages";
-                            series.dataFields.categoryY = "candidat";
-                            series.name = "Suffrages";
-                            series.columns.template.propertyFields.fill = "color";
-                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
-
-                            chartECGouvernement3.data = PDCCandidats;
-                        });
-
+                    <iframe title="Election 2020 du Parlement jurassien - District des Franches-Montagnes - PDC" aria-label="Histogramme" id="datawrapper-chart-EE6R9" src="https://datawrapper.dwcdn.net/EE6R9/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="360"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                     </script>
                 </div>
             </li>
             <li>   
                 <div class="uk-card-body">
-                    <div class="uk-align-right" id="chartECGouvernement4" style="width: 100%; height: 500px;"></div>
-                    <script type="module">
-                        import { db } from  '../../../../JS/db.js'
-
-                        let CSPOPCandidats = [];
-
-                        db.collection('elections').doc('ju-plt-20201018')
-                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
-                            .doc('liste4-CS-POP').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
-                            let candidats = querySnapshot.docs.map(doc => doc.data());
-                            candidats.forEach(candidat => {
-                                CSPOPCandidats.push({
-                                    "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voix),
-                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
-                                });
-                            });
-                            let chartECGouvernement4 = am4core.create("chartECGouvernement4", am4charts.XYChart);
-
-                            // Create axes
-                            let categoryAxis = chartECGouvernement4.yAxes.push(new am4charts.CategoryAxis());
-                            categoryAxis.dataFields.category = "candidat";
-                            categoryAxis.renderer.minGridDistance = 4;
-
-
-                            let valueAxis = chartECGouvernement4.xAxes.push(new am4charts.ValueAxis());
-                            valueAxis.min = 0;
-                            valueAxis.title.text = "Suffrages";
-
-
-                            // Create series
-                            let series = chartECGouvernement4.series.push(new am4charts.ColumnSeries());
-                            series.dataFields.valueX = "Suffrages";
-                            series.dataFields.categoryY = "candidat";
-                            series.name = "Suffrages";
-                            series.columns.template.propertyFields.fill = "color";
-                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
-
-                            chartECGouvernement4.data = CSPOPCandidats;
-                        });
+                    <iframe title="Election 2020 du Parlement jurassien - District des Franches-Montagnes - CS-POP" aria-label="Histogramme" id="datawrapper-chart-U6kFk" src="https://datawrapper.dwcdn.net/U6kFk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="240"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                     </script>
                 </div>
             </li>
             <li>   
                 <div class="uk-card-body">
-                    <div class="uk-align-right" id="chartECGouvernement5" style="width: 100%; height: 500px;"></div>
-                    <script type="module">
-                        import { db } from  '../../../../JS/db.js'
-
-                        let UDCCandidats = [];
-
-                        db.collection('elections').doc('ju-plt-20201018')
-                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
-                            .doc('liste5-UDC').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
-                            let candidats = querySnapshot.docs.map(doc => doc.data());
-                            candidats.forEach(candidat => {
-                                UDCCandidats.push({
-                                    "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voix),
-                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
-                                });
-                            });
-                            let chartECGouvernement5 = am4core.create("chartECGouvernement5", am4charts.XYChart);
-
-                            // Create axes
-                            let categoryAxis = chartECGouvernement5.yAxes.push(new am4charts.CategoryAxis());
-                            categoryAxis.dataFields.category = "candidat";
-                            categoryAxis.renderer.minGridDistance = 4;
-
-
-                            let valueAxis = chartECGouvernement5.xAxes.push(new am4charts.ValueAxis());
-                            valueAxis.min = 0;
-                            valueAxis.title.text = "Suffrages";
-
-
-                            // Create series
-                            let series = chartECGouvernement5.series.push(new am4charts.ColumnSeries());
-                            series.dataFields.valueX = "Suffrages";
-                            series.dataFields.categoryY = "candidat";
-                            series.name = "Suffrages";
-                            series.columns.template.propertyFields.fill = "color";
-                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
-
-                            chartECGouvernement5.data = UDCCandidats;
-                        });
+                    <iframe title="Election 2020 du Parlement jurassien - District des Franches-Montagnes - UDC" aria-label="Histogramme" id="datawrapper-chart-aMdIn" src="https://datawrapper.dwcdn.net/aMdIn/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="360"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                     </script>
                 </div>
             </li>
             <li>   
                 <div class="uk-card-body">
-                    <div class="uk-align-right" id="chartECGouvernement6" style="width: 100%; height: 500px;"></div>
-                    <script type="module">
-                        import { db } from  '../../../../JS/db.js'
-
-                        let VertsCandidats = [];
-
-                        db.collection('elections').doc('ju-plt-20201018')
-                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
-                            .doc('liste6-Verts').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
-                            let candidats = querySnapshot.docs.map(doc => doc.data());
-                            candidats.forEach(candidat => {
-                                VertsCandidats.push({
-                                    "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voix),
-                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
-                                });
-                            });
-                            let chartECGouvernement6 = am4core.create("chartECGouvernement6", am4charts.XYChart);
-
-                            // Create axes
-                            let categoryAxis = chartECGouvernement6.yAxes.push(new am4charts.CategoryAxis());
-                            categoryAxis.dataFields.category = "candidat";
-                            categoryAxis.renderer.minGridDistance = 4;
-
-
-                            let valueAxis = chartECGouvernement6.xAxes.push(new am4charts.ValueAxis());
-                            valueAxis.min = 0;
-                            valueAxis.title.text = "Suffrages";
-
-
-                            // Create series
-                            let series = chartECGouvernement6.series.push(new am4charts.ColumnSeries());
-                            series.dataFields.valueX = "Suffrages";
-                            series.dataFields.categoryY = "candidat";
-                            series.name = "Suffrages";
-                            series.columns.template.propertyFields.fill = "color";
-                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
-
-                            chartECGouvernement6.data = VertsCandidats;
-                        });
+                    <iframe title="Election 2020 du Parlement jurassien - District des Franches-Montagnes - Vert-e-s" aria-label="Histogramme" id="datawrapper-chart-8KTAJ" src="https://datawrapper.dwcdn.net/8KTAJ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="360"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                     </script>
                 </div>
             </li>
             <li>   
                 <div class="uk-card-body">
-                    <div class="uk-align-right" id="chartECGouvernement7" style="width: 100%; height: 500px;"></div>
-                    <script type="module">
-                        import { db } from  '../../../../JS/db.js'
-
-                        let PCSICandidats = [];
-
-                        db.collection('elections').doc('ju-plt-20201018')
-                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
-                            .doc('liste7-PCSI').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
-                            let candidats = querySnapshot.docs.map(doc => doc.data());
-                            candidats.forEach(candidat => {
-                                PCSICandidats.push({
-                                    "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voix),
-                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
-                                });
-                            });
-                            let chartECGouvernement7 = am4core.create("chartECGouvernement7", am4charts.XYChart);
-
-                            // Create axes
-                            let categoryAxis = chartECGouvernement7.yAxes.push(new am4charts.CategoryAxis());
-                            categoryAxis.dataFields.category = "candidat";
-                            categoryAxis.renderer.minGridDistance = 4;
-
-
-                            let valueAxis = chartECGouvernement7.xAxes.push(new am4charts.ValueAxis());
-                            valueAxis.min = 0;
-                            valueAxis.title.text = "Suffrages";
-
-
-                            // Create series
-                            let series = chartECGouvernement7.series.push(new am4charts.ColumnSeries());
-                            series.dataFields.valueX = "Suffrages";
-                            series.dataFields.categoryY = "candidat";
-                            series.name = "Suffrages";
-                            series.columns.template.propertyFields.fill = "color";
-                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
-
-                            chartECGouvernement7.data = PCSICandidats;
-                        });
+                    <iframe title="Election 2020 du Parlement jurassien - District des Franches-Montagnes - PCSI" aria-label="Histogramme" id="datawrapper-chart-9NlLU" src="https://datawrapper.dwcdn.net/9NlLU/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="360"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                     </script>
                 </div>
             </li>
             <li>   
                 <div class="uk-card-body">
-                    <div class="uk-align-right" id="chartECGouvernement8" style="width: 100%; height: 500px;"></div>
-                    <script type="module">
-                        import { db } from  '../../../../JS/db.js'
-
-                        let PVLCandidats = [];
-
-                        db.collection('elections').doc('ju-plt-20201018')
-                            .collection('districts').doc("Franches-Montagnes").collection('Partis')
-                            .doc('liste8-PVL').collection('candidats').orderBy('voix', 'asc').get().then(querySnapshot => {
-                            let candidats = querySnapshot.docs.map(doc => doc.data());
-                            candidats.forEach(candidat => {
-                                PVLCandidats.push({
-                                    "candidat": candidat.nomPrenom,
-                                    "Suffrages": parseInt(candidat.voix),
-                                    "color": candidat.elu ? "#2ecc71" : "#3498db"
-                                });
-                            });
-                            let chartECGouvernement8 = am4core.create("chartECGouvernement8", am4charts.XYChart);
-
-                            // Create axes
-                            let categoryAxis = chartECGouvernement8.yAxes.push(new am4charts.CategoryAxis());
-                            categoryAxis.dataFields.category = "candidat";
-                            categoryAxis.renderer.minGridDistance = 4;
-
-
-                            let valueAxis = chartECGouvernement8.xAxes.push(new am4charts.ValueAxis());
-                            valueAxis.min = 0;
-                            valueAxis.title.text = "Suffrages";
-
-
-                            // Create series
-                            let series = chartECGouvernement8.series.push(new am4charts.ColumnSeries());
-                            series.dataFields.valueX = "Suffrages";
-                            series.dataFields.categoryY = "candidat";
-                            series.name = "Suffrages";
-                            series.columns.template.propertyFields.fill = "color";
-                            series.columns.template.tooltipText = "{candidat}, {Suffrages} suffrages";
-
-                            chartECGouvernement8.data = PVLCandidats;
-                        });
+                    <iframe title="Election 2020 du Parlement jurassien - District des Franches-Montagnes - PVL" aria-label="Histogramme" id="datawrapper-chart-O79y0" src="https://datawrapper.dwcdn.net/O79y0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="168"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                     </script>
                 </div>
             </li>

@@ -511,7 +511,36 @@
                             </script>       
                         </div>
                     </div>
-                </div>            
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <h2>Résultats par communes</h2>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <iframe title="Election au Gouvernement jurassien - 1er tour" aria-label="map" id="datawrapper-chart-Iqaya" src="https://datawrapper.dwcdn.net/Iqaya/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="513"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                            </script>
+                        </div>
+                        
+                    </div>                    
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <h2>Comparaison entre le 1er tour et le 2e tour</h2>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <iframe title="Election au Gouvernement jurassien - comparaison entre 1er et 2e tour" aria-label="grouped bars" id="datawrapper-chart-nHfkZ" src="https://datawrapper.dwcdn.net/nHfkZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="557"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                            </script>
+                        </div>
+                    </div>
+                </div>              
             </div>
         </section>
     </main>

@@ -53,7 +53,7 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Elections cantonales du 18 octobre 2020</h1>
         <hr>
-        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" style="padding-bottom: 2%" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="ParlementDelemont.php">
@@ -110,7 +110,9 @@
                     </a>
                 </div>
             </div>
-        </div>    
+        </div> 
+        <iframe title="Election du Parlement jurassien" aria-label="map" id="datawrapper-chart-tm9lP" src="https://datawrapper.dwcdn.net/tm9lP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="513"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+        </script>   
     </section>
 </main>
 <footer>

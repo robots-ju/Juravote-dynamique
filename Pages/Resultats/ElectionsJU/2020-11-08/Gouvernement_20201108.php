@@ -70,32 +70,7 @@
                         <p><b>Participation : </b>45.66 %</p>
                         <p><a href="<?php echo $PHPelectionsJUGouvernement2 ?>">Présentations des candidats-es</a></p>
                         <p><a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">Résultats du 1er tour</a></p>
-                        <p><a href="<?php echo $PHPGouvernementJU20212025 ?>">Composition du nouveau Gouvernement</a></p>                                         
-                    </div>
-                </div>
-            </div>
-                <div>
-                    <div class="uk-card uk-card-default">
-                        <div class="uk-card-header">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <h2>Résultats cantonaux</h2>
-                            </div>
-                        </div>
-                        <div class="uk-card-body">
-                        <iframe title="Election au Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-wgEEe" src="https://datawrapper.dwcdn.net/wgEEe/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                            </script>
-                        </div>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="uk-card uk-card-default">
-                        <div class="uk-card-header">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <h2>Résultats par communes</h2>
-                            </div>
-                        </div>
-                        <div class="uk-card-body">
+                        <p><a href="<?php echo $PHPGouvernementJU20212025 ?>">Composition du nouveau Gouvernement</a></p>    
                         <a class="uk-button uk-button-link" href="#modal-container1" uk-toggle>Boécourt</a>
                             <div id="modal-container1" class="uk-modal-container" uk-modal>
                                 <div class="uk-modal-dialog uk-modal-body">
@@ -573,9 +548,37 @@
                                     <iframe title="Soubey - élection du Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-vmcZr" src="https://datawrapper.dwcdn.net/vmcZr/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="234"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                                     </script>
                                 </div>
+                            </div>                                     
+                    </div>
+                </div>
+            </div>
+                <div>
+                    <div class="uk-card uk-card-default">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <h2>Résultats cantonaux</h2>
                             </div>
                         </div>
+                        <div class="uk-card-body">
+                        <iframe title="Election au Gouvernement jurassien (2e tour)" aria-label="Histogramme" id="datawrapper-chart-wgEEe" src="https://datawrapper.dwcdn.net/wgEEe/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="261"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                            </script>
+                        </div>
                     </div>
+                </div>
+
+                <div>
+                    <div class="uk-card uk-card-default">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <h2>Résultats par communes</h2>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <iframe title="Election au Gouvernement jurassien - 2e tour" aria-label="map" id="datawrapper-chart-MBVGy" src="https://datawrapper.dwcdn.net/MBVGy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="542"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                            </script>
+                        </div>
+                        
+                    </div>                    
                 </div>
 
                 <div>

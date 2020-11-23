@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-        <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT']."/variables.php"; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Election Movelier</title>
+        <title>JuraVote | Election Châtillon</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -45,10 +45,20 @@
             </div>
         </header>
 <main>
-    <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Election Movelier du 18 octobre 2020</h1>
-        <hr>
-        <p class="uk-text-center">Les informations seront bientôt disponibles !</p>
+    <section style="padding: 2%">
+            <h1 class="uk-heading-large">Election du 23 novembre 2020 (17 janvier 2021) - Châtillon </h1>
+            <hr>
+            <h2 style="padding-bottom: 2%;">Délai de dépôt des listes</h2>
+            <p>Le délai du dépôt de liste est arrivé à échéance le 23 novembre 2020.
+            Pendant ce délai, chaque citoyen-ne qui jouit des droits politiques pouvait être candidat-e à l'élection.</p>
+            
+            <h2 style="padding-bottom: 2%;">Résultats à l'issue du délai de dépôt des listes</h2>
+            <p>Un seul candidat s'est présentée à l'élection au Conseil communal. Loris Cortat est donc élu
+            tacitement au sein du Conseil communal..
+            </p>
+            <p>A noter que l'élection prévue le 17 janvier 2021 n'aura pas lieu. Lorsqu'un-e seul-e candidat-e est déclaré-e,
+            l'élection est tacite et effective dès l'échéance du délai de dépôt des listes.
+            </p>
     </section>
 </main>
 </body>

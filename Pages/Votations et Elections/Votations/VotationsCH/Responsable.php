@@ -81,81 +81,20 @@
                         <b><p>Acceptez-vous l’initiative populaire « Entreprises responsables – pour protéger l’être humain et l’environnement » ?</p></b>
                 </li>
                 <li>
-                <h2>Partis fédéraux</h2>
-                <table class="uk-table">
-                    <thead>
-                        <tr>
-                            <th class="uk-text-center">Verts</th>
-                            <th class="uk-text-center">PS</th>
-                            <th class="uk-text-center">PEV</th>
-                            <th class="uk-text-center">PVL</th>
-                            <th class="uk-text-center">PDC</th>
-                            <th class="uk-text-center">PBD</th>
-                            <th class="uk-text-center">PLR</th>
-                            <th class="uk-text-center">UDC</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                        </tr>
-                    </tbody>
-                </table>    
+                    <div class="uk-column-1-3@m uk-column-1-1@s">
+                        <!--<h2>Partis fédéraux</h2>-->
+                        <iframe title="Recommandations de vote des partis fédéraux" aria-label="chart" id="datawrapper-chart-MJ6p0" src="https://datawrapper.dwcdn.net/MJ6p0/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>   
 
-                <h2>Partis jurassiens</h2>
-                <table class="uk-table">
-                    <thead>
-                        <tr>
-                            <th class="uk-text-center">CS-POP</th>
-                            <th class="uk-text-center">Verts</th>
-                            <th class="uk-text-center">PS</th>
-                            <th class="uk-text-center">PEV</th>
-                            <th class="uk-text-center">PCSI</th>
-                            <th class="uk-text-center">PVL</th>
-                            <th class="uk-text-center">PDC</th>
-                            <th class="uk-text-center">PLR</th>
-                            <th class="uk-text-center">UDC</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">NEUTRE</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">NEUTRE</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                        </tr>
-                    </tbody>
-                </table>    
+                        <!--<h2>Partis jurassiens</h2>-->
+                        <iframe title="Recommandations de vote des partis jurassiens" aria-label="chart" id="datawrapper-chart-T6RWD" src="https://datawrapper.dwcdn.net/T6RWD/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
+                    
 
-                <h2>Autorités</h2>
-                <table class="uk-table">
-                    <thead>
-                        <tr>
-                            <th class="uk-text-center">Conseil fédéral</th>
-                            <th class="uk-text-center">Conseil des Etats</th>
-                            <th class="uk-text-center">Conseil national</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: red;">NON</span></td>
-                        </tr>
-                    </tbody>
-                </table> 
+                        <!--<h2>Autorités</h2>-->
+                        <iframe title="Recommandations de vote des Autorités" aria-label="chart" id="datawrapper-chart-gJazP" src="https://datawrapper.dwcdn.net/gJazP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
+                    </div>
                 </li>  
                 <li>            
                 <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>

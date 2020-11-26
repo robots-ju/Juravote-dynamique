@@ -233,32 +233,9 @@
                     la compétence au Conseil communal de contracter l’emprunt et de le consolider ?</p></b>
                 </li>
                 <li>
-                
-                <h2>Autorités et partis</h2>
-                <table class="uk-table">
-                    <thead>
-                        <tr>
-                            <th class="uk-text-center">Conseil communal de Develier</th>
-                            <th class="uk-text-center">Conseil communal de Delémont</th>
-                            <th class="uk-text-center">Instances cantonales</th>
-                            <th class="uk-text-center">Office fédéral des routes (OFROU)</th>
-                            <th class="uk-text-center">Commission communale de gestion des Finances</th>
-                            <th class="uk-text-center">Commission communale des Services industriels</th>
-                            <th class="uk-text-center">PLR Develier</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                        </tr>
-                    </tbody>
-                </table> 
+                    <!--<h2>Autorités et partis</h2>-->
+                    <iframe title="Recommandations de vote des autorités et des partis communaux" aria-label="chart" id="datawrapper-chart-slXyQ" src="https://datawrapper.dwcdn.net/slXyQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                    </script>
                 </li>  
                 <li>            
                 <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>

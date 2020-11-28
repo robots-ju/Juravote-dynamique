@@ -170,7 +170,7 @@
                                     <h3 class="uk-card-title">Votation Develier</h3>
                                 </div>                          
                             </div>
-                        </a>
+                        </a>-->
                             
                         <a href="<?php echo $PHPresultats20201129Accueil ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
@@ -181,7 +181,7 @@
                                     <h3 class="uk-card-title">Votations fédérales</h3>
                                 </div>                          
                             </div>
-                        </a>-->
+                        </a>
                         
                         <a href="<?php echo $PHPresultatGouvernementJU20201108 ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
@@ -214,20 +214,7 @@
                                     <h3 class="uk-card-title">Parlement Jura</h3>
                                 </div>                          
                             </div>
-                        </a>
-
-                        <a href="<?php echo $PHPresultats20200927Accueil ?>">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >27.09</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votations fédérales</h3>
-                                </div>                          
-                            </div>
-                        </a>
-
-                                               
+                        </a>                                               
                     </div>                                        
                 </div> 
                 <div class="uk-card uk-grid-collapse uk-child-width-1-2@m uk-child-width-1-1@s uk-padding uk-flex" uk-grid>
@@ -241,6 +228,39 @@
                                     </div>
                                     <div class="uk-card-body">
                                         <h3 class="uk-card-title">Assemblée communale Les Enfers</h3>
+                                    </div>                          
+                                </div>
+                            </a>
+
+                            <a href="<?php echo $siteCourchapoix ?>">                          
+                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                    <div class="uk-card-header uk-padding-remove-bottom">
+                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.12</div>
+                                    </div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title">Assemblée communale Courchapoix</h3>
+                                    </div>                          
+                                </div>
+                            </a>
+
+                            <a href="<?php echo $siteMervelier ?>">                          
+                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                    <div class="uk-card-header uk-padding-remove-bottom">
+                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.12</div>
+                                    </div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title">Assemblée communale Mervelier</h3>
+                                    </div>                          
+                                </div>
+                            </a>
+
+                            <a href="<?php echo $siteCourtetelle ?>">                          
+                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                    <div class="uk-card-header uk-padding-remove-bottom">
+                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >08.12</div>
+                                    </div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title">Assemblée communale Courtételle</h3>
                                     </div>                          
                                 </div>
                             </a>
@@ -265,7 +285,18 @@
                                         <h3 class="uk-card-title">Assemblée communale Clos-du-Doubs</h3>
                                     </div>                          
                                 </div>
-                            </a> 
+                            </a>
+
+                            <a href="<?php echo $sitePorrentruy ?>">                          
+                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                    <div class="uk-card-header uk-padding-remove-bottom">
+                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.12</div>
+                                    </div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title">Conseil de ville Porrentruy</h3>
+                                    </div>                          
+                                </div>
+                            </a>  
 
                             <a href="<?php echo $siteCourtedoux ?>">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
@@ -278,6 +309,17 @@
                                 </div>
                             </a> 
 
+                            <a href="<?php echo $siteCourchavon ?>">                          
+                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                    <div class="uk-card-header uk-padding-remove-bottom">
+                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.12</div>
+                                    </div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title">Assemblée communale Courchavon</h3>
+                                    </div>                          
+                                </div>
+                            </a> 
+
                             <a href="<?php echo $siteSoubey ?>">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
@@ -285,6 +327,28 @@
                                     </div>
                                     <div class="uk-card-body">
                                         <h3 class="uk-card-title">Assemblée communale Soubey</h3>
+                                    </div>                          
+                                </div>
+                            </a> 
+
+                            <a href="<?php echo $siteCourroux ?>">                          
+                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                    <div class="uk-card-header uk-padding-remove-bottom">
+                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.12</div>
+                                    </div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title">Assemblée communale Courroux</h3>
+                                    </div>                          
+                                </div>
+                            </a> 
+
+                            <a href="<?php echo $siteFahy ?>">                          
+                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                    <div class="uk-card-header uk-padding-remove-bottom">
+                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >16.12</div>
+                                    </div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title">Assemblée communale Fahy</h3>
                                     </div>                          
                                 </div>
                             </a> 
@@ -311,7 +375,18 @@
                                 </div>
                             </a>
 
-                            <a href="#">
+                            <a href="<?php echo $siteRossemaison ?>">
+                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                    <div class="uk-card-header uk-padding-remove-bottom">
+                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >21.12</div>
+                                    </div>
+                                    <div class="uk-card-body">
+                                        <h3 class="uk-card-title">Assemblée communale Rossemaison</h3>
+                                    </div>                          
+                                </div>
+                            </a>
+
+                            <a href="">
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" ></div>

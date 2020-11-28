@@ -602,6 +602,7 @@
             $siteClosDuDoubs = "http://www.closdudoubs.ch/";
             $siteCoeuve = "https://coeuve.ch/";
             $siteCornol = "http://www.cornol.ch/fr/";
+            $siteCourchavon = "https://courchavon-mormont.ch/";
             $siteCourgenay = "http://www.courgenay.ch/fr/";
             $siteCourtedoux = "https://courtedoux.ch/";
             $siteFahy = "http://www.fahy.ch/";
@@ -610,8 +611,11 @@
             //DELEMONT
             $siteBourrignon = "https://www.bourrignon.ch/";
             $siteCourchapoix = "http://www.courchapoix.ch/cpx/";
+            $siteCourtetelle = "https://www.courtetelle.ch/";
+            $siteCourroux = "https://www.courroux.ch/";
             $siteChatillon = "https://chatillon.ch/";
             $siteHauteSorne = "http://www.haute-sorne.ch/";
+            $siteMervelier = "https://mervelier.ch/";
             $siteMettembert = "";
             $siteMovelier = "https://www.movelier.ch/";
             $sitePleigne = "http://www.pleigne.ch/fr/Administration-et-services.html";

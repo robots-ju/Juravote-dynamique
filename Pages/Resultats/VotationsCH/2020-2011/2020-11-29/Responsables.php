@@ -82,8 +82,8 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <iframe title="Initiative populaire « Entreprises responsables – pour protéger l’être humain et l’environnement »" aria-label="chart" id="datawrapper-chart-tPA1y" src="https://datawrapper.dwcdn.net/tPA1y/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                        </script>
+                    <iframe title="Initiative populaire « Entreprises responsables – pour protéger l’être humain et l’environnement » GLOBAL" aria-label="chart" id="datawrapper-chart-tPA1y" src="https://datawrapper.dwcdn.net/tPA1y/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="323"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
                     </div>
                 </div>
             </div>
@@ -95,8 +95,8 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <iframe title="Initiative populaire « Entreprises responsables – pour protéger l’être humain et l’environnement »" aria-label="map" id="datawrapper-chart-bXBCA" src="https://datawrapper.dwcdn.net/bXBCA/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="429"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                        </script>
+                    <iframe title="Initiative populaire « Entreprises responsables – pour protéger l’être humain et l’environnement » SUISSE" aria-label="map" id="datawrapper-chart-bXBCA" src="https://datawrapper.dwcdn.net/bXBCA/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="446"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
                     </div>
                 </div>
             </div>
@@ -108,8 +108,8 @@
                         </div>
                     </div>
                     <div style="padding-top: 0.5%" class="uk-card-body">
-                        <iframe title="Initiative populaire « Entreprises responsables – pour protéger l’être humain et l’environnement »" aria-label="map" id="datawrapper-chart-zMKa0" src="https://datawrapper.dwcdn.net/zMKa0/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                        </script>
+                    <iframe title="Initiative populaire « Entreprises responsables – pour protéger l’être humain et l’environnement » JURA" aria-label="map" id="datawrapper-chart-zMKa0" src="https://datawrapper.dwcdn.net/zMKa0/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
                     </div>
                 </div>
             </div>

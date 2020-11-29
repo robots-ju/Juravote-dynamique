@@ -65,9 +65,9 @@
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Initiative populaire « Pour une interdiction du financement des producteurs de matériel de guerre »</p>
                         <p><b>Participation : </b>40.51 %</p>
-                        <p><b>Résultats de la majorité du peuple : </b>38.90 %</p>
+                        <p><b>Résultats de la majorité du peuple : </b>38.30 %</p>
                         <p><b>Résultats de la majorité des cantons : </b>2 / 26</p>
-                        <p><b>Résultat final : </b>En attente</p>
+                        <p><b>Résultat final : </b>Refusé (12 cantons s'opposent au texte)</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Initiative populaire</p>
                         <p><b><a href="D_Armes.php">Informations de la votation</a></b></p>

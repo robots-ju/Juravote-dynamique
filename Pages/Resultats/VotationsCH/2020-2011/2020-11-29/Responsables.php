@@ -65,9 +65,9 @@
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Initiative populaire « Entreprises responsables – pour protéger l’être humain et l’environnement »</p>
                         <p><b>Participation : </b>40.51 %</p>
-                        <p><b>Résultats de la majorité du peuple : </b>43.10 %</p>
-                        <p><b>Résultats de la majorité des cantons : </b>0 / 26</p>
-                        <p><b>Résultat final : </b>En attente</p>
+                        <p><b>Résultats de la majorité du peuple : </b>48.00 %</p>
+                        <p><b>Résultats de la majorité des cantons : </b>4 / 26</p>
+                        <p><b>Résultat final : </b>Refusé (11.5 cantons s'opposent au texte)</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Initiative populaire</p>
                         <p><b><a href="D_Responsable.php">Informations de la votation</a></b></p>

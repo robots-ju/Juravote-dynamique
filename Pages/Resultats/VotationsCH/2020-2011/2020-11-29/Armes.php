@@ -66,7 +66,7 @@
                         <p><b>Objet : </b>Initiative populaire « Pour une interdiction du financement des producteurs de matériel de guerre »</p>
                         <p><b>Participation : </b>46.90 %</p>
                         <p><b>Résultats de la majorité du peuple : </b>42.52 %</p>
-                        <p><b>Résultats de la majorité des cantons : </b>3 / 26</p>
+                        <p><b>Résultats de la majorité des cantons : </b>3 / 23</p>
                         <p><b>Résultat final : </b>Refusé (20 cantons s'opposent au texte)</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Initiative populaire</p>

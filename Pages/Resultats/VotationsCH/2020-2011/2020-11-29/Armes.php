@@ -82,7 +82,7 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <iframe title="Initiative populaire « Pour une interdiction du financement des producteurs de matériel de guerre »" aria-label="chart" id="datawrapper-chart-XIvLG" src="https://datawrapper.dwcdn.net/XIvLG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Initiative populaire « Pour une interdiction du financement des producteurs de matériel de guerre » GLOBAL" aria-label="chart" id="datawrapper-chart-XIvLG" src="https://datawrapper.dwcdn.net/XIvLG/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>
@@ -95,7 +95,7 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <iframe title="Initiative populaire « Pour une interdiction du financement des producteurs de matériel de guerre »" aria-label="map" id="datawrapper-chart-GRrSX" src="https://datawrapper.dwcdn.net/GRrSX/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="446"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Initiative populaire « Pour une interdiction du financement des producteurs de matériel de guerre » SUISSE" aria-label="map" id="datawrapper-chart-GRrSX" src="https://datawrapper.dwcdn.net/GRrSX/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="446"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
                         </div>
                     </div>
                     <div style="padding-top: 0.5%" class="uk-card-body">
-                        <iframe title="Initiative populaire « Pour une interdiction du financement des producteurs de matériel de guerre »" aria-label="map" id="datawrapper-chart-5L1mD" src="https://datawrapper.dwcdn.net/5L1mD/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Initiative populaire « Pour une interdiction du financement des producteurs de matériel de guerre » JURA" aria-label="map" id="datawrapper-chart-5L1mD" src="https://datawrapper.dwcdn.net/5L1mD/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>

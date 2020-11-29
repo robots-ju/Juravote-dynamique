@@ -66,7 +66,7 @@
                         <p><b>Objet : </b>Initiative populaire « Entreprises responsables – pour protéger l’être humain et l’environnement »</p>
                         <p><b>Participation : </b>46.98 %</p>
                         <p><b>Résultats de la majorité du peuple : </b>50.71 %</p>
-                        <p><b>Résultats de la majorité des cantons : </b>7 / 26</p>
+                        <p><b>Résultats de la majorité des cantons : </b>7 / 23</p>
                         <p><b>Résultat final : </b>Refusé (16 cantons s'opposent au texte)</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Initiative populaire</p>

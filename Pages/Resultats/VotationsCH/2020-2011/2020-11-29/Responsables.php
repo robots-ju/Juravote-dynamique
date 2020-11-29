@@ -64,10 +64,10 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Initiative populaire « Entreprises responsables – pour protéger l’être humain et l’environnement »</p>
-                        <p><b>Participation : </b>40.51 %</p>
-                        <p><b>Résultats de la majorité du peuple : </b>46.90 %</p>
-                        <p><b>Résultats de la majorité des cantons : </b>4 / 26</p>
-                        <p><b>Résultat final : </b>Refusé (13.5 cantons s'opposent au texte)</p>
+                        <p><b>Participation : </b>46.97 %</p>
+                        <p><b>Résultats de la majorité du peuple : </b>50.63 %</p>
+                        <p><b>Résultats de la majorité des cantons : </b>7 / 26</p>
+                        <p><b>Résultat final : </b>Refusé (14.5 cantons s'opposent au texte)</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Initiative populaire</p>
                         <p><b><a href="D_Responsable.php">Informations de la votation</a></b></p>

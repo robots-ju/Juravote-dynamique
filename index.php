@@ -48,7 +48,7 @@
         
         <main>
             <section style="padding: 2%">
-                <div class="uk-card uk-grid-collapse uk-child-width-1-3@m uk-child-width-1-1@s uk-padding uk-flex uk-column-divider" uk-grid>
+                <div class="uk-card uk-grid-collapse uk-child-width-1-3@m uk-child-width-1-1@s uk-padding uk-flex" uk-grid>
 
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-expand@m" style="padding: 10%">                                                
                         <h3 class="uk-heading-divider uk-text-center">Bienvenue sur Juravote !</h3> 

@@ -210,7 +210,7 @@
                     <div>
                         <h3 class="uk-heading-divider uk-text-center">Prochaines séances des Autorités</h3>  
                         <div class="uk-column-1-3@m uk-column-1-1@s uk-column-divider"> 
-                            <a target="blank" href="<?php echo $siteLesEnfers ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/12-assemblee-communale-ordinaire-des-enfers-7-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.12</div>
@@ -221,7 +221,7 @@
                                 </div>
                             </a>
 
-                            <a target="blank" href="<?php echo $siteCourchapoix ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/22-assemblee-communale-ordinaire-de-courchapoix-7-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.12</div>
@@ -232,7 +232,7 @@
                                 </div>
                             </a>
 
-                            <a target="blank" href="<?php echo $siteMervelier ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/18-assemblee-communale-ordinaire-de-mervelier-7-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.12</div>
@@ -243,7 +243,7 @@
                                 </div>
                             </a>
 
-                            <a target="blank" href="<?php echo $siteCourtetelle ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/17-assemblee-communale-ordinaire-de-courtetelle-8-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >08.12</div>
@@ -254,7 +254,7 @@
                                 </div>
                             </a>
 
-                            <a target="blank" href="https://www.jura.ch/PLT/Calendrier-des-seances-plenieres.html">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/14-parlement-jurassien-9-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >09.12</div>
@@ -265,7 +265,7 @@
                                 </div>
                             </a>  
 
-                            <a target="blank" href="<?php echo $sitePorrentruy ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/25-seance-ordinaire-du-conseil-de-ville-de-porrentruy-10-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.12</div>
@@ -276,7 +276,7 @@
                                 </div>
                             </a> 
 
-                            <a target="blank" href="<?php echo $siteClosDuDoubs ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/20-assemblee-communale-ordinaire-du-clos-du-doubs-10-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.12</div>
@@ -287,7 +287,7 @@
                                 </div>
                             </a>                             
 
-                            <a target="blank" href="<?php echo $siteCourtedoux ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/27-assemblee-communale-ordinaire-de-courtedoux-10-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.12</div>
@@ -298,7 +298,7 @@
                                 </div>
                             </a> 
 
-                            <a target="blank" href=<?php echo $siteCourchavon ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/19-assemblee-communale-ordinaire-de-courchavon-7-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.12</div>
@@ -309,7 +309,7 @@
                                 </div>
                             </a> 
 
-                            <a target="blank" href="<?php echo $siteSoubey ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/24-assemblee-communale-ordinaire-de-soubey-11-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.12</div>
@@ -320,7 +320,7 @@
                                 </div>
                             </a> 
 
-                            <a target="blank" href="<?php echo $siteCourroux ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/23-assemblee-communale-ordinaire-de-courroux-14-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.12</div>
@@ -331,7 +331,7 @@
                                 </div>
                             </a> 
 
-                            <a target="blank" href="<?php echo $siteHauteSorne ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/30-conseil-general-de-la-haute-sorne-14-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.12</div>
@@ -342,7 +342,7 @@
                                 </div>
                             </a> 
 
-                            <a target="blank" href="<?php echo $siteLeNoirmont ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/29-assemblee-communale-ordinaire-du-noirmont-14-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.12</div>
@@ -353,7 +353,7 @@
                                 </div>
                             </a> 
 
-                            <a target="blank" href="<?php echo $siteEderswiler ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/21-assemblee-communale-ordinaire-de-ederswiler-14-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.12</div>
@@ -364,7 +364,7 @@
                                 </div>
                             </a> 
 
-                            <a target="blank" href="<?php echo $siteBoecourt ?>">
+                            <a target="blank" href="https://juravote.flarum.cloud/d/32-assemblee-communale-ordinaire-de-boecourt-14-decembre-2020">
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.12</div>
@@ -375,7 +375,7 @@
                                 </div>
                             </a>
 
-                            <a target="blank" href="<?php echo $siteValTerbi ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/26-conseil-general-du-val-terbi-15-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.12</div>
@@ -386,7 +386,7 @@
                                 </div>
                             </a>
 
-                            <a target="blank" href="<?php echo $siteBasseAllaine ?>">
+                            <a target="blank" href="https://juravote.flarum.cloud/d/31-assemblee-communale-ordinaire-de-basse-allaine-15-decembre-2020">
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >15.12</div>
@@ -397,7 +397,7 @@
                                 </div>
                             </a> 
 
-                            <a target="blank" href="<?php echo $siteFahy ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/34-assemblee-communale-fahy-16-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >16.12</div>
@@ -408,7 +408,7 @@
                                 </div>
                             </a> 
 
-                            <a target="blank" href=https://www.jura.ch/PLT/Calendrier-des-seances-plenieres.html">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/16-parlement-jurassien-16-et-17-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >16-17.12</div>
@@ -419,7 +419,7 @@
                                 </div>
                             </a>   
 
-                            <a target="blank" href="<?php echo $siteAlle ?>">
+                            <a target="blank" href="https://juravote.flarum.cloud/d/28-assemblee-communale-extraordinaire-de-alle-17-decembre-2020">
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >17.12</div>
@@ -430,7 +430,7 @@
                                 </div>
                             </a>
 
-                            <a target="blank" href="<?php echo $siteBreuleux ?>">                          
+                            <a target="blank" href="https://juravote.flarum.cloud/d/33-assemblee-communale-ordinaire-des-breuleux-21-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >21.12</div>
@@ -441,7 +441,7 @@
                                 </div>
                             </a>
 
-                            <a target="blank" href="<?php echo $siteRossemaison ?>">
+                            <a target="blank" href="https://juravote.flarum.cloud/d/35-assemblee-communale-ordinaire-de-rossemaison-21-decembre-2020">
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >21.12</div>
@@ -452,7 +452,7 @@
                                 </div>
                             </a> 
 
-                            <a target="blank" href="<?php echo $lien ?>">
+                            <a target="blank" href="#">
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" ></div>
@@ -463,7 +463,7 @@
                                 </div>
                             </a>
 
-                            <a target="blank" href="<?php echo $lien ?>">
+                            <a target="blank" href="#">
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
                                         <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" ></div>

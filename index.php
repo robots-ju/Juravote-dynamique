@@ -86,6 +86,7 @@
                                 </div>                          
                             </div>
                         </a> 
+                        
                         <!--<a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -210,50 +211,6 @@
                     <div>
                         <h3 class="uk-heading-divider uk-text-center">Prochaines séances des Autorités</h3>  
                         <div class="uk-column-1-3@m uk-column-1-1@s uk-column-divider"> 
-                            <a target="blank" href="https://juravote.flarum.cloud/d/12-assemblee-communale-ordinaire-des-enfers-7-decembre-2020">                          
-                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                    <div class="uk-card-header uk-padding-remove-bottom">
-                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.12</div>
-                                    </div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title">Assemblée communale Les Enfers</h3>
-                                    </div>                          
-                                </div>
-                            </a>
-
-                            <a target="blank" href="https://juravote.flarum.cloud/d/22-assemblee-communale-ordinaire-de-courchapoix-7-decembre-2020">                          
-                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                    <div class="uk-card-header uk-padding-remove-bottom">
-                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.12</div>
-                                    </div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title">Assemblée communale Courchapoix</h3>
-                                    </div>                          
-                                </div>
-                            </a>
-
-                            <a target="blank" href="https://juravote.flarum.cloud/d/18-assemblee-communale-ordinaire-de-mervelier-7-decembre-2020">                          
-                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                    <div class="uk-card-header uk-padding-remove-bottom">
-                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.12</div>
-                                    </div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title">Assemblée communale Mervelier</h3>
-                                    </div>                          
-                                </div>
-                            </a>
-
-                            <a target="blank" href="https://juravote.flarum.cloud/d/17-assemblee-communale-ordinaire-de-courtetelle-8-decembre-2020">                          
-                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                    <div class="uk-card-header uk-padding-remove-bottom">
-                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >08.12</div>
-                                    </div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title">Assemblée communale Courtételle</h3>
-                                    </div>                          
-                                </div>
-                            </a>
-
                             <a target="blank" href="https://juravote.flarum.cloud/d/14-parlement-jurassien-9-decembre-2020">                          
                                 <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                     <div class="uk-card-header uk-padding-remove-bottom">
@@ -450,29 +407,7 @@
                                         <h3 class="uk-card-title">Assemblée communale Rossemaison</h3>
                                     </div>                          
                                 </div>
-                            </a> 
-
-                            <a target="blank" href="#">
-                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                    <div class="uk-card-header uk-padding-remove-bottom">
-                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" ></div>
-                                    </div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title"></h3>
-                                    </div>                          
-                                </div>
-                            </a>
-
-                            <a target="blank" href="#">
-                                <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                    <div class="uk-card-header uk-padding-remove-bottom">
-                                        <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" ></div>
-                                    </div>
-                                    <div class="uk-card-body">
-                                        <h3 class="uk-card-title"></h3>
-                                    </div>                          
-                                </div>
-                            </a>                           
+                            </a>                          
                         </div> 
                     </div>
                     <!--<div>    

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-        <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
+    <head>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Elections jurassiennes</title>

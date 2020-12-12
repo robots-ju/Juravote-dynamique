@@ -116,20 +116,19 @@
     $iconDiscord = "/Juravote-dynamique/IMG/Logo/ReseauxSociaux/Discord.png";
 
     //partis :
-    $pcsi = "/Juravote-dynamique/IMG/Logo/Partis/CS-POP.png";
-    $lega = "/Juravote-dynamique/IMG/Logo/Partis/LEGA.png";
-    $pbd = "/Juravote-dynamique/IMG/Logo/Partis/PBD.png";
-    $pcsi = "/Juravote-dynamique/IMG/Logo/Partis/PCSI.png";
-    $pdc = "/Juravote-dynamique/IMG/Logo/Partis/PDC.png";
-    $pev = "/Juravote-dynamique/IMG/Logo/Partis/PEV.png";
-    $plr = "/Juravote-dynamique/IMG/Logo/Partis/PLR.png";
-    $ps = "/Juravote-dynamique/IMG/Logo/Partis/PS.png";
-    $pst = "/Juravote-dynamique/IMG/Logo/Partis/PST.png";
-    $pvl = "/Juravote-dynamique/IMG/Logo/Partis/PVL.png";
-    $sol = "/Juravote-dynamique/IMG/Logo/Partis/SOL.png";
-    $udc = "/Juravote-dynamique/IMG/Logo/Partis/UDC.png";
-    $verts = "/Juravote-dynamique/IMG/Logo/Partis/Verts.png";
-                \Juravote-dynamique\IMG\Logo\Partis
+    $pcsi = "/Juravote-dynamique/IMG/Logo/partis/CS-POP.png";
+    $lega = "/Juravote-dynamique/IMG/Logo/partis/LEGA.png";
+    $pbd = "/Juravote-dynamique/IMG/Logo/partis/PBD.png";
+    $pcsi = "/Juravote-dynamique/IMG/Logo/partis/PCSI.png";
+    $pdc = "/Juravote-dynamique/IMG/Logo/partis/PDC.png";
+    $pev = "/Juravote-dynamique/IMG/Logo/partis/PEV.png";
+    $plr = "/Juravote-dynamique/IMG/Logo/partis/PLR.png";
+    $ps = "/Juravote-dynamique/IMG/Logo/partis/PS.png";
+    $pst = "/Juravote-dynamique/IMG/Logo/partis/PST.png";
+    $pvl = "/Juravote-dynamique/IMG/Logo/partis/PVL.png";
+    $sol = "/Juravote-dynamique/IMG/Logo/partis/SOL.png";
+    $udc = "/Juravote-dynamique/IMG/Logo/partis/UDC.png";
+    $verts = "/Juravote-dynamique/IMG/Logo/partis/Verts.png";
 
     //pouvoirs :
     $pouvoirCommunal = "/Juravote-dynamique/IMG/Logo/Pouvoirs/communal.png";

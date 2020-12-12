@@ -54,7 +54,18 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Résultats des votations communales (Develier)</h1>
         <hr>
-        <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="<?php echo $PHPvotationDevelierEau2020?>">
+                        <div class="uk-card-body">
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Votation communale du 13 décembre 2020</h3>
+                                </div>
+                        </div>
+                    </a>
+                </div>  
+            </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="2020-07-05/Develier.php">

@@ -572,11 +572,11 @@
     $PHPvotationsCHaccueil = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCH/accueil.php";    
 
     $PHPvotationsCOaccueil = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/votations.php";
-    $PHPvotationsDelemont = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Delemont/2020-09-27/ComplexeScolaire.php";
-    $PHPvotationValTerbiAccueil = "/Juravote-dynamique/Pages/Resultats/VotationsCO/ValTerbi/2020-09-27/Accueil.php";
-    $PHPvotationValTerbiEcole = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
-    $PHPvotationValTerbiSEVT = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";
-
+        $PHPvotationsDelemont = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Delemont/2020-09-27/ComplexeScolaire.php";
+        $PHPvotationValTerbiAccueil = "/Juravote-dynamique/Pages/Resultats/VotationsCO/ValTerbi/2020-09-27/Accueil.php";
+        $PHPvotationValTerbiEcole = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
+        $PHPvotationValTerbiSEVT = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";
+        $PHPvotationDevelierEau2020 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Develier/2020-12-13/Develier.php;
     //JS
     $jsUikit = "/Juravote-dynamique/JS/uikit.js";
     $jsUikitMin = "/Juravote-dynamique/JS/uikit.min.js";

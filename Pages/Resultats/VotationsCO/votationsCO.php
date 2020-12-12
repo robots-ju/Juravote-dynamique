@@ -54,7 +54,7 @@
             <p>Il existe déjà des informations pour les communes de :</p>
                 <ul>
                     <li><b>Haute-Sorne (21 juin 2020)</b></li>
-                    <li><b>Develier (05 juillet 2020)</b></li>
+                    <li><b>Develier (05 juillet 2020 et 13 décembre 2020)</b></li>
                     <li><b>Delémont (27 septembre 2020)<b></li>
                     <li><b>Val-Terbi (27 septembre 2020)<b></li>
                 </ul>

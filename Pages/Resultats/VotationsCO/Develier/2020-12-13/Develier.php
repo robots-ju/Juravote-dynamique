@@ -62,8 +62,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Interconnexion du réseau d’eau de Develier avec celui de Delémont pour l’alimentation en eau de secours</p>
-                        <p><b>Participation : </b>- %</p>
-                        <p><b>Résultat : </b>-</p>
+                        <p><b>Participation : </b>37.28 %</p>
+                        <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation communale (Develier)</p>
                         <p><b>Mode de votation : </b>Scrutin populaire</p>
                         <p><a href="Develier_description.php">Lien vers la description du projet</a></p>

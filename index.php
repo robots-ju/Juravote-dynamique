@@ -64,18 +64,7 @@
                     </div>
                     
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-3@s uk-flex-first@s">   
-                        <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>                            
-                        <a href="Pages/Votations et Elections/Elections/ElectionsCO/Soyhieres_20210124/Accueil.php">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >24.01</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Election Soyhières</h3>
-                                </div>                          
-                            </div>
-                        </a> 
-                        
+                        <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>                                                    
                         <a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">

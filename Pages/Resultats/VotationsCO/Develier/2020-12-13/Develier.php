@@ -78,7 +78,8 @@
                         </div>
                     </div>
                     <section style="padding: 2%;">                        
-                    <iframe title="Interconnexion du réseau d’eau de Develier avec celui de Delémont pour l’alimentation en eau de secours" aria-label="chart" id="datawrapper-chart-477yw" src="https://datawrapper.dwcdn.net/477yw/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="323"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}(); </script>                       
+                        <iframe title="Interconnexion du réseau d’eau de Develier avec celui de Delémont pour l’alimentation en eau de secours" aria-label="chart" id="datawrapper-chart-477yw" src="https://datawrapper.dwcdn.net/477yw/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="323"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>                       
                     </section>
                 </div>
             </div>            

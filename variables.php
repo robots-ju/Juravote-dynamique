@@ -573,11 +573,11 @@
     $PHPvotationsCHaccueil = "/Pages/Votations et Elections/Votations/VotationsCH/accueil.php";    
 
     $PHPvotationsCOaccueil = "/Pages/Votations et Elections/Votations/VotationsCO/votations.php";
-    $PHPvotationsDelemont = "/Pages/Resultats/VotationsCO/Delemont/2020-09-27/ComplexeScolaire.php";
-    $PHPvotationValTerbiAccueil = "/Pages/Resultats/VotationsCO/ValTerbi/2020-09-27/Accueil.php";
-    $PHPvotationValTerbiEcole = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
-    $PHPvotationValTerbiSEVT = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";
-
+        $PHPvotationsDelemont = "/Pages/Resultats/VotationsCO/Delemont/2020-09-27/ComplexeScolaire.php";
+        $PHPvotationValTerbiAccueil = "/Pages/Resultats/VotationsCO/ValTerbi/2020-09-27/Accueil.php";
+        $PHPvotationValTerbiEcole = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
+        $PHPvotationValTerbiSEVT = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";
+        $PHPvotationDevelierEau2020 = "/Pages/Resultats/VotationsCO/Develier/2020-12-13/Develier.php";
     //JS
     $jsUikit = "/JS/uikit.js";
     $jsUikitMin = "/JS/uikit.min.js";

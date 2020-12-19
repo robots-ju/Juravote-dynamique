@@ -65,6 +65,7 @@
                     
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-3@s uk-flex-first@s">   
                         <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>                                                    
+                        <p>Les informations seront bientôt disponibles.</p>
                         <a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -173,12 +174,10 @@
                         </a>                                               
                     </div>                                        
                 </div> 
-                <div>
+                <div class="uk-column-1-2@m">
                     <div>
                         <h3 class="uk-heading-divider uk-text-center">Prochaines séances des Autorités</h3>  
                         <div class="uk-child-width-1-2@l uk-child-width-1-3@xl uk-grid-divider" uk-grid>
-
-
                             <div>
                                 <a target="blank" href="https://juravote.flarum.cloud/d/33-assemblee-communale-ordinaire-des-breuleux-21-decembre-2020">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
@@ -231,7 +230,7 @@
                                 </a>
                             </div>
 
-                            <div>
+                            <div style="padding-bottom: 6%">
                                 <a target="blank" href="https://juravote.flarum.cloud/d/37-assemblee-communale-ordinaire-du-bemont-22-decembre-2020">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
@@ -245,7 +244,7 @@
                             </div>
                         </div> 
                     </div>
-                    <!--<div>    
+                    <div>    
                         <h3 class="uk-heading-divider uk-text-center">Soutiens de Juravote</h3>
                         <div class="uk-column-1-1@m uk-column-divider">
                             <div class="uk-card-body uk-text-justify">                            
@@ -270,7 +269,7 @@
                                 <b><p class="uk-align-right">Gabriel M. Chappuis, Maire de Develier</p></b>                      
                             </div>      
                         </div> 
-                    </div>  -->                  
+                    </div>                 
                 </div>                            
             </section>
         </main>

@@ -65,6 +65,7 @@
                     
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-3@s uk-flex-first@s">   
                         <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>                                                    
+                        <p>Les informations seront bientôt disponibles.</p>
                         <a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -173,155 +174,10 @@
                         </a>                                               
                     </div>                                        
                 </div> 
-                <div>
+                <div class="uk-column-1-2@m">
                     <div>
                         <h3 class="uk-heading-divider uk-text-center">Prochaines séances des Autorités</h3>  
                         <div class="uk-child-width-1-2@l uk-child-width-1-3@xl uk-grid-divider" uk-grid>
-
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/23-assemblee-communale-ordinaire-de-courroux-14-decembre-2020">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.12</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Courroux</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/30-conseil-general-de-la-haute-sorne-14-decembre-2020">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.12</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Conseil général Haute-Sorne</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                           <div>
-                               <a target="blank" href="https://juravote.flarum.cloud/d/29-assemblee-communale-ordinaire-du-noirmont-14-decembre-2020">
-                                   <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                       <div class="uk-card-header uk-padding-remove-bottom">
-                                           <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.12</div>
-                                       </div>
-                                       <div class="uk-card-body">
-                                           <h3 class="uk-card-title">Assemblée communale Le Noirmont</h3>
-                                       </div>
-                                   </div>
-                               </a>
-                           </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/21-assemblee-communale-ordinaire-de-ederswiler-14-decembre-2020">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.12</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Ederswiler</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/32-assemblee-communale-ordinaire-de-boecourt-14-decembre-2020">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.12</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Boécourt</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/26-conseil-general-du-val-terbi-15-decembre-2020">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.12</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Conseil général Val-Terbi</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/31-assemblee-communale-ordinaire-de-basse-allaine-15-decembre-2020">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >15.12</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Basse-Allaine</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/34-assemblee-communale-fahy-16-decembre-2020">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >16.12</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Fahy</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/16-parlement-jurassien-16-et-17-decembre-2020">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >16-17.12</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Parlement Jurassien</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/28-assemblee-communale-extraordinaire-de-alle-17-decembre-2020">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >17.12</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Alle</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/39-assemblee-communale-ordinaire-de-cornol-17-decembre-2020">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >17.12</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Cornol</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
                             <div>
                                 <a target="blank" href="https://juravote.flarum.cloud/d/33-assemblee-communale-ordinaire-des-breuleux-21-decembre-2020">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
@@ -374,7 +230,7 @@
                                 </a>
                             </div>
 
-                            <div>
+                            <div style="padding-bottom: 6%">
                                 <a target="blank" href="https://juravote.flarum.cloud/d/37-assemblee-communale-ordinaire-du-bemont-22-decembre-2020">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
@@ -388,7 +244,7 @@
                             </div>
                         </div> 
                     </div>
-                    <!--<div>    
+                    <div>    
                         <h3 class="uk-heading-divider uk-text-center">Soutiens de Juravote</h3>
                         <div class="uk-column-1-1@m uk-column-divider">
                             <div class="uk-card-body uk-text-justify">                            
@@ -413,7 +269,7 @@
                                 <b><p class="uk-align-right">Gabriel M. Chappuis, Maire de Develier</p></b>                      
                             </div>      
                         </div> 
-                    </div>  -->                  
+                    </div>                 
                 </div>                            
             </section>
         </main>

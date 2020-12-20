@@ -63,7 +63,7 @@
                     </div>
                     <div class="uk-card-body">
                         <p><b>Tendances politiques : </b>Centre-droit</p>
-                        <p><b>Sièges au Gouvernement Jurassien : </b>0</p>
+                        <p><b>Sièges au Gouvernement Jurassien : </b>1</p>
                         <p><b>Sièges au Parlement Jurassien : </b>15</p>
                     </div>
                     <div class="uk-card-footer">
@@ -86,7 +86,7 @@
                     </div>
                     <div class="uk-card-body">
                         <p><b>Tendances politiques : </b>Centre-gauche</p>
-                        <p><b>Sièges au Gouvernement Jurassien : </b>0</p>
+                        <p><b>Sièges au Gouvernement Jurassien : </b>2</p>
                         <p><b>Sièges au Parlement Jurassien : </b>13</p>
                     </div>
                     <div class="uk-card-footer">
@@ -109,7 +109,7 @@
                     </div>
                     <div class="uk-card-body">
                         <p><b>Tendances politiques : </b>Centre-droit</p>
-                        <p><b>Sièges au Gouvernement Jurassien : </b>0</p>
+                        <p><b>Sièges au Gouvernement Jurassien : </b>1</p>
                         <p><b>Sièges au Parlement Jurassien : </b>8</p>
                     </div>
                     <div class="uk-card-footer">
@@ -201,7 +201,7 @@
                     </div>
                     <div class="uk-card-body">
                         <p><b>Tendances politiques : </b>Centre-droit</p>
-                        <p><b>Sièges au Gouvernement Jurassien : </b>0</p>
+                        <p><b>Sièges au Gouvernement Jurassien : </b>1</p>
                         <p><b>Sièges au Parlement Jurassien : </b>6</p>
                     </div>
                     <div class="uk-card-footer">

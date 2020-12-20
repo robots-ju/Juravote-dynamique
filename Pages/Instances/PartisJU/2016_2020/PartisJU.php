@@ -131,7 +131,7 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <p><b>Tendances politiques : </b>Centre-droit</p>
+                        <p><b>Tendances politiques : </b>Centre-gauche</p>
                         <p><b>Sièges au Gouvernement Jurassien : </b>1</p>
                         <p><b>Sièges au Parlement Jurassien : </b>8</p>
                     </div>

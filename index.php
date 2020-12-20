@@ -230,7 +230,7 @@
                                 </a>
                             </div>
 
-                            <div style="padding-bottom: 6%">
+                            <div>
                                 <a target="blank" href="https://juravote.flarum.cloud/d/37-assemblee-communale-ordinaire-du-bemont-22-decembre-2020">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
@@ -238,6 +238,19 @@
                                         </div>
                                         <div class="uk-card-body">
                                             <h3 class="uk-card-title">Assemblée communale Le Bémont</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div style="padding-bottom: 6%">
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >02.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Alle </h3>
                                         </div>
                                     </div>
                                 </a>

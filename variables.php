@@ -331,6 +331,8 @@
         $Eolienne = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Eolienne.jpg";
         $Europe = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Europe.jpg";
         $Gare = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Gare.jpg";
+        $IdentiteNumerique = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/IdentiteNumerique.jpg";
+        $IndonesieSuisse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Indonesie-Suisse.jpg";
         $JeuxArgent = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/JeuxArgent.jpg";
         $Justice = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Justice.jpg";
         $Légumes = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Légumes.jpg";
@@ -351,6 +353,7 @@
         $Tunnel = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Tunnel.jpg";
         $Vache = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Vache.jpg";
         $Vélo = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Vélo.jpg";
+        $Voile = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Voile.jpg";
 
         //Objets communaux
         $SEVT = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/SEVT.jpg";

@@ -48,8 +48,25 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Prochaines votations et élections</h1>
         <hr> 
-        <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>            
-            <h3>Les informations pour 2021 seront bientôt disponibles !
+        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>            
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="Votations/VotationsCH/Accueil.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $pouvoirFederal ?>" alt="Votation fédérales du 7 mars 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation fédérales - 7 mars</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>  
+        </div>  
+
         </div>                     
     </section>
 </main>

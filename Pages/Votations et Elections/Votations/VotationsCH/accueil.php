@@ -46,52 +46,73 @@
         </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Votations fédérales du 29 novembre 2020</h1>
+        <h1 class="uk-heading-large">Votations fédérales du 7 mars 2021</h1>
         <hr>
-            <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+            <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="Responsable.php">
+                        <a href="Voile.php">
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
-                                    <img class="illustration" src="<?php echo $Responsables ?>" 
-                                    alt="Initiative populaire « Entreprises responsables – 
-                                    pour protéger l’être humain et l’environnement »">
+                                    <img class="illustration" src="<?php echo $Voile ?>"
+                                     alt="Initiative populaire du 15 septembre 2017 «Oui à l’interdiction de se dissimuler le visage» ">
                                 </div>
                             </div>
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-expand">
-                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Initiative populaire 
-                                        « Entreprises responsables – pour protéger l’être humain et l’environnement »</h3>
+                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Initiative populaire du 15 septembre 2017
+                                        «Oui à l’interdiction de se dissimuler le visage» </h3>
                                     </div>
                                 </div>
                             </div>
                         </a>
                     </div>
-                </div>
+                </div>   
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="Armes.php">
+                        <a href="LSIE.php">
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
-                                    <img class="illustration" src="<?php echo $MaterielGuerre ?>"
-                                     alt="Initiative populaire « Pour une interdiction du
-                                     financement des producteurs de matériel de guerre »">
+                                    <img class="illustration" src="<?php echo $IdentiteNumerique ?>"
+                                     alt="Loi fédérale du 27 septembre 2019 sur les services d’identification électronique (LSIE)">
                                 </div>
                             </div>
                             <div class="uk-card-body">
                                 <div class="uk-grid-small uk-flex-column" uk-grid>
                                     <div class="uk-width-expand">
-                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Initiative populaire
-                                         « Pour une interdiction du financement des producteurs de matériel de guerre »</h3>
+                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Loi fédérale du 27 septembre 2019
+                                        sur les services d’identification électronique (LSIE)</h3>
                                     </div>
                                 </div>
                             </div>
                         </a>
                     </div>
-                </div>                
+                </div> 
+
+                <div>
+                    <div class="uk-card uk-card-default uk-card-hover">
+                        <a href="AELE.php">
+                            <div class="uk-card-header">
+                                <div class="uk-width-auto">
+                                    <img class="illustration" src="<?php echo $IndonesieSuisse ?>" 
+                                    alt="Arrêté fédéral du 20 décembre 2019 portant approbation de l’Accord de partenariat économique
+                                    de large portée entre les États de l’AELE et l’Indonésie">
+                                </div>
+                            </div>
+                            <div class="uk-card-body">
+                                <div class="uk-grid-small uk-flex-column" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Arrêté fédéral du 20 décembre 2019
+                                        portant approbation de l’Accord de partenariat économique de large portée entre les États de
+                                        l’AELE et l’Indonésie</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>            
             </div>
     </section>
 </main>

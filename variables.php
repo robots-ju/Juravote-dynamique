@@ -332,6 +332,8 @@
         $Eolienne = "/IMG/Votations/BANQUE_IMAGE/Eolienne.jpg";
         $Europe = "/IMG/Votations/BANQUE_IMAGE/Europe.jpg";
         $Gare = "/IMG/Votations/BANQUE_IMAGE/Gare.jpg";
+        $IdentiteNumerique = "/IMG/Votations/BANQUE_IMAGE/IdentiteNumerique.jpg";
+        $IndonesieSuisse = "/IMG/Votations/BANQUE_IMAGE/Indonesie-Suisse.jpg";
         $JeuxArgent = "/IMG/Votations/BANQUE_IMAGE/JeuxArgent.jpg";
         $Justice = "/IMG/Votations/BANQUE_IMAGE/Justice.jpg";
         $Légumes = "/IMG/Votations/BANQUE_IMAGE/Légumes.jpg";
@@ -352,6 +354,7 @@
         $Tunnel = "/IMG/Votations/BANQUE_IMAGE/Tunnel.jpg";
         $Vache = "/IMG/Votations/BANQUE_IMAGE/Vache.jpg";
         $Vélo = "/IMG/Votations/BANQUE_IMAGE/Vélo.jpg";
+        $Voile = "/IMG/Votations/BANQUE_IMAGE/Voile.jpg";
 
         //Objets communaux
         $SEVT = "/IMG/Votations/BANQUE_IMAGE/SEVT.jpg";

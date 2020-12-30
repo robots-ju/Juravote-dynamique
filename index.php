@@ -65,8 +65,7 @@
                     
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-3@s uk-flex-first@s">   
                         <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>                                                    
-                        <p>Les informations seront bientôt disponibles.</p>
-                        <a href="<?php echo $lien ?>">                          
+                        <a href="Pages/Votations et Elections/Votations/VotationsCH/accueil.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
@@ -76,7 +75,7 @@
                                 </div>                          
                             </div>
                         </a>  
-                        <a href="<?php echo $lien ?>">                          
+                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Delemont/20210307.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
@@ -86,17 +85,37 @@
                                 </div>                          
                             </div>
                         </a> 
+                        <!--<a href="<?php echo $lien ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Moutier</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+                        <a href="<?php echo $lien ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Coeuve</h3>
+                                </div>                          
+                            </div>
+                        </a> 
                         <a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.03</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation de Moutier</h3>
+                                    <h3 class="uk-card-title">Votation Moutier</h3>
                                 </div>                          
                             </div>
                         </a> 
-                        <!--<a href="<?php echo $lien ?>">                          
+                        <a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
@@ -179,72 +198,125 @@
                         <h3 class="uk-heading-divider uk-text-center">Prochaines séances des Autorités</h3>  
                         <div class="uk-child-width-1-2@l uk-child-width-1-3@xl uk-grid-divider" uk-grid>
                             <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/33-assemblee-communale-ordinaire-des-breuleux-21-decembre-2020">
+                                <a target="blank" href="https://juravote.flarum.cloud/d/40-assemblee-dinformation-saint-brais">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >21.12</div>
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.01</div>
                                         </div>
                                         <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Les Breuleux</h3>
+                                            <h3 class="uk-card-title">Assemblée d'information St-Brais</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                            <div>
+                                <a target="blank" href="https://juravote.flarum.cloud/d/41-assemblee-communale-les-genevez">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >18.01</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Les Genevez</h3>
                                         </div>
                                     </div>
                                 </a>
                             </div>
 
                             <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/35-assemblee-communale-ordinaire-de-rossemaison-21-decembre-2020">
+                                <a target="blank" href="https://juravote.flarum.cloud/d/42-assemblee-communale-movelier">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >21.12</div>
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >19.01</div>
                                         </div>
                                         <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Rossemaison</h3>
+                                            <h3 class="uk-card-title">Assemblée communale Movelier</h3>
                                         </div>
                                     </div>
                                 </a>
                             </div>
 
                             <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/36-assemblee-communale-ordinaire-de-la-baroche-21-decembre-2020">
+                                <a target="blank" href="https://juravote.flarum.cloud/d/44-assemblee-communale-bure">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >21.12</div>
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >25.01</div>
                                         </div>
                                         <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale La Baroche</h3>
+                                            <h3 class="uk-card-title">Assemblée communale Bure</h3>
                                         </div>
                                     </div>
                                 </a>
                             </div>
 
                             <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/38-assemblee-communale-ordinaire-de-boncourt-21-decembre-2020">
+                                <a target="blank" href="https://juravote.flarum.cloud/d/45-assemblee-communale-fontenais">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >21.12</div>
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >25.01</div>
                                         </div>
                                         <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Boncourt </h3>
+                                            <h3 class="uk-card-title">Assemblée communale Fontenais</h3>
                                         </div>
                                     </div>
                                 </a>
                             </div>
 
-                            <div style="padding-bottom: 6%">
-                                <a target="blank" href="https://juravote.flarum.cloud/d/37-assemblee-communale-ordinaire-du-bemont-22-decembre-2020">
+                            <div>
+                                <a target="blank" href="https://juravote.flarum.cloud/d/46-assemblee-communale-grandfontaine">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >22.12</div>
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >26.01</div>
                                         </div>
                                         <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Le Bémont</h3>
+                                            <h3 class="uk-card-title">Assemblée communale Grandfontaine</h3>
                                         </div>
                                     </div>
                                 </a>
                             </div>
+
+                            <div>
+                                <a target="blank" href="https://juravote.flarum.cloud/d/47-assemblee-communale-saulcy">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >01.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Saulcy</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div>
+                                <a target="blank" href="https://juravote.flarum.cloud/d/48-assemblee-communale-alle">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >02.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Alle</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>  
+
+                            <div>
+                                <a target="blank" href="https://juravote.flarum.cloud/d/49-assemblee-communale-develier">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >08.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Develier</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>                          
                         </div> 
                     </div>
-                    <div>    
+                    
+                    <div style="padding-bottom: 20%">    
                         <h3 class="uk-heading-divider uk-text-center">Soutiens de Juravote</h3>
                         <div class="uk-column-1-1@m uk-column-divider">
                             <div class="uk-card-body uk-text-justify">                            

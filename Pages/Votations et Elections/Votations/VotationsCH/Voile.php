@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Initiative populaire du 15 septembre 2017 «Oui à l’interdiction de se dissimuler le visage»</title>
+        <title>JuraVote | Initiative populaire du 15.09.2017 «Oui à l’interdiction de se dissimuler le visage»</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -59,10 +59,34 @@
             <ul class="uk-switcher uk-margin">
                 <li> 
                     <h1>Description de la votation</h1>
-                        <p>Texte</p>
+                        <p>L'initiative demande à ce que nul ne puisse ne se dissimuler le visage dans l'espace public, ni dans les lieux
+                        accessibles au publics ou dans lesquels sont fournies des prestations ordinairement accessibles par tout un chacun.</p>
+
+                        <p>En cas d'acceptation de l'initiative, la Constitution serait modifiée comme suit :</p>
+
+                        <h5>Art. 10a Interdiction de se dissimuler le visage</h5>
+
+                        <ol>
+                        <li>Nul ne peut se dissimuler le visage dans l’espace public, ni dans les lieux accessibles au public ou dans lesquels
+                        sont fournies des prestations ordinairement accessibles par tout un chacun; l’interdiction n’est pas applicable dans
+                        les lieux de culte.</li>
+                        <li>Nul ne peut contraindre une personne de se dissimuler le visage en raison de son sexe.</li>
+                        <li>La loi prévoit des exceptions. Celles-ci ne peuvent être justifiées que par des raisons de santé ou de sécurité,
+                        par des raisons climatiques ou par des coutumes locales.</li>
+                        </ol>
+
+                        <p>Art. 197, ch. 12, 12. Disposition transitoire ad art. 10a (Interdiction de se dissimuler le visage)</p>
+
+                        <p>La législation d’exécution doit être élaborée dans les deux ans qui suivent l’acceptation de l’art. 10a par le
+                        peuple et les cantons.</p>
+
+                        <h4>En cas de refus de l'initiative</h4>
+                        <p>Si l'initiative est refusée par le peuple et les cantons le 7 mars 2021, le contre-projet du Conseil fédéral entrera
+                        en vigueur (soumis au référendum facultatif). Ce contre-projet stipule qu'une personne est tenue de montrer son visage
+                        au représentant d'une autorité suisse lors d'une vérification d'identité.</p>
                 
                     <h1>La question qui vous est posée :</h1>
-                        <b><p>Texte</p></b>
+                        <b><p>Acceptez-vous l'initiative populaire "Oui à l'interdiction de se dissimuler le visage" ?</p></b>
                 </li>
                 <li>
                     <div class="uk-column-1-3@m uk-column-1-1@s">
@@ -81,18 +105,57 @@
                     </div>
                 </li>  
                 <li>            
-                    <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Texte</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Texte</p>
+                                <p>Dans les États éclairés tels que la Suisse, les femmes et les hommes libres se parlent à visage découvert. 
+                                La dissimulation du visage dans l’espace public est contraire à l’esprit libéral du vivre-ensemble.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p>Le principe de l'égalité – élémentaire s’iI en est – veut que les femmes aient le droit de montrer en
+                                tout temps l’intégralité de leur visage en public, comme les hommes.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p>L’interdiction de se dissimuler le visage dans tout le pays permettra d’assurer la sécurité juridique :
+                                eIle renforcera la position des organes de sécurité et leur permettra de lutter résolument contre les
+                                délinquants masqués.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p>L’initiative n’est contraire ni à la liberté de religion ni à la liberté d’opinion.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p>Le texte de l'initiative prévoit exceptions justifiées par des raisons de santé ou de sécurité,
+                                par des raisons climatiques (par ex. pour la pratique des sports d’hiver) ou par des coutumes
+                                locales (carnaval, traditions populaires).</p>
                             </div>
                         </div>
                     </div>
                 </li>
                 <li>
-                    <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
+                    <p>Les arguments contre l'initiative seront bientôt disponibles !</p>
+                    <!--<div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Texte</div>
@@ -100,7 +163,7 @@
                                 <p>Texte</p>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
                 </li>
             </ul>
         </section>

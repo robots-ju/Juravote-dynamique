@@ -48,10 +48,11 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Votations fédérales du 7 mars 2021</h1>
         <hr>
+        <h3 class="uk-text-center">Les informations sur les votations seront bientôt disponibles !</h3>
             <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="Voile.php">
+                        <!--<a href="Voile.php">-->
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
                                     <img class="illustration" src="<?php echo $Voile ?>"
@@ -72,7 +73,7 @@
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="LSIE.php">
+                        <!--<a href="LSIE.php">-->
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
                                     <img class="illustration" src="<?php echo $IdentiteNumerique ?>"
@@ -93,7 +94,7 @@
 
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover">
-                        <a href="AELE.php">
+                        <!--<a href="AELE.php">-->
                             <div class="uk-card-header">
                                 <div class="uk-width-auto">
                                     <img class="illustration" src="<?php echo $IndonesieSuisse ?>" 

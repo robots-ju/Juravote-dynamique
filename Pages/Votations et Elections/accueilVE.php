@@ -58,15 +58,29 @@
                                     <img width="150" height="150" src="<?php echo $pouvoirFederal ?>" alt="Votation fédérales du 7 mars 2021">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation fédérales - 7 mars</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations fédérales - 7 mars</h3>
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
-            </div>  
-        </div>  
-
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="Votations/VotationsCO/Delemont/20210307.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeDelemont ?>" alt="Votation Delémont 7 mars 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Delémont - 7 mars</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>          
         </div>                     
     </section>
 </main>

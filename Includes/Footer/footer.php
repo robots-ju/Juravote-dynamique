@@ -16,8 +16,8 @@
                         <div>
                             <p>Autorités politiques (Canton du Jura)</p>
                             <ul class="uk-nav uk-nav-default grid-nav">
-                                <li><a class="uk-button uk-button-text" href="<?php echo $PHPGouvernementJU20162020 ?>">Gouvernement jurassien</a></li>
-                                <li><a class="uk-button uk-button-text" href="<?php echo $PHPParlementJU20162020 ?>">Parlement jurassien</a></li>
+                                <li><a class="uk-button uk-button-text" href="<?php echo $PHPGouvernementJU20212025 ?>">Gouvernement jurassien</a></li>
+                                <li><a class="uk-button uk-button-text" href="<?php echo $PHPParlementJU20212025 ?>">Parlement jurassien</a></li>
                                 <li><a class="uk-button uk-button-text" href="<?php echo $PHPparlementCH ?>">Représentants-es aux Chambres fédérales</a></li>  
                             </ul>
                         </div>
@@ -25,7 +25,7 @@
                             <p>Autres pages</p>
                             <ul class="uk-nav uk-nav-default grid-nav">
                                 <li><a class="uk-button uk-button-text" href="<?php echo $PHPpartisCH ?>">Partis politiques suisses</a></li>
-                                <li><a class="uk-button uk-button-text" href="<?php echo $PHPpartisJU20162020 ?>">Partis politiques jurassiens</a></li>
+                                <li><a class="uk-button uk-button-text" href="<?php echo $PHPpartisJU20212025 ?>">Partis politiques jurassiens</a></li>
                                 <li><a class="uk-button uk-button-text" href="<?php echo $PHPpartisCO ?>">Partis politiques communaux</a></li>
                             </ul>
                         </div>

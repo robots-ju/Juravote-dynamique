@@ -51,7 +51,7 @@
         <h1 class="uk-heading-large">Gouvernement jurassien 2021 - 2025</h1>
         <hr>
         <div class="conteneur_cartes">
-            <div class="uk-child-width-1-3@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+            <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                         <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
@@ -104,7 +104,7 @@
                         </div>
                         <div class="uk-card-body">
                             <h3 class="uk-card-title-center text-rouge-fonce">Nathalie Barthoulot</h3>
-                            <p class="uk-text-center text-fonction">Présidente du Gouvernement</p>
+                            <p class="uk-text-center text-fonction">Présidente</p>
                             <p class="uk-text-center">Département de la cohésion sociale, de la justice et de la police</p>
                         </div>
                     </div>
@@ -122,7 +122,7 @@
                             </div>
                         </div>
                         <div class="uk-card-body">
-                            <h3 class="uk-card-title-center text-rouge-fonce">Rosalie Beuret Siess</h3>
+                            <h3 class="uk-card-title-center text-rouge-fonce">Rosalie Beuret</h3>
                             <p class="uk-text-center text-fonction">Ministre</p>
                             <p class="uk-border-rounded">Département des finances, des ressources humaines et des communes</p>
                         </div>
@@ -149,7 +149,7 @@
                 </div>
                 <div>
                     <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                        <div class="uk-card-badge uk-label badge-chancelier uk-border-rounded">Chancelière</div>
+                        <div class="uk-card-badge uk-label badge-chancelier uk-border-rounded"></div>
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
                                 <div class="uk-width-auto uk-first-column">
@@ -160,7 +160,7 @@
                             </div>
                         </div>
                         <div class="uk-card-body">
-                            <h3 class="uk-card-title-center text-rouge-fonce">Gladys Winkler Docourt</h3>
+                            <h3 class="uk-card-title-center text-rouge-fonce">Gladys Winkler</h3>
                             <p class="uk-text-center text-fonction">Chancelière d'Etat</p>
                         </div>
                     </div>

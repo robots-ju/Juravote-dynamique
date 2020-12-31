@@ -51,7 +51,7 @@
         <h1 class="uk-heading-large">Parlement jurassien 2021 - 2025</h1>
         <hr>
 
-        <div class="uk-child-width-1-5@xl uk-child-width-1-3@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+        <div class="uk-child-width-1-6@xl uk-child-width-1-3@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                     <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>

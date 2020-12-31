@@ -67,7 +67,7 @@
                         <div class="uk-card-body">
                             <h3 class="uk-card-title-center text-rouge-fonce">Jacques Gerber</h3>
                             <p class="uk-text-center text-fonction">Ministre</p>
-                            <p class="uk-border-rounded">Département de l'Economie et de la Santé</p>
+                            <p class="uk-border-rounded">Département de l'économie, de la santé et de l'agriculture</p>
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                         <div class="uk-card-body">
                             <h3 class="uk-card-title-center text-rouge-fonce">Martial Courtet</h3>
                             <p class="uk-text-center text-fonction">Ministre</p>
-                            <p class="uk-border-rounded">Département de la Formation, de la culture et des Sports</p>
+                            <p class="uk-border-rounded">Département de la formation, de l'égalité, de la culture et des sports</p>
                         </div>
                     </div>
                 </div>
@@ -105,7 +105,7 @@
                         <div class="uk-card-body">
                             <h3 class="uk-card-title-center text-rouge-fonce">Nathalie Barthoulot</h3>
                             <p class="uk-text-center text-fonction">Présidente du Gouvernement</p>
-                            <p class="uk-text-center">Département de l'Intérieur</p>
+                            <p class="uk-text-center">Département de la cohésion sociale, de la justice et de la police</p>
                         </div>
                     </div>
                 </div>
@@ -124,7 +124,7 @@
                         <div class="uk-card-body">
                             <h3 class="uk-card-title-center text-rouge-fonce">Rosalie Beuret Siess</h3>
                             <p class="uk-text-center text-fonction">Ministre</p>
-                            <p class="uk-border-rounded">Département des Finances</p>
+                            <p class="uk-border-rounded">Département des finances, des ressources humaines et des communes</p>
                         </div>
                     </div>
                 </div>
@@ -143,7 +143,7 @@
                         <div class="uk-card-body">
                             <h3 class="uk-card-title-center text-rouge-fonce">David Eray</h3>
                             <p class="uk-text-center text-fonction">Ministre</p>
-                            <p class="uk-border-rounded">Département de l'Environnement</p>
+                            <p class="uk-border-rounded">Département du territoire, de l'environnement et des transports</p>
                         </div>
                     </div>
                 </div>

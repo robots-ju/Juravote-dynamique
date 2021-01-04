@@ -18,7 +18,7 @@ for x in all_files("..\\Pages\\Resultats\\VotationsCH","php"):
     ##########################################
     #### modifications de chaque page ici ####
     ##########################################
-    ctn=ctn.replace("<?php include '/Juravote-dynamique/","<?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/")
+    ctn=ctn.replace("<?php include '/","<?php include $_SERVER['DOCUMENT_ROOT'].'/")
     ctn=ctn.replace("""<script src="https://www.amcharts.com/lib/4/core.js"></script>
         <script src="https://www.amcharts.com/lib/4/charts.js"></script>
         <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>

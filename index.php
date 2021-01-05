@@ -85,7 +85,7 @@
                                 </div>                          
                             </div>
                         </a> 
-                        <!--<a href="<?php echo $lien ?>">                          
+                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210307.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
@@ -95,7 +95,7 @@
                                 </div>                          
                             </div>
                         </a> 
-                        <a href="<?php echo $lien ?>">                          
+                        <!--<a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
@@ -104,8 +104,8 @@
                                     <h3 class="uk-card-title">Election Coeuve</h3>
                                 </div>                          
                             </div>
-                        </a> 
-                        <a href="<?php echo $lien ?>">                          
+                        </a>--> 
+                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210328.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.03</div>
@@ -115,7 +115,7 @@
                                 </div>                          
                             </div>
                         </a> 
-                        <a href="<?php echo $lien ?>">                          
+                        <!--<a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>

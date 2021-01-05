@@ -325,6 +325,7 @@
         $arme = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Arme.jpg";
         $avions = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Avions.jpg";
         $caméra = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Caméra.jpg";
+        $CentreEntretienRCJU = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CentreEntretien_RCJU.jpg";
         $chasse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Chasse.jpg";
         $CongePaternite = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CongePaternite.jpg";
         $Enceinte = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Enceinte.jpg";

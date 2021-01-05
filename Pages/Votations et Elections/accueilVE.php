@@ -48,7 +48,7 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Prochaines votations et élections</h1>
         <hr> 
-        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>            
+        <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>            
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="Votations/VotationsCH/accueil.php">
@@ -65,6 +65,7 @@
                     </a>
                 </div>
             </div>
+
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="Votations/VotationsCO/Delemont/20210307.php">
@@ -80,7 +81,41 @@
                         </div>
                     </a>
                 </div>
-            </div>          
+            </div>    
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="Votations/VotationsCO/Moutier/20210307.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeMoutier ?>" alt="Votation Moutier 7 mars 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Moutier - 7 mars</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>  
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="Votations/VotationsCO/Moutier/20210328.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeMoutier ?>" alt="Votation Moutier 28 mars 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Moutier - 28 mars</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>        
         </div>                     
     </section>
 </main>

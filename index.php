@@ -74,6 +74,16 @@
                                     <h3 class="uk-card-title">Votations fédérales</h3>
                                 </div>                          
                             </div>
+                        </a> 
+                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Courtetelle/20210307.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Courtételle</h3>
+                                </div>                          
+                            </div>
                         </a>  
                         <a href="Pages/Votations et Elections/Votations/VotationsCO/Delemont/20210307.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
@@ -82,6 +92,16 @@
                                 </div>
                                 <div class="uk-card-body">
                                     <h3 class="uk-card-title">Votation Delémont</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+                        <a href="Pages/Votations et Elections/Votations/VotationsCO/HauteSorne/accueil.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votations Haute-Sorne</h3>
                                 </div>                          
                             </div>
                         </a> 
@@ -104,7 +124,7 @@
                                     <h3 class="uk-card-title">Election Coeuve</h3>
                                 </div>                          
                             </div>
-                        </a>--> 
+                        </a>
                         <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210328.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -115,7 +135,7 @@
                                 </div>                          
                             </div>
                         </a> 
-                        <!--<a href="<?php echo $lien ?>">                          
+                        <a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>

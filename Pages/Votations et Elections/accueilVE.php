@@ -48,7 +48,7 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Prochaines votations et élections</h1>
         <hr> 
-        <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>            
+        <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>            
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="Votations/VotationsCH/accueil.php">
@@ -65,6 +65,23 @@
                     </a>
                 </div>
             </div>
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="Votations/VotationsCO/Courtetelle/20210307.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeCourtetelle ?>" alt="Votation Courtételle 7 mars 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Courtételle - 7 mars</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>  
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
@@ -85,6 +102,23 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="Votations/VotationsCO/HauteSorne/accueil.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeHauteSorne ?>" alt="Votations Haute-Sorne 7 mars 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations Haute-Sorne - 7 mars</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>  
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
                     <a href="Votations/VotationsCO/Moutier/20210307.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
@@ -100,7 +134,7 @@
                 </div>
             </div>  
 
-            <div>
+            <!--<div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="Votations/VotationsCO/Moutier/20210328.php">
                         <div class="uk-card-body">
@@ -115,7 +149,7 @@
                         </div>
                     </a>
                 </div>
-            </div>        
+            </div>  -->      
         </div>                     
     </section>
 </main>

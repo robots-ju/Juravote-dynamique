@@ -48,8 +48,9 @@
         </header>
         <main>
     <section class="uk-text-justify" style="padding: 2%;">
-        <h1 class="uk-heading-large">Votation Delémont du 7 mars 2021</h1>
-        <hr>
+        <h1 class="uk-heading-large">Votation Courtételle du 7 mars 2021</h1>
+        <h3 class="uk-text-center">Les informations seront bientôt disponibles !</h3>
+         <!--<hr>
         <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
             <button class="uk-button uk-button-default" type="button">Résumé</button>
             <button class="uk-button uk-button-default" type="button">Positions des partis politiques</button>
@@ -178,7 +179,7 @@
             </li>  
             <li>     
                 <h4>Les arguments en faveur du texte seront bientôt disponibles !</h4>
-                <!--<div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
@@ -258,11 +259,11 @@
                             <p>Texte</p>
                         </div>
                     </div>
-                </div>-->
+                </div>
             </li>
             <li>
                 <h4>Les arguments contre le texte seront bientôt disponibles !</h4>
-                <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
@@ -334,9 +335,9 @@
                             <p>TEXTE</p>
                         </div>
                     </div>
-                </div>-->
+                </div>
             </li>
-        </ul>
+        </ul>-->
     </section>
 </main>
 </body>

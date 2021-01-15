@@ -45,8 +45,9 @@
         </header>
         <main>
             <section style="padding: 2%;">
-                <h1 class="uk-heading-large">Haute-Sorne - résultats des votations du 21.06.2020</h1>
-                <hr>         
+                <h1 class="uk-heading-large">Haute-Sorne - Votations du 7 mars 2021</h1>
+                <h3 class="uk-text-center">Les informations seront bientôt disponibles !</h3>
+                <!--<hr>         
                 <div class="conteneur-cartes">
                     <div class="uk-child-width-1-4@m uk-child-width-1-2@s uk-grid-small uk-grid-match" uk-grid>
                         <div>
@@ -126,7 +127,7 @@
                             </div>
                         </div>
                     </div>
-                </div>   
+                </div>  --> 
             </section>
         </main>
         <footer>

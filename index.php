@@ -218,19 +218,6 @@
                         <h3 class="uk-heading-divider uk-text-center">Prochaines séances des Autorités</h3>  
                         <div class="uk-child-width-1-2@l uk-child-width-1-3@xl uk-grid-divider" uk-grid>
                             <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/40-assemblee-dinformation-saint-brais">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.01</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée d'information St-Brais</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            
-                            <div>
                                 <a target="blank" href="https://juravote.flarum.cloud/d/41-assemblee-communale-les-genevez">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
@@ -257,6 +244,32 @@
                             </div>
 
                             <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >25.01</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Bonfol</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >25.01</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Saignelégier</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div>
                                 <a target="blank" href="https://juravote.flarum.cloud/d/44-assemblee-communale-bure">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
@@ -277,6 +290,19 @@
                                         </div>
                                         <div class="uk-card-body">
                                             <h3 class="uk-card-title">Assemblée communale Fontenais</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >26.01</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Damphreux</h3>
                                         </div>
                                     </div>
                                 </a>
@@ -319,6 +345,32 @@
                                         </div>
                                     </div>
                                 </a>
+                            </div>
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >04.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Pleigne</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>  
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >04.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Haute-Ajoie</h3>
+                                        </div>
+                                    </div>
+                                </a>
                             </div>  
 
                             <div>
@@ -332,11 +384,24 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>                          
+                            </div>  
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >08.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Bourrignon</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>                        
                         </div> 
                     </div>
                     
-                    <div style="padding-bottom: 20%">    
+                    <div style="padding-bottom: 75%">    
                         <h3 class="uk-heading-divider uk-text-center">Soutiens de Juravote</h3>
                         <div class="uk-column-1-1@m uk-column-divider">
                             <div class="uk-card-body uk-text-justify">                            

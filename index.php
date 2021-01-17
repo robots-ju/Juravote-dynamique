@@ -244,7 +244,7 @@
                             </div>
 
                             <div>
-                                <a target="blank" href="#">
+                                <a target="blank" href="https://juravote.flarum.cloud/d/55-assemblee-communale-bonfol">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
                                             <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >25.01</div>
@@ -257,7 +257,7 @@
                             </div>
 
                             <div>
-                                <a target="blank" href="#">
+                                <a target="blank" href="https://juravote.flarum.cloud/d/62-assemblee-communale-saignelegier">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
                                             <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >25.01</div>
@@ -296,7 +296,7 @@
                             </div>
 
                             <div>
-                                <a target="blank" href="#">
+                                <a target="blank" href="https://juravote.flarum.cloud/d/58-assemblee-communale-damphreux">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
                                             <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >26.01</div>
@@ -348,7 +348,7 @@
                             </div>
 
                             <div>
-                                <a target="blank" href="#">
+                                <a target="blank" href="https://juravote.flarum.cloud/d/61-assemblee-communale-pleigne q">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
                                             <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >04.02</div>
@@ -361,7 +361,7 @@
                             </div>  
 
                             <div>
-                                <a target="blank" href="#">
+                                <a target="blank" href="https://juravote.flarum.cloud/d/59-assemblee-communale-haute-ajoie">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
                                             <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >04.02</div>
@@ -387,7 +387,7 @@
                             </div>  
 
                             <div>
-                                <a target="blank" href="#">
+                                <a target="blank" href="https://juravote.flarum.cloud/d/57-assemblee-communale-de-bourrignon">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
                                             <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >08.02</div>

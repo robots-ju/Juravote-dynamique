@@ -322,6 +322,19 @@
                             </div>
 
                             <div>
+                                <a target="blank" href="https://juravote.flarum.cloud/d/63-assemblee-communale-extraordinaire-bourrignon">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >01.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée d'information Bourrignon</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div>
                                 <a target="blank" href="https://juravote.flarum.cloud/d/47-assemblee-communale-saulcy">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">

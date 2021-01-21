@@ -297,95 +297,47 @@
                 </div>                                  
             </li>  
             <li>     
-                <h4>Les arguments en faveur du texte seront bientôt disponibles !</h4>
-                <!--<div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Les deux communes collaborent ensemble afin d'améliorer la distribution d'eau potable et d'optimiser les coûts.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Le projet permettra d'assurer la quantité et la qualité des ressources en eau.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Les conduites actuelles ont dépassé leurs durées de vie et il faut les renouveller.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Une subvention de 40% maximum est attendue pour la conduite Bassecourt-Courfaivre, ainsi
+                            qu'une subvention de l'Etablissement cantonal d'assurances (ECA).</p>
                         </div>
                     </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-ps uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Texte</p>
-                        </div>
-                    </div>
-                </div>-->
+                </div>
             </li>
             <li>
-                <h4>Les arguments contre le texte seront bientôt disponibles !</h4>
+                <h4 style="padding-bottom: 10%">Il n'y a pas d'oppositions au projet !</h4>
                 <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -393,7 +345,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -401,7 +353,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -409,7 +361,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -417,7 +369,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -425,7 +377,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -433,7 +385,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -441,7 +393,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -449,7 +401,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>

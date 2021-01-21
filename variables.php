@@ -324,11 +324,13 @@
         $vitesse30 = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/30kmh.png";
         $arme = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Arme.jpg";
         $avions = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Avions.jpg";
+        $CAD_Bassecourt = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CAD_Bassecourt.jpg";
         $caméra = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Caméra.jpg";
         $CentreEntretienRCJU = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CentreEntretien_RCJU.jpg";
         $chasse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Chasse.jpg";
         $CongePaternite = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CongePaternite.jpg";
         $Eau = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Eau.jpg";
+        $EMS_Bassecourt = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/EMS_Bassecourt.jpg";
         $Enceinte = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Enceinte.jpg";
         $Eolienne = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Eolienne.jpg";
         $Europe = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Europe.jpg";

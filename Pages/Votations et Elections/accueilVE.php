@@ -68,7 +68,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="Votations/VotationsCO/Courtetelle/20210307.php">
+                    <a href="Votations/VotationsCO/HauteSorne/Eau.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">

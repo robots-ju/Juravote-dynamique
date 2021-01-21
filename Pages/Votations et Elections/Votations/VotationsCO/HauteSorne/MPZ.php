@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Votation Delémont</title>
+        <title>JuraVote | Votation Haute-Sorne</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -48,7 +48,8 @@
         </header>
         <main>
     <section class="uk-text-justify" style="padding: 2%;">
-        <h1 class="uk-heading-large">Votation Delémont du 7 mars 2021</h1>
+        <h1 class="uk-heading-large">Votations Haute-Sorne du 7 mars 2021 : Modification du plan de zones à proximité du home médicalisé
+        Claire-Fontaine et du règlement sur les constructions</h1>
         <hr>
         <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
             <button class="uk-button uk-button-default" type="button">Résumé</button>
@@ -58,214 +59,112 @@
         </div>  
         <ul class="uk-switcher uk-margin">
             <li> 
-                <div class="uk-column-1-2@m uk-column-1-1@s">
-                    <h3>Préambule</h3>
-                    <p>Le changement  d'affectation  est prévu dans le  secteur des  Prés-Roses, à  proximité de  la  jonction  autoroutière A16
-                    Delémont-Ouest, afin  d'élargir  la  zone  d'utilité  publique pour  permettre  la  réalisation  de  la  future  déchèterie.
-                    Cela entraîne la modification du Plan de zones (PZ) et du Règlement communal sur les constructions (RCC).
+                <h3>Le projet</h3>
+                <hr>                
+
+                <div class="uk-column-1-2@m uk-column-1-1@s">   
+                    <h5>Modification de l'affectation</h5>
+                    <hr>
+                    <p>La Résidence Claire-Fontaine est un établissement médico-social (EMS) qui accueille des personnes
+                    en âge de retraite, dont un maintien à domicile n'est plus possible. Aujourd’hui, 50 résidents sont hébergés
+                     dans cette structure. Une nouvelle construction est en projet dans le secteur des Jardins de la Tuilerie.
                     </p>
 
-                    <p>Après une étude de variantes, le choix s'est porté sur les terrains sis au Nord du centre d'entretien du canton. 
-                    Le projet prévoit les adaptations requises pour l'accueil de la déchèterie dans un nouveau secteur de la zone
-                    d'utilité publique. Ce changement d'affectation implique une adaptation du secteur destiné à des équipements d'importance 
-                    cantonale ou en lien  avec l'exploitation du canton. Il pourrait le cas échéant recevoir l'aire d'accueil des Gens du voyage.
+                    <p>En parallèle, le Conseil de fondation souhaite diversifier son activité et répondre à une demande de plus
+                    en plus importante, en proposant la prise en charge de personnes dont la dépendance est très
+                    importante (malades type Alzheimer, démence sénile, etc.). Dans ce but, il souhaite réhabiliter les
+                    locaux de l’actuelle Résidence Claire-Fontaine en créant une unité de vie psycho-gériatrique (UVP) de
+                    28 lits.
                     </p>
 
-                    <p>Ce projet d'extension est déjà inscrit dans le Plan directeur communal de 2016. En lien direct avec ce projet, un 
-                    itinéraire réservé à la mobilité douce est actuellement étudié par les Vies-Ste-Catherine et un nouvel accès routier
-                    sera créé.</p>
+                    <p>Cette nouvelle activité s’accompagnera d’un besoin accru en personnel soignant et donc en places de
+                    parcs. Ce besoin en stationnement nécessite l’extension de l’affectation en zone d’utilité publique du
+                    secteur à partir du home actuel en direction de l’Est. En effet, l’affectation actuelle en zone d’habitation
+                    n’est pas adaptée au projet de stationnement du Conseil de fondation. L’accès à ce parking est prévu
+                    par la rue Champ Hulay.
+                    </p>          
 
-                    <img src="<?php echo $CentreEntretienRCJU ?>" style="width: 550px" class="uk-align-left">
-                    <span><i>Photo : République et Canton du Jura, 2009</i></span>
-                </div>
-
-                <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-top: 2%;">
-                    <h3>Stratégie de gestion des déchets à l'échelle communale</h3>
-                    <p>Le projet de déchèterie régionale a été repris suite à la votation de 2017, qui n'avait pas permis d'obtenir une majorité
-                    d'avis favorables dans le district de Delémont. Pour rappel, le Corps électoral de Delémont avait accepté le projet, dont le
-                    fonds ne sera pas changé. Une évaluation a été menée pour définir le site le plus propice à accueillir ce projet : Les Prés Roses.
-                    </p>
+                    <h5>Modification du règlement communal sur les constructions (RCC)</h5>
+                    <hr>
+                    <p>En parallèle à cette modification, les autorités communales souhaitent adapter le règlement communal
+                    de la zone MAe située a proximité. Il s’agit de pouvoir accueillir en zone MAe de l’activité commerciale
+                    non liée à une activité afin de pouvoir accueillir de nouveaux commerçants et ainsi créer des synergies
+                    avec le Jura Centre. Il s’agit également de modifier l’indice d’utilisation lié à cette zone et de rendre
+                    l’indice maximum admis « sans objet ». Les autorités estiment que la maitrise du volume à construire
+                    est assurée par les dispositions de hauteurs et hauteur totale.
+                    </p>  
                     
-                    <p>Pour faire face à la gestion actuelle des déchets qui pose des problèmes et qui n'est plus maîtrisée,
-                    le Conseil communal a défini un plan d'actions global, qui repose sur plusieurs piliers, pour toucher toutes les classes
-                    d'âge, en particulier les jeunes et les personnes défavorisées. Ce plan d'actions passe par la mise en place des infrastructures
-                    nécessaires :
-                    <ul>
-                        <li>Une déchèterie, indispensable à court terme</li>
-                        <li>Des écopoints, qui seront maintenus, améliorés et développés.</li>
-                        <li>Des moloks, qui seront mis en place.</li>
-                        <li>Un nouveau lieu de collecte des déchets verts, pour alimenter un projet de biogaz.</li>
-                        <li>La mise en place d'un système sur appel pour les personnes qui en ont besoin.</li>
-                    </ul>
+                    <p>Cette modification est accompagnée d’une mise en conformité du RCC avec les nouvelles dispositions
+                    du plan directeur cantonal qui fixent un minimum à l’indice d’utilisation de 0,4 pour la zone mixte, qui
+                    limitent les aires de stationnement à 1800m2 et qui imposent un plan de mobilité obligatoire pour les
+                    entreprises de plus de 20 équivalents plein temps.
                     </p>
-
-                    <h3>Plan climat communal pris en compte</h3>
-                    <ol>
-                        <li style="padding-bottom: 1%;">Réduire la consommation des bâtiments, logements et constructions, prévoir une production
-                        d'énergie renouvelable, tenir compte des émissions grises, assurer une gestion durable de l'eau.</li>
-
-                        <li style="padding-bottom: 1%;">Réduire la dépendance aux énergies fossiles, promouvoir et utiliser les énergies
-                        renouvelables de manière durable et efficace.</li>
-
-                        <li style="padding-bottom: 1%;">Favoriser une mobilité sobre en carbone, privilégier les distnaces courtes, remplaçer le
-                        trafic motorisé par des véhicules légers et électriques.</li>
-
-                        <li style="padding-bottom: 1%;">Prendre en compte et réduire au minimum les émissions liées à la consommation, privilégier
-                        les investissements financiers neutres sur le plan climatique.</li>
-
-                        <li style="padding-bottom: 1%;">Prendre en compte les changements climatiques avec des planifications cohérentes afin de
-                        promouvoir un développement territorial durable.</li>
-
-                        <li style="padding-bottom: 1%;">Protéger la population des effets néfastes du changement climatique dans le cadre des
-                        constructions et aménagements réalisés.</li>
-
-                        <li style="padding-bottom: 1%;">Protéger l'eau, la biodiversité, l'agriculture et les forêts face au changement climatique,
-                        lutter contre les crues et revitaliser les cours d'eau, améliorer la gestion du patrimoine arboré, augmenter la végétalisation,
-                        mettre en oeuvre le label Ville verte Suisse.</li>
-                    </ol>                    
                 </div>
 
-                <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-top: 2%;">
-                    <h3>Dépôt public et suite du projet</h3>
-                    <p>Les modifications du plan de zone et du règlement sur les constructions ont déposées publiquement le 5 novembre 2020.
-                    Les oppositions ont fait l'objet de ocncilations et des accords ont pu être passés ou sont en voie de finalisation avec tous
-                    les propriétaires et partenaires concernés.
-                    </p>
-
-                    <p>La  suite du processus en vue de la réalisation d'une déchèterie régionale sera prise en mains par le SEOD qui poursuit
-                    le développement et qui prendra en charge les frais liés à toutes les démarches effectuées  par la Commune et à celles 
-                    imputables au syndicat.
-                    </p>
-
-                    <p>Les  crédits y relatifs seront votés par les instances compétentes du SEOD. Si, contre toute attente, le SEOD ne 
-                    devait pas aboutir dans son projet, les Autorités communales poursuivraient les démarches afin de réaliser une déchèterie
-                    communale ou plus probablement intercommunale avec les communes intéressées qui se sont déjà annoncées partantes.
-                    </p>
-
-                    <h3>Modification de l'aménagement local</h3>
-                    <p>La modification doit permettre l'accueil de la déchèterie, ce qui implique un changement d'affectation du secteur actuel.
-                    Il sera inscrit dans le règlement communal des constructions (RCC) que, seule une déchèterie pourra être construire à cet
-                    emplacement et, ce, dans les 3 ans qui suivent le changement d'affectation. Si la construction n'est pas réalisée, le secteur
-                    redevient à son affectation antérieure automatiquement.
-                    </p>
-
-                    <p>Une procédure précise doit être suivie. Une phase d'information et de participation a été mise en place, avec les propriétaires
-                    fonciers et le Canton. Une fois le dossier finalisé,. il a été déposé publiquement pendant 30 jours et est désormais soumis au peuple.
-                    </p>
-
-                    <iframe title="Plan de situation" aria-label="chart" id="datawrapper-chart-9V3Ti" src="https://datawrapper.dwcdn.net/9V3Ti/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="428"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                    </script>
-                </div>
-            
                 <h3>La question qui vous est posée :</h3>
-                    <b><p>Acceptez-vous, selon message du Conseil de Ville, la modification du Plan d'aménagement local destiné
-                    au projet de déchèterie aux Prés-Roses ?</p></b>
+                    <b><p>Acceptez-vous, selon le message n° 151 du Conseil général, la modification du plan de
+                    zones (MPZ) à proximité du home médicalisé Claire-Fontaine et la modification du
+                    règlement sur les constructions (RCC) pour la zone MAe (zone mixte) ?</p></b>
             </li>
             <li>
                 <div class="uk-child-width-1-2@m" uk-grid>
                     <div>
                         <h2>Autorités</h2>
-                        <iframe title="Recommandations de vote des autorités" aria-label="chart" id="datawrapper-chart-NxQPK" src="https://datawrapper.dwcdn.net/NxQPK/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                        </script>
+                        
                     </div>
 
                     <div>
-                        <h2>Partis politiques delémontains</h2>
-                        <iframe title="Recommandations de vote des autorités (Copy)" aria-label="chart" id="datawrapper-chart-PHdob" src="https://datawrapper.dwcdn.net/PHdob/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                        </script>
+                        <h2>Partis politiques Haute-Sorne</h2>
+                        
                     </div>
                 </div>                                  
             </li>  
             <li>     
-                <h4>Les arguments en faveur du texte seront bientôt disponibles !</h4>
-                <!--<div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil de fondation Claire-Fontaine</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Nous souhaitons mettre à disposition des résidents de nouveaux locaux et leur offrir un lieu
+                            de vie agréable, convivial et adapté à leurs besoins.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Le nouveau bâtiment respectera les nouvelles prescriptions (chambre à 1 lit) et permettra d'offrir
+                            aux résidents de l'EMS une structure d'accueil mdoerne et efficace.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>La modification du RCC permettra de créer des synergies avec JuraCentre, et donc de pouvoir
+                            accueillir de l'activité commerciale non liée à une activité.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Les nouvelles dispositions cantonales en la matière seront intégrées dans les modifications du RCC (limite
+                            des aires de stationnement à 1800 mètres carrés et imposition d'un plan de mobilité pour les entreprises de
+                            plus de 20 équivalents plein temps.</p>
                         </div>
                     </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-ps uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Texte</p>
-                        </div>
-                    </div>
-                </div>-->
+                </div>
             </li>
             <li>
                 <h4>Les arguments contre le texte seront bientôt disponibles !</h4>
                 <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -273,7 +172,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -281,7 +180,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -289,7 +188,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -297,7 +196,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -305,7 +204,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -313,7 +212,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -321,7 +220,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>
@@ -329,7 +228,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>TEXTE</p>
                         </div>

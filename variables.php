@@ -328,6 +328,7 @@
         $CentreEntretienRCJU = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CentreEntretien_RCJU.jpg";
         $chasse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Chasse.jpg";
         $CongePaternite = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CongePaternite.jpg";
+        $Eau = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Eau.jpg";
         $Enceinte = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Enceinte.jpg";
         $Eolienne = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Eolienne.jpg";
         $Europe = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Europe.jpg";
@@ -346,6 +347,8 @@
         $Radio = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/radio.jpg";
         $Responsables = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Responsables.jpg";
         $Restauration = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Restauration.jpg";
+        $ReseauEau_HauteSorneCourtetelle = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/ReseauEau_HauteSorne-Courtetelle.jpg";
+        $ReseauEau_CourfaivreCourtetelle = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/ReseauEau_Courfaivre-Courtetelle.jpg";
         $Route = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Route.jpg";
         $Senior = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Senior.jpg";
         $Sous = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Sous.jpg";

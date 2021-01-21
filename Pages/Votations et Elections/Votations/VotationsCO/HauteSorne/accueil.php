@@ -46,23 +46,24 @@
         <main>
             <section style="padding: 2%;">
                 <h1 class="uk-heading-large">Haute-Sorne - Votations du 7 mars 2021</h1>
-                <h3 class="uk-text-center">Les informations seront bientôt disponibles !</h3>
-                <!--<hr>         
+                <hr>         
                 <div class="conteneur-cartes">
-                    <div class="uk-child-width-1-4@m uk-child-width-1-2@s uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-hover">
-                                <a href="Parc.php">
+                                <a href="Eau.php">
                                     <div class="uk-card-header">
                                         <div class="uk-width-auto">
-                                            <img class="illustration" src="../../../../../img/Votations/Communales/HauteSorne/21.06.2020/placesParc.jpg" alt="Introduction d'une taxe pour les places de parc">
+                                            <img class="illustration" src="<?php echo $Eau ?>" alt="Création d'une colonne principale d'alimentation en eau potable entre
+                                                    Bassecourt et Courtételle">
                                         </div>
                                     </div>
                                     <div class="uk-card-body">
                                         <div class="uk-grid-small uk-flex-column" uk-grid>
                                             <div class="uk-width-expand">
                                                 <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">
-                                                    Modifications des règlements sur les constructions</h3>
+                                                    Création d'une colonne principale d'alimentation en eau potable entre
+                                                    Bassecourt et Courtételle</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -71,17 +72,19 @@
                         </div>
                         <div>
                             <div class="uk-card uk-card-default uk-card-hover">
-                                <a href="FCB.php">
+                                <a href="CAD.php">
                                     <div class="uk-card-header">
                                         <div class="uk-width-auto">
-                                            <img class="illustration" src="../../../../../img/Votations/Communales/HauteSorne/21.06.2020/buvetteFCB.jpg" alt="FC Bassecourt votations">
+                                            <img class="illustration" src="<?php echo $Eau ?>" alt="Mise en place d'une nouvelle chaufferie alimentant les bâtiments de l'administration
+                                                   communale et le complexe scolaire de Bassecourt">
                                         </div>
                                     </div>
                                     <div class="uk-card-body">
                                         <div class="uk-grid-small uk-flex-column" uk-grid>
                                             <div class="uk-width-expand">
                                                 <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">
-                                                   Stade des Grands-Prés à Bassecourt</h3>
+                                                   Mise en place d'une nouvelle chaufferie alimentant les bâtiments de l'administration
+                                                   communale et le complexe scolaire de Bassecourt</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -90,36 +93,19 @@
                         </div>
                         <div>
                             <div class="uk-card uk-card-default uk-card-hover">
-                                <a href="Creche.php">
+                                <a href="MPZ.php">
                                     <div class="uk-card-header">
                                         <div class="uk-width-auto">
-                                            <img class="illustration" src="../../../../../img/Votations/Communales/HauteSorne/21.06.2020/UAPE.jpg" alt="Nouvelle crèche/UAPE Courfaivre">
+                                            <img class="illustration" src="<?php echo $Eau ?>" alt="Modification du plan de zones à proximité du home médicalisé Claire-Fontaine et
+                                                   modification du règlement sur les constructions.">
                                         </div>
                                     </div>
                                     <div class="uk-card-body">
                                         <div class="uk-grid-small uk-flex-column" uk-grid>
                                             <div class="uk-width-expand">
                                                 <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">
-                                                   Accueil d’une antenne crèche/UAPE à Courfaivre</h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-hover">
-                                <a href="CSCC.php">
-                                    <div class="uk-card-header">
-                                        <div class="uk-width-auto">
-                                            <img class="illustration" src="../../../../../img/Votations/Communales/HauteSorne/21.06.2020/centreSportif.jpg" alt="Centre de Culture et de Sport à Courfaivre">
-                                        </div>
-                                    </div>
-                                    <div class="uk-card-body">
-                                        <div class="uk-grid-small uk-flex-column" uk-grid>
-                                            <div class="uk-width-expand">
-                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">
-                                                    Centre de Culture et de Sport à Courfaivre</h3>
+                                                   Modification du plan de zones à proximité du home médicalisé Claire-Fontaine et
+                                                   modification du règlement sur les constructions.</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -127,7 +113,7 @@
                             </div>
                         </div>
                     </div>
-                </div>  --> 
+                </div>
             </section>
         </main>
         <footer>

@@ -59,20 +59,44 @@
             </div>  
             <ul class="uk-switcher uk-margin">
                 <li> 
-                    <h1>Description de la votation</h1>
-                        <p>Texte</p>
+                    <h3>Contexte</h3>
+                    <hr>
+                    <p>Il est important pour les entreprises suisses d’exporter et d’avoir des relations économiques fiables. 
+                    Pour garantir et améliorer leur accès aux marchés étrangers, la Suisse entretient un vaste réseau d’accords 
+                    avec des pays partenaires. Aujourd’hui, des droits de douane élevés et d’autres barrières entravent le 
+                    commerce avec l’Indonésie, le quatrième pays le plus peuplé du monde. C’est pourquoi la Suisse a également 
+                    négocié un accord avec ce pays. L’accord fait l’objet d’un référendum, notamment au motif qu’il réduit, 
+                    à certaines conditions, les droits de douane sur les importations d’huile de palme.
+                    </p>
+
+                    <h3>Le projet</h3>
+                    <hr>
+                    <p>L’accord prévoit que toutes les marchandises suisses importantes peuvent être exportées vers l’Indonésie 
+                    en franchise douanière. Les entreprises suisses bénéficient ainsi sur le marché indonésien en pleine croissance 
+                    de conditions au moins aussi favorables que la concurrence étrangère. La Suisse supprime quant à elle les droits 
+                    de douane sur les produits industriels indonésiens.
+                    </p>
+
+                    <p>Afin de protéger l’agriculture suisse, elle les maintient cependant en grande partie sur les produits agricoles. 
+                    Notre pays et l’Indonésie s’engagent de plus à mettre en place un commerce compatible avec le développement durable. 
+                    Concernant les importations d’huile de palme indonésienne, l’accord prévoit certaines réductions douanières pour un 
+                    quota limité. Pour en bénéficier, l’importateur doit prouver que l’huile de palme a été produite dans le respect des 
+                    exigences environnementales et sociales prévues par l’accord.
+                    </p>
                 
-                    <h1>La question qui vous est posée :</h1>
-                        <b><p>Texte</p></b>
+                    <h3>La question qui vous est posée : </h3>
+                    <hr>
+                    <b><p>Acceptez-vous l’arrêté fédéral du 20 décembre 2019 portant approbation de l’Accord de partenariat économique 
+                    de large portée entre les États de l’AELE et l’Indonésie ?</p></b>
                 </li>
                 <li>
                     <div class="uk-column-1-3@m uk-column-1-1@s">
                         <!--<h2>Partis fédéraux</h2>-->
-                        <iframe title="Recommandations de vote des partis fédéraux" aria-label="chart" id="datawrapper-chart-2LMpP" src="https://datawrapper.dwcdn.net/2LMpP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Recommandations de vote des partis fédéraux" aria-label="chart" id="datawrapper-chart-2LMpP" src="https://datawrapper.dwcdn.net/2LMpP/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>   
 
                         <!--<h2>Partis jurassiens</h2>-->
-                        <iframe title="Recommandations de vote des partis jurassiens" aria-label="chart" id="datawrapper-chart-x8tEf" src="https://datawrapper.dwcdn.net/x8tEf/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Recommandations de vote des partis jurassiens" aria-label="chart" id="datawrapper-chart-x8tEf" src="https://datawrapper.dwcdn.net/x8tEf/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     
 
@@ -82,23 +106,41 @@
                     </div>
                 </li>  
                 <li>            
-                    <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Texte</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Texte</p>
+                                <p>Il s’agit d’un accord important et équilibré. Il tient compte des intérêts économiques 
+                                des deux pays ainsi que de l’objectif de développement durable.</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p>Les conditions plus avantageuses prévues par l’accord sont applicables uniquement 
+                                à l’importation d’huile de palme durable.</p>
                             </div>
                         </div>
                     </div>
                 </li>
                 <li>
-                    <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Texte</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Texte</p>
+                                <p>Il est presque impossible de respecter les critères de durabilité promis par l’accord, 
+                                car il n’y a pas de possibilités de contrôle et de sanction efficaces.</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p>L’huile de palme bon marché détruit les forêts primaires et concurrence des produits comme 
+                                l’huile de tournesol ou de colza en Suisse.</p>
                             </div>
                         </div>
                     </div>

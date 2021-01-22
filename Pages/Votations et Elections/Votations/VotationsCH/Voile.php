@@ -48,7 +48,7 @@
     </header>
     <main>
     <section style="padding: 2%;">
-            <h1 class="uk-heading-large">Initiative populaire du 15 septembre 2017 «Oui à l’interdiction de se dissimuler le visage»</h1>
+            <h1 class="uk-heading-large">Initiative populaire du 15.09.2017 «Oui à l’interdiction de se dissimuler le visage»</h1>
             <hr>
             <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
                 <button class="uk-button uk-button-default" type="button">Résumé</button>
@@ -58,35 +58,36 @@
             </div>  
             <ul class="uk-switcher uk-margin">
                 <li> 
-                    <h1>Description de la votation</h1>
-                        <p>L'initiative demande à ce que nul ne puisse ne se dissimuler le visage dans l'espace public, ni dans les lieux
-                        accessibles au publics ou dans lesquels sont fournies des prestations ordinairement accessibles par tout un chacun.</p>
+                    <h3>Contexte</h3>
+                    <hr>
+                    <p>L’interdiction de se dissimuler le visage fait débat depuis plusieurs années en Suisse. 
+                    Le Conseil fédéral et les Chambres fédérales se sont toujours opposés à une interdiction 
+                    applicable dans tout le pays. Deux cantons, Saint-Gall et le Tessin, interdisent la dissimulation
+                    du visage sur leur territoire. D’autres cantons ont rejeté une telle interdiction. 
+                    De  nombreux cantons, enfin, interdisent aux manifestants de se dissimuler le visage.
+                    </p>
 
-                        <p>En cas d'acceptation de l'initiative, la Constitution serait modifiée comme suit :</p>
+                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-top: 2%;">
+                        <h3>L'initiative</h3>
+                        <hr>
+                        <p>L'initiative veut interdire toute forme de dissimulation du visage en Suisse, dans tous les lieux
+                        accessibles au public (rues, services administratifs, transports publics, stades, restaurants, magasins, ...).
+                        Des exceptions ne seront admises que dans les lieux de cultes ou lorsqu'elles seront justifiées par des raisons
+                        de santé ou de sécurité, des raisons climatiques ou des coutumes locales.
+                        </p>
 
-                        <h5>Art. 10a Interdiction de se dissimuler le visage</h5>
+                        <h3>Le contre-projet indirect</h3>
+                        <hr>
+                        Le Conseil fédéral et le Parlement estiment que l’initiative va trop loin. Ils lui opposent un 
+                        contre-projet indirect qui prévoit que toute personne doit montrer son visage aux autorités 
+                        lorsque celles-ci doivent vérifier son identité. Le contre-projet propose en outre des mesures 
+                        destinées à renforcer les droits des femmes. Il ne pourra entrer en vigueur que si l’initiative est rejetée.
+                        </p>
+                    </div>
 
-                        <ol>
-                        <li>Nul ne peut se dissimuler le visage dans l’espace public, ni dans les lieux accessibles au public ou dans lesquels
-                        sont fournies des prestations ordinairement accessibles par tout un chacun; l’interdiction n’est pas applicable dans
-                        les lieux de culte.</li>
-                        <li>Nul ne peut contraindre une personne de se dissimuler le visage en raison de son sexe.</li>
-                        <li>La loi prévoit des exceptions. Celles-ci ne peuvent être justifiées que par des raisons de santé ou de sécurité,
-                        par des raisons climatiques ou par des coutumes locales.</li>
-                        </ol>
-
-                        <p>Art. 197, ch. 12, 12. Disposition transitoire ad art. 10a (Interdiction de se dissimuler le visage)</p>
-
-                        <p>La législation d’exécution doit être élaborée dans les deux ans qui suivent l’acceptation de l’art. 10a par le
-                        peuple et les cantons.</p>
-
-                        <h4>En cas de refus de l'initiative</h4>
-                        <p>Si l'initiative est refusée par le peuple et les cantons le 7 mars 2021, le contre-projet du Conseil fédéral entrera
-                        en vigueur (soumis au référendum facultatif). Ce contre-projet stipule qu'une personne est tenue de montrer son visage
-                        au représentant d'une autorité suisse lors d'une vérification d'identité.</p>
-                
-                    <h1>La question qui vous est posée :</h1>
-                        <b><p>Acceptez-vous l'initiative populaire "Oui à l'interdiction de se dissimuler le visage" ?</p></b>
+                    <h3>La question qui vous est posée :</h3>
+                    <hr>
+                    <b><p>Acceptez-vous l'initiative populaire "Oui à l'interdiction de se dissimuler le visage" ?</p></b>
                 </li>
                 <li>
                     <div class="uk-column-1-3@m uk-column-1-1@s">
@@ -95,7 +96,7 @@
                         </script>   
 
                         <!--<h2>Partis jurassiens</h2>-->
-                        <iframe title="Recommandations de vote des partis jurassiens" aria-label="chart" id="datawrapper-chart-exTuv" src="https://datawrapper.dwcdn.net/exTuv/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Recommandations de vote des partis jurassiens" aria-label="chart" id="datawrapper-chart-exTuv" src="https://datawrapper.dwcdn.net/exTuv/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     
 
@@ -105,7 +106,7 @@
                     </div>
                 </li>  
                 <li>            
-                    <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
@@ -154,16 +155,24 @@
                     </div>
                 </li>
                 <li>
-                    <p>Les arguments contre l'initiative seront bientôt disponibles !</p>
-                    <!--<div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Texte</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Texte</p>
+                                <p>La dissimulation du visage est un phénomène marginal. L’interdire dans tout le pays 
+                                rognera les droits des cantons, nuira au tourisme et n’aidera pas les femmes concernées.</p>
                             </div>
                         </div>
-                    </div>-->
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p>Le contreprojet comble une lacune de manière ciblée : le visage devra être montré lors de toute 
+                                 d’identité.</p>
+                            </div>
+                        </div>
+                    </div>
                 </li>
             </ul>
         </section>

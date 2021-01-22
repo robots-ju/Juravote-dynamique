@@ -75,7 +75,7 @@
                                 </div>                          
                             </div>
                         </a> 
-                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Courtetelle/20210307.php">                          
+                        <a href="Pages/Votations et Elections/Votations/VotationsCO/HauteSorne/Eau.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
@@ -218,32 +218,6 @@
                         <h3 class="uk-heading-divider uk-text-center">Prochaines séances des Autorités</h3>  
                         <div class="uk-child-width-1-2@l uk-child-width-1-3@xl uk-grid-divider" uk-grid>
                             <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/41-assemblee-communale-les-genevez">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >18.01</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Les Genevez</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/42-assemblee-communale-movelier">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >19.01</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Movelier</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
                                 <a target="blank" href="https://juravote.flarum.cloud/d/55-assemblee-communale-bonfol">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
@@ -322,6 +296,19 @@
                             </div>
 
                             <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.01</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Lajoux</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div>
                                 <a target="blank" href="https://juravote.flarum.cloud/d/63-assemblee-communale-extraordinaire-bourrignon">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
@@ -329,6 +316,32 @@
                                         </div>
                                         <div class="uk-card-body">
                                             <h3 class="uk-card-title">Assemblée d'information Bourrignon</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >01.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Mettembert</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >01.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Montfaucon</h3>
                                         </div>
                                     </div>
                                 </a>
@@ -397,6 +410,19 @@
                                         </div>
                                     </div>
                                 </a>
+                            </div> 
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >08.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Conseil général des Bois</h3>
+                                        </div>
+                                    </div>
+                                </a>
                             </div>  
 
                             <div>
@@ -407,6 +433,45 @@
                                         </div>
                                         <div class="uk-card-body">
                                             <h3 class="uk-card-title">Assemblée communale Bourrignon</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div> 
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >09.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale La Chaux-des-Breuleux</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>  
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >09.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Lugnez</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>  
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >15.02</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Muriaux</h3>
                                         </div>
                                     </div>
                                 </a>

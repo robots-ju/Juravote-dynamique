@@ -48,7 +48,7 @@
         </header>
         <main>
     <section class="uk-text-justify" style="padding: 2%;">
-        <h1 class="uk-heading-large">Votations Haute-Sorne du 7 mars 2021 : Création d’une colonne principale d’alimentation en eau potable entre Bassecourt et Courtételle</h1>
+        <h1 class="uk-heading-large">Votation du 7 mars 2021 : Création d’une colonne principale d’alimentation en eau potable entre Bassecourt et Courtételle</h1>
         <hr>
         <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
             <button class="uk-button uk-button-default" type="button">Résumé</button>

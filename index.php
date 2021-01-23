@@ -105,7 +105,7 @@
                                 </div>                          
                             </div>
                         </a> 
-                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210307.php">                          
+                         <!--<a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210307.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
@@ -115,7 +115,7 @@
                                 </div>                          
                             </div>
                         </a> 
-                        <!--<a href="<?php echo $lien ?>">                          
+                       <a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
@@ -479,7 +479,7 @@
                         </div> 
                     </div>
                     
-                    <div style="padding-bottom: 75%">    
+                    <div  style="padding-bottom: 135%">    
                         <h3 class="uk-heading-divider uk-text-center">Soutiens de Juravote</h3>
                         <div class="uk-column-1-1@m uk-column-divider">
                             <div class="uk-card-body uk-text-justify">                            

@@ -334,6 +334,7 @@
         $Enceinte = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Enceinte.jpg";
         $Eolienne = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Eolienne.jpg";
         $Europe = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Europe.jpg";
+        $FonctionnementEID = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/FonctionnementEID.jpg";
         $Gare = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Gare.jpg";
         $IdentiteNumerique = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/IdentiteNumerique.jpg";
         $IndonesieSuisse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Indonesie-Suisse.jpg";

@@ -325,13 +325,17 @@
         $vitesse30 = "/IMG/Votations/BANQUE_IMAGE/30kmh.png";
         $arme = "/IMG/Votations/BANQUE_IMAGE/Arme.jpg";
         $avions = "/IMG/Votations/BANQUE_IMAGE/Avions.jpg";
+        $CAD_Bassecourt = "/IMG/Votations/BANQUE_IMAGE/CAD_Bassecourt.jpg";
         $caméra = "/IMG/Votations/BANQUE_IMAGE/Caméra.jpg";
         $CentreEntretienRCJU = "/IMG/Votations/BANQUE_IMAGE/CentreEntretien_RCJU.jpg";
         $chasse = "/IMG/Votations/BANQUE_IMAGE/Chasse.jpg";
         $CongePaternite = "/IMG/Votations/BANQUE_IMAGE/CongePaternite.jpg";
+        $Eau = "/IMG/Votations/BANQUE_IMAGE/Eau.jpg";
+        $EMS_Bassecourt = "/IMG/Votations/BANQUE_IMAGE/EMS_Bassecourt.jpg";
         $Enceinte = "/IMG/Votations/BANQUE_IMAGE/Enceinte.jpg";
         $Eolienne = "/IMG/Votations/BANQUE_IMAGE/Eolienne.jpg";
         $Europe = "/IMG/Votations/BANQUE_IMAGE/Europe.jpg";
+        $FonctionnementEID = "/IMG/Votations/BANQUE_IMAGE/FonctionnementEID.jpg";
         $Gare = "/IMG/Votations/BANQUE_IMAGE/Gare.jpg";
         $IdentiteNumerique = "/IMG/Votations/BANQUE_IMAGE/IdentiteNumerique.jpg";
         $IndonesieSuisse = "/IMG/Votations/BANQUE_IMAGE/Indonesie-Suisse.jpg";
@@ -347,6 +351,8 @@
         $Radio = "/IMG/Votations/BANQUE_IMAGE/radio.jpg";
         $Responsables = "/IMG/Votations/BANQUE_IMAGE/Responsables.jpg";
         $Restauration = "/IMG/Votations/BANQUE_IMAGE/Restauration.jpg";
+        $ReseauEau_HauteSorneCourtetelle = "/IMG/Votations/BANQUE_IMAGE/ReseauEau_HauteSorne-Courtetelle.jpg";
+        $ReseauEau_CourfaivreCourtetelle = "/IMG/Votations/BANQUE_IMAGE/ReseauEau_Courfaivre-Courtetelle.jpg";
         $Route = "/IMG/Votations/BANQUE_IMAGE/Route.jpg";
         $Senior = "/IMG/Votations/BANQUE_IMAGE/Senior.jpg";
         $Sous = "/IMG/Votations/BANQUE_IMAGE/Sous.jpg";

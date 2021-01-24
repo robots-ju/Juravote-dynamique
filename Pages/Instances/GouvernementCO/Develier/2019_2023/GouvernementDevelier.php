@@ -91,7 +91,7 @@
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                     <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Alain Crevoiserat</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Sigismond Jacquod</h3>
                         <p>Finances et controlling</p>
                     </div>
                 </div>

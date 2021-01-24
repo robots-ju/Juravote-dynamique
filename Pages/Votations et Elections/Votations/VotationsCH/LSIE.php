@@ -148,7 +148,8 @@
                         
                         <h3>Comment fonctionne l'e-ID ?</h3>
                         <hr>
-                        <img src="<?php echo $FonctionnementEID ?>" width="900px" style="background-color: #F5F5F5;">
+                        <img src="<?php echo $FonctionnementEID ?>" width="850px" style="background-color: #F5F5F5;">
+                        <p>Source : Confédération suisse</p>
                     </div>               
                 </li>
                 <li>

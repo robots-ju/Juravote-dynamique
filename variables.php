@@ -324,7 +324,9 @@
         $vitesse30 = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/30kmh.png";
         $arme = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Arme.jpg";
         $avions = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Avions.jpg";
+        $Bassecourt = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Bassecourt.jpg";
         $CAD_Bassecourt = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CAD_Bassecourt.jpg";
+        $ClaireFontaine = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/ClaireFontaine.jpg";
         $caméra = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Caméra.jpg";
         $CentreEntretienRCJU = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CentreEntretien_RCJU.jpg";
         $chasse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Chasse.jpg";

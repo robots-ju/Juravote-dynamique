@@ -87,7 +87,7 @@
                     <h5>Modification du règlement communal sur les constructions (RCC)</h5>
                     <hr>
                     <p>En parallèle à cette modification, les autorités communales souhaitent adapter le règlement communal
-                    de la zone MAe située a proximité. Il s’agit de pouvoir accueillir en zone MAe de l’activité commerciale
+                    de la zone MAe (zone mixte) située a proximité. Il s’agit de pouvoir accueillir en zone MAe de l’activité commerciale
                     non liée à une activité afin de pouvoir accueillir de nouveaux commerçants et ainsi créer des synergies
                     avec le Jura Centre. Il s’agit également de modifier l’indice d’utilisation lié à cette zone et de rendre
                     l’indice maximum admis « sans objet ». Les autorités estiment que la maitrise du volume à construire

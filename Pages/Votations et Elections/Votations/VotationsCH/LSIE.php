@@ -88,16 +88,19 @@
                 </li>
                 <li>
                     <div class="uk-column-1-3@m uk-column-1-1@s">
-                        <!--<h2>Partis fédéraux</h2>-->
-                        <iframe title="Recommandations de vote des partis fédéraux_LSIE" aria-label="chart" id="datawrapper-chart-waHms" src="https://datawrapper.dwcdn.net/waHms/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <h3>Recommendations de vote des partis fédéraux</h3>
+                        <hr>
+                        <iframe title="Recommandations de vote des partis fédéraux_LSIE" aria-label="chart" id="datawrapper-chart-waHms" src="https://datawrapper.dwcdn.net/waHms/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script> 
 
-                        <!--<h2>Partis jurassiens</h2>-->
-                        <iframe title="Recommandations de vote des partis jurassiens_LSIE" aria-label="chart" id="datawrapper-chart-MNmh4" src="https://datawrapper.dwcdn.net/MNmh4/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <h3>Recommendations de vote des partis jurassiens</h3>
+                        <hr>
+                        <iframe title="Recommandations de vote des partis jurassiens_LSIE" aria-label="chart" id="datawrapper-chart-MNmh4" src="https://datawrapper.dwcdn.net/MNmh4/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
 
-                        <!--<h2>Autorités</h2>-->
-                        <iframe title="Recommandations de vote des Autorités_LSIE" aria-label="chart" id="datawrapper-chart-C1uIL" src="https://datawrapper.dwcdn.net/C1uIL/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <h3>Recommendations de vote des autorités</h3>
+                        <hr>
+                        <iframe title="Recommandations de vote des Autorités_LSIE" aria-label="chart" id="datawrapper-chart-C1uIL" src="https://datawrapper.dwcdn.net/C1uIL/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="257"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </li>  

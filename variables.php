@@ -325,7 +325,9 @@
         $vitesse30 = "/IMG/Votations/BANQUE_IMAGE/30kmh.png";
         $arme = "/IMG/Votations/BANQUE_IMAGE/Arme.jpg";
         $avions = "/IMG/Votations/BANQUE_IMAGE/Avions.jpg";
+        $Bassecourt = "/IMG/Votations/BANQUE_IMAGE/Bassecourt.jpg";
         $CAD_Bassecourt = "/IMG/Votations/BANQUE_IMAGE/CAD_Bassecourt.jpg";
+        $ClaireFontaine = "/IMG/Votations/BANQUE_IMAGE/ClaireFontaine.jpg";
         $caméra = "/IMG/Votations/BANQUE_IMAGE/Caméra.jpg";
         $CentreEntretienRCJU = "/IMG/Votations/BANQUE_IMAGE/CentreEntretien_RCJU.jpg";
         $chasse = "/IMG/Votations/BANQUE_IMAGE/Chasse.jpg";

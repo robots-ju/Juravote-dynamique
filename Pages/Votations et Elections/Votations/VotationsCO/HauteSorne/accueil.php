@@ -75,7 +75,7 @@
                                 <a href="CAD.php">
                                     <div class="uk-card-header">
                                         <div class="uk-width-auto">
-                                            <img class="illustration" src="<?php echo $Eau ?>" alt="Mise en place d'une nouvelle chaufferie alimentant les bâtiments de l'administration
+                                            <img class="illustration" src="<?php echo $Bassecourt ?>" alt="Mise en place d'une nouvelle chaufferie alimentant les bâtiments de l'administration
                                                    communale et le complexe scolaire de Bassecourt">
                                         </div>
                                     </div>
@@ -96,7 +96,7 @@
                                 <a href="MPZ.php">
                                     <div class="uk-card-header">
                                         <div class="uk-width-auto">
-                                            <img class="illustration" src="<?php echo $Eau ?>" alt="Modification du plan de zones à proximité du home médicalisé Claire-Fontaine et
+                                            <img class="illustration" src="<?php echo $ClaireFontaine ?>" alt="Modification du plan de zones à proximité du home médicalisé Claire-Fontaine et
                                                    modification du règlement sur les constructions.">
                                         </div>
                                     </div>

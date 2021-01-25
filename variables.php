@@ -14,6 +14,7 @@
     $communeLajoux = "/IMG/Logo/Communes/Lajoux.png";
     $communeLesBois = "/IMG/Logo/Communes/LesBois.png";
     $communeMovelier = "Juravote-dynamique/IMG/Logo/Communes/Movelier.png";
+    $communeNoirmont = "/IMG/Logo/Communes/Noirmont.jpg";
     $communePorrentruy = "/IMG/Logo/Communes/Porrentruy.png";
     $communeValTerbi = "/IMG/Logo/Communes/ValTerbi.png";
 
@@ -107,6 +108,10 @@
             $JMComment = "/IMG/Personnalites/ElectionsJU/ParlementA/VERTS_CommentJM.png";
             $PrudatBrice = "/IMG/Personnalites/ElectionsJU/ParlementA/VERTS_PrudatBrice.png";
 
+        //Election complémentaire à la Mairie du Noirmont du 21 mars 2021
+        $GabrielMartinoli = "/IMG/Elections/LeNoirmont_20210321/MartinoliGabriel.jpg";
+        $DamienParatte = "/IMG/Elections/LeNoirmont_20210321/ParatteDamien.webp";
+        
     //juravote :
     $juravoteLogo = "/IMG/Logo/JuraVote/Logo.png";
     $juravoteLogoIcon = "/IMG/Logo/JuraVote/LogoIcon.png";

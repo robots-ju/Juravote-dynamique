@@ -124,8 +124,20 @@
                                     <h3 class="uk-card-title">Election Coeuve</h3>
                                 </div>                          
                             </div>
+                        </a>-->
+
+                        <a href="Pages/Votations et Elections/Elections/ElectionsCO/Noirmont20210321_Mairie.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >21.03</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Noirmont</h3>
+                                </div>                          
+                            </div>
                         </a>
-                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210328.php">                          
+
+                        <!--<a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210328.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.03</div>

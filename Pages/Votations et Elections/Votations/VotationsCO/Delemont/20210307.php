@@ -171,94 +171,48 @@
 
                     <div>
                         <h2>Partis politiques delémontains</h2>
-                        <iframe title="Recommandations de vote des autorités (Copy)" aria-label="chart" id="datawrapper-chart-PHdob" src="https://datawrapper.dwcdn.net/PHdob/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Recommandations de vote des partis Delémontains" aria-label="chart" id="datawrapper-chart-PHdob" src="https://datawrapper.dwcdn.net/PHdob/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>                                  
             </li>  
             <li>     
-                <h4>Les arguments en faveur du texte seront bientôt disponibles !</h4>
-                <!--<div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Le projet répond à un besoin réel et lancinant.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Le projet n'incommodera pas les voisins.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>L'emplacement est facile d'accès, également éventuellement à partir d'autres communes
+                            du district.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>La possibilité d'installer éventuellement à proximité et non loin des bâtiments de la police cantonale 
+                            une zone d'accueil pour les gens du voyage est également un plus qui pourrait résoudre ultérieurement pour 
+                            de bon un autre problème annuellement récurrent de la commune.</p>
                         </div>
                     </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-ps uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Texte</p>
-                        </div>
-                    </div>
-                </div>-->
+                </div>
             </li>
             <li>
                 <h4>Les arguments contre le texte seront bientôt disponibles !</h4>

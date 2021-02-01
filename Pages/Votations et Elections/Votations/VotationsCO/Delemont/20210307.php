@@ -177,28 +177,13 @@
                 </div>                                  
             </li>  
             <li>     
-                <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>Le projet répond à un besoin réel et lancinant.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Le projet n'incommodera pas les voisins.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>L'emplacement est facile d'accès, également éventuellement à partir d'autres communes
+                            <p>Le projet répond à un besoin réel et lancinant et n'incommodera pas les voisins.
+                            L'emplacement est facile d'accès, également éventuellement à partir d'autres communes
                             du district.</p>
                         </div>
                     </div>
@@ -217,11 +202,18 @@
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>La gestion des déchets en ville de Delémont est actuellement insatisfaisante. Pour les habitant-e-s, 
-                            la dispersion des lieux de collecte, leurs horaires d’ouverture limités et le calendrier de ramassage de 
-                            certains types de déchets compliquent grandement le recyclage. Le système actuel représente également une 
-                            charge financière importante pour la Municipalité et pose de nombreux problèmes, notamment pour la 
-                            collecte des encombrants. Une déchetterie permettra d’améliorer nettement la situation. Le site retenu aux 
+                            <p>Le PSD salue également le fait que cette votation puisse permettre de confirmer la parcelle voisine comme 
+                            emplacement potentiel pour une aire d’accueil des gens du voyage, en fonction des intentions cantonales et fédérales.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>La gestion des déchets en ville de Delémont est actuellement insatisfaisante. Une déchetterie permettra 
+                            d’améliorer nettement la situation. Le site retenu aux 
                             Prés-Roses est idéal, en raison de son accès aisé par tous les modes de transport et de son emprise limitée 
                             sur les terres agricoles. Un système de ramassage à domicile est aussi prévu pour les personnes ne pouvant 
                             pas se rendre sur le site de la déchetterie.</p>
@@ -236,16 +228,6 @@
                             Cela constitue la première étape en vue de la réalisation d’une déchetterie à cet emplacement, en laissant toutes 
                             les options ouvertes quant à la réalisation du projet, qui pourra être conduit soit par le SEOD, soit par la 
                             Ville de Delémont en collaboration ou non avec d’autres communes.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Le PSD salue également le fait que cette votation puisse permettre de confirmer la parcelle voisine comme 
-                            emplacement potentiel pour une aire d’accueil des gens du voyage, en fonction des intentions cantonales et fédérales.
-                            </p>
                         </div>
                     </div>
                 </div>

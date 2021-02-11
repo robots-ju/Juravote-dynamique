@@ -228,176 +228,7 @@
                 <div class="uk-column-1-2@m">
                     <div>
                         <h3 class="uk-heading-divider uk-text-center">Prochaines séances des Autorités</h3>  
-                        <div class="uk-child-width-1-2@l uk-child-width-1-3@xl uk-grid-divider" uk-grid>
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/57-assemblee-communale-de-bourrignon-1er-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >01.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée d'information Bourrignon</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/65-assemblee-communale-mettembert-1er-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >01.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Mettembert</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/66-assemblee-communale-de-montfaucon-1er-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >01.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Montfaucon</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/47-assemblee-communale-saulcy-1er-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >01.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Saulcy</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/48-assemblee-communale-alle-02-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >02.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Alle</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/61-assemblee-communale-pleigne-04-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >04.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Pleigne</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>  
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/59-assemblee-communale-haute-ajoie-04-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >04.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Haute-Ajoie</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>  
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/49-assemblee-communale-develier-08-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >08.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Develier</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div> 
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/67-conseil-general-des-bois-08-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >08.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Conseil général des Bois</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>  
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/57-assemblee-communale-de-bourrignon-1er-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >08.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Bourrignon</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div> 
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/68-assemblee-communale-la-chaux-des-breuleux-09-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >09.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale La Chaux-des-Breuleux</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>  
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/69-assemblee-communale-lugnez-09-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >09.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Lugnez</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>  
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/72-assemblee-communale-vendlincourt-10-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >10.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Vendlincourt</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div> 
-
+                        <div class="uk-child-width-1-2@l uk-child-width-1-2@xl uk-grid-divider" uk-grid>
                             <div>
                                 <a target="blank" href="https://juravote.flarum.cloud/d/70-assemblee-communale-muriaux-15-fevrier-2021">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
@@ -422,11 +253,37 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>                        
+                            </div>  
+
+                            <div>
+                                <a target="blank" href="https://juravote.flarum.cloud/d/74-assemblee-communale-de-montfaucon">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >01.03</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée Montfaucon</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>   
+
+                            <div>
+                                <a target="blank" href="https://juravote.flarum.cloud/d/73-parlement-jurassien-du-3-mars-2021-08-h-30">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >03.03</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Parlement jurassien</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>                  
                         </div> 
                     </div>
                     
-                    <div  style="padding-bottom: 80%">    
+                    <div style="padding-bottom: 100%">    
                         <h3 class="uk-heading-divider uk-text-center">Soutiens de Juravote</h3>
                         <div class="uk-column-1-1@m uk-column-divider">
                             <div class="uk-card-body uk-text-justify">                            

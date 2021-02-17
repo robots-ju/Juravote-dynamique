@@ -230,32 +230,6 @@
                         <h3 class="uk-heading-divider uk-text-center">Prochaines séances des Autorités</h3>  
                         <div class="uk-child-width-1-2@l uk-child-width-1-2@xl uk-grid-divider" uk-grid>
                             <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/70-assemblee-communale-muriaux-15-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >15.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée communale Muriaux</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/71-assemblee-dinformation-courrendlin-15-fevrier-2021">
-                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                        <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >15.02</div>
-                                        </div>
-                                        <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Assemblée d'information Courrendlin</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>  
-
-                            <div>
                                 <a target="blank" href="https://juravote.flarum.cloud/d/74-assemblee-communale-de-montfaucon">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
@@ -283,31 +257,45 @@
                         </div> 
                     </div>
                     
-                    <div style="padding-bottom: 100%">    
+                    <div style="padding-bottom: 30%">    
                         <h3 class="uk-heading-divider uk-text-center">Soutiens de Juravote</h3>
-                        <div class="uk-column-1-1@m uk-column-divider">
-                            <div class="uk-card-body uk-text-justify">                            
-                                <p>Juravote, site internet au design simple et plaisant, informe la population, de
-                                manière indépendante et concise, sur les votations. Les arguments pour et contre,
-                                ainsi que les prises de positions des partis, sont mentionnés de façon totalement
-                                neutre. JuraVote renseigne également sur les autorités, les élections à venir, ainsi
-                                que sur les activités politiques. Les résultats des votations et élections sont
-                                consignés.</p>
+                            <div class="uk-position-relative uk-visible-toggle" tabindex="-1" uk-slideshow>
+                                <ul class="uk-slideshow-items">
+                                    <li>
+                                        <p style="padding-left: 7%; padding-right: 7%" class="uk-text-justify">Juravote, site internet au design simple et plaisant, informe la population, de
+                                        manière indépendante et concise, sur les votations. Les arguments pour et contre,
+                                        ainsi que les prises de positions des partis, sont mentionnés de façon totalement
+                                        neutre. JuraVote renseigne également sur les autorités, les élections à venir, ainsi
+                                        que sur les activités politiques. Les résultats des votations et élections sont
+                                        consignés.</p>
 
-                                <p>Concentrées sur un seul site, ces informations sont accessibles en tout temps et
-                                assurent une partialité et neutralité, tant estimées par la population suisse. Cet
-                                avantage permet à tout un chacun d'être informé de façon claire et objective. Cette
-                                source d'informations fiable devrait aussi intéresser les communes et autres
-                                instances politiques, aujourd'hui uniquement jurassiennes, à la mise en place d'outils
-                                informatiques communs permettant de faire des économies d'échelles substantielles.
-                                Peut-être un futur "SwissVote".</p>
+                                        <p style="padding-left: 7%; padding-right: 7%" class="uk-text-justify">Concentrées sur un seul site, ces informations sont accessibles en tout temps et
+                                        assurent une partialité et neutralité, tant estimées par la population suisse. Cet
+                                        avantage permet à tout un chacun d'être informé de façon claire et objective. Cette
+                                        source d'informations fiable devrait aussi intéresser les communes et autres
+                                        instances politiques, aujourd'hui uniquement jurassiennes, à la mise en place d'outils
+                                        informatiques communs permettant de faire des économies d'échelles substantielles.
+                                        Peut-être un futur "SwissVote".</p>
 
-                                <p>Nous félicitons vivement toute cette jeune équipe pour leur intérêt à la chose
-                                publique et la mise en oeuvre de ce formidable support et leur souhaitons plein succès.</p>     
+                                        <p style="padding-left: 7%; padding-right: 7%" class="uk-text-justify">Nous félicitons vivement toute cette jeune équipe pour leur intérêt à la chose
+                                        publique et la mise en oeuvre de ce formidable support et leur souhaitons plein succès.</p>     
 
-                                <b><p class="uk-align-right">Gabriel M. Chappuis, Maire de Develier</p></b>                      
-                            </div>      
-                        </div> 
+                                        <b><p style="padding-left: 7%; padding-right: 7%" class="uk-align-right">Gabriel M. Chappuis, Maire de Develier</p></b> 
+                                    </li>
+
+                                    <li>
+                                        <p style="padding-left: 7%; padding-right: 7%" class="uk-text-justify">Si ce mode de communication, via les réseaux sociaux, permet d'améliorer le taux de participation 
+                                        aux votations et élections et que l'intérêt, pour la jeune génération, est amélioré pour participer 
+                                        et comprendre l'activité politique en général et prendre part plus activement aux décisions qui sont 
+                                        prises lors des scrutins, je soutiens votre initiative et j'adhère à cette manière de faire.</p>
+
+                                        <b><p style="padding-left: 7%; padding-right: 7%" class="uk-align-right">Jean-Bernard Vallat, Maire de Haute-Sorne</p></b>  
+                                    </li>
+                                </ul>
+                                <a class="uk-position-center-left uk-position-small" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
+                                <a class="uk-position-center-right uk-position-small" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
+                            </div>
+                        </div>
                     </div>                 
                 </div>                            
             </section>

@@ -48,8 +48,7 @@
     </header>
     <main>
     <section style="padding: 2%;">
-            <h1 class="uk-heading-large">Arrêté fédéral du 20 décembre 2019 portant approbation de l’Accord de partenariat économique de
-            large portée entre les États de l’AELE et l’Indonésie</h1>
+            <h1 class="uk-heading-large">Accord de partenariat économique avec l’Indonésie</h1>
             <hr>
             <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
                 <button class="uk-button uk-button-default" type="button">Résumé</button>

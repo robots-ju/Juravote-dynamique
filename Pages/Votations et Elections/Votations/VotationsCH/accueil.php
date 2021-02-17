@@ -104,9 +104,8 @@
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Arrêté fédéral du 20 décembre 2019
-                                    portant approbation de l’Accord de partenariat économique de large portée entre les États de
-                                    l’AELE et l’Indonésie</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Accord de partenariat économique 
+                                    avec l’Indonésie</h3>
                                 </div>
                             </div>
                         </div>

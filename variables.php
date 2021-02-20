@@ -14,6 +14,7 @@
     $communeLajoux = "/Juravote-dynamique/IMG/Logo/Communes/Lajoux.png";
     $communeLesBois = "/Juravote-dynamique/IMG/Logo/Communes/LesBois.png";
     $communeMovelier = "Juravote-dynamique/IMG/Logo/Communes/Movelier.png";
+    $communeNoirmont = "/Juravote-dynamique/IMG/Logo/Communes/Noirmont.jpg";
     $communePorrentruy = "/Juravote-dynamique/IMG/Logo/Communes/Porrentruy.png";
     $communeValTerbi = "/Juravote-dynamique/IMG/Logo/Communes/ValTerbi.png";
 
@@ -106,6 +107,10 @@
             $JMComment = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/VERTS_CommentJM.png";
             $PrudatBrice = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/ParlementA/VERTS_PrudatBrice.png";
 
+        //Election complémentaire à la Mairie du Noirmont du 21 mars 2021
+        $GabrielMartinoli = "/Juravote-dynamique/IMG/Elections/LeNoirmont_20210321/MartinoliGabriel.jpg";
+        $DamienParatte = "/Juravote-dynamique/IMG/Elections/LeNoirmont_20210321/ParatteDamien.webp";
+        
     //juravote :
     $juravoteLogo = "/Juravote-dynamique/IMG/Logo/JuraVote/Logo.png";
     $juravoteLogoIcon = "/Juravote-dynamique/IMG/Logo/JuraVote/LogoIcon.png";
@@ -324,7 +329,9 @@
         $vitesse30 = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/30kmh.png";
         $arme = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Arme.jpg";
         $avions = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Avions.jpg";
+        $Bassecourt = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Bassecourt.jpg";
         $CAD_Bassecourt = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CAD_Bassecourt.jpg";
+        $ClaireFontaine = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/ClaireFontaine.jpg";
         $caméra = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Caméra.jpg";
         $CentreEntretienRCJU = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/CentreEntretien_RCJU.jpg";
         $chasse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Chasse.jpg";
@@ -334,6 +341,7 @@
         $Enceinte = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Enceinte.jpg";
         $Eolienne = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Eolienne.jpg";
         $Europe = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Europe.jpg";
+        $FonctionnementEID = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/FonctionnementEID.jpg";
         $Gare = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Gare.jpg";
         $IdentiteNumerique = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/IdentiteNumerique.jpg";
         $IndonesieSuisse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Indonesie-Suisse.jpg";

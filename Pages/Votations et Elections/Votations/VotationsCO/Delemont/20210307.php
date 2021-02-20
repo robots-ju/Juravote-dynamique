@@ -128,7 +128,7 @@
                 <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-top: 2%;">
                     <h3>Dépôt public et suite du projet</h3>
                     <p>Les modifications du plan de zone et du règlement sur les constructions ont déposées publiquement le 5 novembre 2020.
-                    Les oppositions ont fait l'objet de ocncilations et des accords ont pu être passés ou sont en voie de finalisation avec tous
+                    Les oppositions ont fait l'objet de concilations et des accords ont pu être passés ou sont en voie de finalisation avec tous
                     les propriétaires et partenaires concernés.
                     </p>
 

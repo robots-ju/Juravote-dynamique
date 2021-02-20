@@ -225,7 +225,7 @@
 
                     <div>
                         <h2>Partis politiques de Haute-Sorne</h2>
-                        <iframe title="Recommandations de vote des partis communaux_HauteSorne" aria-label="chart" id="datawrapper-chart-Wu4rJ" src="https://datawrapper.dwcdn.net/Wu4rJ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Recommandations de vote des partis communaux_HauteSorne" aria-label="chart" id="datawrapper-chart-Wu4rJ" src="https://datawrapper.dwcdn.net/Wu4rJ/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>                                  
@@ -267,83 +267,22 @@
                             et de valoriser une ressource locale en abondance et créatrice d'emplois.</p>
                         </div>
                     </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI-RC</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>La création d'un chauffage à distance permettant de relier 2 infrastructures communales importantes, 
+                            bâtiment administratif et écoles, pouvant permettre d'utiliser de l'énergie renouvelable provenant de notre
+                            propre production (forêts), est judicieux pour pouvoir s'adapter aux nouvelles normes écologiques et ne plus 
+                            être dépendant des énergies fossiles. Cette nouvelle installation va aussi dans le sens des économies de coûts 
+                            de production de chaleur.</p>
+                        </div>
+                    </div>
                 </div>
             </li>
             <li>
                 <h4 style="padding-bottom: 10%">Il n'y a pas d'oppositions au projet !</h4>
-                <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-                </div>-->
             </li>
         </ul>
     </section>

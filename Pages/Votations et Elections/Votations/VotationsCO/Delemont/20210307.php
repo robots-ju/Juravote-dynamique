@@ -128,7 +128,7 @@
                 <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-top: 2%;">
                     <h3>Dépôt public et suite du projet</h3>
                     <p>Les modifications du plan de zone et du règlement sur les constructions ont déposées publiquement le 5 novembre 2020.
-                    Les oppositions ont fait l'objet de ocncilations et des accords ont pu être passés ou sont en voie de finalisation avec tous
+                    Les oppositions ont fait l'objet de concilations et des accords ont pu être passés ou sont en voie de finalisation avec tous
                     les propriétaires et partenaires concernés.
                     </p>
 
@@ -233,80 +233,80 @@
                 </div>
             </li>
             <li>
-                <h4>Les arguments contre le texte seront bientôt disponibles !</h4>
-                <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>La ville ou le SEOD ont la possibilité d’entrer dans un partenariat public-privé
+                            avec la Sàrl Gotri qui exploite la déchèterie de Develier. Mais non, on veut une déchèterie 
+                            en mains publiques car on préfère que la communauté perde de l'argent plutôt qu'une entreprise 
+                            privée fasse du bénéfice !</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>La population n'est pas informée correctement. En observant le plan de situation joint
+                            au message, on constate que près des 2/3 de la surface concernée pourrait être
+                            destinée à la réalisation d'une aire d'accueil aux gens du voyage. Même si ça ne
+                            serait pas d’actualité ; à voir, on ne sait pas toujours ce qui se passe dans la tête du
+                            Conseil communal.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Dans le message, il y a à peine trois lignes qui parlent des gens du voyage. On a volontairement
+                            occulté la question dans la formulation du titre du message. Voudrait-on
+                            cacher quelque chose à la population delémontaine ?</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>La population est trompée lorsque l’on lui fait croire qu’il y a économie de terrain. En
+                            tout premier lieu, si l’on adhère à la déchèterie de Develier, qui est déjà construite et
+                            qui fonctionne, nous économiserions réellement du terrain pour l’ensemble de la
+                            région. En plus, la possibilité d’extension de cette déchèterie va mettre en valeur une
+                            friche industrielle. Elément qui est également très intéressant en matière
+                            d’aménagement du territoire.</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>Avec tout ça, il n’y a qu’une administration digne d’une dictature pour découper des
+                            parcelles comme prévu. Tout pour moi, poussez-vous,
+                            j’arrive! Pour avoir 2 parcelles agréables à disposition de la commune on
+                            sacrifie celles des voisins qui entraînent des parties inexploitables.
+                            Ce n’est pas une économie c’est véritablement scandaleux!</p>
                         </div>
                     </div>
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen</div>
                             <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
+                            <p>On attend toujours l'étude multicritère – promise avant la votation par le conseiller
+                            communal en charge de l’UETP, Ernest Borruat – qui, semble-t-il, arrive à la
+                            conclusion que le site du Pré-Rose est plus intéressant pour la commune ou le
+                            SEOD que celui de Develier. Sans connaître les avantages retenus, ainsi que les
+                            taux de pondération considérés, comment le Conseil de ville peut-il se prononcer et
+                            proposer un tel message à la population? Les commissions concertées n’ont
+                            également pas eu accès à cette étude avant de se prononcer objectivement sur cet
+                            objet.</p>
                         </div>
                     </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-                </div>-->
+                </div>
             </li>
         </ul>
     </section>

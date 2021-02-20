@@ -285,13 +285,13 @@
 
                     <div>
                         <h2>Partis politiques de Haute-Sorne</h2>
-                        <iframe title="Recommandations de vote des partis communaux_HauteSorne" aria-label="chart" id="datawrapper-chart-JvyMO" src="https://datawrapper.dwcdn.net/JvyMO/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Recommandations de vote des partis communaux_HauteSorne" aria-label="chart" id="datawrapper-chart-JvyMO" src="https://datawrapper.dwcdn.net/JvyMO/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
 
                     <div>
                         <h2>Partis politiques de Courtételle</h2>
-                        <iframe title="Recommandations de vote des partis communaux_Courtetelle" aria-label="chart" id="datawrapper-chart-UpBxE" src="https://datawrapper.dwcdn.net/UpBxE/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Recommandations de vote des partis communaux_Courtetelle" aria-label="chart" id="datawrapper-chart-UpBxE" src="https://datawrapper.dwcdn.net/UpBxE/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>                                  
@@ -330,83 +330,57 @@
                             qu'une subvention de l'Etablissement cantonal d'assurances (ECA).</p>
                         </div>
                     </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Effectivement, la création d’une nouvelle conduite entre Bassecourt et Courfaivre approvisionnera le 
+                            village de Courfaivre et la commune de Courtételle avec une eau de qualité assurée et en quantité nécessaire.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Le renouvellement de la conduite de transport entre Courfaivre et Courtételle est aussi indispensable afin 
+                            d’assurer la protection incendie et l’approvisionnement de Courtételle. Sa vétusté et son diamètre insuffisant, 
+                            aujourd’hui, justifient ces travaux.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Les sections locales du PDC saluent la collaboration étroite entre nos communes. Cette collaboration permet 
+                            de réduire les coûts de distribution, mais aussi d’améliorer la distribution d’eau potable.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Les différentes problématiques liées à l’eau potable nous obligent à agir ; ces investissements sont 
+                            indispensables pour assurer une eau saine et en quantité suffisante.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI-RC</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>L'assainissement et la création de nouvelles conduites d'eau potable est primordiale pour assurer un 
+                            approvisionnement sûr, de qualité et suffisant sur l'ensemble de nos villages et permettre l'interconnexion 
+                            entre les communes voisines.</p>
+                        </div>
+                    </div>
                 </div>
             </li>
             <li>
-                <h4 style="padding-bottom: 10%">Il n'y a pas d'oppositions au projet !</h4>
-                <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-                </div>-->
+                <h4 style="padding-bottom: 10%">Il n'y a pas d'oppositions au projet !</h4>                
             </li>
         </ul>
     </section>

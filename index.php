@@ -49,7 +49,6 @@
         <main>
             <section style="padding: 2%">
                 <div class="uk-card uk-grid-collapse uk-child-width-1-3@m uk-child-width-1-1@s uk-padding uk-flex" uk-grid>
-
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-expand@m" style="padding: 10%">                                                
                         <h3 class="uk-heading-divider uk-text-center">Bienvenue sur Juravote !</h3> 
                         <div class="uk-column-1-1" style="padding-top: 5%">
@@ -241,7 +240,7 @@
                     </div>                                        
                 </div> 
                 <div class="uk-column-1-2@m" style="padding: 2%">
-                    <div>
+                    <div style="padding-bottom: 50%">
                         <h3 class="uk-heading-divider uk-text-center">Prochaines séances des Autorités</h3>  
                         <div class="uk-child-width-1-2@l uk-child-width-1-2@xl uk-grid-divider" uk-grid>
                             <div>
@@ -268,51 +267,44 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>                  
+                            </div>             
                         </div> 
-                    </div>
-                    
-                    <div style="padding-bottom: 40%">    
-                        <h3 class="uk-heading-divider uk-text-center">Soutiens de Juravote</h3>
-                            <div class="uk-position-relative uk-visible-toggle" tabindex="-1" uk-slideshow>
-                                <ul class="uk-slideshow-items">
-                                    <li>
-                                        <p style="padding-left: 7%; padding-right: 7%" class="uk-text-justify">Juravote, site internet au design simple et plaisant, informe la population, de
-                                        manière indépendante et concise, sur les votations. Les arguments pour et contre,
-                                        ainsi que les prises de positions des partis, sont mentionnés de façon totalement
-                                        neutre. JuraVote renseigne également sur les autorités, les élections à venir, ainsi
-                                        que sur les activités politiques. Les résultats des votations et élections sont
-                                        consignés.</p>
+                    </div>                    
+                    <div>    
+                        <h3 class="uk-heading-divider uk-text-center">Soutien de Juravote</h3>                           
+                        <p class="uk-text-justify">Juravote, site internet au design simple et plaisant, informe la population, de
+                        manière indépendante et concise, sur les votations. Les arguments pour et contre,
+                        ainsi que les prises de positions des partis, sont mentionnés de façon totalement
+                        neutre. JuraVote renseigne également sur les autorités, les élections à venir, ainsi
+                        que sur les activités politiques. Les résultats des votations et élections sont
+                        consignés.</p>
 
-                                        <p style="padding-left: 7%; padding-right: 7%" class="uk-text-justify">Concentrées sur un seul site, ces informations sont accessibles en tout temps et
-                                        assurent une partialité et neutralité, tant estimées par la population suisse. Cet
-                                        avantage permet à tout un chacun d'être informé de façon claire et objective. Cette
-                                        source d'informations fiable devrait aussi intéresser les communes et autres
-                                        instances politiques, aujourd'hui uniquement jurassiennes, à la mise en place d'outils
-                                        informatiques communs permettant de faire des économies d'échelles substantielles.
-                                        Peut-être un futur "SwissVote".</p>
+                        <p class="uk-text-justify">Concentrées sur un seul site, ces informations sont accessibles en tout temps et
+                        assurent une partialité et neutralité, tant estimées par la population suisse. Cet
+                        avantage permet à tout un chacun d'être informé de façon claire et objective. Cette
+                        source d'informations fiable devrait aussi intéresser les communes et autres
+                        instances politiques, aujourd'hui uniquement jurassiennes, à la mise en place d'outils
+                        informatiques communs permettant de faire des économies d'échelles substantielles.
+                        Peut-être un futur "SwissVote".</p>
 
-                                        <p style="padding-left: 7%; padding-right: 7%" class="uk-text-justify">Nous félicitons vivement toute cette jeune équipe pour leur intérêt à la chose
-                                        publique et la mise en oeuvre de ce formidable support et leur souhaitons plein succès.</p>     
+                        <p class="uk-text-justify">Nous félicitons vivement toute cette jeune équipe pour leur intérêt à la chose
+                        publique et la mise en oeuvre de ce formidable support et leur souhaitons plein succès.</p>     
 
-                                        <b><p style="padding-left: 7%; padding-right: 7%" class="uk-align-right">Gabriel M. Chappuis, Maire de Develier</p></b> 
-                                    </li>
+                        <b><p> Gabriel M. Chappuis, Maire de Develier</p></b> 
+                        <br> 
+                        <br>
 
-                                    <li>
-                                        <p style="padding-left: 7%; padding-right: 7%" class="uk-text-justify">Si ce mode de communication, via les réseaux sociaux, permet d'améliorer le taux de participation 
-                                        aux votations et élections et que l'intérêt, pour la jeune génération, est amélioré pour participer 
-                                        et comprendre l'activité politique en général et prendre part plus activement aux décisions qui sont 
-                                        prises lors des scrutins, je soutiens votre initiative et j'adhère à cette manière de faire.</p>
+                        <p class="uk-text-justify">
+                        Si ce mode de communication, via les réseaux sociaux, permet d'améliorer le taux de participation 
+                        aux votations et élections et que l'intérêt, pour la jeune génération, est amélioré pour participer 
+                        et comprendre l'activité politique en général et prendre part plus activement aux décisions qui sont 
+                        prises lors des scrutins, je soutiens votre initiative et j'adhère à cette manière de faire.</p>
 
-                                        <b><p style="padding-left: 7%; padding-right: 7%" class="uk-align-right">Jean-Bernard Vallat, Maire de Haute-Sorne</p></b>  
-                                    </li>
-                                </ul>
-                                <a class="uk-position-center-left uk-position-small" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
-                                <a class="uk-position-center-right uk-position-small" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
-                            </div>
-                        </div>
-                    </div>                 
-                </div>                            
+                        <b><p>Jean-Bernard Vallat, Maire de Haute-Sorne</p></b>
+                    </div> 
+                            
+                </div>     
+                                  
             </section>
         </main>
     </body>

@@ -4,7 +4,7 @@
         <?php include '../../variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Accueil</title>
+        <title>JuraVote | Equipe</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -72,7 +72,21 @@
                                 </div>
                             </div>
                         </div>  
-                    </div>                    
+                    </div> 
+
+                    <div class="uk-card">
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Selena Mory</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Marketing et design - Développeuse</p>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>                   
 
                     <div class="uk-card">
                         <div class="uk-card-header">

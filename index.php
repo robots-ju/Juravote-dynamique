@@ -104,17 +104,7 @@
                                 </div>                          
                             </div>
                         </a> 
-                         <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210307.php">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation Moutier</h3>
-                                </div>                          
-                            </div>
-                        </a> 
-
+                        
                         <a href="Pages/Votations et Elections/Elections/ElectionsCO/Noirmont20210321_Mairie.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -126,7 +116,19 @@
                             </div>
                         </a>
 
-                        <!--<a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210328.php">                          
+                        <!--
+                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210307.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >xx.xx</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Moutier</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
+                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210328.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.03</div>
@@ -225,18 +227,7 @@
                                     <h3 class="uk-card-title">Gouvernement Jura (1er tour)</h3>
                                 </div>                          
                             </div>
-                        </a>  
-
-                        <a href="<?php echo $PHPresultats20200927Accueil ?>">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >27.09</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votations fédérales</h3>
-                                </div>                          
-                            </div>
-                        </a>                                                
+                        </a>                                              
                     </div>                                        
                 </div> 
                 <div class="uk-column-1-2@m" style="padding: 2%">

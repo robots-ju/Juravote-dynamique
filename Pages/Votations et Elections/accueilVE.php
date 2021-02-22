@@ -48,7 +48,7 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Prochaines votations et élections</h1>
         <hr> 
-        <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>            
+        <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>            
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="Votations/VotationsCH/accueil.php">
@@ -119,6 +119,24 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="Elections/ElectionsCO/Noirmont20210321_Mairie.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeNoirmont ?>" alt="Election Noirmont 21 mars 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Noirmont 21 mars</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>  
+
+            <!--
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
                     <a href="Votations/VotationsCO/Moutier/20210307.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
@@ -135,23 +153,6 @@
             </div>
 
             <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="Elections/ElectionsCO/Noirmont20210321_Mairie.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeNoirmont ?>" alt="Election Noirmont 21 mars 2021">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Noirmont 21 mars</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>  
-
-            <!--<div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="Votations/VotationsCO/Moutier/20210328.php">
                         <div class="uk-card-body">

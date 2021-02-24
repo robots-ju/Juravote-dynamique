@@ -230,13 +230,26 @@
                             Ville de Delémont en collaboration ou non avec d’autres communes.</p>
                         </div>
                     </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Alternative de Gauche</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Une déchetterie est un outil indispensable pour réduire la masse totale des déchets et mieux les valoriser. 
+                            Le but premier est de réduire les déchets : afin d'y parvenir, il s'agit d'acheter moins de produits suremballés, 
+                            privilégier les circuits courts, composter. Le fait de devoir amener soi-même une partie de ses déchets à la 
+                            déchetterie peut participer à cette prise de conscience. Le site des Prés-Roses est très accessible, y compris par 
+                            les transports publics et à vélo. La gestion des déchets en mains publiques permet une maîtrise complète de la 
+                            filière d'élimination, ainsi que le contrôle des coûts.</p>
+                        </div>
+                    </div>
                 </div>
             </li>
             <li>
                 <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen</div>
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen - PLR - UDC</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>La ville ou le SEOD ont la possibilité d’entrer dans un partenariat public-privé
                             avec la Sàrl Gotri qui exploite la déchèterie de Develier. Mais non, on veut une déchèterie 
@@ -247,7 +260,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen</div>
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen - PLR - UDC</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>La population n'est pas informée correctement. En observant le plan de situation joint
                             au message, on constate que près des 2/3 de la surface concernée pourrait être
@@ -259,7 +272,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen</div>
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen - PLR - UDC</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>Dans le message, il y a à peine trois lignes qui parlent des gens du voyage. On a volontairement
                             occulté la question dans la formulation du titre du message. Voudrait-on
@@ -269,7 +282,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen</div>
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen - PLR - UDC</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>La population est trompée lorsque l’on lui fait croire qu’il y a économie de terrain. En
                             tout premier lieu, si l’on adhère à la déchèterie de Develier, qui est déjà construite et
@@ -282,7 +295,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen</div>
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen - PLR - UDC</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>Avec tout ça, il n’y a qu’une administration digne d’une dictature pour découper des
                             parcelles comme prévu. Tout pour moi, poussez-vous,
@@ -294,7 +307,7 @@
 
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen</div>
+                            <div class="uk-card-badge uk-label badge-plr uk-border-rounded">Collectif citoyen - PLR - UDC</div>
                             <h3 class="uk-card-title"></h3>                            
                             <p>On attend toujours l'étude multicritère – promise avant la votation par le conseiller
                             communal en charge de l’UETP, Ernest Borruat – qui, semble-t-il, arrive à la

@@ -481,10 +481,14 @@
         $PHPresultatsMervelier20201026 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Mervelier/2020-10-25/Conseil.php";
 
     $PHPresultatsVotationsCH = "/Juravote-dynamique/Pages/Resultats/VotationsCH/votationsCH.php";
-        $PHPresultats20201129Accueil= "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/vfédérales.php";
+        $PHPresultats20210307Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2030-2021/2021-03-07/vfédérales.php";
+            $PHPresultats20210307AELE = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2030-2021/2021-03-07/R_AELE.php";
+            $PHPresultats20210307LSIE = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2030-2021/2021-03-07/R_LSIE.php";
+            $PHPresultats20210307Voile = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2030-2021/2021-03-07/R_Voile.php";
+        $PHPresultats20201129Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/vfédérales.php";
             $PHPvotationsCHEntreprisesResponsables = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/Responsables.php";
             $PHPvotationsCHFinancementGuerre = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/Armes.php";
-        $PHPresultats20200927Accueil= "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
+        $PHPresultats20200927Accueil = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
             $PHPvotationsCHAvions = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_AvionsCombat.php";
             $PHPvotationsCHChasse = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_Chasse.php";
             $PHPvotationsCHCongePaternite = "/Juravote-dynamique/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_CongePaternite.php";
@@ -589,11 +593,20 @@
     $PHPvotationsCHaccueil = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCH/accueil.php";    
 
     $PHPvotationsCOaccueil = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/votations.php";
-        $PHPvotationsDelemont = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Delemont/2020-09-27/ComplexeScolaire.php";
+    $PHPvotationsDelemontAccueil = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/Delemont.php";
+            $PHPvotationsDelemont = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Delemont/2020-09-27/ComplexeScolaire.php";        
+            $PHPvotationsDelemont20210307 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Delemont/2021-03-07/R_Decheterie.php";
+        $PHPvotationsHauteSorne = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/HauteSorne.php";
+            $PHPvotationsHauteSorne20210307 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/accueil.php";
+            $PHPvotationsHauteSorneEau = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/R_Eau.php";
+            $PHPvotationsHauteSorneCAD = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/R_CAD.php";
+            $PHPvotationsHauteSorneMPZ = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/R_MPZ.php";
         $PHPvotationValTerbiAccueil = "/Juravote-dynamique/Pages/Resultats/VotationsCO/ValTerbi/2020-09-27/Accueil.php";
         $PHPvotationValTerbiEcole = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
         $PHPvotationValTerbiSEVT = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";
         $PHPvotationDevelierEau2020 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Develier/2020-12-13/Develier.php";
+
+
     //JS
     $jsUikit = "/Juravote-dynamique/JS/uikit.js";
     $jsUikitMin = "/Juravote-dynamique/JS/uikit.min.js";

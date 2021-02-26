@@ -64,47 +64,6 @@
                     
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s uk-flex-first@s">   
                         <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>                                                    
-                        <a href="Pages/Votations et Elections/Votations/VotationsCH/accueil.php">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votations fédérales</h3>
-                                </div>                          
-                            </div>
-                        </a> 
-                        <a href="Pages/Votations et Elections/Votations/VotationsCO/HauteSorne/Eau.php">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation Courtételle</h3>
-                                </div>                          
-                            </div>
-                        </a>  
-                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Delemont/20210307.php">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation Delémont</h3>
-                                </div>                          
-                            </div>
-                        </a> 
-                        <a href="Pages/Votations et Elections/Votations/VotationsCO/HauteSorne/accueil.php">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votations Haute-Sorne</h3>
-                                </div>                          
-                            </div>
-                        </a> 
-                        
                         <a href="Pages/Votations et Elections/Elections/ElectionsCO/Noirmont20210321_Mairie.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -115,6 +74,28 @@
                                 </div>                          
                             </div>
                         </a>
+
+                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210328.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.03</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Moutier</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
+                        <a href="Pages/Votations et Elections/Votations/VotationsCH/accueil.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votations fédérales</h3>
+                                </div>                          
+                            </div>
+                        </a> 
 
                         <!--
                         <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210307.php">                          
@@ -128,27 +109,7 @@
                             </div>
                         </a> 
 
-                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210328.php">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.03</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation Moutier</h3>
-                                </div>                          
-                            </div>
-                        </a> 
-
-                        <a href="<?php echo $lien ?>">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votations fédérales</h3>
-                                </div>                          
-                            </div>
-                        </a> 
+                        
 
                         <a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
@@ -174,21 +135,10 @@
                     </div>
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       
                         <h3 class="uk-heading-divider uk-text-center">Derniers résultats</h3>
-                        <a href="<?php echo $PHPvotationDevelierEau2020 ?>">                          
+                        <a href="<?php echo $PHPresultats20210307Accueil ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.12</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation Develier</h3>
-                                </div>                          
-                            </div>
-                        </a>
-                            
-                        <a href="<?php echo $PHPresultats20201129Accueil ?>">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >29.11</div>
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
                                 </div>
                                 <div class="uk-card-body">
                                     <h3 class="uk-card-title">Votations fédérales</h3>
@@ -196,35 +146,35 @@
                             </div>
                         </a>
                         
-                        <a href="<?php echo $PHPresultatGouvernementJU20201108 ?>">                          
+                        <a href="<?php echo $PHPvotationsHauteSorneEau ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >08.11</div>
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Gouvernement Jura (2e tour)</h3>
+                                    <h3 class="uk-card-title">Votation Courtételle</h3>
                                 </div>                          
                             </div>
                         </a>
 
-                        <a href="<?php echo $PHPresultatParlementJU20201018 ?>">                          
+                        <a href="<?php echo $PHPvotationsHauteSorne20210307 ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >18.10</div>
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Parlement Jura</h3>
+                                    <h3 class="uk-card-title">Votations Haute-Sorne</h3>
                                 </div>                          
                             </div>
                         </a> 
 
-                        <a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">                          
+                        <a href="<?php echo $PHPvotationsDelemont20210307 ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >18.10</div>
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >07.03</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Gouvernement Jura (1er tour)</h3>
+                                    <h3 class="uk-card-title">Votation Delémont</h3>
                                 </div>                          
                             </div>
                         </a>                                              

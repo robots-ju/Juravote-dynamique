@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Votations fédérales</title>
+        <title>JuraVote | Votations fédérales du 13 juin 2021</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -46,23 +46,25 @@
         </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Votations fédérales du 7 mars 2021</h1>
+        <h1 class="uk-heading-large">Votations fédérales du 13 juin 2021</h1>
         <hr>
-        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+        <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="Voile.php">
+                    <a href="#">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $Voile ?>"
-                                    alt="Initiative populaire du 15 septembre 2017 «Oui à l’interdiction de se dissimuler le visage» ">
+                                <img class="illustration" src="<?php echo $Eau ?>"
+                                    alt="Initiative populaire du 18 janvier 2018
+                                    Pour une eau potable propre et une alimentation saine - Pas de subventions pour utilisation de
+                                    pesticides et utilisation de antibiotiques à titre prophylactique">
                             </div>
                         </div>
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Initiative populaire du 15 septembre 2017
-                                    «Oui à l’interdiction de se dissimuler le visage» </h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Initiative populaire
+                                    "Pour une eau potable propre et une alimentation saine"</h3>
                                 </div>
                             </div>
                         </div>
@@ -72,18 +74,19 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="LSIE.php">
+                    <a href="#">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $IdentiteNumerique ?>"
-                                    alt="Loi fédérale du 27 septembre 2019 sur les services d’identification électronique (LSIE)">
+                                <img class="illustration" src="<?php echo $Légumes ?>"
+                                    alt="Initiative populaire
+                                    Pour une Suisse libre de pesticides de synthèse">
                             </div>
                         </div>
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Loi fédérale du 27 septembre 2019
-                                    sur les services d’identification électronique (LSIE)</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Initiative populaire
+                                    "Pour une Suisse libre de pesticides de synthèse"</h3>
                                 </div>
                             </div>
                         </div>
@@ -93,19 +96,62 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="AELE.php">
+                    <a href="#">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
                                 <img class="illustration" src="<?php echo $IndonesieSuisse ?>" 
-                                alt="Arrêté fédéral du 20 décembre 2019 portant approbation de l’Accord de partenariat économique
-                                de large portée entre les États de l’AELE et l’Indonésie">
+                                alt="Sous">
                             </div>
                         </div>
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Accord de partenariat économique 
-                                    avec l’Indonésie</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Loi fédérale sur les bases légales des ordonnances
+                                    du Conseil fédéral visant à surmonter l'épidémie de COVID-19</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="#">
+                        <div class="uk-card-header">
+                            <div class="uk-width-auto">
+                                <img class="illustration" src="<?php echo $Eolienne ?>" 
+                                alt="Loi fédérale sur la réduction des
+                                    émissions de gaz à effet de serre (Loi sur le CO2)">
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Loi fédérale sur la réduction
+                                    des émissions de gaz à effet de serre (Loi sur le CO2)</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="#">
+                        <div class="uk-card-header">
+                            <div class="uk-width-auto">
+                                <img class="illustration" src="<?php echo $caméra ?>" 
+                                alt="Loi fédérale sur les mesures
+                                    policières de lutte contre le terrorisme (MPT)">
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Loi fédérale sur les mesures
+                                    policières de lutte contre le terrorisme (MPT)</h3>
                                 </div>
                             </div>
                         </div>
@@ -113,6 +159,7 @@
                 </div>
             </div>            
         </div>
+        <h3>Les informations seront bientôt disponibles ! A noter que les 3 derniers objets seront soumis au vote uniquement si les référendums aboutissent.
     </section>
 </main>
 </body>

@@ -48,17 +48,7 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Résultats des votations communales (JU)</h1>
         <hr>
-        <div class="uk-alert-primary" uk-alert>
-            <a class="uk-alert-close" uk-close></a>
-            <p>Les résultats des votations communales d'avant 2020 seront disponibles prochainement.</p>
-            <p>Il existe déjà des informations pour les communes de :</p>
-                <ul>
-                    <li><b>Haute-Sorne (21 juin 2020)</b></li>
-                    <li><b>Develier (05 juillet 2020 et 13 décembre 2020)</b></li>
-                    <li><b>Delémont (27 septembre 2020)<b></li>
-                    <li><b>Val-Terbi (27 septembre 2020)<b></li>
-                </ul>
-        </div>
+        
         <div class="conteneur-cartes">
             <div class="uk-child-width-1-3@m uk-grid-small" uk-grid>
                 <div>
@@ -85,8 +75,8 @@
                                         <li><a href="#">Châtillon</a></li>
                                         <li><a href="#">Courchapoix</a></li>
                                         <li><a href="./Courrendlin/Courrendlin.html">Courrendlin</a></li>
-                                        <li><a href="#">Courroux</a></li>
-                                        <li><a href="./Courtetelle/Courtetelle.html">Courtételle</a></li>-->
+                                        <li><a href="#">Courroux</a></li>-->
+                                        <li><a href="Courtetelle/Courtetelle.php">Courtételle</a></li>
                                         <li><a href="Delemont/Delemont.php">Delémont</a></li>
                                         <li><a href="Develier/Develier.php">Develier</a></li>
                                         <!--<li><a href="#">Ederswiler</a></li>-->

@@ -110,12 +110,14 @@
                 <div class="uk-child-width-1-2@m" uk-grid>
                     <div>
                         <h2>Autorités</h2>
-                        
+                        <iframe title="Recommandations de vote des autorités Haute-Sorne" aria-label="chart" id="datawrapper-chart-dzoWI" src="https://datawrapper.dwcdn.net/dzoWI/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
                     </div>
 
                     <div>
                         <h2>Partis politiques Haute-Sorne</h2>
-                        
+                        <iframe title="Recommandations de vote des partis communaux_HauteSorne_20210307_MPZ" aria-label="chart" id="datawrapper-chart-fPcMS" src="https://datawrapper.dwcdn.net/fPcMS/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
                     </div>
                 </div>                                  
             </li>  
@@ -157,83 +159,30 @@
                             plus de 20 équivalents plein temps.</p>
                         </div>
                     </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>Les nouvelles dispositions cantonales en la matière seront intégrées dans les modifications du RCC (limite
+                            des aires de stationnement à 1800 mètres carrés et imposition d'un plan de mobilité pour les entreprises de
+                            plus de 20 équivalents plein temps.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI-RC</div>
+                            <h3 class="uk-card-title"></h3>                            
+                            <p>La modification du plan de zone aux alentours du Home médicalisé permettra l'extension futur des 
+                            infrastructures et la création de places de parc pour le personnel. Cela va dans le sens d'un développement 
+                            de lieux d'accueil des ainés de notre Commune et de notre région. </p>
+                        </div>
+                    </div>
                 </div>
             </li>
             <li>
-                <h4>Les arguments contre le texte seront bientôt disponibles !</h4>
-                <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-                </div>-->
+                <h4>Il n'y a pas d'oppositions à ce projet !</h4>                
             </li>
         </ul>
     </section>

@@ -57,6 +57,7 @@
     <hr>
     <section style="padding-left: 5%; padding-right: 5%">
         <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *">
+            <button class="uk-button uk-button-default" type="button">2030-2021</button>
             <button class="uk-button uk-button-default" type="button">2020-2011</button>
             <!--<button class="uk-button uk-button-default" type="button">2010-2001</button>
             <button class="uk-button uk-button-default" type="button">2000-1991</button>
@@ -74,6 +75,34 @@
             <button class="uk-button uk-button-default" type="button">1880-1848</button>-->
         </div>
         <ul class="uk-switcher uk-margin">
+            <li>
+                <div class="uk-child-width-1-1 uk-grid-match" uk-grid>
+                    <div>
+                        <ul uk-accordion="multiple: false">
+                            <li>                            
+                                <a class="uk-accordion-title">2021</a>                                
+                                <div class="uk-accordion-content">
+                                    <div class="uk-child-width-1-1@m uk-grid-small uk-grid-match" uk-grid>
+                                        <div>
+                                            <div class="uk-card uk-card-default uk-card-hover">
+                                                <a href="<?php echo $PHPresultats20210307Accueil ?>">
+                                                    <div class="uk-card-body">
+                                                            <div class="uk-width-expand">
+                                                                <h3 class="uk-card-title uk-margin-remove-bottom montserrat
+                                                                uk-text-center">Votations du 07.03.2021</h3>
+                                                            </div>
+                                                    </div>
+                                                </a>
+                                            </div>      
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </li>
+        
             <li>
                 <div class="uk-child-width-1-1 uk-grid-match" uk-grid>
                     <div>

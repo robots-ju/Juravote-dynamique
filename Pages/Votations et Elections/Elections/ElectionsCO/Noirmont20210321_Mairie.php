@@ -235,7 +235,7 @@
                     </div>
                     <div class="uk-card-body">
                         <h3 class="uk-card-title-center text-rouge-fonce">Damien Paratte</h3>
-                        <p class="uk-text-center text-fonction">Plus d'informations sur le candidat seront bientôt disponibles !</p>
+                        <p class="uk-text-center text-fonction">Aucune information n'est disponible actuellement.</p>
                     </div>
                 </div>
             </div>

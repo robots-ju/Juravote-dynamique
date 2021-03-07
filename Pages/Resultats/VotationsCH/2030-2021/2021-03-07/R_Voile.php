@@ -65,7 +65,7 @@
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Initiative populaire "Oui à l'interdiction de se dissimuler le visage"</p>
                         <p><b>Participation : </b>45.00 %</p>
-                        <p><b>Majorité du peuple: </b>52.50 % de OUI</p>
+                        <p><b>Majorité du peuple: </b>51.21 % de OUI</p>
                         <p><b>Majorité des cantons : </b>18 / 23 de OUI</p>
                         <p><b>Résultat : </b>Accepté (provisoire)</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>

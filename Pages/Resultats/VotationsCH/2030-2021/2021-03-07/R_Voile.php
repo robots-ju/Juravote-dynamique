@@ -95,8 +95,8 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <iframe title="Initiative populaire &quot;Oui à l'interdiction de se dissimuler le visage&quot;_SUISSE" aria-label="map" id="datawrapper-chart-cb20a" src="https://datawrapper.dwcdn.net/cb20a/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="429"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                        </script>
+                        <iframe title="Initiative populaire &quot;Oui à l'interdiction de se dissimuler le visage&quot;_JURA" aria-label="map" id="datawrapper-chart-Bv6BZ" src="https://datawrapper.dwcdn.net/Bv6BZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="448"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        script>
                     </div>
                 </div>
             </div>
@@ -108,8 +108,8 @@
                         </div>
                     </div>
                     <div style="padding-top: 0.5%" class="uk-card-body">
-                    <iframe title="Initiative populaire &quot;Oui à l'interdiction de se dissimuler le visage&quot;_JURA" aria-label="map" id="datawrapper-chart-Bv6BZ" src="https://datawrapper.dwcdn.net/Bv6BZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="448"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                    </script>
+                        <iframe title="Initiative populaire &quot;Oui à l'interdiction de se dissimuler le visage&quot;_JURA" aria-label="map" id="datawrapper-chart-HWxR9" src="https://datawrapper.dwcdn.net/HWxR9/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
                     </div>
                 </div>
             </div>

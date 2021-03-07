@@ -67,7 +67,7 @@
                         <p><b>Participation : </b>45.00 %</p>
                         <p><b>Majorité du peuple: </b>51.21 % de OUI</p>
                         <p><b>Majorité des cantons : </b>18 / 23 de OUI</p>
-                        <p><b>Résultat : </b>Accepté (provisoire)</p>
+                        <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Initiative populaire</p>
                         <p><b><a href="D_Voile.php">Informations de la votation</a></b></p>

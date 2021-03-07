@@ -62,8 +62,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Modification du plan de zones (MPZ) à proximité du home médicalisé Claire-Fontaine et la modification du règlement sur les constructions (RCC) pour la zone MAe (zone mixte)</p>
-                        <p><b>Participation : </b>xx.xx %</p>
-                        <p><b>Résultat : </b>Accepté / Refusé</p>
+                        <p><b>Participation : </b>38.79 %</p>
+                        <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation communale (Haute-Sorne)</p>
                         <p><b>Mode de votation : </b>Scrutin populaire</p>
                         <p><a href="D_MPZ.php">Lien vers la description du projet</a></p>

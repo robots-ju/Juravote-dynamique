@@ -65,7 +65,7 @@
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Accord de partenariat économique avec l’Indonésie</p>
                         <p><b>Participation : </b>45.00 %</p>
-                        <p><b>Résultats : </b>53.60 % de OUI</p>
+                        <p><b>Résultats : </b>52.30 % de OUI</p>
                         <p><b>Résultat : </b>Accepté (provisoire)</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Référendum facultatif</p>

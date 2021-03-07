@@ -78,7 +78,7 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <iframe title="Crédit d’investissement de CHF 2'100'000.- pour la création d’une colonne principale d’alimentation en eau potable entre Bassecourt et Courtételle_INTERCOMMUNAL" aria-label="map" id="datawrapper-chart-GueGf" src="https://datawrapper.dwcdn.net/GueGf/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="370"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Crédit d’investissement de CHF 2'100'000.- pour la création d’une colonne principale d’alimentation en eau potable entre Bassecourt et Courtételle_INTERCOMMUNAL" aria-label="map" id="datawrapper-chart-GueGf" src="https://datawrapper.dwcdn.net/GueGf/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="370"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>
@@ -91,7 +91,7 @@
                         </div>
                     </div>
                     <div class="uk-card-body">
-                        <iframe title="Crédit d’investissement de CHF 2'100'000.- pour la création d’une colonne principale d’alimentation en eau potable entre Bassecourt et Courtételle_COURTETELLE" aria-label="chart" id="datawrapper-chart-luxiV" src="https://datawrapper.dwcdn.net/luxiV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Crédit d’investissement de CHF 2'100'000.- pour la création d’une colonne principale d’alimentation en eau potable entre Bassecourt et Courtételle_COURTETELLE" aria-label="chart" id="datawrapper-chart-luxiV" src="https://datawrapper.dwcdn.net/luxiV/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </div>

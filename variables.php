@@ -109,7 +109,7 @@
             $PrudatBrice = "/IMG/Personnalites/ElectionsJU/ParlementA/VERTS_PrudatBrice.png";
 
         //Election complémentaire à la Mairie du Noirmont du 21 mars 2021
-        $GabrielMartinoli = "/Juravote-dynamique/IMG/Elections/LeNoirmont_20210321/MartinoliGabriel2.jpeg";
+        $GabrielMartinoli = "/IMG/Elections/LeNoirmont_20210321/MartinoliGabriel2.jpeg";
         $DamienParatte = "/Juravote-dynamique/IMG/Elections/LeNoirmont_20210321/ParatteDamien.webp";
         
     //juravote :

@@ -482,10 +482,14 @@
         $PHPresultatsMervelier20201026 = "/Pages/Resultats/ElectionsCO/Mervelier/2020-10-25/Conseil.php";
 
     $PHPresultatsVotationsCH = "/Pages/Resultats/VotationsCH/votationsCH.php";
-        $PHPresultats20201129Accueil= "/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/vfédérales.php";
+        $PHPresultats20210307Accueil = "/Pages/Resultats/VotationsCH/2030-2021/2021-03-07/vfédérales.php";
+            $PHPresultats20210307AELE = "/Pages/Resultats/VotationsCH/2030-2021/2021-03-07/R_AELE.php";
+            $PHPresultats20210307LSIE = "/Pages/Resultats/VotationsCH/2030-2021/2021-03-07/R_LSIE.php";
+            $PHPresultats20210307Voile = "/Pages/Resultats/VotationsCH/2030-2021/2021-03-07/R_Voile.php";
+        $PHPresultats20201129Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/vfédérales.php";
             $PHPvotationsCHEntreprisesResponsables = "/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/Responsables.php";
             $PHPvotationsCHFinancementGuerre = "/Pages/Resultats/VotationsCH/2020-2011/2020-11-29/Armes.php";
-        $PHPresultats20200927Accueil= "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
+        $PHPresultats20200927Accueil = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/vfédérales.php";
             $PHPvotationsCHAvions = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_AvionsCombat.php";
             $PHPvotationsCHChasse = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_Chasse.php";
             $PHPvotationsCHCongePaternite = "/Pages/Resultats/VotationsCH/2020-2011/2020-09-27/D_CongePaternite.php";
@@ -590,11 +594,20 @@
     $PHPvotationsCHaccueil = "/Pages/Votations et Elections/Votations/VotationsCH/accueil.php";    
 
     $PHPvotationsCOaccueil = "/Pages/Votations et Elections/Votations/VotationsCO/votations.php";
-        $PHPvotationsDelemont = "/Pages/Resultats/VotationsCO/Delemont/2020-09-27/ComplexeScolaire.php";
+    $PHPvotationsDelemontAccueil = "/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/Delemont.php";
+            $PHPvotationsDelemont = "/Pages/Resultats/VotationsCO/Delemont/2020-09-27/ComplexeScolaire.php";        
+            $PHPvotationsDelemont20210307 = "/Pages/Resultats/VotationsCO/Delemont/2021-03-07/R_Decheterie.php";
+        $PHPvotationsHauteSorne = "/Pages/Resultats/VotationsCO/HauteSorne/HauteSorne.php";
+            $PHPvotationsHauteSorne20210307 = "/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/accueil.php";
+            $PHPvotationsHauteSorneEau = "/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/R_Eau.php";
+            $PHPvotationsHauteSorneCAD = "/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/R_CAD.php";
+            $PHPvotationsHauteSorneMPZ = "/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/R_MPZ.php";
         $PHPvotationValTerbiAccueil = "/Pages/Resultats/VotationsCO/ValTerbi/2020-09-27/Accueil.php";
         $PHPvotationValTerbiEcole = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
         $PHPvotationValTerbiSEVT = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";
         $PHPvotationDevelierEau2020 = "/Pages/Resultats/VotationsCO/Develier/2020-12-13/Develier.php";
+
+
     //JS
     $jsUikit = "/JS/uikit.js";
     $jsUikitMin = "/JS/uikit.min.js";

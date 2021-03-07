@@ -345,41 +345,53 @@
                                             <div class="uk-card uk-card-body" style="padding: 1%">       
                                                 <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
                                                 <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
+                                                <p>L'envie doit venir de toutes les parties concernées et ne doit pas être imposée.</p>
                                             </div>
 
                                             <div class="uk-card uk-card-body" style="padding: 1%">       
                                                 <span class="uk-badge" style="background-color: red;">Non</span>                                            
                                                 <div class="uk-card uk-card-body">Droit de vote à 16 ans ?</div>
+                                                <p>Si les jeunes nous montrent qu'ils veulent le droit de vote, je serai favorable
+                                                à cette idée.</p>
                                             </div>  
 
                                             <div class="uk-card uk-card-body" style="padding: 1%">       
                                                 <span class="uk-badge" style="background-color: green;">Oui</span>                                            
-                                                <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
+                                                <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal?</div>
+                                                <p>Oui, car confiance envers le Canton pour avoir pris la meilleure décision.</p>
                                             </div>  
 
                                             <div class="uk-card uk-card-body" style="padding: 1%">       
                                                 <span class="uk-badge" style="background-color: green;">Oui</span>                                            
                                                 <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
+                                                <p>Oui, car cette énergie est très peu polluante et ne laisse que peu de traces
+                                                après avoir été démantelée. Chacun doit faire un effort au niveau de notre consommation.</p>
                                             </div>    
 
                                             <div class="uk-card uk-card-body" style="padding: 1%">       
                                                 <span class="uk-badge" style="background-color: green;">Oui</span>                                            
                                                 <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
+                                                <p>Là aussi, confiance envers le Conseil fédéral sur
+                                                cette technologie. Mais nous en aurons besoin, donc oui.</p>
                                             </div> 
 
                                             <div class="uk-card uk-card-body" style="padding: 1%">       
                                                 <span class="uk-badge" style="background-color: green;">Très bonne</span>                                            
                                                 <div class="uk-card uk-card-body">Stratégie COVID du Conseil fédéral</div>
+                                                <p>Des décisions difficiles ont dû être prises, mais nous sommes bientôt
+                                                au bout de cette période !</p>
                                             </div> 
 
                                             <div class="uk-card uk-card-body" style="padding: 1%">       
                                                 <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
                                                 <div class="uk-card uk-card-body">Réouverture des établissements le 22 mars ?</div>
+                                                <p>Il faut encore tenir un moment afin de réellement voir la sortie du tunnel.</p>
                                             </div> 
 
                                             <div class="uk-card uk-card-body" style="padding: 1%">       
                                                 <span class="uk-badge" style="background-color: green;">Oui</span>                                            
                                                 <div class="uk-card uk-card-body">Développement de la zone d'activité d'intérêt cantonal au Noirmont?</div>
+                                                <p>Oui, même si cela est déjà acté. Ce développement est bienvenu pour les Franches-Montagnes.</p>
                                             </div>                                   
                                         </div>  
                                     </li>

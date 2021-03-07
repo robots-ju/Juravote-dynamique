@@ -62,8 +62,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Modification du Plan d'aménagement local destiné au projet de déchèterie aux Prés-Roses</p>
-                        <p><b>Participation : </b>xx.xx %</p>
-                        <p><b>Résultat : </b>Accepté / Refusé</p>
+                        <p><b>Participation : </b>40.10 %</p>
+                        <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation communale (Delémont)</p>
                         <p><b>Mode de votation : </b>Scrutin populaire</p>
                         <p><a href="D_Decheterie.php">Lien vers la description du projet</a></p>

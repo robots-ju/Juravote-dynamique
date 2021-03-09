@@ -7,6 +7,7 @@
     $communeChatillon = "/Juravote-dynamique/IMG/Logo/Communes/Chatillon.png";
     $communeCourtedoux ="Juravote-dynamique/IMG/Logo/Communes/Courtedoux.PNG";
     $communeCourtetelle = "/Juravote-dynamique/IMG/Logo/Communes/Courtetelle.png";
+    $communeCourrendlin = "/Juravote-dynamique/IMG/Logo/Communes/Courrendlin.png";
     $communeDelemont = "/Juravote-dynamique/IMG/Logo/Communes/Delemont.png";
     $communeDevelier = "/Juravote-dynamique/IMG/Logo/Communes/Develier.png";
     $communeGenevez = "/Juravote-dynamique/IMG/Logo/Communes/Genevez.png";
@@ -407,8 +408,8 @@
 
     $cssresultats = "/Juravote-dynamique/Pages/Resultats/resultats.css?=".time(); 
 
-    $cssaccueilVotationsElections = "/Juravote-dynamique/Pages/Votations et Elections/accueilVE.css?=".time(); 
-    $csselections = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css?=".time(); 
+    $cssaccueilVotationsElections = "/Juravote-dynamique/Pages/Resultats/accueilVE.css?=".time(); 
+    $csselections = "/Juravote-dynamique/Pages/Resultats/elections.css?=".time(); 
     $cssvotations = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css?=".time(); 
 
     //PHP
@@ -572,7 +573,7 @@
     $PHPresultatsVotationsJU = "/Juravote-dynamique/Pages/Resultats/VotationsJU/VotationsJU.php";
     $PHPresultatsVotationsCO = "/Juravote-dynamique/Pages/Resultats/VotationsCO/VotationsCO.php";
 
-    $PHPvotationselectionsAccueil = "/Juravote-dynamique/Pages/Votations et Elections/accueilVE.php";
+    $PHPvotationselectionsAccueil = "/Juravote-dynamique/Pages/Resultats/accueilVE.php";
     $PHPelectionsAccueil = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.php";
 
     $PHPelectionsJUaccueil = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsJU/Accueil.php";

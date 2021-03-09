@@ -7,6 +7,7 @@
     $communeChatillon = "/IMG/Logo/Communes/Chatillon.png";
     $communeCourtedoux ="Juravote-dynamique/IMG/Logo/Communes/Courtedoux.PNG";
     $communeCourtetelle = "/IMG/Logo/Communes/Courtetelle.png";
+    $communeCourrendlin = "/IMG/Logo/Communes/Courrendlin.png";
     $communeDelemont = "/IMG/Logo/Communes/Delemont.png";
     $communeDevelier = "/IMG/Logo/Communes/Develier.png";
     $communeGenevez = "/IMG/Logo/Communes/Genevez.png";
@@ -110,7 +111,7 @@
 
         //Election complémentaire à la Mairie du Noirmont du 21 mars 2021
         $GabrielMartinoli = "/IMG/Elections/LeNoirmont_20210321/MartinoliGabriel2.jpeg";
-        $DamienParatte = "/Juravote-dynamique/IMG/Elections/LeNoirmont_20210321/ParatteDamien.webp";
+        $DamienParatte = "/IMG/Elections/LeNoirmont_20210321/ParatteDamien.webp";
         
     //juravote :
     $juravoteLogo = "/IMG/Logo/JuraVote/Logo.png";
@@ -408,8 +409,8 @@
 
     $cssresultats = "/Pages/Resultats/resultats.css?=".time(); 
 
-    $cssaccueilVotationsElections = "/Pages/Votations et Elections/accueilVE.css?=".time(); 
-    $csselections = "/Pages/Votations et Elections/Elections/elections.css?=".time(); 
+    $cssaccueilVotationsElections = "/Pages/Resultats/accueilVE.css?=".time(); 
+    $csselections = "/Pages/Resultats/elections.css?=".time(); 
     $cssvotations = "/Pages/Votations et Elections/Elections/elections.css?=".time(); 
 
     //PHP
@@ -573,7 +574,7 @@
     $PHPresultatsVotationsJU = "/Pages/Resultats/VotationsJU/VotationsJU.php";
     $PHPresultatsVotationsCO = "/Pages/Resultats/VotationsCO/VotationsCO.php";
 
-    $PHPvotationselectionsAccueil = "/Pages/Votations et Elections/accueilVE.php";
+    $PHPvotationselectionsAccueil = "/Pages/Resultats/accueilVE.php";
     $PHPelectionsAccueil = "/Pages/Votations et Elections/Elections/elections.php";
 
     $PHPelectionsJUaccueil = "/Pages/Votations et Elections/Elections/ElectionsJU/Accueil.php";

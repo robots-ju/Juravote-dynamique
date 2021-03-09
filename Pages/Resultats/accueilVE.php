@@ -51,7 +51,7 @@
         <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>           
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="/Juravote-dynamique/Pages/Resultats/ElectionsCO/Noirmont/2021_03_21/Mairie_Noirmont_20210321.php">
+                    <a href="/Pages/Resultats/ElectionsCO/Noirmont/2021_03_21/Mairie_Noirmont_20210321.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
@@ -68,7 +68,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="/Juravote-dynamique/Pages/Resultats/VotationsCO/Moutier/2021_03_28/AppartenanceMoutier.php">
+                    <a href="/Pages/Resultats/VotationsCO/Moutier/2021_03_28/AppartenanceMoutier.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
@@ -85,7 +85,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="/Juravote-dynamique/Pages/Resultats/VotationsCH/2030-2021/2021-06-13/accueil.php">
+                    <a href="/Pages/Resultats/VotationsCH/2030-2021/2021-06-13/accueil.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">

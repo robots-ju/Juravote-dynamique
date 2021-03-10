@@ -364,6 +364,7 @@
         $Route = "/IMG/Votations/BANQUE_IMAGE/Route.jpg";
         $Senior = "/IMG/Votations/BANQUE_IMAGE/Senior.jpg";
         $Sous = "/IMG/Votations/BANQUE_IMAGE/Sous.jpg";
+        $Suisse = "/IMG/Votations/BANQUE_IMAGE/Suisse.png";
         $Surpopulation = "/IMG/Votations/BANQUE_IMAGE/Surpopulation.jpg";
         $TransportsPublics = "/IMG/Votations/BANQUE_IMAGE/TransportsPublics.jpg";
         $Tunnel = "/IMG/Votations/BANQUE_IMAGE/Tunnel.jpg";

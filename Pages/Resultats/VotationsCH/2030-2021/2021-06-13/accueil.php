@@ -99,7 +99,7 @@
                     <a href="#">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $IndonesieSuisse ?>" 
+                                <img class="illustration" src="<?php echo $Suisse ?>" 
                                 alt="Sous">
                             </div>
                         </div>

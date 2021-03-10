@@ -363,6 +363,7 @@
         $Route = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Route.jpg";
         $Senior = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Senior.jpg";
         $Sous = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Sous.jpg";
+        $Suisse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Suisse.png";
         $Surpopulation = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Surpopulation.jpg";
         $TransportsPublics = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/TransportsPublics.jpg";
         $Tunnel = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Tunnel.jpg";

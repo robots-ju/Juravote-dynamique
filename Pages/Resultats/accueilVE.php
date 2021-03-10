@@ -102,7 +102,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="VotationsJU/2021-06-13/D_Egalite_Salariale.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
@@ -119,7 +119,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="VotationsCO/Courrendlin/2021-06-13/D_Extension_Ecoles.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
@@ -136,7 +136,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="ElectionsCO/Courrendlin/2021-06-13/PresidenceAssemblee.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
@@ -150,8 +150,7 @@
                     </a>
                 </div>
             </div> 
-        </div> 
-        <h2 class="uk-text-center">Les informations pour le 13 juin seront bientôt disponibles !</h2>                    
+        </div>                   
     </section>
 </main>
 </body>

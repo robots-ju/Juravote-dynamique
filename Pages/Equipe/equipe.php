@@ -64,7 +64,7 @@
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-middle" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                    <img class="uk-border-circle" width="100" height="100" src="<?php echo $MEMBRE_RenaudDaniel ?>">
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Daniel Renaud</h3>
@@ -78,7 +78,7 @@
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-middle" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                    <img class="uk-border-circle" width="100" height="100" src="<?php echo $MorySelena ?>">
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Selena Mory</h3>
@@ -92,7 +92,7 @@
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-middle" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                    <img class="uk-border-circle" width="100" height="100" src="<?php echo $inconnu ?>">
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Gwenaël Girard</h3>
@@ -106,7 +106,7 @@
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-middle" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                    <img class="uk-border-circle" width="100" height="100" src="<?php echo $HouserSam ?>">
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Sam Houser</h3>
@@ -120,7 +120,7 @@
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-middle" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                    <img class="uk-border-circle" width="100" height="100" src="<?php echo $inconnu ?>">
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Morgan Chételat</h3>
@@ -134,7 +134,7 @@
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-middle" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                    <img class="uk-border-circle" width="100" height="100" src="<?php echo $FleuryGael ?>">
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Gael Fleury</h3>
@@ -148,7 +148,7 @@
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-middle" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                    <img class="uk-border-circle" width="100" height="100" src="<?php echo $FrelechouxAntoine ?>">
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Antoine Freléchoux</h3>
@@ -162,7 +162,7 @@
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-middle" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="50" height="50" src="<?php echo $inconnu ?>">
+                                    <img class="uk-border-circle" width="100" height="100" src="<?php echo $inconnu ?>">
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Sylvain Lovis</h3>

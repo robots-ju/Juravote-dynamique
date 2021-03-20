@@ -2,6 +2,13 @@
 //Ceci est un fichier, inclus dans chaque page du site, qui contient des variables contenant le chemin d'acces de certaines images fréquemment utilisées, ce qui simplifie les chemins d'acces.
 
 //IMAGES
+    //equipe
+    $MorySelena = "/Juravote-dynamique/IMG/Equipe/Mars 21/MORY_Selena.JPG";
+    $FleuryGael = "/Juravote-dynamique/IMG/Equipe/Mars 21/FLEURY Gael.JPG";
+    $FrelechouxAntoine = "/Juravote-dynamique/IMG/Equipe/Mars 21/FRELECHOUX_Antoine.JPG";
+    $MEMBRE_RenaudDaniel = "/Juravote-dynamique/IMG/Equipe/Mars 21/RENAUD_Daniel.JPG";
+    $HouserSam = "/Juravote-dynamique/IMG/Equipe/Mars 21/HOUSER_Sam.JPG";
+
     //communes :
     $communeBonfol = "/Juravote-dynamique/IMG/Logo/Communes/Bonfol.png";
     $communeChatillon = "/Juravote-dynamique/IMG/Logo/Communes/Chatillon.png";

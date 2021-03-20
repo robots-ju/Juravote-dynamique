@@ -19,7 +19,8 @@
     $communeDevelier = "/Juravote-dynamique/IMG/Logo/Communes/Develier.png";
     $communeGenevez = "/Juravote-dynamique/IMG/Logo/Communes/Genevez.png";
     $communeHauteSorne = "/Juravote-dynamique/IMG/Logo/Communes/HauteSorne.png";
-    $communeLajoux = "/Juravote-dynamique/IMG/Logo/Communes/Lajoux.png";
+    $communeLajoux = "/Juravote-dynamique/IMG/Logo/Communes/Lajoux.png";    
+    $communeMontfaucon = "/Juravote-dynamique/IMG/Logo/Communes/Montfaucon.png";
     $communeLesBois = "/Juravote-dynamique/IMG/Logo/Communes/LesBois.png";
     $communeMovelier = "Juravote-dynamique/IMG/Logo/Communes/Movelier.png";
     $communeNoirmont = "/Juravote-dynamique/IMG/Logo/Communes/Noirmont.jpg";

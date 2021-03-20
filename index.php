@@ -63,8 +63,7 @@
                     </div>
                     
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s uk-flex-first@s">   
-                        <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>                                                    
-
+                        <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>                                                   
                         <a href="Pages/Resultats/VotationsCO/Moutier/2021_03_28/AppartenanceMoutier.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -76,7 +75,7 @@
                             </div>
                         </a> 
 
-                        <!--<a href="Pages/Resultats/VotationsCH/2030-2021/2021-06-13/accueil.php">                          
+                        <a href="Pages/Resultats/VotationsCH/2030-2021/2021-06-13/accueil.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
@@ -87,7 +86,7 @@
                             </div>
                         </a> 
 
-                        <a href="#">                          
+                        <a href="Pages/Resultats/VotationsJU/2021-06-13/D_Egalite_Salariale.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
@@ -98,7 +97,7 @@
                             </div>
                         </a> 
 
-                        <a href="#">                          
+                        <a href="Pages/Resultats/VotationsCO/Courrendlin/2021-06-13/D_Extension_Ecoles.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
@@ -109,7 +108,7 @@
                             </div>
                         </a> 
 
-                        <a href="#">                          
+                        <a href="Pages/Resultats/ElectionsCO/Courrendlin/2021-06-13/PresidenceAssemblee.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
@@ -119,8 +118,19 @@
                                 </div>                          
                             </div>
                         </a> 
+
+                        <a href="Pages/Resultats/ElectionsCO/Montfaucon/2021-06-13/D_ConseilCommunal.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Elections Montfaucon</h3>
+                                </div>                          
+                            </div>
+                        </a> 
                         
-                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210307.php">                          
+                        <!--<a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210307.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >xx.xx</div>

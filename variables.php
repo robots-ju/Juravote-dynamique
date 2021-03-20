@@ -591,6 +591,8 @@
     $PHPelectionCourtedoux = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsCO/Courtedoux_20201018/VicePresidentAssemblee.php";
     $PHPelectionLajoux = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsCO/Lajoux_20200927/Accueil.php";
     $PHPelectionMovelier = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsCO/Movelier_20201018/MembreCercleScolaire.php";
+    $PHPelectionNoirmontDescription20210321 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Noirmont/2021_03_21/Description.php";
+    $PHPelectionNoirmontResultats20210321 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Noirmont/2021_03_21/Resultats.php";
 
     $PHPvotationsCHaccueil = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCH/accueil.php";    
 

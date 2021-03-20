@@ -78,7 +78,7 @@
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-middle" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="100" height="100" src="<?php echo $MorySelena ?>">
+                                    <img class="uk-border-circle" width="100" height="100" src="<?php echo $inconnu ?>">
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Morgan Chételat</h3>
@@ -120,7 +120,7 @@
                         <div class="uk-card-header">
                             <div class="uk-grid-small uk-flex-middle" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img class="uk-border-circle" width="100" height="100" src="<?php echo $inconnu ?>">
+                                    <img class="uk-border-circle" width="100" height="100" src="<?php echo $MorySelena ?>">
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom">Selena Mory</h3>

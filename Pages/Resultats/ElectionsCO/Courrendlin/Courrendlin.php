@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
-    <head>
+<head>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Elections cantonales 2020</title>
+        <title>JuraVote | Elections de Courrendlin</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -12,7 +12,6 @@
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
-        <link rel="stylesheet" href="<?php echo $csselections; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -34,8 +33,9 @@
             gtag('config', 'UA-166072477-1');
         </script>
     </head>
-    <body>
-        <header>
+<body>
+<!-- Barre de navigation -->
+<header>
             <div class="navbar-normal">
                 <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
@@ -44,18 +44,29 @@
                 <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
-
-        <main>
-            <section style ="padding: 2%; text-align: center">
-            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeampwDFquhEpTvXnCAbGNVS6ycR_sqHM-U8U6-7dABUC0Wmg/viewform?embedded=true"
-            width="640" height="1488" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
-            </section>
-        </main>
-    </body>
-
-    <footer>
+<main>
+    <section style="padding: 2%;">
+        <h1 class="uk-heading-large">Résultats des élections communales (Courrendlin)</h1>
+        <hr>
+        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="<?php echo $PHPresultatsMairieCourtetelle2020?>">
+                        <div class="uk-card-body">
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Election communale du 13 juin 2021</h3>
+                                </div>
+                        </div>
+                    </a>
+                </div>      
+            </div>
+        </div>          
+    </section>
+</main>
+<footer>
         <div class="footer">
             <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
+</body>
 </html>

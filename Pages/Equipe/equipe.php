@@ -72,7 +72,7 @@
                                 </div>
                             </div>
                         </div>  
-                    </div> 
+                    </div>                                       
 
                     <div class="uk-card">
                         <div class="uk-card-header">
@@ -81,12 +81,12 @@
                                     <img class="uk-border-circle" width="100" height="100" src="<?php echo $MorySelena ?>">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom">Selena Mory</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Marketing et design - Développeuse</p>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Morgan Chételat</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Informatique et développement - Développeur</p>
                                 </div>
                             </div>
                         </div>  
-                    </div>                   
+                    </div>
 
                     <div class="uk-card">
                         <div class="uk-card-header">
@@ -123,12 +123,12 @@
                                     <img class="uk-border-circle" width="100" height="100" src="<?php echo $inconnu ?>">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom">Morgan Chételat</h3>
-                                    <p class="uk-text-meta uk-margin-remove-top">Informatique et développement - Développeur</p>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom">Selena Mory</h3>
+                                    <p class="uk-text-meta uk-margin-remove-top">Marketing et design - Développeuse</p>
                                 </div>
                             </div>
                         </div>  
-                    </div>
+                    </div> 
 
                     <div class="uk-card">
                         <div class="uk-card-header">

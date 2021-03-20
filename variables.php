@@ -14,6 +14,7 @@
     $communeChatillon = "/Juravote-dynamique/IMG/Logo/Communes/Chatillon.png";
     $communeCourtedoux ="Juravote-dynamique/IMG/Logo/Communes/Courtedoux.PNG";
     $communeCourtetelle = "/Juravote-dynamique/IMG/Logo/Communes/Courtetelle.png";
+    $communeCourrendlin = "/Juravote-dynamique/IMG/Logo/Communes/Courrendlin.png";
     $communeDelemont = "/Juravote-dynamique/IMG/Logo/Communes/Delemont.png";
     $communeDevelier = "/Juravote-dynamique/IMG/Logo/Communes/Develier.png";
     $communeGenevez = "/Juravote-dynamique/IMG/Logo/Communes/Genevez.png";
@@ -369,6 +370,7 @@
         $Route = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Route.jpg";
         $Senior = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Senior.jpg";
         $Sous = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Sous.jpg";
+        $Suisse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Suisse.png";
         $Surpopulation = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Surpopulation.jpg";
         $TransportsPublics = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/TransportsPublics.jpg";
         $Tunnel = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Tunnel.jpg";
@@ -414,8 +416,8 @@
 
     $cssresultats = "/Juravote-dynamique/Pages/Resultats/resultats.css?=".time(); 
 
-    $cssaccueilVotationsElections = "/Juravote-dynamique/Pages/Votations et Elections/accueilVE.css?=".time(); 
-    $csselections = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css?=".time(); 
+    $cssaccueilVotationsElections = "/Juravote-dynamique/Pages/Resultats/accueilVE.css?=".time(); 
+    $csselections = "/Juravote-dynamique/Pages/Resultats/elections.css?=".time(); 
     $cssvotations = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.css?=".time(); 
 
     //PHP
@@ -579,7 +581,7 @@
     $PHPresultatsVotationsJU = "/Juravote-dynamique/Pages/Resultats/VotationsJU/VotationsJU.php";
     $PHPresultatsVotationsCO = "/Juravote-dynamique/Pages/Resultats/VotationsCO/VotationsCO.php";
 
-    $PHPvotationselectionsAccueil = "/Juravote-dynamique/Pages/Votations et Elections/accueilVE.php";
+    $PHPvotationselectionsAccueil = "/Juravote-dynamique/Pages/Resultats/accueilVE.php";
     $PHPelectionsAccueil = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.php";
 
     $PHPelectionsJUaccueil = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsJU/Accueil.php";
@@ -596,6 +598,8 @@
     $PHPelectionCourtedoux = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsCO/Courtedoux_20201018/VicePresidentAssemblee.php";
     $PHPelectionLajoux = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsCO/Lajoux_20200927/Accueil.php";
     $PHPelectionMovelier = "/Juravote-dynamique/Pages/Votations et Elections/Elections/ElectionsCO/Movelier_20201018/MembreCercleScolaire.php";
+    $PHPelectionNoirmontDescription20210321 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Noirmont/2021_03_21/Description.php";
+    $PHPelectionNoirmontResultats20210321 = "/Juravote-dynamique/Pages/Resultats/ElectionsCO/Noirmont/2021_03_21/Resultats.php";
 
     $PHPvotationsCHaccueil = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCH/accueil.php";    
 

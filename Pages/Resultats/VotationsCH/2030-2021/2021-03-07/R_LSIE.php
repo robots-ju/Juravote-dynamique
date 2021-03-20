@@ -65,8 +65,7 @@
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Loi fédérale sur les services d'identification électronique (LSIE)</p>
                         <p><b>Participation : </b>45.00 %</p>
-                        <p><b>Résultats : </b>36.40 % de OUI</p>
-                        <p><b>Résultat : </b>Refusé (provisoire)</p>
+                        <p><b>Résultat : </b>Refusé</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Référendum facultatif</p>
                         <p><b><a href="D_LSIE.php">Informations de la votation</a></b></p>

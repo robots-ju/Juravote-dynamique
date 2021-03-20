@@ -99,7 +99,7 @@
                     <a href="#">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $IndonesieSuisse ?>" 
+                                <img class="illustration" src="<?php echo $Suisse ?>" 
                                 alt="Sous">
                             </div>
                         </div>
@@ -159,7 +159,6 @@
                 </div>
             </div>            
         </div>
-        <h3>Les informations seront bientôt disponibles ! A noter que les 3 derniers objets seront soumis au vote uniquement si les référendums aboutissent.
     </section>
 </main>
 </body>

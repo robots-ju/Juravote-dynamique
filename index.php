@@ -64,18 +64,8 @@
                     
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s uk-flex-first@s">   
                         <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>                                                    
-                        <a href="Pages/Votations et Elections/Elections/ElectionsCO/Noirmont20210321_Mairie.php">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >21.03</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Election Noirmont</h3>
-                                </div>                          
-                            </div>
-                        </a>
 
-                        <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210328.php">                          
+                        <a href="Pages/Resultats/VotationsCO/Moutier/2021_03_28/AppartenanceMoutier.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.03</div>
@@ -86,7 +76,7 @@
                             </div>
                         </a> 
 
-                        <a href="Pages/Votations et Elections/Votations/VotationsCH/accueil.php">                          
+                        <!--<a href="Pages/Resultats/VotationsCH/2030-2021/2021-06-13/accueil.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
@@ -97,7 +87,39 @@
                             </div>
                         </a> 
 
-                        <!--
+                        <a href="#">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation cantonale Jura</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
+                        <a href="#">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Courrendlin</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
+                        <a href="#">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Courrrendlin</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+                        
                         <a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210307.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -107,9 +129,7 @@
                                     <h3 class="uk-card-title">Votation Moutier</h3>
                                 </div>                          
                             </div>
-                        </a> 
-
-                        
+                        </a>                         
 
                         <a href="<?php echo $lien ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
@@ -135,6 +155,16 @@
                     </div>
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       
                         <h3 class="uk-heading-divider uk-text-center">Derniers résultats</h3>
+                        <a href="<?php echo $PHPelectionNoirmontResultats20210321 ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >21.03</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Noirmont</h3>
+                                </div>                          
+                            </div>
+                        </a>
                         <a href="<?php echo $PHPresultats20210307Accueil ?>">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">

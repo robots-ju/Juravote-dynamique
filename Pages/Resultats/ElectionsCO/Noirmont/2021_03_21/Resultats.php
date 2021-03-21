@@ -58,13 +58,13 @@
                 <div class="uk-card uk-card-default">
                     <div class="uk-card-header">
                         <div class="uk-grid-small uk-flex-column uk-align-left" uk-grid>
-                            <h2>Informations de la votation</h2>
+                            <h2>Informations de l'élection</h2>
                         </div>
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Élection à la Mairie</p>
-                        <p><b>Participation : </b>-</p>
-                        <p><b>Candidat élu : </b>-</p>
+                        <p><b>Participation : </b>49,36 %</p>
+                        <p><b>Candidat élu : </b>Gabriel Martinoli</p>
                         <p><b>Type de l'élection : </b>Élection communale</p>
                         <p><b>Mode d'élection : </b>Élection complémentaire</p>
                         <p><a href="<?php echo $PHPelectionNoirmontDescription20210321 ?>">Lien vers les informations d'élection</a></p>

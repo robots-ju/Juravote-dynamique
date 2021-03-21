@@ -51,23 +51,6 @@
         <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>           
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="/Pages/Resultats/ElectionsCO/Noirmont/2021_03_21/Mairie_Noirmont_20210321.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeNoirmont ?>" alt="Election Noirmont 21 mars 2021">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Noirmont 21 mars</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
                     <a href="/Pages/Resultats/VotationsCO/Moutier/2021_03_28/AppartenanceMoutier.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
@@ -144,6 +127,23 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Courrendlin 13 juin</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="ElectionsCO/Montfaucon/2021-06-13/D_ConseilCommunal.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeMontfaucon ?>" alt="Election Montfaucon du 13 juin 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Elections Montfaucon 13 juin</h3>
                                 </div>
                             </div>
                         </div>

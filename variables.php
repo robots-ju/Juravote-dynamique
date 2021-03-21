@@ -2,6 +2,13 @@
 //Ceci est un fichier, inclus dans chaque page du site, qui contient des variables contenant le chemin d'acces de certaines images fréquemment utilisées, ce qui simplifie les chemins d'acces.
 
 //IMAGES
+    //equipe
+    $MorySelena = "/IMG/Equipe/Mars 21/MORY_Selena.JPG";
+    $FleuryGael = "/IMG/Equipe/Mars 21/FLEURY Gael.JPG";
+    $FrelechouxAntoine = "/IMG/Equipe/Mars 21/FRELECHOUX_Antoine.JPG";
+    $MEMBRE_RenaudDaniel = "/IMG/Equipe/Mars 21/RENAUD_Daniel.JPG";
+    $HouserSam = "/IMG/Equipe/Mars 21/HOUSER_Sam.JPG";
+
     //communes :
     $communeBonfol = "/IMG/Logo/Communes/Bonfol.png";
     $communeChatillon = "/IMG/Logo/Communes/Chatillon.png";
@@ -12,7 +19,8 @@
     $communeDevelier = "/IMG/Logo/Communes/Develier.png";
     $communeGenevez = "/IMG/Logo/Communes/Genevez.png";
     $communeHauteSorne = "/IMG/Logo/Communes/HauteSorne.png";
-    $communeLajoux = "/IMG/Logo/Communes/Lajoux.png";
+    $communeLajoux = "/IMG/Logo/Communes/Lajoux.png";    
+    $communeMontfaucon = "/IMG/Logo/Communes/Montfaucon.png";
     $communeLesBois = "/IMG/Logo/Communes/LesBois.png";
     $communeMovelier = "Juravote-dynamique/IMG/Logo/Communes/Movelier.png";
     $communeNoirmont = "/IMG/Logo/Communes/Noirmont.jpg";
@@ -592,6 +600,8 @@
     $PHPelectionCourtedoux = "/Pages/Votations et Elections/Elections/ElectionsCO/Courtedoux_20201018/VicePresidentAssemblee.php";
     $PHPelectionLajoux = "/Pages/Votations et Elections/Elections/ElectionsCO/Lajoux_20200927/Accueil.php";
     $PHPelectionMovelier = "/Pages/Votations et Elections/Elections/ElectionsCO/Movelier_20201018/MembreCercleScolaire.php";
+    $PHPelectionNoirmontDescription20210321 = "/Pages/Resultats/ElectionsCO/Noirmont/2021_03_21/Description.php";
+    $PHPelectionNoirmontResultats20210321 = "/Pages/Resultats/ElectionsCO/Noirmont/2021_03_21/Resultats.php";
 
     $PHPvotationsCHaccueil = "/Pages/Votations et Elections/Votations/VotationsCH/accueil.php";    
 

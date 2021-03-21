@@ -223,15 +223,28 @@
                 <div class="uk-column-1-2@m" style="padding: 2%">
                     <div style="padding-bottom: 50%">
                         <h3 class="uk-heading-divider uk-text-center">Prochaines séances des Autorités</h3>  
-                        <div class="uk-child-width-1-1@l uk-child-width-1-1@xl uk-grid-divider" uk-grid>
+                        <div class="uk-child-width-1-2@l uk-child-width-1-2@xl uk-grid-divider" uk-grid>
                             <div>
-                                <a target="blank" href="https://juravote.flarum.cloud/d/76-conseil-general-haute-sorne">
+                                <a target="blank" href="#">
                                     <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                         <div class="uk-card-header uk-padding-remove-bottom">
-                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >15.03</div>
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >22.03</div>
                                         </div>
                                         <div class="uk-card-body">
-                                            <h3 class="uk-card-title">Conseil général Haute-Sorne</h3>
+                                            <h3 class="uk-card-title">Assemblée communale Courgenay</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div> 
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >22.03</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Noirmont</h3>
                                         </div>
                                     </div>
                                 </a>
@@ -248,7 +261,46 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>  
+                            </div>    
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >23.03</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Conseil général Val-Terbi</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div> 
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >24.03</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Basse-Allaine</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div> 
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >25.03</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Conseil de ville Porrentruy</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div> 
 
                             <div>
                                 <a target="blank" href="https://juravote.flarum.cloud/d/77-assemblee-communale-rossemaison-29-mars-2021-a-20-h-00">
@@ -261,7 +313,33 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>     
+                            </div> 
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >31.03</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Assemblée communale Breuleux</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>  
+
+                            <div>
+                                <a target="blank" href="#">
+                                    <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                        <div class="uk-card-header uk-padding-remove-bottom">
+                                            <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >31.03</div>
+                                        </div>
+                                        <div class="uk-card-body">
+                                            <h3 class="uk-card-title">Parlement jurassien</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>  
                         </div> 
                     </div>                    
                     <div>    

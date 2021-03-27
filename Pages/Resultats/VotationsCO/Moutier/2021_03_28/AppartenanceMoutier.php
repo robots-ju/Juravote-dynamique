@@ -55,8 +55,6 @@
                 <button class="uk-button uk-button-default" type="button">Message de la République et Canton du Jura</button>
                 <button class="uk-button uk-button-default" type="button">Message des autorités mis à jour</button>
                 <button class="uk-button uk-button-default" type="button">Positions des partis politiques et des autorités</button>
-                <button class="uk-button uk-button-default" type="button">Arguments pour</button>
-                <button class="uk-button uk-button-default" type="button">Arguments contre</button>
             </div>  
             <ul class="uk-switcher uk-margin">
                 <li>
@@ -355,29 +353,7 @@
                             </script>
                         </div>   
                     </div>                     
-                </li>  
-                <li>            
-                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>  
-                    <h4>Les arguments seront bientôt disponibles !</h4>
-                    <!--<div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Parti</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Texte</p>
-                        </div>
-                    </div>-->
-                </li>
-                <li>
-                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
-                    <h4>Les arguments seront bientôt disponibles !</h4>
-                    <!--<div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Parti</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Texte</p>
-                        </div>
-                    </div>-->
-                </li>
+                </li> 
             </ul>
     </section>
 </main>

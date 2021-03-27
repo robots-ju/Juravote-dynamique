@@ -51,23 +51,6 @@
         <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>           
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="/Juravote-dynamique/Pages/Resultats/VotationsCO/Moutier/2021_03_28/AppartenanceMoutier.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeMoutier ?>" alt="Votation Moutier 28 mars 2021">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Moutier 28 mars</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
                     <a href="/Juravote-dynamique/Pages/Resultats/VotationsCH/2030-2021/2021-06-13/accueil.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>

@@ -48,21 +48,21 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Prochaines votations et élections</h1>
         <hr> 
-        <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>           
+        <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid> 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="/Pages/Resultats/VotationsCO/Moutier/2021_03_28/AppartenanceMoutier.php">
+                    <!--<a href="#">-->
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeMoutier ?>" alt="Votation Moutier 28 mars 2021">
+                                    <img width="150" height="150" src="<?php echo $communePorrentruy ?>" alt="Votation Porrentruy 09 mai 2021">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Moutier 28 mars</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Porrentruy 09 mai</h3>
                                 </div>
                             </div>
                         </div>
-                    </a>
+                    <!--</a>-->
                 </div>
             </div> 
 

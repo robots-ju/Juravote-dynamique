@@ -63,7 +63,18 @@
                     </div>
                     
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s uk-flex-first@s">   
-                        <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>                                                   
+                        <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>   
+                        <a href="Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfancePorrentruy.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >09.05</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Porrentruy</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
                         <a href="Pages/Resultats/VotationsCH/2030-2021/2021-06-13/accueil.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -86,29 +97,29 @@
                             </div>
                         </a> 
 
-                        <a href="Pages/Resultats/VotationsCO/Courrendlin/2021-06-13/D_Extension_Ecoles.php">                          
+                        <a href="Pages/Resultats/ElectionsCO/Courrendlin/2021-06-13/Accueil.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation Courrendlin</h3>
+                                    <h3 class="uk-card-title">Scrutins Courrendlin</h3>
                                 </div>                          
                             </div>
                         </a> 
 
-                        <a href="Pages/Resultats/ElectionsCO/Courrendlin/2021-06-13/PresidenceAssemblee.php">                          
+                        <a href="Pages/Resultats/ElectionsCO/Boecourt/2021-06-13/CommissionEcole.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Election Courrrendlin</h3>
+                                    <h3 class="uk-card-title">Election Boécourt</h3>
                                 </div>                          
                             </div>
                         </a> 
 
-                        <a href="Pages/Resultats/ElectionsCO/Montfaucon/2021-06-13/D_ConseilCommunal.php">                          
+                        <a href="Pages/Resultats/ElectionsCO/Montfaucon/2021-06-13/Accueil.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>

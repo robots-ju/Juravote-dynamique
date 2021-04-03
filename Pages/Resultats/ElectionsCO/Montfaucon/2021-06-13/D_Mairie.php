@@ -5,7 +5,7 @@
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Election complémentaire par les urnes
-de deux conseillers-ères communaux-les</title>
+d’un-e maire</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -47,15 +47,15 @@ de deux conseillers-ères communaux-les</title>
 <main>
     <section style="padding: 2%">
         <h1 class="uk-heading-large">Montfaucon - Election complémentaire par les urnes
-de deux conseillers-ères communaux-les</h1>
+d’un-e maire</h1>
         <hr>
         <h2 style="padding-bottom: 2%;">Délai de dépôt des listes</h2>
-        <p>Les électrices et électeurs de la commune mixte de
-        Montfaucon sont convoqués aux urnes afin de procéder
-        à l’élection complémentaire de deux Conseillers-ères,
-        selon le système majoritaire à deux tours, conformément
-        aux dispositions de la loi cantonale sur les droits
-        politiques et du règlement communal sur les élections.</p>
+        <p>Les électrices et électeurs de la commune mixte de Montfaucon
+        sont convoqués aux urnes afin de procéder à
+        l’élection complémentaire d’un-e maire, selon le système
+        majoritaire à deux tours, conformément aux dispositions
+        de la loi cantonale sur les droits politiques et du règlement
+        communal sur les élections.</p>
 
         <p>Les actes de candidatures
         doivent être remis au Conseil communal jusqu’au lundi

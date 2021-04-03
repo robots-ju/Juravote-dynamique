@@ -3,7 +3,8 @@
 
 //IMAGES
     //equipe
-    $MorySelena = "/Juravote-dynamique/IMG/Equipe/Mars 21/MORY_Selena.JPG";
+    $ChetelatMorgan = "/Juravote-dynamique/IMG/Equipe/Mars 21/V3/CHETELAT_Morgan.JPG";
+    $MorySelena = "/Juravote-dynamique/IMG/Equipe/Mars 21/V3/MORY_Selena.JPG";
     $FleuryGael = "/Juravote-dynamique/IMG/Equipe/Mars 21/FLEURY Gael.JPG";
     $FrelechouxAntoine = "/Juravote-dynamique/IMG/Equipe/Mars 21/FRELECHOUX_Antoine.JPG";
     $MEMBRE_RenaudDaniel = "/Juravote-dynamique/IMG/Equipe/Mars 21/RENAUD_Daniel.JPG";

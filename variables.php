@@ -11,6 +11,7 @@
     $HouserSam = "/IMG/Equipe/Mars 21/HOUSER_Sam.JPG";
 
     //communes :
+    $communeBoecourt = "/IMG/Logo/Communes/Boecourt.png";
     $communeBonfol = "/IMG/Logo/Communes/Bonfol.png";
     $communeChatillon = "/IMG/Logo/Communes/Chatillon.png";
     $communeCourtedoux ="Juravote-dynamique/IMG/Logo/Communes/Courtedoux.PNG";

@@ -3,7 +3,8 @@
 
 //IMAGES
     //equipe
-    $MorySelena = "/IMG/Equipe/Mars 21/MORY_Selena.JPG";
+    $ChetelatMorgan = "/IMG/Equipe/Mars 21/V3/CHETELAT_Morgan.JPG";
+    $MorySelena = "/IMG/Equipe/Mars 21/V3/MORY_Selena.JPG";
     $FleuryGael = "/IMG/Equipe/Mars 21/FLEURY Gael.JPG";
     $FrelechouxAntoine = "/IMG/Equipe/Mars 21/FRELECHOUX_Antoine.JPG";
     $MEMBRE_RenaudDaniel = "/IMG/Equipe/Mars 21/RENAUD_Daniel.JPG";

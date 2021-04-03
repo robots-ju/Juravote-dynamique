@@ -51,7 +51,7 @@
         <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid> 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="/Juravote-dynamique/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfancePorrentruy.php">
+                    <a href="/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfancePorrentruy.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">

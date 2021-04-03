@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Scrutins Courrendlin du 13 juin 2021</title>
@@ -42,11 +42,11 @@
 <!-- Barre de navigation -->
 <header>
             <div class="navbar-normal">
-                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
 <main>
@@ -75,7 +75,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="/Juravote-dynamique/Pages/Resultats/VotationsCO/Courrendlin/2021-06-13/D_Extension_Ecoles.php">
+                    <a href="/Pages/Resultats/VotationsCO/Courrendlin/2021-06-13/D_Extension_Ecoles.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
                                 <img width="150" height="150" src="<?php echo $communeCourrendlin ?>" alt="Votation communale Courrendlin">
@@ -96,7 +96,7 @@
 </main>
 <footer>
         <div class="footer">
-            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </body>

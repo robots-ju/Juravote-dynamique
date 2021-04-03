@@ -50,7 +50,8 @@
     <section style="padding: 2%;">
             <h1 class="uk-heading-large">Projet d'extension des locaux scolaires</h1>
             <hr>
-            <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
+            <h3 class="uk-text-center" style="padding-bottom: 10%">Les informations seront bientôt disponibles !</h3>
+            <!--<div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
                 <button class="uk-button uk-button-default" type="button">Résumé</button>
                 <button class="uk-button uk-button-default" type="button">Positions des partis politiques</button>
                 <button class="uk-button uk-button-default" type="button">Arguments pour</button>
@@ -184,7 +185,7 @@
                         </div>
                     </div>
                 </li>
-            </ul>
+            </ul>-->
         </section>
     </main>
 </body>

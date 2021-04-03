@@ -62,8 +62,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Appartenance cantonale de Moutier</p>
-                        <p><b>Participation : </b>A venir</p>
-                        <p><b>Résultat : </b>A venir</p>
+                        <p><b>Participation : </b>88.54 %</p>
+                        <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation communale (Moutier)</p>
                         <p><b>Mode de votation : </b>Scrutin populaire</p>
                         <p><a href="AppartenanceMoutier.php">Lien vers la description du projet</a></p>

@@ -48,7 +48,7 @@
     </header>
     <main>
     <section style="padding: 2%;">
-            <h1 class="uk-heading-large">Référendum contre la Loi CO2</h1>
+            <h1 class="uk-heading-large">Loi CO2</h1>
             <hr>
             <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
                 <button class="uk-button uk-button-default" type="button">Résumé</button>
@@ -190,15 +190,18 @@
                     <div class="uk-column-1-3@m uk-column-1-1@s">
                         <h3>Recommendations de vote des partis fédéraux</h3>
                         <hr>
-                           
+                        <iframe title="PartisCH_Loi CO2 2021" aria-label="chart" id="datawrapper-chart-PiRsC" src="https://datawrapper.dwcdn.net/PiRsC/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
 
                         <h3>Recommendations de vote des partis jurassiens</h3>
                         <hr>
-                        
+                        <iframe title="PartisJU IP Loi CO2 2021" aria-label="chart" id="datawrapper-chart-L13g0" src="https://datawrapper.dwcdn.net/L13g0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
 
                         <h3>Recommendations de vote des autorités</h3>
                         <hr>
-                        
+                        <iframe title="AutoritesCH_CO2 2021" aria-label="chart" id="datawrapper-chart-Zlgll" src="https://datawrapper.dwcdn.net/Zlgll/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
                     </div>
                 </li>  
                 <li>       

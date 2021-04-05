@@ -190,15 +190,18 @@
                     <div class="uk-column-1-3@m uk-column-1-1@s">
                         <h3>Recommendations de vote des partis fédéraux</h3>
                         <hr>
-                           
+                        <iframe title="PartisCH_Initiative Pesticides2021" aria-label="chart" id="datawrapper-chart-QfATH" src="https://datawrapper.dwcdn.net/QfATH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
 
                         <h3>Recommendations de vote des partis jurassiens</h3>
                         <hr>
-                        
+                        <iframe title="PartisJU IP Pesticides 2021" aria-label="chart" id="datawrapper-chart-Xkb9c" src="https://datawrapper.dwcdn.net/Xkb9c/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
 
                         <h3>Recommendations de vote des autorités</h3>
                         <hr>
-                        
+                        <iframe title="AutoritesCH_IP Pesticides 2021" aria-label="chart" id="datawrapper-chart-Eoa4E" src="https://datawrapper.dwcdn.net/Eoa4E/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
                     </div>
                 </li>  
                 <li>       

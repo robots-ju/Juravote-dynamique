@@ -51,7 +51,7 @@
         <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="D_IP-EauPotable.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
                                 <img class="illustration" src="<?php echo $Eau ?>"
@@ -74,7 +74,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="D_IP-Pesticides.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
                                 <img class="illustration" src="<?php echo $Légumes ?>"
@@ -96,7 +96,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="D_Loi-COVID19.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
                                 <img class="illustration" src="<?php echo $Suisse ?>" 
@@ -117,7 +117,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="D_Loi-CO2.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
                                 <img class="illustration" src="<?php echo $Eolienne ?>" 
@@ -139,7 +139,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="D_Loi-ContreTerrorisme.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
                                 <img class="illustration" src="<?php echo $caméra ?>" 

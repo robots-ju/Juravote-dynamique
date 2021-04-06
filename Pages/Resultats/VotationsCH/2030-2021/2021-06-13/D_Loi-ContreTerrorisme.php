@@ -58,132 +58,97 @@
             </div>  
             <ul class="uk-switcher uk-margin">
                 <li> 
-                    <p>Les informations seront bientôt disponibles !</p>
-                    <!--<div class="uk-column-1-2@m uk-column-1-1@s">
+                    <div class="uk-column-1-2@m uk-column-1-1@s">
                         <h3>Contexte</h3>
                         <hr>
-                        <p class="uk-text-justify">Il est important pour les entreprises suisses d’exporter et d’avoir des relations économiques fiables. 
-                        Pour garantir et améliorer leur accès aux marchés étrangers, la Suisse entretient un vaste réseau d’accords 
-                        avec des pays partenaires. Aujourd’hui, des droits de douane élevés et d’autres barrières entravent le 
-                        commerce avec l’Indonésie, le quatrième pays le plus peuplé du monde.
-                        </p>
-                        <p class="uk-text-justify">C’est pourquoi la Suisse a également négocié un accord avec ce pays. L’accord fait l’objet d’un référendum, 
-                        notamment au motif qu’il réduit, à certaines conditions, les droits de douane sur les importations d’huile de palme.
+                        <p class="uk-text-justify">Depuis les attentats de Paris en 2015, des dizaines d’autres 
+                        attaques à motivation terroriste ont été menées en Europe. Pour le Service de renseignement 
+                        de la Confédération (SRC), la menace terroriste reste, en Suisse aussi, élevée. Aujourd’hui, 
+                        la police ne peut en principe intervenir que si une infraction a déjà été commise. Pour 
+                        empêcher les attaques terroristes, le Conseil fédéral et le Parlement ont créé avec la loi 
+                        fédérale sur les mesures policières de lutte contre le terrorisme (MPT) une base légale 
+                        permettant à la police d’agir plus facilement à titre préventif. Le référendum a été demandé 
+                        contre la loi et la votation aura lieu le 13 juin 2021.
                         </p>
 
-                        <h3>Le projet</h3>
+                        <h3>Principes</h3>
                         <hr>
-                        <p class="uk-text-justify">L’accord prévoit que toutes les marchandises suisses importantes peuvent être exportées vers l’Indonésie 
-                        en franchise douanière. Les entreprises suisses bénéficient ainsi sur le marché indonésien en pleine croissance 
-                        de conditions au moins aussi favorables que la concurrence étrangère. La Suisse supprime quant à elle les droits 
-                        de douane sur les produits industriels indonésiens.
-                        </p>
-
-                        <p class="uk-text-justify">Afin de protéger l’agriculture suisse, elle les maintient cependant en grande partie sur les produits agricoles. 
-                        Notre pays et l’Indonésie s’engagent de plus à mettre en place un commerce compatible avec le développement durable. 
-                        Concernant les importations d’huile de palme indonésienne, l’accord prévoit certaines réductions douanières pour un 
-                        quota limité. Pour en bénéficier, l’importateur doit prouver que l’huile de palme a été produite dans le respect des 
-                        exigences environnementales et sociales prévues par l’accord.
+                        <p class="uk-text-justify">La nouvelle loi permet à la police d’agir plus tôt, et donc 
+                        à titre préventif, lorsque des indices concrets et actuels laissent penser qu’une personne 
+                        représente une menace terroriste. À la demande d’un canton, du SRC ou d’une commune, l’Office 
+                        fédéral de la police (fedpol) peut obliger un terroriste potentiel à participer à des entretiens 
+                        et à se présenter régulièrement auprès de la police. 
                         </p>
                     </div>
 
-                    <div class="uk-column-1-5@m uk-column-1-1@s" style="padding-top: 2%;">
-                        <h5>L'Indonésie, un marché important</h5>
-                        <hr>
-                        <p class="uk-text-justify">L’Indonésie compte 271 millions d’habitants, ce qui en fait le quatrième pays le plus 
-                        peuplé du monde.
-                        </p>
-                        <p class="uk-text-justify" style="padding-bottom: 2%">Son économie est la plus importante 
-                        d’Asie du Sud-Est et, depuis les années 2000, elle enregistre une croissance constante. Par rapport à d’autres 
-                        pays de la région, le commerce avec l’Indonésie est plutôt modeste et offre un potentiel de croissance considérable.
-                        </p>
-
-                        <h5>Compétitivité des entreprises suisses</h5>
-                        <hr>
-                        <p class="uk-text-justify">Actuellement, les exportations suisses vers l’Indonésie sont soumises à des droits de 
-                        douane relativement élevés, ce qui rend les produits plus chers. 
-                        </p>
-                        <p class="uk-text-justify">Les exportateurs suisses sont discriminés 
-                        par rapport à leurs concurrents étrangers qui bénéficient de droits de douane plus bas et 
-                        de franchises douanières. À l’avenir, ils risquent d’être désavantagés par rapport à leurs concurrents européens, 
-                        car un accord est en train d'être négocié avec l’Indonésie.
-                        </p>
-
-                        <h5>Meilleur accès au marché</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 2%">Grâce au présent accord, les droits de douane tomberont pour toutes les principales 
-                        exportations suisses vers l’Indonésie.
-                        </p>
-                        <p class="uk-text-justify">En contrepartie, l’accord permettra aux 
-                        entreprises indonésiennes d’exporter des produits industriels en Suisse en franchise de douane. Le libre-échange 
-                        n’est en revanche pas prévu pour les produits agricoles, afin de ne pas mettre en danger la production agricole suisse.
-                        </p>
-
-                        <h5>Accord de large portée</h5>
-                        <hr>
-                        <p class="uk-text-justify">En plus de la réduction des droits de douane, l’accord prévoit d’autres règles importantes, 
-                        notamment dans le secteur du commerce de biens et de services, des investissements et de la protection de la propriété 
-                        intellectuelle.
-                        </p>
-                        <p class="uk-text-justify" style="padding-bottom: 5%">Ces règles renforcent la sécurité juridique et créent des conditions fiables pour les entreprises en 
-                        Suisse et en Indonésie.
-                        </p>
-
-                        <h5>Encouragement du développement durable</h5>
-                        <hr>
-                        <p class="uk-text-justify">Le commerce ne doit pas se faire aux dépens des personnes et de l’environnement. La Suisse 
-                        et l’Indonésie s’engagent à respecter les droits de l’homme, des travailleurs et des groupes particulièrement vulnérables, 
-                        et à protéger l’environnement.
-                        </p>
-                        <p class="uk-text-justify">Elles mettent notamment l’accent sur la durabilité en matière d’exploitation forestière et 
-                        de production d’huile de palme.
-                        </p>
-                    </div>                    
-
-                    <h3>Huile de palme</h3>
+                    <h3>Aperçu des différentes mesures</h3>
                     <hr>
-                    <div class="uk-column-1-2@m uk-column-1-1@s">
-                        <h5>De multiples enjeux</h5>
-                        <p class="uk-text-justify">L’accord pose des exigences spécifiques à la production d’huile de palme durable. 
-                        L’Indonésie s’engage à appliquer efficacement les règles sur la protection des forêts primaires et d’autres 
-                        écosystèmes, et notamment à enrayer la déforestation, le drainage des tourbières et le brûlis pour gagner des 
-                        terres, et à respecter les droits des communautés autochtones et des travailleurs.
+                    <div class="uk-column-1-4@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h5>Obligation de participer à des entretiens</h5>
+                        <hr>
+                        <p class="uk-text-justify">La personne doit se présenter régulièrement à des entretiens. 
+                        Le but est de déterminer si elle représente une menace et, le cas échéant, l’amener à 
+                        changer de comportement.
                         </p>
 
-                        <h5>Concessions limitées</h5>
-                        <p class="uk-text-justify">Les conditions pour l’importation d’huile de palme indonésienne sont aménagées de 
-                        sorte que le volume total des importations d’huile de palme en Suisse n’augmente pas. L’accord ne devrait donc 
-                        pas nuire à la production suisse d’huile de colza et d’autres huiles.
+                        <h5>Obligation de présenter</h5>
+                        <hr>
+                        <p class="uk-text-justify">La personne doit se présenter régulièrement auprès d’une autorité. 
+                        Il est ainsi possible de vérifier, par exemple, si une interdiction de quitter le territoire 
+                        est respectée.
                         </p>
 
-                        <h5>Certification de durabilité</h5>
-                        <p class="uk-text-justify">Un importateur peut bénéficier de réductions douanières uniquement pour de l’huile 
-                        de palme indonésienne produite selon les exigences de durabilité prévues. C’est lui qui doit en apporter la preuve.
-                        Enfin, l’accord contient des règles visant à éviter le mélange entre de l’huile de palme durable et non durable 
-                        lors du transport.
+                        <h5>Interdiction de contact</h5>
+                        <hr>                                              
+                        <p class="uk-text-justify">La personne a l’interdiction d’avoir des contacts avec 
+                        d’autres personnes proches des milieux terroristes, soutenant leurs activités ou favorisant 
+                        la propagande de leurs idées. Le but est d’éviter tout contact direct ou indirect entre 
+                        personnes radicalisées.
                         </p>
 
-                        <iframe title="Importations d’huile de palme en Suisse" aria-label="grouped bars" id="datawrapper-chart-Kebjn" src="https://datawrapper.dwcdn.net/Kebjn/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="577"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                        </script>
+                        <h5>Interdiction de quitter le territoire</h5>
+                        <hr>
+                        <p class="uk-text-justify">Une personne soupçonnée de vouloir mener 
+                        des activités terroristes à l’étranger peut se voir interdire de quitter la Suisse.
+                        </p>
                     </div>
-                
-                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-top: 2%">
-                        <h3>Coopération à long terme</h3>
+
+                    <div class="uk-column-1-4@m uk-column-1-1@s">
+                        <h5>Interdiction géographique</h5>
                         <hr>
-                        <p class="uk-text-justify">L’Indonésie est depuis longtemps un pays prioritaire pour la Suisse au titre de la 
-                        coopération économique au développement. L’accord porte donc aussi sur la coopération entre les deux pays. 
-                         est de promouvoir la croissance à long terme au profit de toute la population et dans une perspective de 
-                         protection des ressources naturelles indonésiennes. Dans les secteurs de l’agriculture et de l’huile de palme, 
-                         la Suisse soutient plusieurs projets qui visent à ménager les ressources lors de la production et à apporter 
-                         une aide aux petits paysans. Ces projets contribuent à faire en sorte que de petites entreprises indonésiennes 
-                         puissent elles aussi profiter du potentiel qu’offre l’accord en s’inscrivant dans la durabilité.
+                        <p class="uk-text-justify" style="padding-bottom: 40%">La personne a l’interdiction de se rendre à certains endroits 
+                        ou de quitter un certain périmètre.
                         </p>
 
-                        <h3>La question qui vous est posée : </h3>
+                        <h5>Assignation à résidence</h5>
                         <hr>
-                        <b><p class="uk-text-justify" style="padding-bottom: 10%">Acceptez-vous l’arrêté fédéral du 20 décembre 2019 portant approbation de l’Accord de partenariat économique 
-                        de large portée entre les États de l’AELE et l’Indonésie ?</p></b>
-                    </div>-->
+                        <p class="uk-text-justify">La personne a l’interdiction de quitter son lieu de résidence. 
+                        Cette mesure ne peut être ordonnée que si des indices concrets et actuels suggèrent qu’elle 
+                        représente une menace considérable pour la vie ou l’intégrité corporelle d’autrui et si elle 
+                        n’a pas respecté les mesures policières ordonnées préalablement. L’assignation à résidence 
+                        doit toujours être approuvée par le tribunal des mesures de contrainte du canton de Berne.
+                        </p>
+
+                        <h5>Détention en vue de l'expulsion</h5>
+                        <hr>
+                        <p class="uk-text-justify" style="padding-bottom: 40%">Un terroriste potentiel de nationalité étrangère peut être mis 
+                        en détention si l’on craint qu’il ne se soustraie à son expulsion.
+                        </p>
+
+                        <h5>Dispositions</h5>
+                        <hr>                        
+                        <p class="uk-text-justify">La nouvelle loi contient une série de dispositions visant à 
+                        empêcher une application disproportionnée et arbitraire : toutes les mesures sont limitées 
+                        dans le temps et peuvent être contestées auprès du Tribunal administratif fédéral. De plus, 
+                        les assignations à résidence doivent être approuvées par le tribunal des mesures de contrainte. 
+                        Les nouvelles mesures doivent être appliquées de manière proportionnée.
+                        </p>
+                    </div> 
+
+                    <h3>La question qui vous est posée : </h3>
+                    <hr>
+                    <b><p class="uk-text-justify" style="padding-bottom: 10%">Acceptez-vous la Loi fédérale
+                    sur les mesures policières de lutte contre le terrorisme ?</p></b>
                 </li>
 
                 <li>
@@ -205,14 +170,18 @@
                     </div>
                 </li>  
                 <li>       
-                    <p>Les arguments seront bientôt disponibles !</p>     
-                    <!--<div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Il s’agit d’un accord important et équilibré. Il tient compte des intérêts économiques 
-                                des deux pays ainsi que de l’objectif de développement durable.</p>
+                                <p class="uk-text-justify">En Suisse aussi, certaines personnes représentent une menace terroriste, mais 
+                                les mesures et les instruments utilisés aujourd’hui, comme les programmes de 
+                                déradicalisation, sont insuffisants. C’est pourquoi les autorités cantonales 
+                                veulent des mesures complémentaires dans le domaine de la prévention. La nouvelle 
+                                loi répond à cette demande : elle permet à la police d’agir dès que des indices 
+                                concrets et actuels laissent penser que quelqu’un commettra un acte terroriste. 
+                                La population est ainsi mieux protégée. </p>
                             </div>
                         </div>
 
@@ -220,8 +189,12 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Les conditions plus avantageuses prévues par l’accord sont applicables uniquement 
-                                à l’importation d’huile de palme durable.</p>
+                                <p class="uk-text-justify">Le Conseil fédéral et le Parlement considèrent que les nouvelles mesures sont 
+                                compatibles avec les droits fondamentaux, la Convention européenne des droits de 
+                                l’homme et les traités de l’ONU relatifs à ces questions. Les tribunaux veillent 
+                                à la bonne application des mesures : l’assignation à résidence doit être approuvée 
+                                par un tribunal et toutes les mesures peuvent faire l’objet d’un recours auprès 
+                                du Tribunal administratif fédéral. L’état de droit est donc garanti.</p>
                             </div>
                         </div>
 
@@ -229,9 +202,11 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Il est important pour la Suisse d’exporter et d’avoir des relations économiques fiables, 
-                                éléments indispensables au maintien de notre prospérité. L’Indonésie, avec sa classe moyenne 
-                                croissante, est un important marché d’avenir pour nos entreprises exportatrices.</p>
+                                <p class="uk-text-justify">Les mesures sont chaque fois prises en fonction de la situation. Les mesures légères, 
+                                comme des programmes d’occupation ou un suivi psychologique, restent en principe 
+                                privilégiées. Des mesures plus strictes ne sont prises que si ces premières mesures ne 
+                                fonctionnent pas ou ne sont pas respectées. L’assignation à résidence, à n’utiliser qu’en 
+                                dernier recours, doit toujours être approuvée par un tribunal. </p>
                             </div>
                         </div>
 
@@ -239,8 +214,10 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>L’UE et l’Indonésie négocient actuellement un accord similaire. Les exportateurs suisses risquent 
-                                donc d’être discriminés par rapport à leurs principaux concurrents européens.</p>
+                                <p class="uk-text-justify">La stratégie de la Confédération en matière de lutte contre le terrorisme est axée 
+                                sur la prévention, la répression et la réintégration. Les nouvelles mesures policières 
+                                la complètent en comblant les lacunes qu’elle présente dans le domaine de la prévention.
+                                </p>
                             </div>
                         </div>
 
@@ -248,53 +225,58 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>La plupart des produits agricoles indonésiens, tels que les fruits exotiques, complètent l’offre locale 
-                                suisse sans la con currencer. Les concessions dans ce domaine sont en outre aménagées de façon à ne pas 
-                                menacer les producteurs suisses.</p>
+                                <p class="uk-text-justify">Le terrorisme s’attaque non seulement aux personnes, mais aussi aux institutions et 
+                                aux valeurs démocratiques. Pour garantir ces fondements, nous devons renforcer la 
+                                prévention et lutter avec détermination contre le terrorisme. La nouvelle loi nous 
+                                donne les moyens d’agir avant que des attentats ne soient commis.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Le compromis trouvé est tout à fait acceptable pour la Suisse, car il n’y aura pas de libre-échange 
-                                pour l’huile de palme. Ainsi, l’accord tient compte des préoccupations sociales et environnementales, 
-                                et notre production nationale d’huile de colza et de tournesol n’est pas en danger.</p>
+                                <p class="uk-text-justify">La loi sur le terrorisme com­plète la lutte suisse contre le ter­ro­risme par des 
+                                mesures poli­cières pré­ven­tives néces­saires pour se pro­té­ger contre les per­sonnes 
+                                dan­ge­reuses.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Des contrôles efficaces seront mis en place pour vérifier que seule de l’huile de palme durable, 
-                                c’est-à-dire produite dans le respect strict des exigences sociales et environnementales, peut être 
-                                importée aux conditions douanières plus avantageuses qu’offre l’accord.</p>
+                                <p class="uk-text-justify">Le terrorisme islamiste ne s’arrête pas aux frontières de la Suisse comme le 
+                                rappellent douloureusement les attentats commis l’an passé à Morges et Lugano. Or, 
+                                les autorités judiciaires ont trop souvent les mains liées quand il s’agit de prévenir 
+                                les crimes de l’islam politique radical. </p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>L’accord profite autant à la Suisse qu’à l’Indonésie. Il améliore l’accès au marché, renforce 
-                                la sécurité juridique et permet une meilleure planification. Il prend en compte l’objectif de 
-                                développement durable et apporte une contribution importante aux efforts mondiaux pour parvenir à 
-                                une production d’huile de palme plus durable.</p>
+                                <p class="uk-text-justify">La politique a l’obligation d’entreprendre tout ce qui est nécessaire pour 
+                                protéger le mieux possible notre population contre des attentats terroristes.
+                                Cette nouvelle loi est en accord avec le programme politique de notre parti. 
+                                Elle est équilibrée et parfaitement ciblée.</p>
                             </div>
                         </div>
-                    </div>-->
+                    </div>
                 </li>
                 <li>
-                    <p>Les arguments seront bientôt disponibles !</p>
-                    <!--<div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Il est presque impossible de respecter les critères de durabilité promis par l’accord, 
-                                car il n’y a pas de possibilités de contrôle et de sanction efficaces.</p>
+                                <p class="uk-text-justify">Les mesures prévues par la nouvelle loi ne sont pas ordonnées par un tribunal, 
+                                mais par l’office fédéral de la police Fedpol, sur la base de simples soupçons 
+                                (aucune preuve requise). Il manque un organe judiciaire de contrôle : il s’agit 
+                                d’une atteinte à la séparation des pouvoirs. De plus, ces mesures violent clairement 
+                                les droits fondamentaux et les droits de l’homme. Une cinquantaine de professeurs de 
+                                droit suisses ont communiqué leurs inquiétudes au Conseil fédéral.</p>
                             </div>
                         </div>
 
@@ -302,8 +284,17 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>L’huile de palme bon marché détruit les forêts primaires et concurrence des produits comme 
-                                l’huile de tournesol ou de colza en Suisse.</p>
+                                <p class="uk-text-justify">La nouvelle loi prévoit la possibilité d’appliquer une assignation à résidence. 
+                                Il s’agit de la seule mesure qui doit être ordonnée par un tribunal. Elle peut tout 
+                                de même être appliquée sans qu’il y ait effectivement un crime et ne nécessite pas 
+                                d’éléments de preuve tels que le lieu ou la date du supposé crime. Chacun peut être 
+                                sanctionné par cette mesure, pendant six mois et sans besoin de preuve. Cette 
+                                privation de liberté représente une violation de la Convention européenne des 
+                                droits de l’homme. L’article 5 de la Convention européenne des droits de l’homme 
+                                interdit la privation de liberté arbitraire sur l’unique base de soupçons. La Suisse 
+                                serait ainsi la seule démocratie occidentale permettant l’emprisonnement de citoyens 
+                                sans aucune raison. Les seules exceptions sont les États-Unis avec les camps à 
+                                Guantanamo.</p>
                             </div>
                         </div>
 
@@ -311,9 +302,16 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Par cet accord, la Suisse est forcée d’accepter les faibles normes sociales et environnementales de 
-                                son partenaire, alors qu’elles sont contraires à nos valeurs. Encouragé par le libre-échange mondial, 
-                                on déforeste pour le profit de grands groupes énergétiques et agroalimentaires.</p>
+                                <p class="uk-text-justify">Ces mesures peuvent s’appliquer à des enfants dès l’âge de 12 ans, 
+                                respectivement 15 ans pour l’assignation à résidence, toujours sans 
+                                ordonnance judiciaire. Comme certain.e.s expert.e.s universitaires en 
+                                droit l’ont écrit dans leur lettre ouverte «la philosophie sous-jacente 
+                                aux MPT – préventive-répressive visant la mise à l’écart – apparaît en 
+                                contradiction avec la Convention internationale relative aux droits de 
+                                l’enfant, car ces mesures sont difficilement compatibles avec l’intérêt 
+                                supérieur de l’enfant». Il s’agit donc, d’une violation de la Convention 
+                                des Nations Unies relative aux droits de l’enfant, ce qui nous a également 
+                                valu de vives critiques de la part de l’ONU.</p>
                             </div>
                         </div>
 
@@ -321,9 +319,14 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>La corruption est omniprésente, de même que les violations systématiques des labels étatiques et 
-                                de la certification de « durabilité » délivrée par la RSPO, qu’il est prévu de reconnaître pour les 
-                                importations vers la Suisse.</p>
+                                <p class="uk-text-justify">Pour être considéré comme un terroriste, il n’est pas nécessaire d’exécuter ou 
+                                même de planifier un acte de nature terroriste. En effet, il suffit que la police 
+                                soupçonne cette éventualité, augmentant ainsi le risque d’erreurs judiciaires. Ces 
+                                erreurs peuvent avoir des conséquences désastreuses et même détruire des vies. Ce 
+                                type d’erreur s’est déjà produit en Suisse comme nous le montre l’exemple de Sami A. 
+                                Les personnes assignées à résidence pendant plus de six mois et qualifiées de surcroît 
+                                de terroristes feront face à de grandes difficultés de réinsertion. Cette nouvelle 
+                                définition du terrorisme suscite de vives critiques de la part de l’ONU.</p>
                             </div>
                         </div>
 
@@ -331,21 +334,99 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Alors que le bénéfice économique pour la Suisse est modéré, l’huile de palme a un impact social et 
-                                écologique dramatique, et pas uniquement en Indonésie. Le pays fait partie des plus gros émetteurs de 
-                                CO2 au monde.</p>
+                                <p class="uk-text-justify">Nous soutenons un renforcement du code pénal pour les terroristes avérés. 
+                                Des resserrements du code pénal permettent un contrôle judiciaire ainsi que le 
+                                respect des principes d’un État de droit. Par ce référendum, nous ne faisons que 
+                                défendre les points mentionnés ci-dessus. En outre, le code pénal fournit déjà une 
+                                base juridique pour la poursuite préventive et la condamnation de personnes sur la 
+                                seule base de la participation à un acte terroriste.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Il ne faut pas amplifier la dépendance à l’huile de palme, car nous avons d’autres solutions saines 
-                                comme l’huile de colza ou de tournesol et le beurre.</p>
+                                <p class="uk-text-justify">La loi contre le terrorisme permet de sanctionner des personnes avant qu’elles 
+                                aient commis le moindre délit : il suffit aux autorités de les considérer comme « 
+                                personnes dangereuses ». Fort d’une vague définition du terrorisme, l’État peut 
+                                prendre des mesures préventives contre elles, qu’aucun tribunal ne doit examiner. 
+                                De surcroît, la loi n’offre aucun instrument apte à combattre véritablement le 
+                                terrorisme, tel qu’une prévention efficace de la radicalisation.</p>
                             </div>
                         </div>
-                    </div>-->
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Ses mesures sont autant d’atteintes graves aux droits fondamentaux : en font 
+                                partie l’obligation de s’annoncer, l’interdiction de périmètre, l’assignation à 
+                                résidence. Que les autorités puissent prendre arbitrairement de telles mesures 
+                                est digne d’un pays sans État de droit fort et fait l’objet de vives critiques 
+                                de la part des organisations internationales, telles que l’ONU.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Des mesures touchent des enfants : l’âge-limite pour prendre de telles mesures 
+                                est de 12 ou 15 ans (pour l’assignation à résidence), ce qui enfreint les 
+                                droits des enfants. Dans sa lutte contre le terrorisme, la Suisse franchit 
+                                plusieurs fois la ligne rouge des droits humains.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">La loi abolit la présomption d'innocence. On peut être placé en résidence 
+                                surveillée jusqu'à 9 mois sans preuve sur de simples soupçons. Cela ferait de 
+                                nous le premier et le seul pays occidental à connaître une telle privation 
+                                arbitraire de liberté. Seule exception : Les États-Unis avec leurs camps à 
+                                Guantanamo.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">La loi viole les droits humains. Les mesures prévues par la loi ne sont pas 
+                                ordonnées par un tribunal, mais par la police sur simple soupçon (aucune preuve 
+                                requise). Cela viole, entre autres, la Convention européenne des droits de l'homme. 
+                                Plus de 50 professeur-e-s de droit suisses ont adressé un avertissement urgent au 
+                                Conseil fédéral concernant ces violations de la loi.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Emprisonnement des enfants : les mesures peuvent être imposées aux enfants 
+                                à partir de 12 ans (ou à partir de 15 ans en cas d'assignation à résidence) - 
+                                sans décision de justice. Il s'agit d'une violation de la Convention des Nations 
+                                unies sur les droits de l'enfant, qui a valu à la Suisse de sévères critiques de 
+                                la part de l'ONU.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Les régimes autoritaires ont la cote : avec cette loi, la Suisse crée 
+                                un précédent et va beaucoup plus loin que de nombreux pays. La loi peut être 
+                                prise par les régimes autoritaires comme un blanc-seing pour agir de manière 
+                                plus répressive de leur côté. C'est pourquoi le Haut Commissaire des Nations 
+                                Unies aux droits de l'homme est intervenu et a mis en garde contre cette loi.</p>
+                            </div>
+                        </div>
+                    </div>
                 </li>
             </ul>
         </section>

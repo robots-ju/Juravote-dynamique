@@ -57,133 +57,58 @@
                 <button class="uk-button uk-button-default" type="button">Arguments contre</button>
             </div>  
             <ul class="uk-switcher uk-margin">
-                <li> 
-                    <p>Les informations seront bientôt disponibles !</p>
-                    <!--<div class="uk-column-1-2@m uk-column-1-1@s">
-                        <h3>Contexte</h3>
-                        <hr>
-                        <p class="uk-text-justify">Il est important pour les entreprises suisses d’exporter et d’avoir des relations économiques fiables. 
-                        Pour garantir et améliorer leur accès aux marchés étrangers, la Suisse entretient un vaste réseau d’accords 
-                        avec des pays partenaires. Aujourd’hui, des droits de douane élevés et d’autres barrières entravent le 
-                        commerce avec l’Indonésie, le quatrième pays le plus peuplé du monde.
-                        </p>
-                        <p class="uk-text-justify">C’est pourquoi la Suisse a également négocié un accord avec ce pays. L’accord fait l’objet d’un référendum, 
-                        notamment au motif qu’il réduit, à certaines conditions, les droits de douane sur les importations d’huile de palme.
-                        </p>
-
-                        <h3>Le projet</h3>
-                        <hr>
-                        <p class="uk-text-justify">L’accord prévoit que toutes les marchandises suisses importantes peuvent être exportées vers l’Indonésie 
-                        en franchise douanière. Les entreprises suisses bénéficient ainsi sur le marché indonésien en pleine croissance 
-                        de conditions au moins aussi favorables que la concurrence étrangère. La Suisse supprime quant à elle les droits 
-                        de douane sur les produits industriels indonésiens.
-                        </p>
-
-                        <p class="uk-text-justify">Afin de protéger l’agriculture suisse, elle les maintient cependant en grande partie sur les produits agricoles. 
-                        Notre pays et l’Indonésie s’engagent de plus à mettre en place un commerce compatible avec le développement durable. 
-                        Concernant les importations d’huile de palme indonésienne, l’accord prévoit certaines réductions douanières pour un 
-                        quota limité. Pour en bénéficier, l’importateur doit prouver que l’huile de palme a été produite dans le respect des 
-                        exigences environnementales et sociales prévues par l’accord.
-                        </p>
-                    </div>
-
-                    <div class="uk-column-1-5@m uk-column-1-1@s" style="padding-top: 2%;">
-                        <h5>L'Indonésie, un marché important</h5>
-                        <hr>
-                        <p class="uk-text-justify">L’Indonésie compte 271 millions d’habitants, ce qui en fait le quatrième pays le plus 
-                        peuplé du monde.
-                        </p>
-                        <p class="uk-text-justify" style="padding-bottom: 2%">Son économie est la plus importante 
-                        d’Asie du Sud-Est et, depuis les années 2000, elle enregistre une croissance constante. Par rapport à d’autres 
-                        pays de la région, le commerce avec l’Indonésie est plutôt modeste et offre un potentiel de croissance considérable.
-                        </p>
-
-                        <h5>Compétitivité des entreprises suisses</h5>
-                        <hr>
-                        <p class="uk-text-justify">Actuellement, les exportations suisses vers l’Indonésie sont soumises à des droits de 
-                        douane relativement élevés, ce qui rend les produits plus chers. 
-                        </p>
-                        <p class="uk-text-justify">Les exportateurs suisses sont discriminés 
-                        par rapport à leurs concurrents étrangers qui bénéficient de droits de douane plus bas et 
-                        de franchises douanières. À l’avenir, ils risquent d’être désavantagés par rapport à leurs concurrents européens, 
-                        car un accord est en train d'être négocié avec l’Indonésie.
-                        </p>
-
-                        <h5>Meilleur accès au marché</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 2%">Grâce au présent accord, les droits de douane tomberont pour toutes les principales 
-                        exportations suisses vers l’Indonésie.
-                        </p>
-                        <p class="uk-text-justify">En contrepartie, l’accord permettra aux 
-                        entreprises indonésiennes d’exporter des produits industriels en Suisse en franchise de douane. Le libre-échange 
-                        n’est en revanche pas prévu pour les produits agricoles, afin de ne pas mettre en danger la production agricole suisse.
-                        </p>
-
-                        <h5>Accord de large portée</h5>
-                        <hr>
-                        <p class="uk-text-justify">En plus de la réduction des droits de douane, l’accord prévoit d’autres règles importantes, 
-                        notamment dans le secteur du commerce de biens et de services, des investissements et de la protection de la propriété 
-                        intellectuelle.
-                        </p>
-                        <p class="uk-text-justify" style="padding-bottom: 5%">Ces règles renforcent la sécurité juridique et créent des conditions fiables pour les entreprises en 
-                        Suisse et en Indonésie.
-                        </p>
-
-                        <h5>Encouragement du développement durable</h5>
-                        <hr>
-                        <p class="uk-text-justify">Le commerce ne doit pas se faire aux dépens des personnes et de l’environnement. La Suisse 
-                        et l’Indonésie s’engagent à respecter les droits de l’homme, des travailleurs et des groupes particulièrement vulnérables, 
-                        et à protéger l’environnement.
-                        </p>
-                        <p class="uk-text-justify">Elles mettent notamment l’accent sur la durabilité en matière d’exploitation forestière et 
-                        de production d’huile de palme.
-                        </p>
-                    </div>                    
-
-                    <h3>Huile de palme</h3>
+                <li>                    
+                    <h3>Que veut l'initiative ?</h3>
                     <hr>
-                    <div class="uk-column-1-2@m uk-column-1-1@s">
-                        <h5>De multiples enjeux</h5>
-                        <p class="uk-text-justify">L’accord pose des exigences spécifiques à la production d’huile de palme durable. 
-                        L’Indonésie s’engage à appliquer efficacement les règles sur la protection des forêts primaires et d’autres 
-                        écosystèmes, et notamment à enrayer la déforestation, le drainage des tourbières et le brûlis pour gagner des 
-                        terres, et à respecter les droits des communautés autochtones et des travailleurs.
+                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <p class="uk-text-justify" style="padding-bottom: 2%">L'initiative veut interdire les pesticides de synthèse en Suisse.
+                        L'interdiction concernerait l'agriculture, la production et la transformation des denrées
+                        alimentaires, l'entretien des espaces verts publics et des jardins privés, et la protection
+                        d'infrastructures telles que les voies de chemin de fer.
                         </p>
-
-                        <h5>Concessions limitées</h5>
-                        <p class="uk-text-justify">Les conditions pour l’importation d’huile de palme indonésienne sont aménagées de 
-                        sorte que le volume total des importations d’huile de palme en Suisse n’augmente pas. L’accord ne devrait donc 
-                        pas nuire à la production suisse d’huile de colza et d’autres huiles.
-                        </p>
-
-                        <h5>Certification de durabilité</h5>
-                        <p class="uk-text-justify">Un importateur peut bénéficier de réductions douanières uniquement pour de l’huile 
-                        de palme indonésienne produite selon les exigences de durabilité prévues. C’est lui qui doit en apporter la preuve.
-                        Enfin, l’accord contient des règles visant à éviter le mélange entre de l’huile de palme durable et non durable 
-                        lors du transport.
-                        </p>
-
-                        <iframe title="Importations d’huile de palme en Suisse" aria-label="grouped bars" id="datawrapper-chart-Kebjn" src="https://datawrapper.dwcdn.net/Kebjn/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="577"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                        </script>
+                        <p class="uk-text-justify">L’importation de denrées alimentaires produites à l’étranger à 
+                        l’aide de pesticides de synthèse ou contenant de tels pesticides serait elle aussi interdite. 
+                        L’interdiction devrait être totalement mise en œuvre dans un délai de dix ans. Durant ce délai, 
+                        le Conseil fédéral pourrait autoriser des exceptions si l’agriculture, la population ou la 
+                        nature étaient gravement menacées, par exemple en cas de pénurie extraordinaire.</p>
                     </div>
-                
-                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-top: 2%">
-                        <h3>Coopération à long terme</h3>
+
+                    <div class="uk-column-1-3@m uk-column-1-1@s">
+                        <h3>Pesticides de synthèse: définition/délimitation</h3>
                         <hr>
-                        <p class="uk-text-justify">L’Indonésie est depuis longtemps un pays prioritaire pour la Suisse au titre de la 
-                        coopération économique au développement. L’accord porte donc aussi sur la coopération entre les deux pays. 
-                         est de promouvoir la croissance à long terme au profit de toute la population et dans une perspective de 
-                         protection des ressources naturelles indonésiennes. Dans les secteurs de l’agriculture et de l’huile de palme, 
-                         la Suisse soutient plusieurs projets qui visent à ménager les ressources lors de la production et à apporter 
-                         une aide aux petits paysans. Ces projets contribuent à faire en sorte que de petites entreprises indonésiennes 
-                         puissent elles aussi profiter du potentiel qu’offre l’accord en s’inscrivant dans la durabilité.
+                        <p class="uk-text-justify">L'initiative vise les pesticides de synthèse, qui contiennent des
+                        compositions chimiques qui n'existent pas à l'état naturel. Les agents biologiques, les
+                        pesticides biologiques, les insectes bénéfiques, les pesticides organiques, mécaniques,
+                        électriques ou thermiques, ainsi que toutes les alternatives qui ne contiennent pas de
+                        toxiques chimiques, ne sont pas concernés par le champ d'application de l'initiative.
                         </p>
 
-                        <h3>La question qui vous est posée : </h3>
+                        <h3>Importations/protection de l’agriculture suisse</h3>
                         <hr>
-                        <b><p class="uk-text-justify" style="padding-bottom: 10%">Acceptez-vous l’arrêté fédéral du 20 décembre 2019 portant approbation de l’Accord de partenariat économique 
-                        de large portée entre les États de l’AELE et l’Indonésie ?</p></b>
-                    </div>-->
+                        <p class="uk-text-justify">L’interdiction d’utilisation des pesticides de synthèse est claire 
+                        et cohérente, et s’applique également aux importations. L’initiative met fin à l’usage de 
+                        pesticides de synthèse par les agriculteurs, mais aussi par les particuliers, les entreprises 
+                        et les pouvoirs publics. Le texte de l’initiative couvre également les produits importés dans 
+                        leur intégralité, garantissant ainsi des conditions équitables pour l’agriculture suisse, qui 
+                        est désavantagée par la législation actuelle.
+                        </p>
+
+                        <h3>Période de transition de 10 ans</h3>
+                        <hr>
+                        <p class="uk-text-justify">L’initiative prévoit une période de transition de dix ans. 
+                        Ce délai permet à l’agriculture de faire une transition en douceur et donne aux acteurs 
+                        individuels suffisamment de temps pour prendre les mesures nécessaires pour se passer des 
+                        pesticides de synthèse. Ces dix années peuvent être utilisées politiquement pour repenser 
+                        le système agricole et alimentaire et pour adapter la législation pertinente, et en même temps 
+                        la recherche peut développer une agriculture qui prend davantage en compte la biodiversité et 
+                        la santé.
+                        </p>
+                    </div>
+
+                    <h3>La question qui vous est posée :</h3>
+                    <hr>
+                    <b><p class="uk-text-justify">Acceptez-vous l'initiative populaire
+                    "Pounr une Suisse libre de pesticides de synthèse" ?</p></b>                    
                 </li>
 
                 <li>
@@ -205,147 +130,169 @@
                     </div>
                 </li>  
                 <li>       
-                    <p>Les arguments seront bientôt disponibles !</p>     
-                    <!--<div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Il s’agit d’un accord important et équilibré. Il tient compte des intérêts économiques 
-                                des deux pays ainsi que de l’objectif de développement durable.</p>
+                                <p class="uk-text-justify">Nous renforçons une agriculture écologique et équitable, car les mêmes règles 
+                                s’appliquent aux importations et aux agriculteurs suisses.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Les conditions plus avantageuses prévues par l’accord sont applicables uniquement 
-                                à l’importation d’huile de palme durable.</p>
+                                <p class="uk-text-justify">Nous rendons une alimentation saine accessible et abordable pour l’ensemble 
+                                de la population.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Il est important pour la Suisse d’exporter et d’avoir des relations économiques fiables, 
-                                éléments indispensables au maintien de notre prospérité. L’Indonésie, avec sa classe moyenne 
-                                croissante, est un important marché d’avenir pour nos entreprises exportatrices.</p>
+                                <p class="uk-text-justify">Nous enrayons la disparition des insectes et promouvons la biodiversité – pour une 
+                                biodiversité suisse renforcée et durable.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>L’UE et l’Indonésie négocient actuellement un accord similaire. Les exportateurs suisses risquent 
-                                donc d’être discriminés par rapport à leurs principaux concurrents européens.</p>
+                                <p class="uk-text-justify">Nous protégeons notre santé, notre environnement et notre eau potable et donc 
+                                les moyens de subsistance des générations futures.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>La plupart des produits agricoles indonésiens, tels que les fruits exotiques, complètent l’offre locale 
-                                suisse sans la con currencer. Les concessions dans ce domaine sont en outre aménagées de façon à ne pas 
-                                menacer les producteurs suisses.</p>
+                                <p class="uk-text-justify">Nous accordons une période de transition de 10 ans pour la mise en œuvre de 
+                                notre revendication, à savoir l’interdiction des pesticides de synthèse.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Le compromis trouvé est tout à fait acceptable pour la Suisse, car il n’y aura pas de libre-échange 
-                                pour l’huile de palme. Ainsi, l’accord tient compte des préoccupations sociales et environnementales, 
-                                et notre production nationale d’huile de colza et de tournesol n’est pas en danger.</p>
+                                <p class="uk-text-justify">Pour la protection de l’environnement et de la santé : chaque année, 2’000 tonnes 
+                                de pesticides empoisonnent nos nappes phréatiques et notre eau potable. Les pesticides 
+                                nuisent à la santé, aux insectes et rendent les sols durablement infertiles.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Des contrôles efficaces seront mis en place pour vérifier que seule de l’huile de palme durable, 
-                                c’est-à-dire produite dans le respect strict des exigences sociales et environnementales, peut être 
-                                importée aux conditions douanières plus avantageuses qu’offre l’accord.</p>
+                                <p class="uk-text-justify">L’économie agro-alimentaire suisse doit changer de paradigme : les VERT-E-S militent 
+                                pour une agriculture paysanne et un système alimentaire équitable et climat-compatible, 
+                                garantissant à chaque personne une nourriture saine et sans pesticide. Cette initiative 
+                                et celle pour l’eau potable sont nécessaires afin de surmonter les blocages bourgeois 
+                                sur la politique agricole.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>L’accord profite autant à la Suisse qu’à l’Indonésie. Il améliore l’accès au marché, renforce 
-                                la sécurité juridique et permet une meilleure planification. Il prend en compte l’objectif de 
-                                développement durable et apporte une contribution importante aux efforts mondiaux pour parvenir à 
-                                une production d’huile de palme plus durable.</p>
+                                <p class="uk-text-justify">Le contre-projet du Parlement est insuffisant : il ne vise qu’à réduire les risques, 
+                                sans engagement, ce qui est cependant nécessaire si l’on veut une stratégie contraignante 
+                                pour en sortir.</p>
                             </div>
                         </div>
-                    </div>-->
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Malgré toutes les directives et les prétendus efforts déployés jusqu'à présent, 
+                                2000 tonnes de pesticides, 110 000 tonnes d'excédents d'azote et 6000 tonnes d'excédents 
+                                de phosphore sont rejetées dans l'environnement par l'agriculture suisse chaque année. 
+                                Ces énormes quantités polluent la biodiversité, l'eau et le sol. Bien que ces chiffres 
+                                soient connus depuis longtemps, le monde politique a entrepris bien peu de mesures jusqu’à 
+                                ce jour pour s'attaquer à ces problèmes.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">L'initiative sur les pes­ti­cides vise éga­le­ment à pro­té­ger la popu­la­tion contre les 
+                                risques sani­taires liés aux pes­ti­cides pro­duits arti­fi­ciel­le­ment et à enrayer le déclin 
+                                de la bio­di­ver­sité. Tant que les majo­ri­tés au Par­le­ment empêchent l'agriculture de deve­nir 
+                                plus éco­lo­gique, ce qui est urgent, il est néces­saire de pour­suivre sur la voie pro­po­sée 
+                                par les ini­tia­tives.</p>
+                            </div>
+                        </div>
+                    </div>
                 </li>
                 <li>
-                    <p>Les arguments seront bientôt disponibles !</p>
-                    <!--<div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Il est presque impossible de respecter les critères de durabilité promis par l’accord, 
-                                car il n’y a pas de possibilités de contrôle et de sanction efficaces.</p>
+                                <p class="uk-text-justify">L’interdiction des pesticides de synthèse affaiblirait l’approvisionnement de la 
+                                population en denrées alimentaires produites en Suisse et réduirait le choix de denrées 
+                                alimentaires importées.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>L’huile de palme bon marché détruit les forêts primaires et concurrence des produits comme 
-                                l’huile de tournesol ou de colza en Suisse.</p>
+                                <p class="uk-text-justify">L’interdiction des pesticides de synthèse rendrait les règles d’hygiène plus 
+                                difficiles à respecter lors de la production.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Par cet accord, la Suisse est forcée d’accepter les faibles normes sociales et environnementales de 
-                                son partenaire, alors qu’elles sont contraires à nos valeurs. Encouragé par le libre-échange mondial, 
-                                on déforeste pour le profit de grands groupes énergétiques et agroalimentaires.</p>
+                                <p class="uk-text-justify">Le Conseil fédéral et le Parlement ont déjà pris plusieurs mesures allant dans le 
+                                sens de l’initiative, sans pour autant limiter exagérément la marge de manœuvre de 
+                                l’agriculture et du secteur agro-alimentaire. </p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>La corruption est omniprésente, de même que les violations systématiques des labels étatiques et 
-                                de la certification de « durabilité » délivrée par la RSPO, qu’il est prévu de reconnaître pour les 
-                                importations vers la Suisse.</p>
+                                <p class="uk-text-justify">Ces deux initiatives abordent des questions importantes, car le PLR veut réduire 
+                                l'utilisation de produits phytosanitaires. Cependant, le chemin emprunté pour atteindre 
+                                l'objectif devrait être différent. Du point de vue du PLR, les deux initiatives vont 
+                                clairement trop loin : la mise en œuvre de ces initiatives mettrait en danger non 
+                                seulement l'agriculture suisse, mais aussi notre approvisionnement alimentaire national. 
+                                C'est pourquoi l'Assemblée des délégués a privilégié l’approche actuelle qui vise à 
+                                ajuster la législation existante au moyen d’actions parlementaires.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                                <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Alors que le bénéfice économique pour la Suisse est modéré, l’huile de palme a un impact social et 
-                                écologique dramatique, et pas uniquement en Indonésie. Le pays fait partie des plus gros émetteurs de 
-                                CO2 au monde.</p>
+                                <p class="uk-text-justify">Les deux initiatives populaires de la gauche sont dangereuses pour notre pays. 
+                                Leur entrée en vigueur détruirait l’agriculture productrice et compromettrait donc 
+                                gravement notre approvisionnement en denrées alimentaires saines et régionales. Ces 
+                                projets sont de surcroît en opposition avec l’article constitutionnel sur la sécurité 
+                                alimentaire que le souverain a approuvé en 2017. Leur application renchérirait 
+                                notablement les denrées alimentaires et encouragerait l’importation de produits 
+                                d’origine douteuse.</p>
                             </div>
                         </div>
-
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p>Il ne faut pas amplifier la dépendance à l’huile de palme, car nous avons d’autres solutions saines 
-                                comme l’huile de colza ou de tournesol et le beurre.</p>
-                            </div>
-                        </div>
-                    </div>-->
+                    </div>
                 </li>
             </ul>
         </section>

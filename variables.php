@@ -385,10 +385,10 @@
         $SEVT = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/SEVT.jpg";
         $EcoleMontsevelier = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier.jpg";
         $EcoleMontsevelierPlan = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier_Plan.jpg";
-        $MaisonEnfancePorrentruy = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfance.jpg";
-        $MaisonEnfancePorrentruyExterieur = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfanceExterieur.jpg";
-        $MaisonEnfancePorrentruyInterieur1 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfanceInterieur1.jpg";
-        $MaisonEnfancePorrentruyInterieur2 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfanceInterieur2.jpg";
+        $MaisonEnfancePorrentruy = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfance.JPG";
+        $MaisonEnfancePorrentruyExterieur = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfanceExterieur.JPG";
+        $MaisonEnfancePorrentruyInterieur1 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfanceInterieur1.JPG";
+        $MaisonEnfancePorrentruyInterieur2 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfanceInterieur2.JPG";
 
 //FICHIERS
     //CSS

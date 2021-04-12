@@ -386,6 +386,10 @@
         $SEVT = "/IMG/Votations/BANQUE_IMAGE/SEVT.jpg";
         $EcoleMontsevelier = "/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier.jpg";
         $EcoleMontsevelierPlan = "/IMG/Votations/BANQUE_IMAGE/Ecole_Montsevelier_Plan.jpg";
+        $MaisonEnfancePorrentruy = "/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfance.jpg";
+        $MaisonEnfancePorrentruyExterieur = "/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfanceExterieur.jpg";
+        $MaisonEnfancePorrentruyInterieur1 = "/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfanceInterieur1.jpg";
+        $MaisonEnfancePorrentruyInterieur2 = "/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfanceInterieur2.jpg";
 
 //FICHIERS
     //CSS

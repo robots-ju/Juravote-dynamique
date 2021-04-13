@@ -25,13 +25,6 @@
                     </li>                    
                 </ul>
             </div>
-            <div class="uk-navbar-right"> 
-                <ul class="uk-navbar-nav">
-                    <li id="Forum">
-                        <a href="https://juravote.ch/forum">Forum Juravote</a>
-                    </li>
-                </ul>
-            </div>
         </nav>
     <script>
         document.location.search.slice(1).split("&").forEach(function (param) {

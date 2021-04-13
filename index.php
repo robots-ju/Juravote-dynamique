@@ -108,6 +108,17 @@
                             </div>
                         </a> 
 
+                        <a href="<?php echo $PHPvotationsHauteSorne20210613 ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Haute-Sorne</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
                         <a href="Pages/Resultats/ElectionsCO/Courrendlin/2021-06-13/Accueil.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">

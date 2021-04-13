@@ -620,6 +620,7 @@
             $PHPvotationsHauteSorneCAD = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/R_CAD.php";
             $PHPvotationsHauteSorneMPZ = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/R_MPZ.php";
         $PHPvotationValTerbiAccueil = "/Juravote-dynamique/Pages/Resultats/VotationsCO/ValTerbi/2020-09-27/Accueil.php";
+        $PHPvotationsHauteSorne20210613 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-06-13/HauteSorne20210613.php";
         $PHPvotationValTerbiEcole = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
         $PHPvotationValTerbiSEVT = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";
         $PHPvotationDevelierEau2020 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Develier/2020-12-13/Develier.php";

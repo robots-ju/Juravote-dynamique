@@ -119,6 +119,23 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="<?php echo $PHPvotationsHauteSorne20210613 ?>">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeHauteSorne ?>" alt="Commune de Haute-Sorne">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Haute-Sorne du 13 juin</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
                     <a href="ElectionsCO/Courrendlin/2021-06-13/Accueil.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>

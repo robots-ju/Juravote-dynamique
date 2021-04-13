@@ -621,6 +621,7 @@
             $PHPvotationsHauteSorneCAD = "/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/R_CAD.php";
             $PHPvotationsHauteSorneMPZ = "/Pages/Resultats/VotationsCO/HauteSorne/2021-03-07/R_MPZ.php";
         $PHPvotationValTerbiAccueil = "/Pages/Resultats/VotationsCO/ValTerbi/2020-09-27/Accueil.php";
+        $PHPvotationsHauteSorne20210613 = "/Pages/Resultats/VotationsCO/HauteSorne/2021-06-13/HauteSorne20210613.php";
         $PHPvotationValTerbiEcole = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
         $PHPvotationValTerbiSEVT = "/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";
         $PHPvotationDevelierEau2020 = "/Pages/Resultats/VotationsCO/Develier/2020-12-13/Develier.php";

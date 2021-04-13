@@ -74,7 +74,7 @@
 
                         <h3>Le budget en résumé</h3>    
                         <hr>
-                        <p class="uk-text-justify"><b>Le budget détaillé est disponible ci-dessous !</b></p>
+                        <p class="uk-text-justify"><b>Le budget détaillé sera prochainement disponible ci-dessous !</b></p>
                         <ul>
                             <li>Quotité d'impôt de <b>1.94</b> (inchangée)</li>
                             <li>Taxe immobilière de <b>1,5 o/oo</b> (inchangée)</li>

@@ -47,24 +47,21 @@
     <section style="padding: 2%">
         <h1 class="uk-heading-large">Courrendlin - élection à la Présidence des Assemblées</h1>
         <hr>
-        <h2 style="padding-bottom: 2%;">Délai de dépôt des listes</h2>
-        <p>La fonction de Président (H/F) des assemblées communales est à repourvoir en date du 13 juin prochain.
-        A cet effet, une élection complémentaire (lors de démission de l'élu en cours de mandat) par les urnes 
-        est organisée.</p>
-        <p>Les citoyens (H/F) intéressés à faire acte de candidature sont invités à bien vouloir remettre au Conseil
-        communal jusqu'au 12 avril 2021 leur postulation (avec indication du nom, du prénom, de l'année de naissance
-        et de la profession). Les actes de candidature porteront la signature manuscrite du candidat (H/F) et celle
-        d'au moins 5 électeurs (H/F) domiciliés dans la commune.</p>
+        <div class="uk-column-1-2@m uk-column-1-1@s">
+            <h2 style="padding-bottom: 2%;">Délai de dépôt des listes</h2>
+            <p>La fonction de Président (H/F) des assemblées communales est à repourvoir en date du 13 juin prochain.
+            A cet effet, une élection complémentaire (lors de démission de l'élu en cours de mandat) par les urnes 
+            est organisée.</p>
+            <p>Les citoyens (H/F) intéressés à faire acte de candidature sont invités à bien vouloir remettre au Conseil
+            communal jusqu'au 12 avril 2021 leur postulation (avec indication du nom, du prénom, de l'année de naissance
+            et de la profession). Les actes de candidature porteront la signature manuscrite du candidat (H/F) et celle
+            d'au moins 5 électeurs (H/F) domiciliés dans la commune.</p>
 
-        <p>Plus d'informations : Mme Stéphanie Mahon (secrétaire communale), stephanie.mahon@courrendlin.ch, 
-        032 436 10 70</p>
-        <!--<h2 style="padding-bottom: 2%;">Résultats à l'issue du délai de dépôt des listes</h2>
-        <p>Une seule candidate s'est présentée à l'élection à la Mairie de Courtételle. Cette personne est donc élue en qualité
-            de Maire de Courtételle.
-        </p>
-        <p>Madame Christine Gygax (Parti socialiste) entrera donc en fonction dans une dizaine de jours. Etant actuellement Conseillère
-            communale, une nouvelle élection sera organisée pour désigner son ou sa successeur au sein de l'Exécutif communal.
-        </p>-->
+        <h2 style="padding-bottom: 2%;">Résultats à l'issue du délai de dépôt des listes</h2>
+        <p>Un seul candidat s'est présenté à l'élection à la Présidence des Assemblées. Cette personne est donc élue en qualité
+            de Maire de Courtételle.</p>
+
+        <p style="padding-bottom: 10%;">Monsieur Juan Escribano (Parti socialiste) entrera donc en fonction le 1er juillet 2021.</p>
     </section>
 </main>
 <footer>

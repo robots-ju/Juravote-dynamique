@@ -75,6 +75,17 @@
                             </div>
                         </a> 
 
+                        <a href="<?php echo $PHPvotationMoutier20210509RéférendumBudget21 ?>">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >09.05</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Moutier</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
                         <a href="Pages/Resultats/VotationsCH/2030-2021/2021-06-13/accueil.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">

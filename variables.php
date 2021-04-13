@@ -623,6 +623,7 @@
         $PHPvotationValTerbiEcole = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/EcoleMontsevelier.php";
         $PHPvotationValTerbiSEVT = "/Juravote-dynamique/Pages/Votations et Elections/Votations/VotationsCO/ValTerbi_20200927/SEVT.php";
         $PHPvotationDevelierEau2020 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Develier/2020-12-13/Develier.php";
+    $PHPvotationMoutier20210509RéférendumBudget21 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Moutier/2021_05_09/20210509_referendumBudget21.php";
 
 
     //JS

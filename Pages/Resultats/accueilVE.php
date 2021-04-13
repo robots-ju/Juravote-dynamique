@@ -58,13 +58,30 @@
                                     <img width="150" height="150" src="<?php echo $communePorrentruy ?>" alt="Votation Porrentruy 09 mai 2021">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Porrentruy 09 mai</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Porrentruy du 09 mai</h3>
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
             </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="<?php echo $PHPvotationMoutier20210509RéférendumBudget21 ?>">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeMoutier ?>" alt="Moutier">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Moutier du 09 mai</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
@@ -75,7 +92,7 @@
                                     <img width="150" height="150" src="<?php echo $pouvoirFederal ?>" alt="Votation fédérales du 13 juin 2021">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations fédérales 13 juin</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations fédérales du 13 juin</h3>
                                 </div>
                             </div>
                         </div>
@@ -92,7 +109,7 @@
                                     <img width="150" height="150" src="<?php echo $pouvoirCantonal ?>" alt="Votation cantonale du 13 juin 2021">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation cantonale 13 juin</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation cantonale du 13 juin</h3>
                                 </div>
                             </div>
                         </div>
@@ -109,7 +126,7 @@
                                     <img width="150" height="150" src="<?php echo $communeCourrendlin ?>" alt="Election Courrendlin du 13 juin 2021">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Scrutins Courrendlin 13 juin</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Scrutins Courrendlin du 13 juin</h3>
                                 </div>
                             </div>
                         </div>
@@ -126,7 +143,7 @@
                                     <img width="150" height="150" src="<?php echo $communeMontfaucon ?>" alt="Election Montfaucon du 13 juin 2021">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Elections Montfaucon 13 juin</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Elections Montfaucon du 13 juin</h3>
                                 </div>
                             </div>
                         </div>
@@ -143,7 +160,41 @@
                                     <img width="150" height="150" src="<?php echo $communeBoecourt ?>" alt="Election Boécourt du 13 juin 2021">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Boécourt 13 juin</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Boécourt du 13 juin</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="#">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $pouvoirFederal ?>" alt="Votation fédérales du 26 septembre 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations fédérales du 26 septembre</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="#">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $pouvoirFederal ?>" alt="Votation fédérales du 28 novembre 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations fédérales du 28 novembre</h3>
                                 </div>
                             </div>
                         </div>

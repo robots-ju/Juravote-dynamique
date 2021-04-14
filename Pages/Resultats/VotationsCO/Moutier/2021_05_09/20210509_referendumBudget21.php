@@ -74,7 +74,7 @@
 
                         <h3>Le budget en résumé</h3>    
                         <hr>
-                        <p class="uk-text-justify"><b>Le budget détaillé sera prochainement disponible ci-dessous !</b></p>
+                        <p class="uk-text-justify"><b>Le budget détaillé est disponible ci-dessous.</b></p>
                         <ul>
                             <li>Quotité d'impôt de <b>1.94</b> (inchangée)</li>
                             <li>Taxe immobilière de <b>1,5 o/oo</b> (inchangée)</li>
@@ -90,7 +90,291 @@
                             charges de Fr. 1'384’749.— du Compte global et prévoyant un excédent de charges de Fr. 
                             1'372’334.— du Compte général.</b></li>
                         </ul>   
-                    </div>                                     
+                    </div> 
+
+                    <h3>Compte de résultat selon les fonctions</h3>
+                    <hr>
+                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h5>Budget 2021</h5>
+                        <div class="uk-overflow-auto">
+                            <table class="uk-table uk-table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Récapitulation</th>
+                                        <th class="uk-text-right uk-width-small">Charges</th>
+                                        <th class="uk-text-right uk-width-small">Revenus</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Administration générale</td>
+                                        <td class="uk-text-right">3'989'520.00</td>
+                                        <td class="uk-text-right">2'716'252.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-truncate">Ordre et sécurité publique, défense</td>
+                                        <td class="uk-text-right">1'586'287.00</td>
+                                        <td class="uk-text-right">931'376.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Formation</td>
+                                        <td class="uk-text-right">6'651'047.00</td>
+                                        <td class="uk-text-right">2'102'495.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Culture, sport, loisirs, Eglises</td>
+                                        <td class="uk-text-right">2'098'526.00</td>
+                                        <td class="uk-text-right">321'000.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Santé</td>
+                                        <td class="uk-text-right">48'675.00</td>
+                                        <td class="uk-text-right">900.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sécurité sociale</td>
+                                        <td class="uk-text-right">24'294'997.00</td>
+                                        <td class="uk-text-right">17'575'916.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Transports</td>
+                                        <td class="uk-text-right">2'501'175.00</td>
+                                        <td class="uk-text-right">263'705.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-truncate">Protection de l'environnement et aménagement du territoire</td>
+                                        <td class="uk-text-right">5'913'889.00</td>
+                                        <td class="uk-text-right">5'604'704.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Economie publique</td>
+                                        <td class="uk-text-right">9'187'823.00</td>
+                                        <td class="uk-text-right">8'989'800.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Finances et impôts</td>
+                                        <td class="uk-text-right">4'540'203.00</td>
+                                        <td class="uk-text-right">22'305'994.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td><b>Total</b></td>
+                                        <td class="uk-text-right"><b>60'812'142.00</b></td>
+                                        <td class="uk-text-right"><b>60'812'142.00</b></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <h5>Budget 2020</h5>
+                        <div class="uk-overflow-auto">
+                            <table class="uk-table uk-table-striped">
+                                <thead>
+                                    <tr>
+                                        <th class="uk-text-right uk-width-small">Charges</th>
+                                        <th class="uk-text-right uk-width-small">Revenus</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="uk-text-right">3'962'359.00</td>
+                                        <td class="uk-text-right">2'595'702.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">1'640'025.00</td>
+                                        <td class="uk-text-right">934'000.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">6'791'332.00</td>
+                                        <td class="uk-text-right">2'102'106.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">2'161'176.00</td>
+                                        <td class="uk-text-right">318'000.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">48'275.00</td>
+                                        <td class="uk-text-right">900.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">22'271'346.00</td>
+                                        <td class="uk-text-right">15'951'524.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">2'668'115.00</td>
+                                        <td class="uk-text-right">266'705.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">6'350'450.00</td>
+                                        <td class="uk-text-right">6'050'850.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">9'258'031.00</td>
+                                        <td class="uk-text-right">8'984'553.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">4'516'850.00</td>
+                                        <td class="uk-text-right">22'483'619.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right"><b>59'687'959.00</b></td>
+                                        <td class="uk-text-right"><b>59'687'959.00</b></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <h5>Comptes 2019</h5>
+                        <div class="uk-overflow-auto">
+                            <table class="uk-table uk-table-striped">
+                                <thead>
+                                    <tr>
+                                        <th class="uk-text-right uk-width-small">Charges</th>
+                                        <th class="uk-text-right uk-width-small">Revenus</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="uk-text-right">5'239'973.55</td>
+                                        <td class="uk-text-right">3'407'978.32</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">1'886'418.12</td>
+                                        <td class="uk-text-right">1'117'061.20</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">7'646'100.32</td>
+                                        <td class="uk-text-right">2'342'037.05</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">2'499'044.82</td>
+                                        <td class="uk-text-right">675'499.28</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">59'741.80</td>
+                                        <td class="uk-text-right">6'560.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">25'207'133.15</td>
+                                        <td class="uk-text-right">19'076'542.14</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">2'867'501.12</td>
+                                        <td class="uk-text-right">451'745.30</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">7'140'960.29</td>
+                                        <td class="uk-text-right">6'961'616.25</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">10'844'211.68</td>
+                                        <td class="uk-text-right">10'623'720.62</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">9'270'021.96</td>
+                                        <td class="uk-text-right">27'998'346.65</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right"><b>72'661'106.81</b></td>
+                                        <td class="uk-text-right"><b>72'661'106.81</b></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="uk-column-1-2@m uk-column-1-1@s">
+                        <iframe title="Evolution du résultat d'exploitation" aria-label="Interactive line chart" id="datawrapper-chart-xsq27" src="https://datawrapper.dwcdn.net/xsq27/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
+
+                        <iframe title="Budget 2021 : Comment est dépensé l'argent du contribuable ?" aria-label="chart" id="datawrapper-chart-w6Jme" src="https://datawrapper.dwcdn.net/w6Jme/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="437"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        </script>
+                    </div>
+
+                    <h3>MCH2 : Aperçu du compte de résultat selon les groupes de matières</h3>
+                    <hr>
+                    <div class="uk-column-1-3@m uk-column-1-1@s">
+                        <h5>Budget 2021</h5>
+                        <div class="uk-overflow-auto">
+                            <table class="uk-table uk-table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Récapitulation</th>
+                                        <th class="uk-text-right uk-width-small">Charges</th>
+                                        <th class="uk-text-right uk-width-small">Revenus</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Dépenses nettes</td>
+                                        <td class="uk-text-right">60'250'488.00</td>
+                                        <td class="uk-text-right"></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Revenus nets</td>
+                                        <td class="uk-text-right"></td>
+                                        <td class="uk-text-right">58'883'739.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Résultat net</td>
+                                        <td class="uk-text-right">1'366'749.00</td>
+                                        <td class="uk-text-right"></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <h5>Budget 2020</h5>
+                        <div class="uk-overflow-auto">
+                            <table class="uk-table uk-table-striped">
+                                <thead>
+                                    <tr>
+                                        <th class="uk-text-right uk-width-small">Charges</th>
+                                        <th class="uk-text-right uk-width-small">Revenus</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="uk-text-right">58'983'699.00</td>
+                                        <td class="uk-text-right"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right"></td>
+                                        <td class="uk-text-right">58'762'273.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">221'426.00</td>
+                                        <td class="uk-text-right"></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <h5>Comptes 2019</h5>
+                        <div class="uk-overflow-auto">
+                            <table class="uk-table uk-table-striped">
+                                <thead>
+                                    <tr>
+                                        <th class="uk-text-right uk-width-small">Charges</th>
+                                        <th class="uk-text-right uk-width-small">Revenus</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="uk-text-right">61'070'106.04</td>
+                                        <td class="uk-text-right"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right"></td>
+                                        <td class="uk-text-right">59'926'311.70</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="uk-text-right">1'143'794.34</td>
+                                        <td class="uk-text-right"></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
                 </li>
 
                 <li>         

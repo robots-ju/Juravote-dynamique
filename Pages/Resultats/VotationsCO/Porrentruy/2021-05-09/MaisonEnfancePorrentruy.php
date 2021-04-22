@@ -337,75 +337,88 @@
                         </script>
 
                         <h2>Partis politiques</h2>
-                        <iframe title="Recommandations de vote des partis_Maison de l'Enfance" aria-label="chart" id="datawrapper-chart-kqNHM" src="https://datawrapper.dwcdn.net/kqNHM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="245"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Recommandations de vote des partis_Maison de l'Enfance" aria-label="chart" id="datawrapper-chart-kqNHM" src="https://datawrapper.dwcdn.net/kqNHM/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="245"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
                         </script>
                     </div>
                 </li>  
                 <li>    
-                    <p>Les arguments seront bientôt disponibles !</p>
-                    <!--<div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil communal</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p>Cet investissement n’aura pas d’impact
-                                sur la quotité d’impôt, ni sur la taxe liée au Règlement
-                                relatif à l’approvisionnement en eau potable (RAEP)</p>
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil communal</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p>Une convention avec les Autorités communales de Delémont règle les détails de cette interconnexion.</p>
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil communal</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p>Ce projet pourra être subventionné par divers organes étatiques.</p>
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil communal</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p>L’Office fédéral des routes (OFROU) a accepté une utilisation de sa conduite dans la galerie A16 pour le transport de
-                                l’eau de secours et a accepté une entrée en matière pour une participation financière.</p>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil communal</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p>Ce projet permet de sécuriser l’alimentation en eau
-                                potable de la Commune mixte de Develier lors de périodes
-                                sèches de longue durée ou de pollution d’une ressource.</p>
-                            </div>
-                        </div>
+                    <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Ce projet est important pour sécuriser l'alimentation en eau potable de la Commune mixte de Develier
-                                lors de périodes sèches de longue durée ou de pollution d'une ressource.</p>
+                                <p class="uk-text-justify">Le projet d'agrandissement de la maison de l'enfance est un des enjeux majeurs 
+                                de la présente législature. Pour que la municipalité de Porrentruy puisse proposer 
+                                une politique familiale moderne, des infrastructures adaptées, répondant aux besoins 
+                                actuels et futurs, sont nécessaires.</p>
                             </div>
                         </div>
+
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Un grand OUI pour s'assurer que le précieux liquide ne vient pas à manquer dans le village.</p>
+                                <p class="uk-text-justify">Ce projet permet de mieux concilier vie familiale et vie professionnelle tout 
+                                en augmentant l'attractivité de la région pour les familles. Il s'agit donc d'un 
+                                moteur de développement important.</p>
                             </div>
                         </div>
-                    </div>-->
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Un tel investissement est avantageux à plusieurs niveaux :
+                                    <ul>
+                                        <li class="uk-text-justify">La proximité du site avec l'école primaire permet de simplifier 
+                                        l'organisation des familles.</li>
+                                        <li class="uk-text-justify">Des infrastructures adaptées aux besoins valorisent et simplifient 
+                                        le travail du personnel.</li>
+                                        <li class="uk-text-justify">Pour une durée d'amortissement de 50 ans, le bilan financier serait 
+                                        quasiment à l'équilibre. Ce projet est donc financièrement intéressant 
+                                        pour la commune.</li>
+                                    </ul>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Cet investissement, primordial pour le développement futur de la ville de Porrentruy, 
+                                doit permettre de répondre aux besoins des familles en offrant des possibilités de garde 
+                                plus nombreuses rassemblées sur un seul site au lieu de 3 actuellement.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Après étude du projet, force est de constater que celui-ci est de qualité répondant 
+                                aux besoins identifiés tout en étant en adéquation avec les attentes des professionnels 
+                                de la petite enfance pour exercer leur travail correctement. De surcroît, nous relevons 
+                                à satisfaction que de nombreux choix ont été effectués afin d’avoir un projet mesuré qui 
+                                s’inscrit dans la planification financière de la commune.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Certes, l’investissement de 6'300'000 CHF reste conséquent pour notre ville surtout 
+                                dans sa situation financière actuelle. Nous sommes bien entendu soucieux de cette 
+                                situation, mais nous tenons à rappeler que ce projet est attendu et qu’il répond à un 
+                                besoin réel. Nous invitons donc la population à voter OUI et ainsi investir pour l’avenir 
+                                des familles bruntrutaines.</p>
+                            </div>
+                        </div>
+                    </div>
                 </li>
                 <li>
-                <p>Les arguments seront bientôt disponibles !</p>
+                <p>Il n'y a pas d'arguments contre ce projet.</p>
                 <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>                    
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">

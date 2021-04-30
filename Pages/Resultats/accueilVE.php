@@ -187,6 +187,40 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="ElectionsCO/Mettembert/2021-06-13/D_Conseilcommunal.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeMettembert ?>" alt="Election Mettembert du 27 juin 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Mettembert du 27 juin 2021</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="ElectionsCO/Courchapoix/2021-06-13/D_ConseilCommunal.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeCourchapoix ?>" alt="Election Courchapoix du 4 juillet 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Courchapoix du 4 juillet 2021</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
                     <a href="#">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>

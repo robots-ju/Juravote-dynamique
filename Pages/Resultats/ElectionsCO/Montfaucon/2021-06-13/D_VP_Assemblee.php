@@ -64,13 +64,11 @@ d’un-e vice-président-e des assemblées communales</h1>
         e. Les actes de candidature doivent porter la signature
         manuscrite du (de la) candidat-e et celles d’au moins
         cinq électeurs-trices domiciliés-es dans la commune.</p>
-        <!--<h2 style="padding-bottom: 2%;">Résultats à l'issue du délai de dépôt des listes</h2>
-        <p>Une seule candidate s'est présentée à l'élection à la Mairie de Courtételle. Cette personne est donc élue en qualité
-            de Maire de Courtételle.
+
+        <h2 style="padding-bottom: 2%;">Résultats à l'issue du délai de dépôt des listes</h2>
+        <p>Aucun-e candidat-e ne s'est présenté-e à l'élection complémentaire à la vice-Présidence des Assemblées.
+        Une élection libre aura donc lieu le 13 juin 2021.
         </p>
-        <p>Madame Christine Gygax (Parti socialiste) entrera donc en fonction dans une dizaine de jours. Etant actuellement Conseillère
-            communale, une nouvelle élection sera organisée pour désigner son ou sa successeur au sein de l'Exécutif communal.
-        </p>-->
     </section>
 </main>
 <footer>

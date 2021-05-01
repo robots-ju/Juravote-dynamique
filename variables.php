@@ -8,6 +8,7 @@
     $FleuryGael = "/IMG/Equipe/Mars 21/FLEURY Gael.JPG";
     $FrelechouxAntoine = "/IMG/Equipe/Mars 21/FRELECHOUX_Antoine.JPG";
     $MEMBRE_RenaudDaniel = "/IMG/Equipe/Mars 21/RENAUD_Daniel.JPG";
+    $GIRARDGwenael = "/IMG/Equipe/Mars 21/GIRARD_Gwenael.JPG";
     $HouserSam = "/IMG/Equipe/Mars 21/HOUSER_Sam.JPG";
 
     //communes :

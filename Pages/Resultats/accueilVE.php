@@ -187,7 +187,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="ElectionsCO/Mettembert/2021-06-13/D_Conseilcommunal.php">
+                    <a href="ElectionsCO/Mettembert/2021-06-13/D_ConseilCommunal.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">

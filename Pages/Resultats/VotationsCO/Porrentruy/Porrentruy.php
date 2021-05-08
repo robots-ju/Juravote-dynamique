@@ -52,42 +52,21 @@
         </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Résultats des votations communales (Develier)</h1>
+        <h1 class="uk-heading-large">Résultats des votations communales (Porrentruy)</h1>
         <hr>
-        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+        <div class="uk-child-width-1-1@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="<?php echo $PHPvotationDevelierEau2020 ?>">
+                    <a href="2021-05-09/R_MaisonEnfance.php">
                         <div class="uk-card-body">
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Votation communale du 13 décembre 2020</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Votation communale du 9 mai 2021</h3>
                                 </div>
                         </div>
                     </a>
                 </div> 
             </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="2020-07-05/Develier.php">
-                        <div class="uk-card-body">
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Votation communale du 05 juillet 2020</h3>
-                                </div>
-                        </div>
-                    </a>
-                </div> 
-            </div>
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="2019-05-19/STEP.php">
-                        <div class="uk-card-body">
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Votation communale du 19 mai 2019</h3>
-                                </div>
-                        </div>
-                    </a>
-                </div>  
-            </div>
+            
         </div>          
     </section>
 </main>

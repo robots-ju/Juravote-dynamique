@@ -46,7 +46,7 @@
         </header>
 <main>
     <section style="padding: 2%">
-        <h1 class="uk-heading-large">Montfaucon - Election complémentaire par les urnes
+        <h1 class="uk-heading-large">Mettembert - Election complémentaire par les urnes
         d'un-e conseiller-ère communal-e</h1>
         <hr>
         <h2 style="padding-bottom: 2%;">Délai de dépôt des listes</h2>

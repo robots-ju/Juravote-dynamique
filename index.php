@@ -64,28 +64,6 @@
                     
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s uk-flex-first@s">   
                         <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>   
-                        <a href="Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfancePorrentruy.php">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >09.05</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation Porrentruy</h3>
-                                </div>                          
-                            </div>
-                        </a> 
-
-                        <a href="<?php echo $PHPvotationMoutier20210509RéférendumBudget21 ?>">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >09.05</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation Moutier</h3>
-                                </div>                          
-                            </div>
-                        </a> 
-
                         <a href="Pages/Resultats/VotationsCH/2030-2021/2021-06-13/accueil.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -151,6 +129,28 @@
                                 </div>                          
                             </div>
                         </a> 
+
+                        <a href="Pages/Resultats/ElectionsCO/Mettembert/2021-06-13/D_ConseilCommunal.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >27.06</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Mettembert</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
+                        <a href="Pages/Resultats/ElectionsCO/Courchapoix/2021-06-13/D_ConseilCommunal.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >04.07</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Courchapoix</h3>
+                                </div>                          
+                            </div>
+                        </a> 
                         
                         <!--<a href="Pages/Votations et Elections/Votations/VotationsCO/Moutier/20210307.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
@@ -187,6 +187,28 @@
                     </div>
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       
                         <h3 class="uk-heading-divider uk-text-center">Derniers résultats</h3>
+                        <a href="Pages/Resultats/VotationsCO/Moutier/2021_05_09/R_Budget2021.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >09.05</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Moutier</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
+                        <a href="Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/R_MaisonEnfance.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >09.05</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Porrentruy</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
                         <a href="Pages/Resultats/VotationsCO/Moutier/2021_03_28/R_AppartenanceMoutier.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">

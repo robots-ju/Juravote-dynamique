@@ -180,9 +180,9 @@
                                         <li><a href="#">Les Genevez</a></li>-->
                                         <li><a href="<?php echo $PHPresultatsLajoux?>">Lajoux</a></li>
                                         <!--<li><a href="#">Montfaucon</a></li>
-                                        <li><a href="#">Muriaux</a></li>
-                                        <li><a href="#">Le Noirmont</a></li>
-                                        <li><a href="#">Saignelégier</a></li>
+                                        <li><a href="#">Muriaux</a></li>-->
+                                        <li><a href="Noirmont/Noirmont.php">Le Noirmont</a></li>
+                                        <!--<li><a href="#">Saignelégier</a></li>
                                         <li><a href="#">Saint-Brais</a></li>
                                         <li><a href="#">Soubey</a></li>-->
                                     </ul>

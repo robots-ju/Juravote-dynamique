@@ -114,7 +114,7 @@
                                 <div class="uk-width-1-1">
                                     <ul class="uk-nav-primary uk-nav-parent-icon" uk-nav>
                                     <li class="uk-parent">
-                                    <a href="#">A venir...</a>
+                                    <a href="#">Sélectionnez une commune</a>
                                     <ul class="uk-nav-sub">
                                         <!--<li><a href="#">Alle</a></li>
                                         <li><a href="#">La Baroche</a></li>
@@ -134,9 +134,9 @@
                                         <li><a href="#">Fontenais</a></li>
                                         <li><a href="#">Grandfontaine</a></li>
                                         <li><a href="#">Haute-Ajoie</a></li>
-                                        <li><a href="#">Lugnez</a></li>
-                                        <li><a href="#">Porrentruy</a></li>
-                                        <li><a href="#">Vendlincourt</a></li>-->
+                                        <li><a href="#">Lugnez</a></li>-->
+                                        <li><a href="Porrentruy/Porrentruy.php">Porrentruy</a></li>
+                                        <!--<li><a href="#">Vendlincourt</a></li>-->
                                     </ul>
                                 </li>
                                 </ul>

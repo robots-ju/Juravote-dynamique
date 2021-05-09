@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
-    <head>
-        <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
+<head>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Votations Develier</title>
+        <title>JuraVote | Elections du Noirmont</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -12,17 +12,11 @@
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
-        <link rel="stylesheet" href="<?php echo $cssResultats; ?>"/>
-
+        
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
         <script src="<?php echo $jsUikitMin ?>"></script>
         <script src="<?php echo $jsUikitIconsMin ?>"></script>
-        <script src="https://www.amcharts.com/lib/4/core.js"></script>
-        <script src="https://www.amcharts.com/lib/4/charts.js"></script>
-        <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
-        <script src="https://www.amcharts.com/lib/4/geodata/switzerlandHigh.js"></script>
-        <script src="https://www.amcharts.com/lib/4/maps.js"></script>
 
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -43,36 +37,35 @@
 <!-- Barre de navigation -->
 <header>
             <div class="navbar-normal">
-                <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Résultats des votations communales (Porrentruy)</h1>
+        <h1 class="uk-heading-large">Résultats des élections communales (Le Noirmont)</h1>
         <hr>
         <div class="uk-child-width-1-1@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="2021-05-09/R_MaisonEnfance.php">
+                    <a href="<?php echo $PHPelectionNoirmontResultats20210321?>">
                         <div class="uk-card-body">
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Votation communale du 9 mai 2021</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Election communale du 21 mars 2021</h3>
                                 </div>
                         </div>
                     </a>
-                </div> 
+                </div>      
             </div>
-            
         </div>          
     </section>
 </main>
 <footer>
         <div class="footer">
-            <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </body>

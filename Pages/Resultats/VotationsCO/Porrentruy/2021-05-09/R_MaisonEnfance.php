@@ -62,7 +62,7 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Agrandissement de la Maison de l'Enfance</p>
-                        <p><b>Participation : </b>xx.xx8 %</p>
+                        <p><b>Participation : </b>xx.xx %</p>
                         <p><b>Résultat : </b>Accepté / Refusé</p>
                         <p><b>Type de la votation : </b>Votation communale (Porrentruy)</p>
                         <p><b>Mode de votation : </b>Scrutin populaire</p>

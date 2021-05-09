@@ -62,8 +62,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Budget communal 2021</p>
-                        <p><b>Participation : </b>xx.xx %</p>
-                        <p><b>Résultat : </b>Accepté / Refusé</p>
+                        <p><b>Participation : </b>41.87 %</p>
+                        <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation communale (Moutier)</p>
                         <p><b>Mode de votation : </b>Scrutin populaire</p>
                         <p><a href="20210509_referendumBudget21.php">Lien vers la description du projet</a></p>

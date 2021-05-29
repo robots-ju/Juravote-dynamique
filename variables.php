@@ -393,6 +393,16 @@
         $MaisonEnfancePorrentruyInterieur1 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfanceInterieur1.JPG";
         $MaisonEnfancePorrentruyInterieur2 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/Porrentruy/2021-05-09/MaisonEnfanceInterieur2.JPG";
 
+        //HauteSorne 13 juin 2021
+            $PlanSituationEcoleBassecourt = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-06-13/PlanSituation.png";
+            $PlanAjoutBatimentEcoleBassecourt = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-06-13/PlanAjoutBatiment.png";
+            $ImageEcoleBassecourt = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-06-13/ImageEcole.jpg";
+            $FacadeNordEcoleBassecourt = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-06-13/FacadeNord.png";
+            $RezInferieurEcoleBassecourt = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-06-13/ImageRezInferieur.jpg";
+            $RezSuperieurEcoleBassecourt = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-06-13/ImageRezSuperieur.jpg";
+            $ImageEcoleBassecourt1 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-06-13/ImageExterieur1.png";
+            $ImageEcoleBassecourt2 = "/Juravote-dynamique/Pages/Resultats/VotationsCO/HauteSorne/2021-06-13/ImageExterieur2.png";
+
 //FICHIERS
     //CSS
     $cssMain = "/Juravote-dynamique/CSS/main.css?=".time();    

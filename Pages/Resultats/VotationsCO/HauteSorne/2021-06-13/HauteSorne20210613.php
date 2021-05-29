@@ -50,8 +50,7 @@
     <section class="uk-text-justify" style="padding: 2%;">
         <h1 class="uk-heading-large">Création de quatre classes supplémentaires à l’école primaire de Bassecourt</h1>
         <hr>
-        <h3 class="uk-text-center" style="padding-bottom: 10%">Les information seront bientôt disponibles !</h3>
-        <!--<div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
+        <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
             <button class="uk-button uk-button-default" type="button">Résumé</button>
             <button class="uk-button uk-button-default" type="button">Positions des partis et autorités</button>
             <button class="uk-button uk-button-default" type="button">Arguments pour</button>
@@ -59,179 +58,182 @@
         </div>  
         <ul class="uk-switcher uk-margin">
             <li> 
-                <div>
-                    <h3>Préambule</h3>
-                    <hr>
-                    <p>En 2015, le Canton du Jura a adopté sa « Stratégie énergétique 2035 », totalement compatible avec la Stratégie 
-                    fédérale 2050 acceptée par le peuple et les cantons en mai 2017. L’installation d’un chauffage à distance utilisant 
-                    les copeaux de bois produits dans nos forêts est en parfaite adéquation avec les objectifs énergétiques visés par 
-                    cette stratégie et est une des mesures pour les atteindre. La volonté communale de Haute-Sorne figurant dans le 
-                    programme de législature dans les axes écologiques vise, entre autres, à minimiser l’impact de notre approvisionnement 
-                    énergétique sur l’environnement.</p>
+                <h3>Préambule</h3>
+                <hr>
+                <p>La Commune de Haute-Sorne fait face à une augmentation de sa démographie. En parallèle à une augmentation
+                des besoins spécifiques du Service de l'enseignement du Jura (classes Haut-Potentiel, allophone, informatique),
+                le nombre de places pouvant accueillir dans de bonnes conditions les enfants est amené à être augmenté.</p>
+
+                <p style="padding-bottom: 2%">Le bâtiment principal a été construit en 1952 et un agrandissement du côté Est a été réalisé en 1968. En
+                conséquence, un projet de rénovation a été lancé en 2016 et est en phase d'être terminé.</p>
+
+                <h3>Introduction</h3>
+                <hr>
+                <div class="uk-column-1-2@m uk-column-1-1@s">
+                    <p>De nouvelles méthodes d'enseignement sont mises en place et la multiplication des classes requièrent une
+                    adaptation du volume actuel. De nombreuses jeunes familles sont venues habiter en Haute-Sorne, ce qui fait
+                    augmenter les effectifs. Le site de l'école primaire de Bassecourt est celui qui a été retenu, en raison
+                    des critères d'efficience et du site le mieux adapté pour les enseignants.</p>
+
+                    <p>De plus, l'intégration d'un bâtiment à l'intérieur de la partie en retrait de l'école s'y prête particulièrement
+                    bien et permet de conserver la place de jeux.</p>
+
+                    <img src="<?php echo $PlanAjoutBatimentEcoleBassecourt ?>" width="900px" style="padding-bottom: 3%">
+
+                    <img src="<?php echo $ImageEcoleBassecourt ?>" width="900px">
+                    <figcaption class="uk-text-right" style="padding-bottom: 3%">Source des illustrations : Commune de Haute-Sorne</figcaption>
+                    
                 </div>
                 
-                <div>
-                    <h3>Situation actuelle</h3>
-                    <hr>
-                    <p>L’administration communale ainsi que le complexe scolaire de Bassecourt possèdent chacun une installation de chauffage
-                    individuelle au mazout qui est en fin de vie.
-                    </p>
-                </hr>
-                <div class="uk-column-1-2@m uk-column-1-1@s">
-                    <h5>Administration communale</h5>
-                    <p>La chaudière de l’administration communale date de 1991 et dispose d’une puissance de 300 kW. Elle est alimentée
-                    par une citerne d’une contenance de 27’500 litres et date de 1969, située dans un local souterrain. Une ancienne
-                    citerne enterrée est également présente à proximité. La chaufferie se trouve au sous-sol de l’administration communale.
-                    </p>
-                    
-                    <h5>Complexe scolaire</h5>
-                    <p>Le chauffage du complexe scolaire est centralisé en un endroit et alimenté par deux chaudières à mazout datant de 1992.
-                    Deux citernes alimentent l’installation. L’eau chaude pour les douches de la salle de gym est produite par 2 chauffe-eaux
-                    alimentés par les chaudières. La distribution de chaleur interne au site est considérée comme fonctionnelle.
-                    </p>                 
-                </div>
-
-                <h3>Description du projet</h3>
+                <h3>Considérations générales</h3>
                 <hr>
+                <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 3%">
+                    <p>4 classes supplémentaires, avec les infrastructures nécessaires, sont comprises dans ce projet.
+                    Ce dernier consiste à réaliser un nouveau corps de bâtiment relié à l'école existante par 2 paliers.
+                    Ce nouveau bâtiment sera toutefois séparé du reste de l'édifice, ce qui permet de conserver les acquis effectué
+                    lors de la rénovation de 2016 (éclairage naturel, façade, etc...).</p>    
 
-                <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-top: 2%;">
-                    <p>Le concept proposé consiste en la création d’une nouvelle chaufferie dans l’abri PC, situé au Nord du bâtiment de 
-                    l'administration communale, qui permet la mise en place de 2 chaudières, assurant ainsi une redondance partielle en 
-                    cas de panne. Un silo sera créé dans le local adjacent où se trouvent les anciens tableaux électriques et les serveurs 
-                    informatiques. Celui-ci serait rempli via le déversement dans le saut-de-loup existant, situé au pied du bâtiment. 
-                    La place de parc devrait être adaptée afin de permettre au camion de livraison des plaquettes de manoeuvrer sans encombre.
-                    </p>
+                    <p>Tout ceci permet de bénéficier des accès, de l'ascenseur, des sanitaires, du chauffage, de l'électricité et d'une
+                    partie de la ventilation existante du bâtiment actuel. Les nuisances seront ainsi réduites au maximum, ce qui a pour
+                    avantage de na pas pertuber les classes actuelles lors des travaux. Les interventions sur la façade seront restreintes.</p>
 
-                    <p>La chaufferie du complexe scolaire sera transformée en une simple sous-station. Celle-ci comportera un échangeur 
-                    afin d’isoler les réseaux complexe scolaire/chauffage à distance. Les chaudières et chauffe-eau actuels seront démontés 
-                    et remplacés par un chauffe-eau d’une capacité de 1’000 litres. Celui-ci sera équipé en plus d’une résistance afin de 
-                    permettre un fonctionnement électrique durant les vacances d’été. Cela favorisera l’autoconsommation du courant produit 
-                    par les cellules photovoltaïques et évitera un inutile maintien en température du réseau de chauffage à distance durant 
-                    cette période, alors que les besoins en chaleur sont minimes.
-                    </p>
+                    <p>Les aspects d'architecture du bâtiment existant sont conservés dans le but d'intégrer cette construction de façon
+                    optimale. D'autant plus que l'ajout futur d'étages reste possible pour d'éventuels besoins.</p>
+                    <img src="<?php echo $FacadeNordEcoleBassecourt ?>" width="900px" style="padding-bottom: 3%">
+                </div>          
 
-                    <img src="<?php echo $CAD_Bassecourt ?>" width="900px">
-                    <p>Figure 1 : Situation générale de la conduite de chauffage à distance projetée.</p>
+                <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 2%">
+                    <img src="<?php echo $ImageEcoleBassecourt1 ?>" width="900px" style="padding-bottom: 3%">
+
+                    <img src="<?php echo $ImageEcoleBassecourt2 ?>" width="900px" style="padding-bottom: 3%">
                 </div>
 
-                <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-top: 2%;">
-                    <h3>Coûts des travaux</h3>
+                <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 3%">
+                    <p>Une classe allophone, une classe d'informatique, une classe Haut Potentiel et une autre classe
+                    se trouveront dans cette nouvelle structure. Cela évite de réaliser un étage supplémentaire au
+                    bâtiment existant, ce qui obligerait de modifier la charpente. De plus, la toiture plate permet
+                    de conjserver l'éclarage naturel et la visiblité de la partie supérieure de l'école. Les couloirs
+                    existants seront ouverts pour permettre aux élèves d'accéder au hall et au vestiaire avant d'entrer
+                    en classe.</p>
+                   
+                   <p style="padding-bottom: 2%">La structure du bâtiment est prévu en béton armé dans sa partie inférieure et en maçonnerie
+                   dans sa partie supérieure, afin de conserver une unité avec la construction existante. Le tout sera
+                   enveloppé avec une isolation périphérique crépie pour être extrêmement efficace au niveau énergétique.
+                   Cette structure a l'avantage d'avoir des murs en durs à l'intérieur, ce qui facilite la fixation des
+                   ameublements.</p>
+
+                   <p>Pour ce qui est du second oeuvre, le projet reprend en tous points le standing mis en place lors
+                   de la rénovation. Les fenêtres seront en bois-alu, les portes plaquées chêne sur cadre, les stores en toiles
+                   gérés de manière électrique, les sols seront en PVC avec résistance adaptée aux fortes sollicitations,
+                   un faux-plafond dans les couloirs permettra d'intégrer les aspects techniques du projet (ventilation,
+                   électricité, éclairage LED, etc...)</p>
+
+                   <p>Tous les raccordements électriques nécessaires au fonctionnement des classes seront reliés aux installations
+                   existantes et un monobloc de ventilation sera installé sur le toit afin d'avoir une diffusion de l'air adéquat
+                   dans les locaux. Un chauffage de sol sera installé dans les classes et raccordé à l'installation existante.
+                   Tables, chaises, étagères, panneaux d'affichage, tableaux d'enseignement, beamers, haut-parleurs et
+                   garnitures pour les 4 vestiaires seront installés. Les accès extérieurs disposeront d'éléments de serruerie
+                   afin d'éviter aux élèves de se rendre entre les deux bâtiments et également de sécuriser l'accès aux locaux
+                   des concierges, qui sera conservé.</p>
+                </div>
+                
+                <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 3%">
+                    <h3>Procédure</h3>
+                    <hr>
+                    <p>Le projet est en consultation auprès du Canton du Jura pour déterminer la subvention allouée.
+                    Lors de la votation, si le oui sort des urnes, une demande de permis devra être adressée au service
+                    concerné. Finalement, une soumission des corps de métiers principaux représentés dans cet agrandissement
+                    sera organisée.</p>  
+
+                    <h3>Délai de réalisation</h3>
+                    <hr>
+                    <p>Les travaux pour la réalisation des 4 classes supplémentaires à l’école primaire de Bassecourt
+                    pourrait débuter en automne 2021, sous réserve des décisions politiques et populaires. Les classes
+                    devront être opérationnelles pour la rentrée d’août 2022 au plus tard.</p>
+                </div>
+
+                <div class="uk-column-1-2@m uk-column-1-1@s">
+                    <h3>Coûts du projet</h3>
                     <hr>
                     <table class="uk-table uk-table-hover uk-table-divider">
                         <thead>
                             <tr>
-                                <th>Rubriques</th>
+                                <th>Désignation</th>
                                 <th class="uk-text-right">Montant en CHF</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Travaux de génie civil pour conduite chauffage à distance</td>
-                                <td class="uk-text-right">136'582</td>
+                                <td>Travaux préparatoires (sous-sol, rez, étage 1)</td>
+                                <td class="uk-text-right">17'000</td>
                             </tr>
                             <tr>
-                                <td>Travaux de génie civil pour modifications accès pour livraisons plaquettes</td>
-                                <td class="uk-text-right">47'992</td>
+                                <td>Bâtiment</td>
+                                <td class="uk-text-right">1'173'000</td>
                             </tr>
                             <tr>
-                                <td>Travaux de maçonnerie et béton armé pour chaufferie dans bâtiment N° 14</td>
-                                <td class="uk-text-right">64'840</td>
+                                <td>Aménagements extérieurs</td>
+                                <td class="uk-text-right">30'000</td>
                             </tr>
                             <tr>
-                                <td>Travaux de tuyauterie pour conduite chauffage à distance</td>
-                                <td class="uk-text-right">63'000</td>
+                                <td>Frais secondaires</td>
+                                <td class="uk-text-right">20'000</td>
                             </tr>
                             <tr>
-                                <td>Travaux de tuyauterie et d'installations techniques dans bâtiment N° 14</td>
-                                <td class="uk-text-right">417'000</td>
+                                <td>Ameublement</td>
+                                <td class="uk-text-right">160'000</td>
                             </tr>
                             <tr>
-                                <td>Sous-station pour EFEJ</td>
-                                <td class="uk-text-right">22'000</td>
+                                <td>TVA (7.70 %)</td>
+                                <td class="uk-text-right">107'800</td>
                             </tr>
                             <tr>
-                                <td>Sous-station pour administration communale</td>
-                                <td class="uk-text-right">33'000</td>
+                                <td>Réserve</td>
+                                <td class="uk-text-right">42'200</td>
                             </tr>
-                            <tr>
-                                <td>Sous-station pour complexe scolaire</td>
-                                <td class="uk-text-right">152'000</td>
-                            </tr>
-                            <tr>
-                                <td>Prestations particulières</td>
-                                <td class="uk-text-right">22'400</td>
-                            </tr>
-                            <tr>
-                                <td>Divers et imprévus</td>
-                                <td class="uk-text-right">95'881</td>
-                            </tr>
-                            <tr>
-                                <td>Honoraires d'ingénieurs</td>
-                                <td class="uk-text-right">147'500</td>
-                            </tr>
-                            <tr>
-                                <td><b>Total</b></td>
-                                <td class="uk-text-right"><b>1'202'195</b></td>
-                            </tr>
-                            <tr>
-                                <td>Déduction du financement par le crédit du complexe scolaire</td>
-                                <td class="uk-text-right">- 426'380</td>
-                            </tr>
-                            <tr>
-                                <td><b>Solde du crédit</b></td>
-                                <td class="uk-text-right"><b>775'815</b></td>
+                           <tr>
+                                <td><b>Total général</b></td>
+                                <td class="uk-text-right"><b>1'550'000</b></td>
                             </tr>
                         </tbody>
-                    </table> 
+                    </table>
 
                     <h3>Financement</h3>
                     <hr>
-                    <p>Le projet de chaufferie centralisée (administration communale, complexe scolaire et réseau de distribution de chaleur) 
-                    est chiffré en TTC selon le tableau des coûts, en fonction des estimations de notre mandataire, pour les phases selon les 
-                    normes SIA 103 et SIA 108.
-                    </p>
+                    <p>L'investissement brut et la demande de crédit portent sur un montant de 1'550'000.-. Comme mentionné
+                    ci-dessus, le montant des subventions n'est pas encore déterminé. Lors de la consolidation de l'emprunt
+                    de 1'550'000.-, les subventions seront portées en déductions de l'emprunt initial.</p>  
 
-                    <p>Dans le cadre du crédit de rénovation du complexe scolaire en lien avec la partie chauffage, un montant de CHF 
-                    428'600.- TTC avait été prévu en 2016. Une nouvelle installation à pellets avait été prévue pour remplacer les 2 
-                    chaudières à mazout. Les éléments en relation avec la conduite de chauffage à distance qui sert exclusivement à 
-                    raccorder le complexe scolaire ont donc été considérés dans "à financer par crédit complexe scolaire", en remplacement 
-                    de l'installation prévue initialement.
-                    </p>
-
-                    <h3>Délai de réalisation et procédure</h3>
-                    <hr>
-                    <p>Les travaux pour la chaufferie centralisée (administration communale, complexe scolaire et réseau de distribution
-                     de chaleur) pourraient débuter en été 2021, sous réserve de l'octroi du présent crédit et des approbations cantonales.
-                     Pour pouvoir réaliser les travaux de tuyauterie et d'installations techniques dans le bâtiment de l'administration 
-                     communale, une demande de permis de construire devra être adressée à la section des permis de construire du service du
-                     développement territorial. Quant à la construction de la conduite de chauffage à distance, un plan spécial d'équipement 
-                     devra être approuvé par la section de l'aménagement du territoire du service du développement territorial.
-                    </p>
+                    <p>Selon les règles d'amortissements prévues par le décret concernant l'administration financière des
+                    communes (RSJU 190.611), le bâtiment a une durée de vie de 25 ans et le mobilier de 10 ans. Les taux
+                    d'amortissement sont respectivement de 4.00 % (57'600.- par année) et 10.00 % (11'000.- par année).
+                    Avec les charges d'intérêts (calculées sur un taux moyen de 1.00 %), la charge annuelle se monte à
+                    87'700.-, hors subventions, à charge du compte général.
 
                     <h3>La question qui vous est posée :</h3>
                     <hr>
-                    <b><p>Acceptez-vous, selon le message n°159 du Conseil général, le crédit d’investissement de CHF 1'202'195.- 
-                    pour la mise en place d’une nouvelle chaufferie alimentant les bâtiments de l’administration communale et le 
-                    complexe scolaire de Bassecourt et donner compétence au Conseil communal pour se procurer les fonds ?</p></b>
+                    <b><p>Approuvez-vous un crédit de CHF 1'550'000. - pour la création de quatre classes supplémentaires
+                    à l'école primaire de Bassecourt ?</p></b>
                 </div>
             </li>
             <li>
                 <div class="uk-child-width-1-2@m" uk-grid>
                     <div>
                         <h2>Autorités</h2>
-                        <iframe title="Recommandations de vote des autorités et des partis communaux" aria-label="chart" id="datawrapper-chart-OytXV" src="https://datawrapper.dwcdn.net/OytXV/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Recommandations de vote des autorités Haute-Sorne_13 juin 2021" aria-label="Anneau de choix" id="datawrapper-chart-miCMI" src="https://datawrapper.dwcdn.net/miCMI/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
                         </script>
                     </div>
 
                     <div>
                         <h2>Partis politiques de Haute-Sorne</h2>
-                        <iframe title="Recommandations de vote des partis communaux_HauteSorne" aria-label="chart" id="datawrapper-chart-Wu4rJ" src="https://datawrapper.dwcdn.net/Wu4rJ/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Recommandations de vote des partis communaux_HauteSorne_20210613_Ecole" aria-label="Anneau de choix" id="datawrapper-chart-S2z45" src="https://datawrapper.dwcdn.net/S2z45/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
                         </script>
                     </div>
                 </div>                                  
             </li>  
             <li>     
-                <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
+                <h3>Les arguments seront bientôt disponibles !</h3>
+                <!--<div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
@@ -279,11 +281,11 @@
                             de production de chaleur.</p>
                         </div>
                     </div>
-                </div>
+                </div>-->
             </li>
             <li>
-                <h4 style="padding-bottom: 10%">Il n'y a pas d'oppositions au projet !</h4>
-            </li>-->
+                <h3>Les arguments seront bientôt disponibles !</h3>
+            </li>
         </ul>
     </section>
 </main>

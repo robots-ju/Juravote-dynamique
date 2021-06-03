@@ -141,6 +141,17 @@
                             </div>
                         </a> 
 
+                        <a href="Pages/Resultats/VotationsCO/Belprahon/2021_06_27/D_AppartenanceCantonale.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >27.06</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Belprahon</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
                         <a href="Pages/Resultats/ElectionsCO/Courchapoix/2021-06-13/D_ConseilCommunal.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -276,11 +287,7 @@
                 </div> 
                 <div class="uk-column-1-2@m" style="padding: 2%">
                     <div style="padding-bottom: 60%">
-                        <h3 class="uk-heading-divider uk-text-center">Prochaines séances des Autorités</h3>  
-                        <p>Il n'y a aucune séance des autorités planifiée pour le moment !</p>
-                    </div>                    
-                    <div>    
-                        <h3 class="uk-heading-divider uk-text-center">Soutien de Juravote</h3>                           
+                        <h3 class="uk-heading-divider uk-text-center">Soutien de Juravote</h3>  
                         <p class="uk-text-justify">Juravote, site internet au design simple et plaisant, informe la population, de
                         manière indépendante et concise, sur les votations. Les arguments pour et contre,
                         ainsi que les prises de positions des partis, sont mentionnés de façon totalement
@@ -300,9 +307,9 @@
                         publique et la mise en oeuvre de ce formidable support et leur souhaitons plein succès.</p>     
 
                         <b><p> Gabriel M. Chappuis, Maire de Develier</p></b> 
-                        <br> 
-                        <br>
-
+                    </div>                    
+                    <div>    
+                        <h3 class="uk-heading-divider uk-text-center">Soutien de Juravote</h3>                           
                         <p class="uk-text-justify">
                         Si ce mode de communication, via les réseaux sociaux, permet d'améliorer le taux de participation 
                         aux votations et élections et que l'intérêt, pour la jeune génération, est amélioré pour participer 

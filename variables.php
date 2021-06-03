@@ -12,6 +12,7 @@
     $HouserSam = "/Juravote-dynamique/IMG/Equipe/Mars 21/HOUSER_Sam.JPG";
 
     //communes :
+    $communeBelprahon = "/Juravote-dynamique/IMG/Logo/Communes/Belprahon.png";
     $communeBoecourt = "/Juravote-dynamique/IMG/Logo/Communes/Boecourt.png";
     $communeBonfol = "/Juravote-dynamique/IMG/Logo/Communes/Bonfol.png";
     $communeChatillon = "/Juravote-dynamique/IMG/Logo/Communes/Chatillon.png";

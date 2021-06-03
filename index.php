@@ -121,7 +121,7 @@
                             </div>
                         </a> 
 
-                        <a href="Pages/Resultats/VotationsCO/Moutier/2021_03_28/R_AppartenanceMoutier.php">                          
+                        <a href="Pages/Resultats/Resultats_ScrutinsCommunaux_20210613.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>

@@ -53,8 +53,6 @@
         <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
             <button class="uk-button uk-button-default" type="button">Résumé</button>
             <button class="uk-button uk-button-default" type="button">Positions des partis et autorités</button>
-            <button class="uk-button uk-button-default" type="button">Arguments pour</button>
-            <button class="uk-button uk-button-default" type="button">Arguments contre</button>
         </div>  
         <ul class="uk-switcher uk-margin">
             <li> 
@@ -231,61 +229,6 @@
                     </div>
                 </div>                                  
             </li>  
-            <li>     
-                <h3>Les arguments seront bientôt disponibles !</h3>
-                <!--<div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Ce projet permet une certaine marge au cas où une extension du réseau serait réalisée d’ici quelques années,
-                             par exemple afin d’alimenter l’école enfantine en chaleur.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Le nouveau chauffe-eau favorisera l'autoconsommation du courant produit par les cellules photovoltaïques
-                            et évitera un inutile maintien en température du réseau de chauffage à distance durant les vacances d'été.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Le volume utile du silo d'environ 70 mètres cubes permettra une autonomie entre 1 et 4 semaines, selon 
-                            les conditions météorologiques.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>La réalisation de la chaufferie centralisée permettra d'abandonner totalement le mazout (économie de 250 tonnes de CO2 par an)
-                            et de valoriser une ressource locale en abondance et créatrice d'emplois.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI-RC</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>La création d'un chauffage à distance permettant de relier 2 infrastructures communales importantes, 
-                            bâtiment administratif et écoles, pouvant permettre d'utiliser de l'énergie renouvelable provenant de notre
-                            propre production (forêts), est judicieux pour pouvoir s'adapter aux nouvelles normes écologiques et ne plus 
-                            être dépendant des énergies fossiles. Cette nouvelle installation va aussi dans le sens des économies de coûts 
-                            de production de chaleur.</p>
-                        </div>
-                    </div>
-                </div>-->
-            </li>
-            <li>
-                <h3>Les arguments seront bientôt disponibles !</h3>
-            </li>
         </ul>
     </section>
 </main>

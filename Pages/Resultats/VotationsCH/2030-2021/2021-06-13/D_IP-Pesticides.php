@@ -108,7 +108,7 @@
                     <h3>La question qui vous est posée :</h3>
                     <hr>
                     <b><p class="uk-text-justify">Acceptez-vous l'initiative populaire
-                    "Pounr une Suisse libre de pesticides de synthèse" ?</p></b>                    
+                    "Pour une Suisse libre de pesticides de synthèse" ?</p></b>                    
                 </li>
 
                 <li>

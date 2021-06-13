@@ -10,6 +10,7 @@
     $MEMBRE_RenaudDaniel = "/IMG/Equipe/Mars 21/RENAUD_Daniel.JPG";
     $GIRARDGwenael = "/IMG/Equipe/Mars 21/GIRARD_Gwenael.JPG";
     $HouserSam = "/IMG/Equipe/Mars 21/HOUSER_Sam.JPG";
+    $LovisSylvain = "/IMG/Equipe/Mars 21/LOVIS_Sylvain.JPG";
 
     //communes :
     $communeBelprahon = "/IMG/Logo/Communes/Belprahon.png";

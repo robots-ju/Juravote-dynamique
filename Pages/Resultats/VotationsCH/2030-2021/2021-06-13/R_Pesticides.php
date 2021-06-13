@@ -64,8 +64,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Initiative populaire "Pour une Suisse libre de pesticides de synthèse"</p>
-                        <p><b>Participation : </b>59.43 %</p>
-                        <p><b>Majorité du peuple: </b>37.00 % de OUI</p>
+                        <p><b>Participation : </b>59.73 %</p>
+                        <p><b>Majorité du peuple: </b>39.44 % de OUI</p>
                         <p><b>Majorité des cantons : </b>0.5 / 23 de OUI</p>
                         <p><b>Résultat : </b>Refusé</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>

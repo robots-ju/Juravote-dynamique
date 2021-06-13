@@ -71,8 +71,8 @@
                                     <li class="uk-parent">
                                     <a href="#">Sélectionnez une commune</a>
                                     <ul class="uk-nav-sub">
-                                        <li><a href="Boecourt/Boecourt.php">Boécourt</a></li>
-                                        <!--<li><a href="#">Bourrignon</a></li>-->
+                                        <!--<li><a href="Boecourt/Boecourt.php">Boécourt</a></li>
+                                        <li><a href="#">Bourrignon</a></li>-->
                                         <li><a href="<?php echo $PHPresultatsChatillon ?>">Châtillon</a></li>
                                         <!--<li><a href="#">Courchapoix</a></li>-->
                                         <li><a href="Courrendlin/Courrendlin.php">Courrendlin</a></li>

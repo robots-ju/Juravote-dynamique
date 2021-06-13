@@ -48,7 +48,7 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Résultats des scrutins communaux du 13 juin 2021</h1>
         <hr> 
-        <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid> 
+        <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid> 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="VotationsCO/HauteSorne/2021-06-13/R_Ecole.php">
@@ -110,23 +110,6 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Elections Montfaucon</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="ElectionsCO/Boecourt/2021-06-13/R_CommissionEcole.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeBoecourt ?>" alt="Boécourt">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Boécourt</h3>
                                 </div>
                             </div>
                         </div>

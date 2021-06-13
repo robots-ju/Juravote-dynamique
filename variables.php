@@ -10,6 +10,7 @@
     $MEMBRE_RenaudDaniel = "/Juravote-dynamique/IMG/Equipe/Mars 21/RENAUD_Daniel.JPG";
     $GIRARDGwenael = "/Juravote-dynamique/IMG/Equipe/Mars 21/GIRARD_Gwenael.JPG";
     $HouserSam = "/Juravote-dynamique/IMG/Equipe/Mars 21/HOUSER_Sam.JPG";
+    $LovisSylvain = "/Juravote-dynamique/IMG/Equipe/Mars 21/LOVIS_Sylvain.JPG";
 
     //communes :
     $communeBelprahon = "/Juravote-dynamique/IMG/Logo/Communes/Belprahon.png";

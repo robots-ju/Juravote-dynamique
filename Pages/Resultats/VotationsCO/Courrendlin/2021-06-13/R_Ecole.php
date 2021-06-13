@@ -62,8 +62,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Extension des écoles de Courrendlin</p>
-                        <p><b>Participation : </b>xx.xx %</p>
-                        <p><b>Résultat : </b>Accepté / Refusé</p>
+                        <p><b>Participation : </b>49.47 %</p>
+                        <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation communale (Courendlin)</p>
                         <p><b>Mode de votation : </b>Scrutin populaire</p>
                         <p><a href="D_Extension_Ecoles.php">Lien vers la description du projet</a></p>

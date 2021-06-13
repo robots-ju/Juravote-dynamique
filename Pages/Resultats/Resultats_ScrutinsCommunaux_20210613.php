@@ -102,7 +102,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="ElectionsCO/Montfaucon/2021-06-13/R_Accueil.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">

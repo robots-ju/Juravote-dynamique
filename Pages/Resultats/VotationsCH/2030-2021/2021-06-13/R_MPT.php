@@ -64,8 +64,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Loi sur les mesures policières de lutte contre le terrorisme (MPT)</p>
-                        <p><b>Participation : </b>xx.xx %</p>
-                        <p><b>Résultat : </b>Accepté / Refusé</p>
+                        <p><b>Participation : </b>59.43 %</p>
+                        <p><b>Résultat : </b>En attente</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Référendum facultatif</p>
                         <p><b><a href="D_Loi-ContreTerrorisme.php">Informations de la votation</a></b></p>

@@ -48,7 +48,8 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Prochaines votations et élections</h1>
         <hr> 
-        <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid> 
+        <h3 class="uk-text-center" style="padding-bottom: 11%">Les informations sur les prochaines votations seront bientôt disponibles !</h3>
+        <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid> 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="ElectionsCO/Mettembert/2021-06-13/D_ConseilCommunal.php">
@@ -133,7 +134,7 @@
                     </a>
                 </div>
             </div> 
-        </div>                   
+        </div> -->                  
     </section>
 </main>
 </body>

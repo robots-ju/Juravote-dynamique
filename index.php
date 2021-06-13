@@ -64,7 +64,8 @@
                     
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s uk-flex-first@s">   
                         <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>   
-                        <a href="Pages/Resultats/ElectionsCO/Mettembert/2021-06-13/D_ConseilCommunal.php">                          
+                        <p>Les informations sur les prochaines votations (septembre 2021) seront bientôt disponibles !</p>
+                        <!--<a href="Pages/Resultats/ElectionsCO/Mettembert/2021-06-13/D_ConseilCommunal.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
                                     <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >27.06</div>
@@ -95,7 +96,7 @@
                                     <h3 class="uk-card-title">Election Courchapoix</h3>
                                 </div>                          
                             </div>
-                        </a>                                  
+                        </a>-->                               
                     </div>
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       
                         <h3 class="uk-heading-divider uk-text-center">Derniers résultats</h3>

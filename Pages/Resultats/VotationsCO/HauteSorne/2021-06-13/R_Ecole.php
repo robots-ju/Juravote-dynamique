@@ -62,8 +62,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Création de 4 classes supplémentaires à l'école primaire de Bassecourt</p>
-                        <p><b>Participation : </b>xx.xx %</p>
-                        <p><b>Résultat : </b>Accepté / Refusé</p>
+                        <p><b>Participation : </b>52.03 %</p>
+                        <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation communale (Haute-Sorne)</p>
                         <p><b>Mode de votation : </b>Scrutin populaire</p>
                         <p><a href="HauteSorne20210613.php">Lien vers la description du projet</a></p>

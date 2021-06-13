@@ -83,8 +83,7 @@ de deux conseillers-ères communaux-les</title>
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Élection au Conseil communal</p>
-                        <p><b>Participation : </b>xx.xx %</p>
-                        <p><b>Candidat-e élu-e : </b>---</p>
+                        <p><b>Candidats élus : </b>Marc Dällenbach et Gaétan Marchand</p>
                         <p><b>Type de l'élection : </b>Élection communale libre</p>
                         <p><b>Mode d'élection : </b>Élection complémentaire</p>
                     </div>

@@ -4,7 +4,7 @@
         <?php include '../../variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Votations et élections</title>
+        <title>JuraVote | Scrutins du 13 juin</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -37,28 +37,28 @@
 <body>
 <header>
             <div class="navbar-normal">
-                <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
 
             <div>
-                <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Navbar/navbar-mobile.php"; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Prochaines votations et élections</h1>
+        <h1 class="uk-heading-large">Résultats des scrutins communaux du 13 juin 2021</h1>
         <hr> 
         <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid> 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="ElectionsCO/Mettembert/2021-06-13/D_ConseilCommunal.php">
+                    <a href="VotationsCO/HauteSorne/2021-06-13/R_Ecole.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeMettembert ?>" alt="Election Mettembert du 27 juin 2021">
+                                    <img width="150" height="150" src="<?php echo $communeHauteSorne ?>" alt="Haute-Sorne">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Mettembert du 27 juin 2021</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Haute-Sorne</h3>
                                 </div>
                             </div>
                         </div>
@@ -68,14 +68,14 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="VotationsCO/Belprahon/2021_06_27/D_AppartenanceCantonale.php">
+                    <a href="VotationsCO/Courrendlin/2021-06-13/R_Ecole.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeBelprahon ?>" alt="Belprahon">
+                                    <img width="150" height="150" src="<?php echo $communeCourrendlin ?>" alt="Courrendlin">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Belprahon du 27 juin 2021</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Courrendlin</h3>
                                 </div>
                             </div>
                         </div>
@@ -85,31 +85,14 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="ElectionsCO/Courchapoix/2021-06-13/D_ConseilCommunal.php">
+                    <a href="ElectionsCO/Courrendlin/2021-06-13/PresidenceAssemblee.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeCourchapoix ?>" alt="Election Courchapoix du 4 juillet 2021">
+                                    <img width="150" height="150" src="<?php echo $communeCourrendlin ?>" alt="Courrendlin">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Courchapoix du 4 juillet 2021</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $pouvoirFederal ?>" alt="Votation fédérales du 26 septembre 2021">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations fédérales du 26 septembre</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Courrendlin</h3>
                                 </div>
                             </div>
                         </div>
@@ -123,10 +106,27 @@
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $pouvoirFederal ?>" alt="Votation fédérales du 28 novembre 2021">
+                                    <img width="150" height="150" src="<?php echo $communeMontfaucon ?>" alt="Montfaucon">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations fédérales du 28 novembre</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Elections Montfaucon</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="ElectionsCO/Boecourt/2021-06-13/R_CommissionEcole.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeBoecourt ?>" alt="Boécourt">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Boécourt</h3>
                                 </div>
                             </div>
                         </div>
@@ -141,7 +141,7 @@
 
 <footer>
         <div class="footer">
-            <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </html>

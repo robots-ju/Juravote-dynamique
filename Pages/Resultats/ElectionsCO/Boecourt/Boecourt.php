@@ -51,7 +51,7 @@
         <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="<?php echo $PHPresultatsMairieCourtetelle2020?>">
+                    <a href="2021-06-13/R_CommissionEcole.php">
                         <div class="uk-card-body">
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Election communale du 13 juin 2021</h3>

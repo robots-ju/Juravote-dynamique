@@ -73,9 +73,9 @@
                                         <!--<li><a href="#">Boécourt</a></li>
                                         <li><a href="#">Bourrignon</a></li>
                                         <li><a href="#">Châtillon</a></li>
-                                        <li><a href="#">Courchapoix</a></li>
-                                        <li><a href="./Courrendlin/Courrendlin.html">Courrendlin</a></li>
-                                        <li><a href="#">Courroux</a></li>-->
+                                        <li><a href="#">Courchapoix</a></li>-->
+                                        <li><a href="Courrendlin/Courrendlin.php">Courrendlin</a></li>
+                                        <!--<li><a href="#">Courroux</a></li>-->
                                         <li><a href="Courtetelle/Courtetelle.php">Courtételle</a></li>
                                         <li><a href="Delemont/Delemont.php">Delémont</a></li>
                                         <li><a href="Develier/Develier.php">Develier</a></li>

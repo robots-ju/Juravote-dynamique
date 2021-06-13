@@ -50,7 +50,19 @@
         <h1 class="uk-heading-large">Résultats des votations cantonales (Jura)</h1>
         <hr>
         
-        <div class="uk-child-width-1-1@m uk-grid-small uk-grid-match" uk-grid>
+        <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="2021-06-13/R_Egalite_Salariale.php">
+                        <div class="uk-card-body">
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Votation cantonale du 13 juin 2021</h3>
+                                </div>
+                        </div>
+                    </a>
+                </div>      
+            </div>
+            
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="2019-10-20/vcantonales.php">
@@ -62,7 +74,6 @@
                     </a>
                 </div>      
             </div>
-            <h3 class="uk-text-center">Les résultats des votations cantonales d'avant 2019 seront disponibles prochainement !</h3>
             <!--<div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="VotationsJU/2018-06-10/vcantonales.html">
@@ -151,7 +162,8 @@
                     </a>
                 </div>      
             </div>-->
-        </div>          
+        </div>  
+        <h3 class="uk-text-center">Les résultats des votations cantonales d'avant 2019 seront disponibles prochainement !</h3>        
     </section>
 </main>
 <footer>

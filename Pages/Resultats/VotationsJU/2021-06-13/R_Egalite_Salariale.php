@@ -64,8 +64,8 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Initiative populaire "Egalité salariale ? Concrétisons !"</p>
-                        <p><b>Participation : </b>xx.xx %</p>
-                        <p><b>Résultat : </b>Accepté / Refusé</p>
+                        <p><b>Participation : </b>59.34 %</p>
+                        <p><b>Résultat : </b>Accepté</p>
                         <p><b>Type de la votation : </b>Votation cantonale</p>
                         <p><b>Mode de votation : </b>Initiative populaire</p>
                         <p><b><a href="D_Egalite_Salariale.php">Informations de la votation</a></b></p>

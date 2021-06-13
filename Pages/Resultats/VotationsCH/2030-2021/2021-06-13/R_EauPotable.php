@@ -64,8 +64,10 @@
                     </div>
                     <div class="uk-card-body uk-text-left">
                         <p><b>Objet : </b>Initiative populaire "Pour une eau potable propre et une alimentation saine"</p>
-                        <p><b>Participation : </b>xx.xx %</p>
-                        <p><b>Résultat : </b>Accepté / Refusé</p>
+                        <p><b>Participation : </b>59.43 %</p>
+                        <p><b>Majorité du peuple: </b>36.60 % de OUI</p>
+                        <p><b>Majorité des cantons : </b>0.5 / 23 de OUI</p>
+                        <p><b>Résultat : </b>Refusé</p>
                         <p><b>Type de la votation : </b>Votation fédérale</p>
                         <p><b>Mode de votation : </b>Initiative populaire</p>
                         <p><b><a href="D_IP-EauPotable.php">Informations de la votation</a></b></p>

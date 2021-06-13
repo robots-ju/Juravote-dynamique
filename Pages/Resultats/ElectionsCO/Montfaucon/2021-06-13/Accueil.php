@@ -53,7 +53,7 @@
 <section style="padding: 2%;">
         <h1 class="uk-heading-large">Elections Montfaucon du 13 juin 2021</h1>
         <hr>
-        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+        <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="D_Mairie.php">
@@ -85,25 +85,6 @@
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Elections au Conseil communal</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="D_VP_Assemblee.php">
-                        <div class="uk-card-header">
-                            <div class="uk-width-auto">
-                                <img width="150" height="150" src="<?php echo $communeMontfaucon ?>" alt="Elections vice-présidence des Assemblées Montfaucon">
-                            </div>
-                        </div>
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Elections à la vice-présidence des Assemblées</h3>
                                 </div>
                             </div>
                         </div>

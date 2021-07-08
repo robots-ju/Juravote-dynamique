@@ -48,7 +48,7 @@
         </header>
         <main>
     <section class="uk-text-justify" style="padding: 2%;">
-        <h1 class="uk-heading-large">Libération d'un crédit indexable de CHF 1'313'097.-
+        <h1 class="uk-heading-large">Crédit de CHF 1'313'097.-
         pour le réaménagement du secteur du carrefour de Graitery, des réseaux souterrains et du ruisseau de la Combe Allerie.</h1>
         <hr>
         <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-        <?php include '../../variables.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Votations et élections</title>
+        <title>JuraVote | Votations fédérales du 28 novembre 2021</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
-        <link rel="stylesheet" href="<?php echo $cssaccueilVotationsElections; ?>"/>
+        <link rel="stylesheet" href="<?php echo $csselections; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -46,19 +46,45 @@
         </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Prochaines votations et élections</h1>
-        <hr> 
-        <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid> 
+        <h1 class="uk-heading-large">Votations fédérales du 28 novembre 2021</h1>
+        <hr>
+        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="VotationsCH/2030-2021/2021-09-26/accueil.php">
+                    <a href="#">
+                        <div class="uk-card-header">
+                            <div class="uk-width-auto">
+                                <img class="illustration" src="<?php echo $SoinsInfirmiers ?>"
+                                    alt="Initiative populaire Pour des soins infirmiers forts">
+                            </div>
+                        </div>
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $pouvoirFederal ?>" alt="Votation fédérales du 26 septembre 2021">
-                                </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations fédérales du 26 septembre</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Initiative populaire
+                                    "Pour des soins infirmiers forts"</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>   
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="#">
+                        <div class="uk-card-header">
+                            <div class="uk-width-auto">
+                                <img class="illustration" src="<?php echo $Justice ?>"
+                                    alt="Initiative populaire
+                                    Désignation des juges fédéraux par tirage au sort">
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Initiative populaire
+                                    "Désignation des juges fédéraux par tirage au sort"</h3>
                                 </div>
                             </div>
                         </div>
@@ -68,55 +94,27 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="ElectionsCO/ValTerbi/20210926/ElectionMairie.php">
+                    <a href="#">
+                        <div class="uk-card-header">
+                            <div class="uk-width-auto">
+                                <img class="illustration" src="<?php echo $Suisse ?>" 
+                                alt="Suisse">
+                            </div>
+                        </div>
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeValTerbi ?>" alt="Election à la Mairie de Val-Terbi">
-                                </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election à la Mairie de Val-Terbi du 26 septembre</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Loi fédérale sur les bases légales des ordonnances
+                                    du Conseil fédéral visant à surmonter l'épidémie de COVID-19</h3>
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="VotationsCO/Moutier/2021_09_26/20210926.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeMoutier ?>" alt="Votation fédérales du 26 septembre 2021">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation communale de Moutier du 26 septembre</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="VotationsCH/2030-2021/2021-11-28/accueil.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $pouvoirFederal ?>" alt="Votation fédérales du 28 novembre 2021">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations fédérales du 28 novembre</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-        </div>                
+                <p>Cet objet sera soumis à votation si le référendum aboutit.</p>
+            </div>            
+        </div>
+        <h2>Les informations seront bientôt disponibles !</h2>
     </section>
 </main>
 </body>

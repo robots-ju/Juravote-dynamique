@@ -48,62 +48,10 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Prochaines votations et élections</h1>
         <hr> 
-        <h3 class="uk-text-center" style="padding-bottom: 11%">Les informations sur les prochaines votations seront bientôt disponibles !</h3>
-        <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid> 
+        <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid> 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="ElectionsCO/Mettembert/2021-06-13/D_ConseilCommunal.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeMettembert ?>" alt="Election Mettembert du 27 juin 2021">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Mettembert du 27 juin 2021</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="VotationsCO/Belprahon/2021_06_27/D_AppartenanceCantonale.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeBelprahon ?>" alt="Belprahon">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation Belprahon du 27 juin 2021</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="ElectionsCO/Courchapoix/2021-06-13/D_ConseilCommunal.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeCourchapoix ?>" alt="Election Courchapoix du 4 juillet 2021">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Courchapoix du 4 juillet 2021</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="VotationsCH/2030-2021/2021-09-26/accueil.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
@@ -120,7 +68,41 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="ElectionsCO/ValTerbi/20210926/ElectionMairie.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeValTerbi ?>" alt="Election à la Mairie de Val-Terbi">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election à la Mairie de Val-Terbi du 26 septembre</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="VotationsCO/Moutier/2021_09_26/20210926.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeMoutier ?>" alt="Votation fédérales du 26 septembre 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation communale de Moutier du 26 septembre</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="VotationsCH/2030-2021/2021-11-28/accueil.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
@@ -134,7 +116,7 @@
                     </a>
                 </div>
             </div> 
-        </div> -->                  
+        </div>                
     </section>
 </main>
 </body>

@@ -378,6 +378,7 @@
         $ReseauEau_CourfaivreCourtetelle = "/IMG/Votations/BANQUE_IMAGE/ReseauEau_Courfaivre-Courtetelle.JPG";
         $Route = "/IMG/Votations/BANQUE_IMAGE/Route.jpg";
         $Senior = "/IMG/Votations/BANQUE_IMAGE/Senior.jpg";
+        $SoinsInfirmiers = "/IMG/Votations/BANQUE_IMAGE/SoinsInfirmiers.jpg";
         $Sous = "/IMG/Votations/BANQUE_IMAGE/Sous.jpg";
         $Suisse = "/IMG/Votations/BANQUE_IMAGE/Suisse.png";
         $Surpopulation = "/IMG/Votations/BANQUE_IMAGE/Surpopulation.jpg";

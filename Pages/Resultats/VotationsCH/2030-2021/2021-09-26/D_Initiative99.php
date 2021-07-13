@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Initiative populaire "Pour une eau potable propre et une alimentation saine"</title>
+        <title>JuraVote | Initiative populaire 99%</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -48,160 +48,91 @@
     </header>
     <main>
     <section style="padding: 2%;">
-            <h1 class="uk-heading-large">Initiative populaire "Pour une eau potable propre et une alimentation saine"</h1>
+            <h1 class="uk-heading-large">Initiative "Alléger les impôts sur les salaires, imposer
+            équitablement le capital"</h1>
             <hr>
             <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
+                <!--<button class="uk-button uk-button-default" type="button">Résultats</button>-->
                 <button class="uk-button uk-button-default" type="button">Résumé</button>
                 <button class="uk-button uk-button-default" type="button">Positions des partis et autorités</button>
                 <button class="uk-button uk-button-default" type="button">Arguments pour</button>
                 <button class="uk-button uk-button-default" type="button">Arguments contre</button>
             </div>  
             <ul class="uk-switcher uk-margin">
-                <li>                   
-                    <h3>Contexte</h3>
-                    <hr>
-                    <p class="uk-text-justify" style="padding-bottom: 2%">L’initiative veut améliorer la protection de l’environnement 
-                    et de l’eau potable. Elle prévoit que les paiements directs de la Confédération ne seront
-                    versés plus qu’aux conditions suivantes : les exploitations agricoles devront produire en
-                    se passant de pesticides, bannir l’utilisation préventive ou régulière d’antibiotiques dans
-                    l’élevage et être en mesure de nourrir leurs animaux exclusivement avec le fourrage qu’elles
-                    produisent elles-mêmes. Elle veut donc éviter une surproduction de purin. Enfin, si l’initiative
-                    est acceptée, elle n’aura aucune conséquence pour les exploitations agricoles qui ne reçoivent 
-                    pas de paiements directs.
-                    </p>
+                <!--<li>
+                    <h3 style="padding-bottom: 10%">Les résultats seront disponibles le 26 septembre dès 12:00 !</h3>
+                </li>-->
 
+                <li>  
+                    <h3>Que demande l'initiative ?</h3>
+                    <hr>                                        
                     <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 4%">
-                        <h5>Importations de fourrage</h5>
-                        <hr>
-                        <p class="uk-text-justify">La Suisse importe chaque année 1,2 millions
-                        de tonnes de fourrages pour nourrir les effectifs
-                        excédentaires de bétail. Environ 50 % de la viande suisse et 70 % des
-                        oeufs suisses et des poulets sont produits avec
-                        du fourrage importé.
+                        <p class="uk-text-justify">Les revenus de capitaux (en opposition aux revenus du travail)
+                        seront imposables à hauteur de 150%, contre 100% aujourd'hui. Une tranche encore à
+                        définir dans la loi sera exonérée de cette imposition.
                         </p>
 
-                        <p class="uk-text-justify">Les émissions d’ammoniac dépassent de 70 %
-                        le seuil autorisé par la loi sur la protection de
-                        l’environnement. 95 % des émissions d’ammoniac en Suisse proviennent
-                        de l’agriculture – dont 90 % de l’élevage
-                        de bétail.
+                        <p class="uk-text-justify">Le montant prévu ,exonéré de l'imposition,
+                        est là pour protéger les petites fortunes. Les revenus jusqu'à hauteur de ce montant seront donc imposés à 100%, comme
+                        actuellement, tandis que les revenus supérieurs le seront à 150%.
                         </p>
 
-                        <h5>Ce qui porte la croix suisse doit provenir de Suisse</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 20%">Si les animaux vivent là où leur nourriture est
-                        produite, les cycles nutritifs restent fermés, et
-                        la surfertilisation est stoppée. C’est pourquoi
-                        l’initiative demande que l’agriculture suisse
-                        nourrisse ses animaux avec du fourrage régional.
-                        </p>
-
-                        <h5>Situation des lacs suisses</h5>
-                        <hr>
-                        <p class="uk-text-justify">Nos lacs sont trop chargés en lisier. Depuis des
-                        décennies, les lacs de Baldegg, Hallwil, Sempach
-                        et Greifensee sont aérés artificiellement.
-                        </p>
-
-                        <h5>Pesticides dans les cours d’eaux</h5>
-                        <hr>
-                        <p class="uk-text-justify">On mesure plus de 145 pesticides dans nos cours d’eau, 
-                        souvent au-dessus de la valeur limite.
+                        <p class="uk-text-justify">Les recettes fiscales générées serviront, par exemple, à baisser les impôts des
+                        personnes à bas ou moyens revenus, ainsi que les bénéficiaires de la protection sociale ou en étant investies dans les services publics.
                         </p>
                     </div>
 
-                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 4%">
-                        <h5>Pesticides dans l’eau potable</h5>
+                    <h3 style="padding-bottom: 1%">L'initiative veut...</h3>
+                    <div class="uk-column-1-5@m uk-column-1-1@s" style="padding-bottom: 3%">
+                        <h5>... mettre fin aux injustices.</h5>
                         <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 30%">85 à 90 % des pesticides sont utilisés dans l’agriculture.
-                        Les conséquences : de nombreux captages d’eau potable doivent être fermés en raison 
-                        de résidus de pesticides supérieurs à la valeur limite. Dans de nombreux endroits, 
-                        cela signifie que l’approvisionnement en eau potable de qualité n’est plus possible.
+                        <p class="uk-text-justify">Selon le comité d'initiative, les personnes qui créent la richesse en Suisse devraient
+                        pouvoir payer moins d'impôts que les personnes qui vivent de revenus de capital. L'initiative souhaite empêcher
+                        ces personnes de continuer à s'enrichir tandis que 155'000 personnes n'arrivent pas à vivre de leur revenus du
+                        travail en Suisse.  
+                        </p>                       
+
+                        <h5>... alléger les impôts et renforcer le service public.</h5>
+                        <hr>
+                        <p class="uk-text-justify">Le système fiscal en Suisse est majoritairement peu progressif et le pouvoir d'achat
+                        des bas et moyens revenus est stable. Quant au service public, il s'affaiblit fortement ces dernières années.
                         </p>
 
-                        <h5>La Confédération ne protège pas notre eau potable</h5>
-                        <hr>
-                        <p class="uk-text-justify">La Confédération a décidé en 2020 de relever les valeurs 
-                        limites pour 14 pesticides dans les eaux de surface.
+                        <p class="uk-text-justify">L'initiative veut changer cela : avec les recettes fiscales supplémentaires, les
+                        impôts pour les bas et moyens revenus pourront être allégés et le service public développé de manière ciblée :
+                        <ul>
+                            <li>Développer les transports publics ou les rendre plus abordables</li>
+                            <li>Financer des crèches gratuites</li>
+                            <li>Investir dans le système de santé et dans la réduction des primes d'assurance-maladie</li>
+                            <li>Financer les offres de formation continue</li>
+                        </ul>
                         </p>
 
-                        <h5>Jeu de poker avec les pesticides</h5>
+                        <h5>... protéger contre les crises et l'instabilité économique.</h5>
                         <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 20%">175 pesticides ont été retirés du marché en Suisse rien qu’entre 
-                        2005 et 2020, souvent pour cause d’atteintes à la santé ou à l’environnement.
+                        <p class="uk-text-justify">Les personnes qui ont de hauts revenus de capital utilisent cet argent pour spéculer
+                        sur les marchés financiers, alors que les personnes à faible et moyens revenus s'endettent de plus en plus.
+                        Tout ceci déstabilise l'économie et mène à des crises. L'initiative veut remédier à ceci en redistribuant
+                        l'argent dans le porte-monnaie des salariés.
                         </p>
 
-                        <h5>Production sans pesticides</h5>
+                        <h5>... améliorer la condition des femmes.</h5>
                         <hr>
-                        <p class="uk-text-justify">L’initiative exige une production alimentaire sans pesticides 
-                        chimiques de synthèse. Les produits utilisés dans l’agriculture biologique restent autorisés.
+                        <p class="uk-text-justify">Le comité d'initiative assure que les femmes sont majoritaires dans les groupes
+                        disposant des revenus les plus faibles. De plus, le combat de l'initiative 99%, contre les inégalités sociales,
+                        est aussi un combat féministe pour corriger le déséquilibre entre les sexes.
                         </p>
 
-                        <h5>Abeilles, insectes, oiseaux sont fortement menacés</h5>
+                        <h5>... renforcer la démocratie.</h5>
                         <hr>
-                        <p class="uk-text-justify">L’utilisation de pesticides ainsi que les excédents de lisier 
-                        et d’ammoniac provenant de l’élevage intensif détruisent la biodiversité. Plus d’un tiers 
-                        des espèces sont touchées. La disparition des insectes, en particulier des abeilles, menace 
-                        notre production alimentaire et met en danger la survie de nombreuses autres espèces : 
-                        oiseaux, poissons...
-                        </p>
-                    </div>
-
-                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 4%">
-                        <h3>Etat de la biodiversité des prairies en Suisse</h3>        
-                        <hr>
-                        <iframe title="Etat de la biodiversité en Suisse_Initiative eau potable 2021" aria-label="chart" id="datawrapper-chart-pQarU" src="https://datawrapper.dwcdn.net/pQarU/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="219"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                        </script>
-
-                        <h3>Subventionnements de la production animale</h3>        
-                        <hr>  
-                        <iframe title="Subvention des productions en Suisse" aria-label="chart" id="datawrapper-chart-2ZUv6" src="https://datawrapper.dwcdn.net/2ZUv6/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="505"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                        </script>                      
-                    </div>
-                    
-                    <div class="uk-column-1-4@m uk-column-1-1@s" style="padding-bottom: 2%">
-                        <h5>Objectif de l’initiative</h5>
-                        <hr>
-                        <p class="uk-text-justify">L’initiative oriente nos milliards d’impôts vers une production 
-                        alimentaire qui produit sans pesticides, préserve la biodiversité, 
-                        n’utilise pas d’antibiotiques à titre préventif, élève le bétail qu’elle peut nourrir avec du fourrage suisse.
-                        </p>
-
-                        <p class="uk-text-justify" style="padding-bottom: 20%">
-                        Dans ce changement de système, les agricultrices et agriculteurs sont également 
-                        soutenus par des aides à la formation, à la recherche et à l’investissement afin de 
-                        garantir durablement la qualité et les rendements ainsi que leurs revenus.
-                        </p>
-
-                        <h5>Pas plus cher, mais plus sain</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 50%">Les aliments produits de manière écologique ne doivent pas coûter 
-                        plus cher que les aliments dont la production détruit l’environnement. La réorientation des 
-                        subventions fera de l’alimentation écologique la nouvelle norme et la rendra abordable pour tous.
-                        </p>
-
-                        <h5>Moins de food waste = moins d’importations</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 50%">Nous produisons et importons beaucoup trop de nourriture. 30 à 50 % 
-                        de ces aliments finissent dans le gaspillage alimentaire. 500 000 hectares de terres cultivables 
-                        et 320 000 hectares de pâturages sont gaspillés pour produire l’équivalent du food waste de la 
-                        Suisse (2,8 Mio t) !
-                        </p>
-
-                        <h5>OUI à une eau potable propre</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 20%">Nous ne pouvons pas obtenir une agriculture écologique par notre 
-                        seul comportement. Pour cela, il faut rediriger les subventions provenant de nos impôts. 
-                        Depuis des décennies, de nombreux agriculteurs produisent avec succès conformément à l’initiative
-                        pour une eau potable propre. Ils nous montrent la voie vers un avenir sain - pour le bien des 
-                        êtres humains et des animaux.
+                        <p class="uk-text-justify">
                         </p>
                     </div>
 
                     <h3>La question qui vous est posée : </h3>        
                     <hr>
-                    <b><p class="uk-text-justify" style="padding-bottom: 10%">Acceptez-vous l'initiave populaire 
-                    "Pour une eau potable propre et une alimentation saine"</p></b>
+                    <b><p class="uk-text-justify" style="padding-bottom: 10%">Acceptez-vous l'initiative populaire 
+                    "Alléger les impôts sur les salaires, imposer équitablement le capital"</p></b>
                 </li>        
 
                 <li>

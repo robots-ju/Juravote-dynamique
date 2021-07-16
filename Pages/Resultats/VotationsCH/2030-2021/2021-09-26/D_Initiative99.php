@@ -64,9 +64,36 @@
                 </li>-->
 
                 <li>  
+                    <h3>Contexte</h3>
+                    <hr> 
+                    <p class="uk-text-justify">La Suisse est l'un des pays les plus riches du monde et le pays où la richesse
+                        moyenne est la plus élevée. Lors des dernières décennies, la Suisse a dévelopé fortement sa prospérité.
+                        Le 1% le plus riche possédait 36% (352 milliards) de la fortune totale en Suisse en 2003 et possède 43%
+                        aujourd'hui (707 milliards).
+                    </p>
+
+                    <h3>Classes de fortune nette (en milliers de francs) pour l'année 2017</h3>
+                    <hr>
+                    <div class="uk-column-1-3@m uk-column-1-1@s">
+                        <iframe title="Classes de fortune nette (en milliers de francs)" aria-label="chart" id="datawrapper-chart-XTl1w" src="https://datawrapper.dwcdn.net/XTl1w/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="427"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                        </script>
+
+                        <iframe title="Classes de fortune nette (en milliers de francs) (Copy)" aria-label="Barres à puces" id="datawrapper-chart-wLoLH" src="https://datawrapper.dwcdn.net/wLoLH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="488"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                        </script>
+
+                        <p class="uk-text-justify">Pour le Canton du Jura, on constate que 39% des contribuables possède une fortune nette
+                            de 0 CHF.
+                        </p>
+                        <p class="uk-text-justify">26% des contribuables possède 3% de la fortune nette (entre 0 et 50'000 CHF).</p>
+
+                        <p class="uk-text-justify">28% des contribuables possède 33% de la fortune nette (entre 50'000 et 500'000 CHF).</p>
+
+                        <p class="uk-text-justify">6% des contribuables possède 63% de la fortune nette (plus de 500'000 CHF).</p>
+                    </div>
+
                     <h3>Que demande l'initiative ?</h3>
                     <hr>                                        
-                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 4%">
+                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 1%">
                         <p class="uk-text-justify">Les revenus de capitaux (en opposition aux revenus du travail)
                         seront imposables à hauteur de 150%, contre 100% aujourd'hui. Une tranche encore à
                         définir dans la loi sera exonérée de cette imposition.
@@ -83,10 +110,10 @@
                     </div>
 
                     <h3 style="padding-bottom: 1%">L'initiative veut...</h3>
-                    <div class="uk-column-1-5@m uk-column-1-1@s" style="padding-bottom: 3%">
-                        <h5>... mettre fin aux injustices.</h5>
+                    <div class="uk-column-1-5@m uk-column-1-1@s" style="padding-bottom: 1%">
+                        <h5 style="padding-bottom: 6%">... mettre fin aux injustices.</h5>
                         <hr>
-                        <p class="uk-text-justify">Selon le comité d'initiative, les personnes qui créent la richesse en Suisse devraient
+                        <p class="uk-text-justify" style="padding-bottom: 30%">Selon le comité d'initiative, les personnes qui créent la richesse en Suisse devraient
                         pouvoir payer moins d'impôts que les personnes qui vivent de revenus de capital. L'initiative souhaite empêcher
                         ces personnes de continuer à s'enrichir tandis que 155'000 personnes n'arrivent pas à vivre de leur revenus du
                         travail en Suisse.  
@@ -99,33 +126,34 @@
                         </p>
 
                         <p class="uk-text-justify">L'initiative veut changer cela : avec les recettes fiscales supplémentaires, les
-                        impôts pour les bas et moyens revenus pourront être allégés et le service public développé de manière ciblée :
-                        <ul>
-                            <li>Développer les transports publics ou les rendre plus abordables</li>
-                            <li>Financer des crèches gratuites</li>
-                            <li>Investir dans le système de santé et dans la réduction des primes d'assurance-maladie</li>
-                            <li>Financer les offres de formation continue</li>
-                        </ul>
+                        impôts pour les bas et moyens revenus pourront être allégés et le service public développé de manière ciblée.
                         </p>
 
                         <h5>... protéger contre les crises et l'instabilité économique.</h5>
                         <hr>
-                        <p class="uk-text-justify">Les personnes qui ont de hauts revenus de capital utilisent cet argent pour spéculer
+                        <p class="uk-text-justify" style="padding-bottom: 20%">Les personnes qui ont de hauts revenus de capital utilisent cet argent pour spéculer
                         sur les marchés financiers, alors que les personnes à faible et moyens revenus s'endettent de plus en plus.
                         Tout ceci déstabilise l'économie et mène à des crises. L'initiative veut remédier à ceci en redistribuant
                         l'argent dans le porte-monnaie des salariés.
                         </p>
 
-                        <h5>... améliorer la condition des femmes.</h5>
+                        <h5 style="padding-bottom: 6%">... améliorer la condition des femmes.</h5>
                         <hr>
                         <p class="uk-text-justify">Le comité d'initiative assure que les femmes sont majoritaires dans les groupes
-                        disposant des revenus les plus faibles. De plus, le combat de l'initiative 99%, contre les inégalités sociales,
+                        disposant des revenus les plus faibles. Le combat de l'initiative, contre les inégalités sociales,
                         est aussi un combat féministe pour corriger le déséquilibre entre les sexes.
                         </p>
 
-                        <h5>... renforcer la démocratie.</h5>
+                        <p class="uk-text-justify">Le travail est remis au premier plan et la charge pesant
+                            sur les petits revenus est allégée en faisant peser une charge plus importante sur les grands revenus
+                            du capital.
+                        </p>
+
+                        <h5 style="padding-bottom: 6%">... renforcer la démocratie.</h5>
                         <hr>
-                        <p class="uk-text-justify">
+                        <p class="uk-text-justify">Selon les initiants, nous nous trouvons aujourd'hui dans un cercle vicieux qui menace
+                            de diviser notre société : plus les richesses se concentrent, plus l'influence du 1% le plus riche augmente.
+                            En outre, un nombre croissant de personnes perdent confiance dans la politique et renoncent à y participer.
                         </p>
                     </div>
 

@@ -54,7 +54,7 @@
                     <a href="D_Initiative99.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $Sous ?>"
+                                <img class="" src="<?php echo $Sous ?>"
                                     alt="Initiative 99%">
                             </div>
                         </div>
@@ -75,7 +75,7 @@
                     <a href="D_MariagePourTous.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $Mariage ?>"
+                                <img class="" src="<?php echo $Mariage ?>"
                                     alt="Loi sur le mariage pour tous">
                             </div>
                         </div>

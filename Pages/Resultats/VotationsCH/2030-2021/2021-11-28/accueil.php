@@ -54,7 +54,7 @@
                     <a href="#">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $SoinsInfirmiers ?>"
+                                <img class="" src="<?php echo $SoinsInfirmiers ?>"
                                     alt="Initiative populaire Pour des soins infirmiers forts">
                             </div>
                         </div>
@@ -75,7 +75,7 @@
                     <a href="#">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $Justice ?>"
+                                <img class="" src="<?php echo $Justice ?>"
                                     alt="Initiative populaire
                                     Désignation des juges fédéraux par tirage au sort">
                             </div>
@@ -97,7 +97,7 @@
                     <a href="#">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $Suisse ?>" 
+                                <img class="" src="<?php echo $Suisse ?>" 
                                 alt="Suisse">
                             </div>
                         </div>
@@ -111,7 +111,6 @@
                         </div>
                     </a>
                 </div>
-                <p>Cet objet sera soumis à votation si le référendum aboutit.</p>
             </div>            
         </div>
         <h2>Les informations seront bientôt disponibles !</h2>

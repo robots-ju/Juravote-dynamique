@@ -167,7 +167,7 @@
                     <h3>La question qui vous est posée : </h3>        
                     <hr>
                     <b><p class="uk-text-justify" style="padding-bottom: 10%">Acceptez-vous l'initiative populaire 
-                    "Alléger les impôts sur les salaires, imposer équitablement le capital"</p></b>
+                    "Alléger les impôts sur les salaires, imposer équitablement le capital" ?</p></b>
                 </li>        
 
                 <li>

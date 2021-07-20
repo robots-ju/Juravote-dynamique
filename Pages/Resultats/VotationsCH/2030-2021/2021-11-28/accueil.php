@@ -51,7 +51,7 @@
         <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="D_InitiativeSoinsInfirmiersForts.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
                                 <img class="" src="<?php echo $SoinsInfirmiers ?>"
@@ -72,7 +72,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="D_InitiativeJustice.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
                                 <img class="" src="<?php echo $Justice ?>"
@@ -94,7 +94,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="D_LoiCOVID2021.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
                                 <img class="" src="<?php echo $Suisse ?>" 
@@ -113,7 +113,6 @@
                 </div>
             </div>            
         </div>
-        <h2>Les informations seront bientôt disponibles !</h2>
     </section>
 </main>
 </body>

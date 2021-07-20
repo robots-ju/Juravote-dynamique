@@ -51,12 +51,17 @@
             <h1 class="uk-heading-large">Initiative populaire "Pour une eau potable propre et une alimentation saine"</h1>
             <hr>
             <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
+                <!--<button class="uk-button uk-button-default" type="button">Résultats</button>-->
                 <button class="uk-button uk-button-default" type="button">Résumé</button>
                 <button class="uk-button uk-button-default" type="button">Positions des partis et autorités</button>
                 <button class="uk-button uk-button-default" type="button">Arguments pour</button>
                 <button class="uk-button uk-button-default" type="button">Arguments contre</button>
             </div>  
             <ul class="uk-switcher uk-margin">
+                <!--<li>
+                    <h3 style="padding-bottom: 10%">Les résultats seront disponibles le 28 novembre dès 12:00 !</h3>
+                </li>-->
+
                 <li>                   
                     <h3>Contexte</h3>
                     <hr>

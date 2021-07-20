@@ -190,7 +190,7 @@
                     <h5>Art. 252 al. 2 Etablissement de la filiation en général</h5>
                     <hr>
                     <div class="uk-column-1-2@m uk-column-1-1@s">                        
-                        <p class="uk-text-justify">À l’égard du père, elle est établie par son mariage avec la mère, par
+                        <p class="uk-text-justify" style="padding-bottom: 5%">À l’égard du père, elle est établie par son mariage avec la mère, par
                             reconnaissance ou par jugement.
                         </p>
 

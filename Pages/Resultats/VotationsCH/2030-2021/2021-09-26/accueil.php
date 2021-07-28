@@ -51,17 +51,17 @@
         <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="D_Initiative99.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $Sous ?>"
+                                <img class="" src="<?php echo $Sous ?>"
                                     alt="Initiative 99%">
                             </div>
                         </div>
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Initiative populaire
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Initiative
                                     "Alléger les impôts sur les salaires, imposer équitablement le capital"</h3>
                                 </div>
                             </div>
@@ -72,10 +72,10 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="#">
+                    <a href="D_MariagePourTous.php">
                         <div class="uk-card-header">
                             <div class="uk-width-auto">
-                                <img class="illustration" src="<?php echo $Mariage ?>"
+                                <img class="" src="<?php echo $Mariage ?>"
                                     alt="Loi sur le mariage pour tous">
                             </div>
                         </div>
@@ -89,8 +89,7 @@
                     </a>
                 </div>
             </div>            
-        </div>
-        <h2>Les informations seront bientôt disponibles !</h2>
+        </div>        
     </section>
 </main>
 </body>

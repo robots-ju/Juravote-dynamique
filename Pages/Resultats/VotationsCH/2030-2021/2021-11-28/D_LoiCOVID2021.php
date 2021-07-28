@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Initiative populaire "Pour une eau potable propre et une alimentation saine"</title>
+        <title>JuraVote | Loi fédérale sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l’épidémie de COVID-19</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -48,183 +48,288 @@
     </header>
     <main>
     <section style="padding: 2%;">
-            <h1 class="uk-heading-large">Initiative populaire "Pour une eau potable propre et une alimentation saine"</h1>
+            <h1 class="uk-heading-large">Loi fédérale sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l’épidémie de COVID-19</h1>
             <hr>
             <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
+                <!--<button class="uk-button uk-button-default" type="button">Résultats</button>-->
                 <button class="uk-button uk-button-default" type="button">Résumé</button>
                 <button class="uk-button uk-button-default" type="button">Positions des partis et autorités</button>
                 <button class="uk-button uk-button-default" type="button">Arguments pour</button>
                 <button class="uk-button uk-button-default" type="button">Arguments contre</button>
             </div>  
             <ul class="uk-switcher uk-margin">
+                <!--<li>
+                    <h3 style="padding-bottom: 10%">Les résultats seront disponibles le 28 novembre dès 12:00 !</h3>
+                </li>-->
+
                 <li>                   
                     <h3>Contexte</h3>
                     <hr>
-                    <p class="uk-text-justify" style="padding-bottom: 2%">L’initiative veut améliorer la protection de l’environnement 
-                    et de l’eau potable. Elle prévoit que les paiements directs de la Confédération ne seront
-                    versés plus qu’aux conditions suivantes : les exploitations agricoles devront produire en
-                    se passant de pesticides, bannir l’utilisation préventive ou régulière d’antibiotiques dans
-                    l’élevage et être en mesure de nourrir leurs animaux exclusivement avec le fourrage qu’elles
-                    produisent elles-mêmes. Elle veut donc éviter une surproduction de purin. Enfin, si l’initiative
-                    est acceptée, elle n’aura aucune conséquence pour les exploitations agricoles qui ne reçoivent 
-                    pas de paiements directs.
+                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <p class="uk-text-justify">Au printemps 2020, le Conseil fédéral a pris des mesures
+                        pour protéger la population du Coronavirus, sur la base de la Loi sur les épidémies. Il a aussi décidé de
+                        soutiens financiers aux personnes et aux entreprises qui souffraient des conséquences de la Covid-19.
+                        La Loi sur les épidémies ne prévoyant pas ce dernier point, le Conseil fédéral s'est appuyé directement sur
+                        la Constitution, qui l'autorise à prendre des mesures de droit d'urgence en cas de danger imminent. Ce droit
+                        d'urgence est toujours limité à 6 mois. Si les mesures doivent durer plus longtemps, le Conseil fédéral est tenu
+                        de soumettre un projet de loi au Parlement, ce qui a été fait avec la Loi COVID-19 le 25 septembre 2020 (approbation
+                        de la loi par le Parlement fédéral).
+                        </p>
+
+                        <p class="uk-text-justify" style="padding-bottom: 5%">La loi est ainsi entrée en vigueur le 25 septembre 2020, directement après
+                            l'approbation des autorités fédérales. A la suite de cela, un référendum a été lancé contre cette loi.
+                            <a href="../2021-06-13/D_Loi-COVID19.php" target="blank">Les opposants, qui refusaient d'accorder plus de pouvoirs au Conseil fédéral (vaccins, tests, aides aux
+                            médias, mesures sanitaires)</a>, ont récolté plus de 50'000 signatures, ce qui a entraîné l'organisation 
+                            d'une votation, qui s'est tenue le 13 juin 2021. <a href="../2021-06-13/R_COVID19.php" target="blank">La loi a été acceptée par 60% des votants.</a>
+                        </p>
+                    </div>
+
+                    <h3>Loi COVID-19 (version de juillet 2021)</h3>
+                    <hr>
+
+                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h4>Objet et principes (article 1)</h4>
+                        <p class="uk-text-justify">La Loi COVID-19 définit les compétences particulières
+                            du Conseil fédéral pour lutter contre le coronavirus. Il n'utilise ces compétences particulières que si
+                            l'objectif visé ne peut pas être atteint en temps utile avec la procédure légale ordinaire ou urgente.
+                        </p>
+
+                        <p class="uk-text-justify">Le Conseil fédéral prend en compte les principes de subsidiarité, d'efficacité et de
+                            proportionnalité et veille à ce que la vie économique et sociale soit restreinte le moins possible et le
+                            moins longtemps. Dans ce but, la Confédération et les Cantons utilisent les plans de protection, les moyens
+                            de dépistage et de vaccination, ainsi que le traçage des contacts.
+                        </p>
+
+                        <h4>Critères (article 1a)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral définit les critères et les valeurs 
+                        de référence relatifs aux restrictions et aux assouplisse­ments concernant la vie économique et sociale. Il 
+                        tient compte non seulement de la situation épidémiolo­gique, mais aussi des conséquences économiques et sociales.
+                        </p>
+
+                        <p class="uk-text-justify">
+                        Si la population adulte souhaitant être vaccinée a reçu une dose suffisante de vaccin, les restrictions 
+                        de capacité applicables aux établissements et aux entreprises accessibles au public ainsi qu’aux 
+                        manifestations et aux rassemblements privés doivent être levées. Des plans de protection appropriés 
+                        sont possibles, pour autant qu’ils soient proportionnés.
+                        </p>
+
+                        <h4>Droits politiques (article 2)</h4>
+                        <p class="uk-text-justify" style="padding-bottom: 20%">Dans le but de promouvoir l'exercice des droits politiques, le Conseil
+                            fédéral peut prévoir que les référendums ou les initiatives populaires munies du nombre de signatures
+                            requis peuvent être déposés avant l'expiration du délai légal.
+                        </p>
+                    </div>
+
+                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h4>Capacités sanitaires (article 3)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral peut obliger les commerçants et les établissements de santé
+                            à communiquer leurs stocks de produits, d'équipements et d'autres biens médicaux importants, ceci dans
+                            le but d'un maintien des capacités sanitaires.
+                        </p>
+
+                        <p class="uk-text-justify">Pour garantir le traitement des maladies COVID-19, d'autres traitements et examens
+                            médicaux non-urgents peuvent être interdits ou restreints dans les Hôpitaux.
+                        </p>
+
+                        <p class="uk-text-justify" style="padding-bottom: 2%">La Confédération met en place un traçage électronique complet et efficace des contacts.
+                            Elle organise un plan de vaccination pour permettre au plus grand nombre de volontaires possible d'être
+                            vaccinés à la fin du mois de mai 2021. Elle peut permettre d'assouplir, raccourcir ou abolir l'obligation
+                            de quarantaine si la vaccination ou les tests réguliers peuvent garantir une réduction comparable de la
+                            propagation du virus.
+                        </p>
+
+                        <h4>Mesures dans le domaine de la protection des travailleurs (articles 4 + 4a)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral peut obliger les employeurs à protéger les travailleurs
+                            vulnérables. Lorsque le travailleur doit interrompre son travail en raison d'une mesure ordonnée
+                            par les autorités et que le salaire doit continuer à être versé par l'employeur, ce dernier a un
+                            droit équivalent au remboursement.
+                        </p>
+
+                        <p class="uk-text-justify">Le Conseil fédéral garantit que les employés du secteur agricole et de la
+                            construction otn la possiblité de se restaurer dans des établissements de restauration, malgré la
+                            fermeture ordonnée par les autorités.
+                        </p>
+
+                        <p class="uk-text-justify">Il garantit suffisamment d'installations sanitaires à la disposition des conducteurs
+                            de camion et que ceux-ci peuvent se restaurer dans des établissments de restauration.
+                        </p>
+
+                        <p class="uk-text-justify">Il peut soutenir des mesures prises par les Cantons afin de simplifier l'entrée
+                            dans la vie professionnelle, rendue difficile par la crise du coronavirus, des jeunes qui terminent
+                            leur formation scolaire.
+                        </p>
+                    </div>
+
+                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h4>Personnes vaccinées (article 3a)</h4>
+                        <p class="uk-text-justify" style="padding-bottom: 2%">Les personnes vaccinées, par un vaccin autorisé dont il est prouvé qu'il prévient
+                            la transmission du virus, ne sont soumises à aucune quarantaine (le Conseil fédéral peut prévoir des
+                            exceptions).
+                        </p>
+
+                        <h4>Mesures dans le domaine des étrangers et de l'asile (article 5)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral peut restreindre l'entrée en Suisse des étrangers en vue
+                            d'un séjour, à l'exception du regroupement familial, ainsi que de l'entrée en Suisse de concubins
+                            et de leurs enfants.
+                        </p>
+
+                        <p class="uk-text-justify">Il peut prolonger les délais légaux pour le regroupement familial,
+                            l'extinction des autorisations de séjour, la saisie des données pour les titres de séjour,
+                            le départ, l'extinction et la fin de l'admission provisoire.
+                        </p>
+                    </div>
+
+                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h4>Mesures en cas de fermeture des frontières (article 6)</h4>
+                        <p class="uk-text-justify">En cas de fermeture des fontières, le Conseil fédéral prend les mesures
+                            nécessaires pour assurer au mieux le droit à la circulation des travailleurs frontaliers et des
+                            habitants qui ont des liens particuliers dans la zone frontalière.
+                        </p>                        
+                        
+                        <h4>Certificat sanitaire (article 6a)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral met en place un document prouvant que son titulaire a été
+                            vacciné contre le COVID-19, qu'il en est guéri ou qu'il dispose d'un résultat de dépistage. Il doit
+                            être personnnel et infalsifiable et vérifiable dans le respect de la protection des données. Son
+                            détenteur doit pouvoir l'utiliser pour entrer dans d'autres pays et en sortir.
+                        </p>
+                    </div>
+
+                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h4>Mesures dans le domaine de la justice (article 7)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral peut suspendre ou prolonger les délais et les échéances
+                            fixés par la loi ou les autorités. Il peut recourir à la visio-conférence pour la participation de
+                            témoins ou de tiers dans les audiences et les auditions, et à des communications écrites pour des
+                            enchères ou en cas de procédure de poursuite et de faillite.
+                        </p>
+
+                        <h4>Mesures dans le domaine des assemblées de sociétés (article 8)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral peut prévoir que les décisions des participants aux
+                            assemblées de sociétés peuvent être prises par écrit ou par l'intermédiaire d'un représentant
+                            indépendant.
+                        </p>
+
+                        <h4>Allègements cantonaux (article 8a)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral accorde des allègements aux cantons qui affichent une
+                            situation stable ou en amélioration et qui appliquent une stratégie de dépistage pour gérer la
+                            propagation du COVID-19.
+                        </p>
+                    </div>
+
+                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h4>Soutiens au domaine de la culture (article 11)</h4>
+                        <p class="uk-text-justify">La Confédération peut soutenir des entreprises culturelles, des acteurs culturels 
+                            et des associations culturelles d’amateurs au moyen d’aides financières. Le Conseil fédéral décide des
+                            secteurs qui ont droit à des aides financières et règle les conditions du droit aux aides. Il veille à 
+                            ce que tous les acteurs culturels aient accès à une indemnisation pour perte financière.
+                        </p>
+
+                        <h4>Soutiens aux manifestations publiques (article 11a)</h4>
+                        <p class="uk-text-justify" style="padding-bottom: 5%">La Confédération peut prendre en charge une partie des coûts des manifestations
+                            publiques d'importance supracantonale se déroulant entre le 1er juin 2021 et le 30 avril 2022. Si
+                            l'entrée est payante, il faudra prouver que les entrées payées ont été intégralement remboursées.
+                        </p>
+
+                        <h4>Soutiens aux entreprises (articles 12 + 12a)</h4>
+                        <p class="uk-text-justify">La Confédération peut soutenir les Cantons dans les mesures de soutien aux
+                            entreprises, aux sociétés de personnes ou aux personnes morales, qui existaient avant octobre 2020,
+                            qui avaient leur siège dans le canton avant octobre 2020 et qui ont été particulièrement touchées
+                            par les conséquences de la crise. Pour bénéficier d'une mesure de soutien, les entreprises ne doivent pas, 
+                            pour l'exercice comptable actuel et les trois exercices qui suivent, distribuer des dividendes ou des 
+                            tantièmes et rembourser des apports en capital.
+                        </p>
+                    </div>                       
+                    
+
+                    <h4>Mesures dans le domaine du sport (article 12b)</h4>
+                    <p class="uk-text-justify">La Confédération peut soutenir les clubs de football ou de hockey, dont une équipe
+                        évolue dans une ligue professionnelle et les clubs de basketball, d'unihockey, de volleyball, de football
+                        féminin, de hockey sur glace féminin, dont une équipe évolue dans la plus haute ligue.
                     </p>
 
-                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 4%">
-                        <h5>Importations de fourrage</h5>
-                        <hr>
-                        <p class="uk-text-justify">La Suisse importe chaque année 1,2 millions
-                        de tonnes de fourrages pour nourrir les effectifs
-                        excédentaires de bétail. Environ 50 % de la viande suisse et 70 % des
-                        oeufs suisses et des poulets sont produits avec
-                        du fourrage importé.
+                    <p class="uk-text-justify">Les contributions sont octroyées pour compenser la perte de recettes liées aux matchs
+                        du championnat national qui doivent se dérouler à huis clos ou en présence d'un nombre réduit de spectacteurs
+                        dès le 29 octobre 2020.
+                        Elles couvrent au maximum deux tiers des recettes de billeterie réalisées
+                        lors de la saison 2018/2019. Les ventes de billets effectives dès le 29 otobre 2020 sont déduites du montant.
+                        L'octroi des contributions est soumis aux conditions suivantes :
+                                            
+                        <ul>
+                            <li><p class="uk-text-justify">Le club ne peut pas distribuer de dividendes ou de tantièmes,
+                                ni rembourser d'apports en capital pendant cinq ans.
+                            </p></li>
+
+                            <li><p class="uk-text-justify">Le club doit ramener au montant maximal du gain assuré dans 
+                                l’assurance-accidents obligatoire ou réduire de 20 % au moins le revenu moyen. Sinon, la 
+                                contribution s'élève au plus à 50 % de la perte de recette de billetterie.
+                            </p></li>
+
+                            <li><p class="uk-text-justify">La masse salariale du club ne peut augmenter d’un montant supérieur 
+                                à celui de la hausse de l’indice suisse des prix à la con­sommation pendant les cinq ans qui 
+                                suivent l’octroi des contribu­tions. Le Conseil fédéral peut prévoir des exceptions
+                                pour les clubs qui passent dans une ligue supérieure</p></li>
+
+                            <li><p class="uk-text-justify">Le Club doit poursuivre le travail d'encouragement de la relève
+                                et de la promotion des femmes pendant cinq ans au moins.
+                            </p></li>
+                        </ul>  
+                    </p>
+
+                    <p class="uk-text-justify">Les clubs qui feraient face à un manque de liquidités, malgré les contributions,
+                        peuvent engager un prêt sans intérêt auprès de la Confédération, remboursable en dix ans. Dans ce cas,
+                        le club doit fournir des garanties reconnues par la Confédération à hauteur de 25 % au moins.
+                    </p>  
+
+                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h4>Mesures dans le domaine des médias (article 14)</h4>
+                        <p class="uk-text-justify">La Confédération prend en charge les coûts de distribution des quotidiens
+                            et hebdomadaires de la presse locale et régionale et elle participe aux coûts de distribution de la
+                            presse suprarégionale et nationale.
                         </p>
 
-                        <p class="uk-text-justify">Les émissions d’ammoniac dépassent de 70 %
-                        le seuil autorisé par la loi sur la protection de
-                        l’environnement. 95 % des émissions d’ammoniac en Suisse proviennent
-                        de l’agriculture – dont 90 % de l’élevage
-                        de bétail.
+                        <p class="uk-text-justify">Les mesures citées dans le paragraphe ci-dessus seront supprimées, si la
+                            "Loi fédérale pour un train de mesures en faveur des médias" est adoptée, ce qui a été fait par le
+                            Parlement fédéral dernièrement. <a href="https://medias-controles-non.ch/">Cette loi est déjà combattue 
+                            par un référendum</a>, lancé par un comité référendaire et soutenu notamment par les Amis de la
+                            Constitution et des parlementaires des partis de l'UDC, du PLR et du Centre, ainsi que par les
+                            Jeunes libéraux-radicaux.
                         </p>
 
-                        <h5>Ce qui porte la croix suisse doit provenir de Suisse</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 20%">Si les animaux vivent là où leur nourriture est
-                        produite, les cycles nutritifs restent fermés, et
-                        la surfertilisation est stoppée. C’est pourquoi
-                        l’initiative demande que l’agriculture suisse
-                        nourrisse ses animaux avec du fourrage régional.
+                        <h4>Mesures en cas de perte de gain (article 15)</h4>
+                        <p class="uk-text-justify" style="padding-bottom: 10%">Le Conseil fédéral peut prévoir des versements d'allocations pour perte de
+                            gain aux personnes qui doivent interrompre ou limiter leur activité lucrative à cause des mesures
+                            prises par les autorités. Il faut avoir subi une diminution de 30 % de son chiffre d'affaire pour
+                            recevoir une aide financière.
                         </p>
-
-                        <h5>Situation des lacs suisses</h5>
-                        <hr>
-                        <p class="uk-text-justify">Nos lacs sont trop chargés en lisier. Depuis des
-                        décennies, les lacs de Baldegg, Hallwil, Sempach
-                        et Greifensee sont aérés artificiellement.
-                        </p>
-
-                        <h5>Pesticides dans les cours d’eaux</h5>
-                        <hr>
-                        <p class="uk-text-justify">On mesure plus de 145 pesticides dans nos cours d’eau, 
-                        souvent au-dessus de la valeur limite.
-                        </p>
-                    </div>
-
-                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 4%">
-                        <h5>Pesticides dans l’eau potable</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 30%">85 à 90 % des pesticides sont utilisés dans l’agriculture.
-                        Les conséquences : de nombreux captages d’eau potable doivent être fermés en raison 
-                        de résidus de pesticides supérieurs à la valeur limite. Dans de nombreux endroits, 
-                        cela signifie que l’approvisionnement en eau potable de qualité n’est plus possible.
-                        </p>
-
-                        <h5>La Confédération ne protège pas notre eau potable</h5>
-                        <hr>
-                        <p class="uk-text-justify">La Confédération a décidé en 2020 de relever les valeurs 
-                        limites pour 14 pesticides dans les eaux de surface.
-                        </p>
-
-                        <h5>Jeu de poker avec les pesticides</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 20%">175 pesticides ont été retirés du marché en Suisse rien qu’entre 
-                        2005 et 2020, souvent pour cause d’atteintes à la santé ou à l’environnement.
-                        </p>
-
-                        <h5>Production sans pesticides</h5>
-                        <hr>
-                        <p class="uk-text-justify">L’initiative exige une production alimentaire sans pesticides 
-                        chimiques de synthèse. Les produits utilisés dans l’agriculture biologique restent autorisés.
-                        </p>
-
-                        <h5>Abeilles, insectes, oiseaux sont fortement menacés</h5>
-                        <hr>
-                        <p class="uk-text-justify">L’utilisation de pesticides ainsi que les excédents de lisier 
-                        et d’ammoniac provenant de l’élevage intensif détruisent la biodiversité. Plus d’un tiers 
-                        des espèces sont touchées. La disparition des insectes, en particulier des abeilles, menace 
-                        notre production alimentaire et met en danger la survie de nombreuses autres espèces : 
-                        oiseaux, poissons...
-                        </p>
-                    </div>
-
-                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 4%">
-                        <h3>Etat de la biodiversité des prairies en Suisse</h3>        
-                        <hr>
-                        <iframe title="Etat de la biodiversité en Suisse_Initiative eau potable 2021" aria-label="chart" id="datawrapper-chart-pQarU" src="https://datawrapper.dwcdn.net/pQarU/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="219"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                        </script>
-
-                        <h3>Subventionnements de la production animale</h3>        
-                        <hr>  
-                        <iframe title="Subvention des productions en Suisse" aria-label="chart" id="datawrapper-chart-2ZUv6" src="https://datawrapper.dwcdn.net/2ZUv6/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="505"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                        </script>                      
-                    </div>
-                    
-                    <div class="uk-column-1-4@m uk-column-1-1@s" style="padding-bottom: 2%">
-                        <h5>Objectif de l’initiative</h5>
-                        <hr>
-                        <p class="uk-text-justify">L’initiative oriente nos milliards d’impôts vers une production 
-                        alimentaire qui produit sans pesticides, préserve la biodiversité, 
-                        n’utilise pas d’antibiotiques à titre préventif, élève le bétail qu’elle peut nourrir avec du fourrage suisse.
-                        </p>
-
-                        <p class="uk-text-justify" style="padding-bottom: 20%">
-                        Dans ce changement de système, les agricultrices et agriculteurs sont également 
-                        soutenus par des aides à la formation, à la recherche et à l’investissement afin de 
-                        garantir durablement la qualité et les rendements ainsi que leurs revenus.
-                        </p>
-
-                        <h5>Pas plus cher, mais plus sain</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 50%">Les aliments produits de manière écologique ne doivent pas coûter 
-                        plus cher que les aliments dont la production détruit l’environnement. La réorientation des 
-                        subventions fera de l’alimentation écologique la nouvelle norme et la rendra abordable pour tous.
-                        </p>
-
-                        <h5>Moins de food waste = moins d’importations</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 50%">Nous produisons et importons beaucoup trop de nourriture. 30 à 50 % 
-                        de ces aliments finissent dans le gaspillage alimentaire. 500 000 hectares de terres cultivables 
-                        et 320 000 hectares de pâturages sont gaspillés pour produire l’équivalent du food waste de la 
-                        Suisse (2,8 Mio t) !
-                        </p>
-
-                        <h5>OUI à une eau potable propre</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 20%">Nous ne pouvons pas obtenir une agriculture écologique par notre 
-                        seul comportement. Pour cela, il faut rediriger les subventions provenant de nos impôts. 
-                        Depuis des décennies, de nombreux agriculteurs produisent avec succès conformément à l’initiative
-                        pour une eau potable propre. Ils nous montrent la voie vers un avenir sain - pour le bien des 
-                        êtres humains et des animaux.
-                        </p>
-                    </div>
+                    </div>                   
 
                     <h3>La question qui vous est posée : </h3>        
                     <hr>
-                    <b><p class="uk-text-justify" style="padding-bottom: 10%">Acceptez-vous l'initiave populaire 
-                    "Pour une eau potable propre et une alimentation saine"</p></b>
+                    <b><p class="uk-text-justify" style="padding-bottom: 10%">Acceptez-vous la Loi fédérale sur les bases légales 
+                    des ordonnances du Conseil fédéral visant à surmonter l'épidémie de COVID-19 ?</p></b>
                 </li>        
 
                 <li>
                     <div class="uk-column-1-3@m uk-column-1-1@s">
                         <h3>Recommendations de vote des partis fédéraux</h3>
                         <hr>
-                        <iframe title="PartisCH_Initiative EauPotable2021" aria-label="chart" id="datawrapper-chart-ps356" src="https://datawrapper.dwcdn.net/ps356/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-                        </script>  
+                        <iframe title="PartisCH_LoiCOVID2021" aria-label="Anneau de choix" id="datawrapper-chart-H78Y4" src="https://datawrapper.dwcdn.net/H78Y4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                        </script>
 
                         <h3>Recommendations de vote des partis jurassiens</h3>
                         <hr>
-                        <iframe title="PartisJU IP Eau Potable 2021" aria-label="chart" id="datawrapper-chart-0EZ4J" src="https://datawrapper.dwcdn.net/0EZ4J/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="PartisJU-LoiCOVID2021" aria-label="Anneau de choix" id="datawrapper-chart-5Kq2B" src="https://datawrapper.dwcdn.net/5Kq2B/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
                         </script>
 
                         <h3>Recommendations de vote des autorités</h3>
                         <hr>
-                        <iframe title="VotesAutorités_IP_eau_potable_propre" aria-label="chart" id="datawrapper-chart-Oz0x0" src="https://datawrapper.dwcdn.net/Oz0x0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="199"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="VotesAutorités_LoiCOVID2021" aria-label="chart" id="datawrapper-chart-hA7w7" src="https://datawrapper.dwcdn.net/hA7w7/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="200"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
                         </script>
                     </div>
                 </li>  
 
-                <li>       
-                    <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+                <li>  
+                    <h3 style="padding-bottom: 10%">Les arguments seront bientôt disponibles !</h3>     
+                    <!--<div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
@@ -406,74 +511,53 @@
                                 subventionnées par le contribuable. C'est libéral et juste"</p>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
                 </li>
 
                 <li>
-                    <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Déjà bien protégée, l’eau potable peut être consommée sans problème en Suisse. Sa protection peut
-                                 être encore améliorée, mais le Conseil fédéral et le Parlement trouvent que l’initiative va trop
-                                 loin. L’acceptation de celle-ci aurait un impact énorme sur la production de denrées alimentaires
-                                 en Suisse. Comme beaucoup d’exploitations agricoles en produiraient moins, il faudrait en importer
-                                 plus, d’où un transfert de la pollution à l’étranger. La principale demande de l’initiative a du 
-                                 reste déjà été prise en compte par le Parlement.</p>
+                                <p>La Loi discrimine les personnes non-vaccinées. Elle prévoit de retirer des droits
+                                    fondamentaux aux personnes non-vaccinées et d'accorder des privilèges aux personnes
+                                    vaccinées. Quelles seront les suivants sur la liste ? Les fumeurs, les personnes
+                                    présentant un surpoids ou les gens allergiques à la pratique du sport ?
+                                    <b>Mettons fin à l'arbitraire étatique avant qu'il ne soit trop tard !</b></p>
                             </div>
                         </div>
 
-                        <div>
+                        <div>    
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Les conséquences de l’initiative sur l’eau potable toucheraient de plein fouet l’agriculture, la
-                                 production de denrées alimentaires et les emplois générés en Suisse par ces activités.Sans protection spécifique contre les maladies et les ravageurs des cultures, la production
-                                 nationale de denrées alimentaires, telles que les fruits, les légumes et les pommes de terre,
-                                  chuterait, et il faudrait accroître la part des importations pour satisfaire les besoins de la
-                                   consommation nationale.</p>
+                                <p>Tout avait commencé de manière anodine : il était prévu que le traçage électronique des
+                                    contacts resterait volontaire. Or, la loi Covid-19 crée de fait les bases d’un traçage
+                                    électronique complet, <b>synonyme de surveillance généralisée et permanente.</b></p>
                             </div>
                         </div>
 
-                        <div>
+                        <div>    
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Ces importations sont aussi la cible de l’initiative contre les pesticides, qui prévoit de limiter
-                                ces importations aux seules denrées produites sans pesticides de synthèse. Le choix des produits
-                                disponibles en serait fortement réduit. ’interdiction des produits phytosanitaires affaiblirait encore
-                                plus nos exportateurs en renchérissant les matières premières de production suisse, comme le sucre 
-                                et les huiles végétales. Ces exportateurs subiraient alors un préjudice par rapport à la concurrence
-                                étrangère.  
-                            </div>                               
-                        </div>
-
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p>Ces deux initiatives abordent des questions importantes, car le PLR veut 
-                                réduire l'utilisation de produits phytosanitaires. Cependant, le chemin emprunté 
-                                pour atteindre l'objectif devrait être différent. Du point de vue du PLR, les deux 
-                                initiatives vont clairement trop loin : la mise en œuvre de ces initiatives mettrait 
-                                en danger non seulement l'agriculture suisse, mais aussi notre approvisionnement 
-                                alimentaire national.</p>
+                                <p>L’art. 1a de la loi COVID-19 ne contient ni moyen de contrôle ni responsabilité des dirigeants
+                                    politiques : «Le Conseil fédéral définit les critères et les valeurs de référence relatifs
+                                    aux restrictions et aux assouplissements concernant la vie économique et sociale. » 
+                                    Le Conseil fédéral s’inspire depuis plus d’une année des mauvaises décisions émanant de 
+                                    l’étranger. <b>Il ne mérite donc pas de se voir attribuer de nouveaux pleins pouvoirs, dont 
+                                        il n’a de toute manière pas besoin pour agir.</b></p>
                             </div>
                         </div>
 
-                        <div>
+                        <div>    
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Cette initiative est mauvaise pour le bio. Avec cette initiative, les 
-                                paiements directs seraient réservés aux agriculteurs qui renoncent à utiliser 
-                                des produits phytosanitaires, aux agriculteurs qui peuvent nourrir leurs animaux 
-                                uniquement avec du fourrage produit sur l‘exploitation. Cette initiative est si 
-                                stricte qu’elle rend quasi impossible la production indigène. Une production indigène 
-                                quasi impossible, en tous les cas fortement réduite : entre 20 et 40 %. Avec deux 
-                                conséquences : les prix des produits suisses prendront l’ascenseur et les importations 
-                                de ces mêmes produits venus de l’étranger augmenteront.</p>
+                                <p>Nous ne croyons pas que seules les aides financières resteront en vigueur après 2021, 
+                                    comme certains politiques l’ont promis. Pourquoi ? Parce que la loi COVID-19 restera 
+                                    en vigueur jusqu’à la fin 2031.</p>
                             </div>
                         </div>
                     </div>

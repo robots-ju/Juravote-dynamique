@@ -84,48 +84,222 @@
                         </p>
                     </div>
 
-                    <h3>Loi COVID-19 (version de juillet 2021</h3>
+                    <h3>Loi COVID-19 (version de juillet 2021)</h3>
                     <hr>
 
-                    <h5>Objet et principes</h5>
-                    <p class="uk-text-justify" style="padding-bottom: 2%">Texte</p>
+                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h4>Objet et principes (article 1)</h4>
+                        <p class="uk-text-justify">La Loi COVID-19 définit les compétences particulières
+                            du Conseil fédéral pour lutter contre le coronavirus. Il n'utilise ces compétences particulières que si
+                            l'objectif visé ne peut pas être atteint en temps utile avec la procédure légale ordinaire ou urgente.
+                        </p>
+
+                        <p class="uk-text-justify">Le Conseil fédéral prend en compte les principes de subsidiarité, d'efficacité et de
+                            proportionnalité et veille à ce que la vie économique et sociale soit restreinte le moins possible et le
+                            moins longtemps. Dans ce but, la Confédération et les Cantons utilisent les plans de protection, les moyens
+                            de dépistage et de vaccination, ainsi que le traçage des contacts.
+                        </p>
+
+                        <h4>Critères (article 1a)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral définit les critères et les valeurs 
+                        de référence relatifs aux restrictions et aux assouplisse­ments concernant la vie économique et sociale. Il 
+                        tient compte non seulement de la situation épidémiolo­gique, mais aussi des conséquences économiques et sociales.
+                        </p>
+
+                        <p class="uk-text-justify">
+                        Si la population adulte souhaitant être vaccinée a reçu une dose suffisante de vaccin, les restrictions 
+                        de capacité applicables aux établissements et aux entreprises accessibles au public ainsi qu’aux 
+                        manifestations et aux rassemblements privés doivent être levées. Des plans de protection appropriés 
+                        sont possibles, pour autant qu’ils soient proportionnés.
+                        </p>
+
+                        <h4>Droits politiques (article 2)</h4>
+                        <p class="uk-text-justify" style="padding-bottom: 20%">Dans le but de promouvoir l'exercice des droits politiques, le Conseil
+                            fédéral peut prévoir que les référendums ou les initiatives populaires munies du nombre de signatures
+                            requis peuvent être déposés avant l'expiration du délai légal.
+                        </p>
+                    </div>
 
                     <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 2%">
-                        <h5>Droits politiques</h5>
-                        <p class="uk-text-justify">Texte</p>
+                        <h4>Capacités sanitaires (article 3)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral peut obliger les commerçants et les établissements de santé
+                            à communiquer leurs stocks de produits, d'équipements et d'autres biens médicaux importants, ceci dans
+                            le but d'un maintien des capacités sanitaires.
+                        </p>
 
-                        <h5>Mesures dans le domaine des capacités sanitaires</h5>
-                        <p class="uk-text-justify">Texte</p>
+                        <p class="uk-text-justify">Pour garantir le traitement des maladies COVID-19, d'autres traitements et examens
+                            médicaux non-urgents peuvent être interdits ou restreints dans les Hôpitaux.
+                        </p>
 
-                        <h5>Personnes vaccinées</h5>
-                        <p class="uk-text-justify">Texte</p>
+                        <p class="uk-text-justify" style="padding-bottom: 2%">La Confédération met en place un traçage électronique complet et efficace des contacts.
+                            Elle organise un plan de vaccination pour permettre au plus grand nombre de volontaires possible d'être
+                            vaccinés à la fin du mois de mai 2021. Elle peut permettre d'assouplir, raccourcir ou abolir l'obligation
+                            de quarantaine si la vaccination ou les tests réguliers peuvent garantir une réduction comparable de la
+                            propagation du virus.
+                        </p>
 
-                        <h5>Système de test et de traçage des contacts</h5>
-                        <p class="uk-text-justify">Texte</p>
+                        <h4>Mesures dans le domaine de la protection des travailleurs (articles 4 + 4a)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral peut obliger les employeurs à protéger les travailleurs
+                            vulnérables. Lorsque le travailleur doit interrompre son travail en raison d'une mesure ordonnée
+                            par les autorités et que le salaire doit continuer à être versé par l'employeur, ce dernier a un
+                            droit équivalent au remboursement.
+                        </p>
 
-                        <h5>Mesures en cas de fermeture des frontières</h5>
-                        <p class="uk-text-justify">Texte</p>
+                        <p class="uk-text-justify">Le Conseil fédéral garantit que les employés du secteur agricole et de la
+                            construction otn la possiblité de se restaurer dans des établissements de restauration, malgré la
+                            fermeture ordonnée par les autorités.
+                        </p>
+
+                        <p class="uk-text-justify">Il garantit suffisamment d'installations sanitaires à la disposition des conducteurs
+                            de camion et que ceux-ci peuvent se restaurer dans des établissments de restauration.
+                        </p>
+
+                        <p class="uk-text-justify">Il peut soutenir des mesures prises par les Cantons afin de simplifier l'entrée
+                            dans la vie professionnelle, rendue difficile par la crise du coronavirus, des jeunes qui terminent
+                            leur formation scolaire.
+                        </p>
+                    </div>
+
+                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h4>Personnes vaccinées (article 3a)</h4>
+                        <p class="uk-text-justify" style="padding-bottom: 2%">Les personnes vaccinées, par un vaccin autorisé dont il est prouvé qu'il prévient
+                            la transmission du virus, ne sont soumises à aucune quarantaine (le Conseil fédéral peut prévoir des
+                            exceptions).
+                        </p>
+
+                        <h4>Mesures dans le domaine des étrangers et de l'asile (article 5)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral peut restreindre l'entrée en Suisse des étrangers en vue
+                            d'un séjour, à l'exception du regroupement familial, ainsi que de l'entrée en Suisse de concubins
+                            et de leurs enfants.
+                        </p>
+
+                        <p class="uk-text-justify">Il peut prolonger les délais légaux pour le regroupement familial,
+                            l'extinction des autorisations de séjour, la saisie des données pour les titres de séjour,
+                            le départ, l'extinction et la fin de l'admission provisoire.
+                        </p>
+                    </div>
+
+                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h4>Mesures en cas de fermeture des frontières (article 6)</h4>
+                        <p class="uk-text-justify">En cas de fermeture des fontières, le Conseil fédéral prend les mesures
+                            nécessaires pour assurer au mieux le droit à la circulation des travailleurs frontaliers et des
+                            habitants qui ont des liens particuliers dans la zone frontalière.
+                        </p>                        
                         
-                        <h5>Certificat sanitaire</h5>
-                        <p class="uk-text-justify">Texte</p>
+                        <h4>Certificat sanitaire (article 6a)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral met en place un document prouvant que son titulaire a été
+                            vacciné contre le COVID-19, qu'il en est guéri ou qu'il dispose d'un résultat de dépistage. Il doit
+                            être personnnel et infalsifiable et vérifiable dans le respect de la protection des données. Son
+                            détenteur doit pouvoir l'utiliser pour entrer dans d'autres pays et en sortir.
+                        </p>
+                    </div>
 
-                        <h5>Allègements cantonaux</h5>
-                        <p class="uk-text-justify">Texte</p>
+                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h4>Mesures dans le domaine de la justice (article 7)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral peut suspendre ou prolonger les délais et les échéances
+                            fixés par la loi ou les autorités. Il peut recourir à la visio-conférence pour la participation de
+                            témoins ou de tiers dans les audiences et les auditions, et à des communications écrites pour des
+                            enchères ou en cas de procédure de poursuite et de faillite.
+                        </p>
 
-                        <h5>Mesures pour les cas de rigueur destinés aux entreprises</h5>
-                        <p class="uk-text-justify">Texte</p>
+                        <h4>Mesures dans le domaine des assemblées de sociétés (article 8)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral peut prévoir que les décisions des participants aux
+                            assemblées de sociétés peuvent être prises par écrit ou par l'intermédiaire d'un représentant
+                            indépendant.
+                        </p>
 
-                        <h5>Mesures dans le domaine du sport</h5>
-                        <p class="uk-text-justify">Texte</p>
+                        <h4>Allègements cantonaux (article 8a)</h4>
+                        <p class="uk-text-justify">Le Conseil fédéral accorde des allègements aux cantons qui affichent une
+                            situation stable ou en amélioration et qui appliquent une stratégie de dépistage pour gérer la
+                            propagation du COVID-19.
+                        </p>
+                    </div>
 
-                        <h5>Mesures dans le domaine des médias</h5>
-                        <p class="uk-text-justify">Texte</p>
+                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h4>Soutiens au domaine de la culture (article 11)</h4>
+                        <p class="uk-text-justify">La Confédération peut soutenir des entreprises culturelles, des acteurs culturels 
+                            et des associations culturelles d’amateurs au moyen d’aides financières. Le Conseil fédéral décide des
+                            secteurs qui ont droit à des aides financières et règle les conditions du droit aux aides. Il veille à 
+                            ce que tous les acteurs culturels aient accès à une indemnisation pour perte financière.
+                        </p>
 
-                        <h5>Mesures dans le domaine de la prévoyance professionnelle</h5>
-                        <p class="uk-text-justify">Texte</p>
+                        <h4>Soutiens aux manifestations publiques (article 11a)</h4>
+                        <p class="uk-text-justify" style="padding-bottom: 5%">La Confédération peut prendre en charge une partie des coûts des manifestations
+                            publiques d'importance supracantonale se déroulant entre le 1er juin 2021 et le 30 avril 2022. Si
+                            l'entrée est payante, il faudra prouver que les entrées payées ont été intégralement remboursées.
+                        </p>
 
-                        <h5>Mesures dans le domaine de l'assurance-chômage</h5>
-                        <p class="uk-text-justify">Texte</p>
+                        <h4>Soutiens aux entreprises (articles 12 + 12a)</h4>
+                        <p class="uk-text-justify">La Confédération peut soutenir les Cantons dans les mesures de soutien aux
+                            entreprises, aux sociétés de personnes ou aux personnes morales, qui existaient avant octobre 2020,
+                            qui avaient leur siège dans le canton avant octobre 2020 et qui ont été particulièrement touchées
+                            par les conséquences de la crise. Pour bénéficier d'une mesure de soutien, les entreprises ne doivent pas, 
+                            pour l'exercice comptable actuel et les trois exercices qui suivent, distribuer des dividendes ou des 
+                            tantièmes et rembourser des apports en capital.
+                        </p>
+                    </div>                       
+                    
+
+                    <h4>Mesures dans le domaine du sport (article 12b)</h4>
+                    <p class="uk-text-justify">La Confédération peut soutenir les clubs de football ou de hockey, dont une équipe
+                        évolue dans une ligue professionnelle et les clubs de basketball, d'unihockey, de volleyball, de football
+                        féminin, de hockey sur glace féminin, dont une équipe évolue dans la plus haute ligue.
+                    </p>
+
+                    <p class="uk-text-justify">Les contributions sont octroyées pour compenser la perte de recettes liées aux matchs
+                        du championnat national qui doivent se dérouler à huis clos ou en présence d'un nombre réduit de spectacteurs
+                        dès le 29 octobre 2020.
+                        Elles couvrent au maximum deux tiers des recettes de billeterie réalisées
+                        lors de la saison 2018/2019. Les ventes de billets effectives dès le 29 otobre 2020 sont déduites du montant.
+                        L'octroi des contributions est soumis aux conditions suivantes :
+                                            
+                        <ul>
+                            <li><p class="uk-text-justify">Le club ne peut pas distribuer de dividendes ou de tantièmes,
+                                ni rembourser d'apports en capital pendant cinq ans.
+                            </p></li>
+
+                            <li><p class="uk-text-justify">Le club doit ramener au montant maximal du gain assuré dans 
+                                l’assurance-accidents obligatoire ou réduire de 20 % au moins le revenu moyen. Sinon, la 
+                                contribution s'élève au plus à 50 % de la perte de recette de billetterie.
+                            </p></li>
+
+                            <li><p class="uk-text-justify">La masse salariale du club ne peut augmenter d’un montant supérieur 
+                                à celui de la hausse de l’indice suisse des prix à la con­sommation pendant les cinq ans qui 
+                                suivent l’octroi des contribu­tions. Le Conseil fédéral peut prévoir des exceptions
+                                pour les clubs qui passent dans une ligue supérieure</p></li>
+
+                            <li><p class="uk-text-justify">Le Club doit poursuivre le travail d'encouragement de la relève
+                                et de la promotion des femmes pendant cinq ans au moins.
+                            </p></li>
+                        </ul>  
+                    </p>
+
+                    <p class="uk-text-justify">Les clubs qui feraient face à un manque de liquidités, malgré les contributions,
+                        peuvent engager un prêt sans intérêt auprès de la Confédération, remboursable en dix ans. Dans ce cas,
+                        le club doit fournir des garanties reconnues par la Confédération à hauteur de 25 % au moins.
+                    </p>  
+
+                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 2%">
+                        <h4>Mesures dans le domaine des médias (article 14)</h4>
+                        <p class="uk-text-justify">La Confédération prend en charge les coûts de distribution des quotidiens
+                            et hebdomadaires de la presse locale et régionale et elle participe aux coûts de distribution de la
+                            presse suprarégionale et nationale.
+                        </p>
+
+                        <p class="uk-text-justify">Les mesures citées dans le paragraphe ci-dessus seront supprimées, si la
+                            "Loi fédérale pour un train de mesures en faveur des médias" est adoptée, ce qui a été fait par le
+                            Parlement fédéral dernièrement. <a href="https://medias-controles-non.ch/">Cette loi est déjà combattue 
+                            par un référendum</a>, lancé par un comité référendaire et soutenu notamment par les Amis de la
+                            Constitution et des parlementaires des partis de l'UDC, du PLR et du Centre, ainsi que par les
+                            Jeunes libéraux-radicaux.
+                        </p>
+
+                        <h4>Mesures en cas de perte de gain (article 15)</h4>
+                        <p class="uk-text-justify" style="padding-bottom: 10%">Le Conseil fédéral peut prévoir des versements d'allocations pour perte de
+                            gain aux personnes qui doivent interrompre ou limiter leur activité lucrative à cause des mesures
+                            prises par les autorités. Il faut avoir subi une diminution de 30 % de son chiffre d'affaire pour
+                            recevoir une aide financière.
+                        </p>
                     </div>                   
 
                     <h3>La question qui vous est posée : </h3>        
@@ -341,74 +515,52 @@
                 </li>
 
                 <li>
-                    <h3 style="padding-bottom: 10%">Les arguments seront bientôt disponibles !</h3>   
-                    <!--<div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+                    <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Déjà bien protégée, l’eau potable peut être consommée sans problème en Suisse. Sa protection peut
-                                 être encore améliorée, mais le Conseil fédéral et le Parlement trouvent que l’initiative va trop
-                                 loin. L’acceptation de celle-ci aurait un impact énorme sur la production de denrées alimentaires
-                                 en Suisse. Comme beaucoup d’exploitations agricoles en produiraient moins, il faudrait en importer
-                                 plus, d’où un transfert de la pollution à l’étranger. La principale demande de l’initiative a du 
-                                 reste déjà été prise en compte par le Parlement.</p>
+                                <p>La Loi discrimine les personnes non-vaccinées. Elle prévoit de retirer des droits
+                                    fondamentaux aux personnes non-vaccinées et d'accorder des privilèges aux personnes
+                                    vaccinées. Quelles seront les suivants sur la liste ? Les fumeurs, les personnes
+                                    présentant un surpoids ou les gens allergiques à la pratique du sport ?
+                                    <b>Mettons fin à l'arbitraire étatique avant qu'il ne soit trop tard !</b></p>
                             </div>
                         </div>
 
-                        <div>
+                        <div>    
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Les conséquences de l’initiative sur l’eau potable toucheraient de plein fouet l’agriculture, la
-                                 production de denrées alimentaires et les emplois générés en Suisse par ces activités.Sans protection spécifique contre les maladies et les ravageurs des cultures, la production
-                                 nationale de denrées alimentaires, telles que les fruits, les légumes et les pommes de terre,
-                                  chuterait, et il faudrait accroître la part des importations pour satisfaire les besoins de la
-                                   consommation nationale.</p>
+                                <p>Tout avait commencé de manière anodine : il était prévu que le traçage électronique des
+                                    contacts resterait volontaire. Or, la loi Covid-19 crée de fait les bases d’un traçage
+                                    électronique complet, <b>synonyme de surveillance généralisée et permanente.</b></p>
                             </div>
                         </div>
 
-                        <div>
+                        <div>    
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Ces importations sont aussi la cible de l’initiative contre les pesticides, qui prévoit de limiter
-                                ces importations aux seules denrées produites sans pesticides de synthèse. Le choix des produits
-                                disponibles en serait fortement réduit. ’interdiction des produits phytosanitaires affaiblirait encore
-                                plus nos exportateurs en renchérissant les matières premières de production suisse, comme le sucre 
-                                et les huiles végétales. Ces exportateurs subiraient alors un préjudice par rapport à la concurrence
-                                étrangère.  
-                            </div>                               
-                        </div>
-
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p>Ces deux initiatives abordent des questions importantes, car le PLR veut 
-                                réduire l'utilisation de produits phytosanitaires. Cependant, le chemin emprunté 
-                                pour atteindre l'objectif devrait être différent. Du point de vue du PLR, les deux 
-                                initiatives vont clairement trop loin : la mise en œuvre de ces initiatives mettrait 
-                                en danger non seulement l'agriculture suisse, mais aussi notre approvisionnement 
-                                alimentaire national.</p>
+                                <p>L’art. 1a de la loi COVID-19 ne contient ni moyen de contrôle ni responsabilité des dirigeants
+                                    politiques : «Le Conseil fédéral définit les critères et les valeurs de référence relatifs
+                                    aux restrictions et aux assouplissements concernant la vie économique et sociale. » 
+                                    Le Conseil fédéral s’inspire depuis plus d’une année des mauvaises décisions émanant de 
+                                    l’étranger. <b>Il ne mérite donc pas de se voir attribuer de nouveaux pleins pouvoirs, dont 
+                                        il n’a de toute manière pas besoin pour agir.</b></p>
                             </div>
                         </div>
 
-                        <div>
+                        <div>    
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge-udc uk-border-rounded">UDC</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p>Cette initiative est mauvaise pour le bio. Avec cette initiative, les 
-                                paiements directs seraient réservés aux agriculteurs qui renoncent à utiliser 
-                                des produits phytosanitaires, aux agriculteurs qui peuvent nourrir leurs animaux 
-                                uniquement avec du fourrage produit sur l‘exploitation. Cette initiative est si 
-                                stricte qu’elle rend quasi impossible la production indigène. Une production indigène 
-                                quasi impossible, en tous les cas fortement réduite : entre 20 et 40 %. Avec deux 
-                                conséquences : les prix des produits suisses prendront l’ascenseur et les importations 
-                                de ces mêmes produits venus de l’étranger augmenteront.</p>
+                                <p>Nous ne croyons pas que seules les aides financières resteront en vigueur après 2021, 
+                                    comme certains politiques l’ont promis. Pourquoi ? Parce que la loi COVID-19 restera 
+                                    en vigueur jusqu’à la fin 2031.</p>
                             </div>
                         </div>
-                    </div>-->
+                    </div>
                 </li>
             </ul>
         </section>

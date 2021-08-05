@@ -97,6 +97,17 @@
                             </div>
                         </a> 
 
+                        <a href="Pages/Resultats/VotationsCO/Porrentruy/2021-09-26/AgrandissementSTEP.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >26.09</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation Porrentruy</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+
                         <a href="Pages/Resultats/VotationsCH/2030-2021/2021-11-28/accueil.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">

@@ -222,11 +222,11 @@
             </div>
             
             <div>
-                <h3>D'autres candidats à l'élection peuvent s'annoncer jusqu'au 2 août 2021, 12:00. Cette page sera mise à jour
-                si le nombre de candidats venait à changer !</h3>
+                <h3>M. Claude-Alain Chapatte est le seul candidat à s'être annoncé (délai d'annonce : 2 août 2021). 
+                    Il est donc élu tacitement à la Mairie de la Commune de Val-Terbi !</h3>
 
-                <h3>Si un seul candidat s'annonce, il est élu tacitement au terme du délai d'annonce (2 août). En revanche, si
-                plusieurs candidats sortent du bois, une élection sera effectivement organisée le 26 septembre.</h3>
+                <h3>M. Chapatte entrera en fonction en octobre 2021 et étant actuellement Conseiller communal, une élection 
+                    complémentaire sera organisée (probablement en octobre 2021).
                 <!--<a href="#modal-full-2" uk-toggle>
                     <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                         <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>

@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Loi sur le mariage pour tous</title>
+        <title>JuraVote | Mariage pour tous</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -48,7 +48,7 @@
     </header>
     <main>
     <section style="padding: 2%;">
-            <h1 class="uk-heading-large">Loi sur le mariage pour tous</h1>
+            <h1 class="uk-heading-large">Modification du Code civil suisse (Mariage pour tous)</h1>
             <hr>
             <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
                 <!--<button class="uk-button uk-button-default" type="button">Résultats</button>-->
@@ -72,29 +72,24 @@
                         et l'accès à la procréation médicalement assistée.
                         </p>
 
-                        <p class="uk-text-justify" style="padding-bottom: 1%">Les Autorités fédérales souhaitent "mettre un terme
+                        <p class="uk-text-justify">Les Autorités fédérales souhaitent "mettre un terme
                         à ces inégalités de traitement" avec le projet de loi du mariage pour tous. Un référendum, muni de plus de
                         50'000 signatures, a été déposé, raison pour laquelle le peuple suisse vote sur ce projet de loi.
                         </p>
-                    </div>
 
-                    <h3>Principales modifications juridiques</h3>
-                    <hr>
-                    <div class="uk-column-1-4@m uk-column-1-1@s" style="padding-bottom: 3%">
-                        <h5>Naturalisation facilitée</h5>
+                        <h3>Principales modifications juridiques</h3>
                         <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 10%">Le droit à la naturalisation facilitée sera accordée à tous les couples mariés, si
+                        <h5>Naturalisation facilitée</h5>
+                        <p class="uk-text-justify">Le droit à la naturalisation facilitée sera accordée à tous les couples mariés, si
                             la loi est acceptée le 26 septembre 2021.
                         </p>
 
                         <h5>Adoption</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 10%">Les couples de même sexe pourront adopter conjointement un enfant (ce qui est
+                        <p class="uk-text-justify">Les couples de même sexe pourront adopter conjointement un enfant (ce qui est
                             déjà le cas pour les personnes liées par un partenariat enregistré).
                         </p>
 
                         <h5>Procréation médicalement assistée</h5>
-                        <hr>
                         <p class="uk-text-justify">L'ouverture du mariage pour tous permettra aussi aux femmes mariées de recourir
                             à un don de sperme en Suisse, dans les conditions prévues par la loi : le donneur doit être inscrit dans
                             le registre des donneurs de sperme et le don de sperme, tout comme le don d'ovules et la gestation
@@ -102,13 +97,16 @@
                         </p>
 
                         <h5>Conversion d'un partenariat enregistré existant en mariage</h5>
-                        <hr>
-                        <p class="uk-text-justify" style="padding-bottom: 10%">Dès l'adoption de la loi, il ne sera plus possible de conclure des partenariats
+                        <p class="uk-text-justify">Dès l'adoption de la loi, il ne sera plus possible de conclure des partenariats
                             enregistrés. En revanche, les couples ayant déjà conclu un partenariat pourront le maintenir ou le
                             convertir en mariage.
                         </p>
+
+                        <iframe title="Pays autorisant le mariage aux couples de même sexe" aria-label="map" id="datawrapper-chart-JF4qB" src="https://datawrapper.dwcdn.net/JF4qB/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="632"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                        </script>
                     </div>
 
+                    
                     <h3>Modifications du Code civil suisse</h3>
                     <hr>
                     <div class="uk-column-1-2@m uk-column-1-1@s">
@@ -224,7 +222,8 @@
 
                     <h3>La question qui vous est posée : </h3>        
                     <hr>
-                    <b><p class="uk-text-justify" style="padding-bottom: 10%">Acceptez-vous la loi sur le mariage pour tous ?</p></b>
+                    <b><p class="uk-text-justify" style="padding-bottom: 10%">Acceptez-vous la modification du 18 décembre 2020 du 
+                    code civil suisse (mariage pour tous) ? </p></b>
                 </li>        
 
                 <li>
@@ -248,6 +247,17 @@
 
                 <li>       
                     <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le Conseil fédéral et le Parlement veulent ouvrir le mariage aux couples 
+                                    e même sexe. Ainsi, l’inégalité de traitement qui existe aujourd’hui sera éliminée. Tous les 
+                                    couples mariés auront les mêmes droits et devoirs. Le projet répond à un besoin ressenti par 
+                                    de nombreuses personnes.</p>
+                            </div>
+                        </div>    
+                    
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
@@ -402,20 +412,20 @@
                     <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au mariage pour tous"</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p class="uk-text-justify">La présente loi permet aux couples de lesbiennes de recourir au don 
-                                    de sperme, ce qui ne correspond pas à l’intention initiale du Conseil fédéral. Le projet 
-                                    « Mariage pour tous » viole de ce fait l’art. 119 de la Constitution, car, pour les couples 
-                                    hétérosexuels, cet article autorise le recours à la procréation médicalement assistée uniquement 
-                                    en cas de stérilité ou de danger de transmission d’une maladie grave. À cet égard, considérer les 
-                                    couples de lesbiennes comme étant stériles va à l’encontre de toutes les définitions en vigueur.</p>
+                                <p class="uk-text-justify">La réinterprétation de la stérilité en un désir inassouvi d’avoir 
+                                    des enfants, qui ressort du projet de loi, est contraire à la Constitution. À l’avenir, 
+                                    elle permettra à d’autres groupes (les célibataires, les couples d’hommes) de se fonder 
+                                    également sur ce désir inassouvi d’avoir des enfants. Le don d’ovules ainsi que la 
+                                    gestation pour autrui, laquelle est discutable du point de vue éthique, pourraient 
+                                    constituer les prochaines revendications.</p>
                             </div>
                         </div>
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au mariage pour tous"</div>
                                 <h3 class="uk-card-title"></h3>                            
                                 <p class="uk-text-justify">Le mariage entre un homme et une femme est un « privilège » qui repose 
                                     entre autres sur la biologie. Il ne s’agit pas d’une discrimination. Le principe de l’égalité 
@@ -427,7 +437,7 @@
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au mariage pour tous"</div>
                                 <h3 class="uk-card-title"></h3>                            
                                 <p class="uk-text-justify">Le Tribunal fédéral et le Conseil fédéral ont toujours interprété le 
                                     droit au mariage comme une communauté de vie durable entre un homme et une femme (art. 14 de 
@@ -440,7 +450,7 @@
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au mariage pour tous"</div>
                                 <h3 class="uk-card-title"></h3>                            
                                 <p class="uk-text-justify">La réinterprétation de la stérilité en un désir inassouvi d’avoir des 
                                     enfants, qui ressort du projet de loi, est contraire à la Constitution. À l’avenir, elle 
@@ -453,7 +463,7 @@
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au mariage pour tous"</div>
                                 <h3 class="uk-card-title"></h3>                            
                                 <p class="uk-text-justify">Le don de sperme ne sera plus une exception médicale mais une règle 
                                     prévue dans la loi, quelles que soient les conséquences pour les enfants. Ainsi, jusqu’à 
@@ -468,6 +478,110 @@
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au don de sperme pour
+                                    les couples de même sexe"</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Les conséquences pratiques de l‘absence de père s’ajoutent au fait que 
+                                    l’enfant ne peut connaître son identité biologique. C’est problématique pour l’affirmation de 
+                                    son identité. Et pourtant c‘est ce que prévoit juridiquement la modification de la loi. En 
+                                    règle générale, l‘enfant est confronté à une réalité brutale : il est autorisé à connaître 
+                                    le nom de son père biologique seulement lorsqu‘il atteint sa majorité, à un moment où, trop 
+                                    souvent, le père ne veut rien savoir de lui.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au don de sperme pour
+                                    les couples de même sexe"</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Les enfants ont droit à un père et à une mère. En cas de don de sperme 
+                                    à un couple de même sexe, le père de l‘enfant est délibérément écarté de la loi et même exclu 
+                                    du Code civil lorsqu’il s’agit d’établir la filiation de l’enfant (CC, art. 252).</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au don de sperme pour
+                                    les couples de même sexe"</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Selon la Constitution fédérale, les procédures de procréation 
+                                    médicalement assistée ne peuvent être utilisées que lorsque l‘infertilité est constatée 
+                                    et seulement en dernier recours. L‘infertilité est un terme médical clairement défini 
+                                    par l‘OMS : elle ne peut pas exister chez les couples de même sexe ou chez les personnes 
+                                    seules. Par conséquent, la reformulation de l‘infertilité comme „désir inassouvi d‘avoir 
+                                    des enfants“ est anticonstitutionnelle et ouvre la porte à d‘autres revendications.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au don de sperme pour
+                                    les couples de même sexe"</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le don de sperme pour les femmes lesbiennes crée une discrimination 
+                                    entre les femmes lesbiennes et les hommes homosexuels au sens de l‘article 8 de la Constitution 
+                                    fédérale. Afin d‘éliminer cette discrimination, il faudrait légaliser le don d‘ovules pour les 
+                                    hommes homosexuels et, par la suite, la pratique controversée des mères porteuses.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au mariage et à la PMA pour tous"</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Deux femmes ne peuvent pas procréer ensemble naturellement, ni deux hommes. 
+                                    Ce n’est pas une injustice, c’est tout simplement la réalité biologique. C’est la nature elle-même 
+                                    qui le dit. A l'heure des grandes théories sur le respect de la nature, pourquoi refuser de la 
+                                    respecter quand il s'agit de la vie humaine ?</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au mariage et à la PMA pour tous"</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Cette loi suisse intitulée faussement "Mariage pour tous" car elle va 
+                                    largement au-delà, réduit l’enfant à un objet et à un produit de consommation qui peut être 
+                                    commandé sur catalogue pour satisfaire les désirs égoïstes de quelques adultes.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au mariage et à la PMA pour tous"</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Pour satisfaire aux exigences des lesbiennes, les élus ont consenti à effacer 
+                                    le père du Code civil. Si cette loi passe en Suisse, vous ne serez plus le père de vos enfants, mais 
+                                    un vague parent interchangeable. Lors de la PMA, les couples de femmes seront présentées comme 
+                                    "mères", alors qu'il y a un père, dont l'existence sera niée.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au mariage et à la PMA pour tous"</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Avec une goutte de sperme par-ci, un ovule par-là et, bientôt la location 
+                                    d’utérus, cette loi veut créer des familles génétiquement modifiées avec, au final, des enfants 
+                                    sans père, sans mère et sans filiation.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité "Non au mariage et à la PMA pour tous"</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">En ouvrant largement les portes de la procréation médicalement assistée 
+                                    (PMA), par l'adoption du texte sur le "mariage pour tous", ce sont des coûts qui vont venir 
+                                    alourdir les primes d'assurance maladie. Toutes les familles suisses vont passer à la caisse 
+                                    pour satisfaire aux désirs de quelques unes.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
                                 <h3 class="uk-card-title"></h3>                            
                                 <p class="uk-text-justify">Le mariage en lui-même serait une ques­tion de droit civil entre 
@@ -475,6 +589,48 @@
                                     fran­chit une ligne rouge pour le PEV. De plus, la consti­tu­tion n'autorise la méde­cine 
                                     repro­duc­tive que pour les couples hété­ro­sexuels et seule­ment en der­nier recours, en cas 
                                     d'infertilité médi­ca­le­ment confir­mée.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">UDF</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">L’introduction du « mariage pour tous » reviendrait à ouvrir une brèche 
+                                    sociale et politique qui évacue la définition historique du mariage, compris comme l’union 
+                                    durable d’un homme et d’une femme, jusqu’à présent soutenue par le Tribunal fédéral et par le 
+                                    Conseil fédéral. Des piliers centraux de la stabilité de notre société sont donc en jeu. Nous 
+                                    sommes d’avis que le mariage est et doit rester l’union naturelle d’un homme et d’une femme, 
+                                    qu’il s’agit de protéger. Seule cette union donne naissance à des enfants, lesquels assurent 
+                                    l’avenir de la société. Il est donc dans l’intérêt même de l’État d’améliorer la situation de 
+                                    la famille traditionnelle avec des pères et des mères unis par les liens du mariage. </p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">UDF</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">C’est surtout l’intérêt supérieur de l’enfant, en particulier son 
+                                    droit de connaître ses propres origines, qui est sacrifié avec ce projet de loi. La 
+                                    distinction proposée entre les dons de sperme nationaux et les dons de sperme étrangers 
+                                    n’offre pas de protection suffisante sur ce point et ne fera en pratique qu’engendrer de 
+                                    nouvelles inégalités et discriminations. En parlant de discrimination : si déjà les 
+                                    lesbiennes sont censées avoir droit au don de sperme, pourquoi les hommes homosexuels 
+                                    ne devraient-ils pas aussi avoir le droit d’avoir des enfants ?</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">UDF</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">L’accès à la procréation médicalement assistée décidé de manière 
+                                    inconstitutionnelle pour les couples de lesbiennes débouchera tôt ou tard sur la légalisation 
+                                    de la gestation pour autrui, qui réduit l’enfant à un produit sur catalogue et dégrade la 
+                                    femme au rang de « machine reproductrice à vendre ». Si ces projets de société deviennent la 
+                                    norme, les conséquences funestes sont déjà prévisibles : les enfants « spoliés » de leur mère 
+                                    ou de leur père biologique souffriront de crises d’identité.</p>
                             </div>
                         </div>
 

@@ -91,11 +91,24 @@
                         <p class="uk-text-justify">Pour le Canton du Jura, on constate que 39% des contribuables possède une fortune nette
                             de 0 CHF.
                         </p>
-                        <p class="uk-text-justify">26% des contribuables possède 3% de la fortune nette (entre 0 et 50'000 CHF).</p>
+                        <p class="uk-text-justify">26% des contribuables possède 3% de la fortune nette (fortune nette entre 0 et 50'000 CHF).</p>
 
-                        <p class="uk-text-justify">28% des contribuables possède 33% de la fortune nette (entre 50'000 et 500'000 CHF).</p>
+                        <p class="uk-text-justify">28% des contribuables possède 33% de la fortune nette (fortune nette entre 50'000 et 500'000 CHF).</p>
 
-                        <p class="uk-text-justify">6% des contribuables possède 63% de la fortune nette (plus de 500'000 CHF).</p>
+                        <p class="uk-text-justify">6% des contribuables possède 63% de la fortune nette (fortune nette plus de 500'000 CHF).</p>
+                    </div>
+
+                    <h3>Quelques graphiques</h3>
+                    <hr>   
+                    <div class="uk-column-1-3@m uk-column-1-1@s">
+                        <iframe title="Indice de Gini (2018)" aria-label="map" id="datawrapper-chart-yD6UY" src="https://datawrapper.dwcdn.net/yD6UY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="652"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                        </script>
+
+                        <iframe title="Les impôts sur la fortune en Europe" aria-label="map" id="datawrapper-chart-ZdSJ3" src="https://datawrapper.dwcdn.net/ZdSJ3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="605"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                        </script>
+
+                        <iframe title="Répartition des revenus et des impôts" aria-label="Graphique à barres groupées" id="datawrapper-chart-Jvvb2" src="https://datawrapper.dwcdn.net/Jvvb2/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                        </script>
                     </div>
 
                     <h3>Que demande l'initiative ?</h3>
@@ -320,10 +333,168 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
                                 <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Contrairement à ce qu’affirment les initiants, l’initiative 99%, avec sa 
+                                    définition très large et ses exceptions très peu nombreuses, touchera particulièrement les PME 
+                                    (entreprises familiales, start-ups…). Ces dernières feront face à une augmentation massive des 
+                                    impôts. Petits investisseurs, propriétaires immobiliers, propriétaires de leur logement et 
+                                    agriculteurs seront également touchés.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">En Suisse, l’impôt est déjà fortement progressif, et le 1% des contribuables 
+                                    les plus riches s’acquittent notamment de 40% de l’impôt fédéral direct. La Suisse est également 
+                                    un des rares pays de l’OCDE à avoir un impôt sur la fortune. Enfin, les inégalités de revenus en 
+                                    Suisse sont stables depuis plus de 20 ans et ne sont pas aussi marquées qu’ailleurs (faible 
+                                    coefficient de Gini).</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Lorsque le capital est trop fortement taxé, il en résulte une disponibilité 
+                                    du capital par travailleur dans l’économie réduite. Ceci a une influence négative sur 
+                                    l’investissement, l’innovation et l’esprit d’entreprise. L’attractivité de la Suisse et la 
+                                    prospérité sur le long terme seront ainsi réduites par ces incitation négatives.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                                <h3 class="uk-card-title"></h3>                            
                                 <p class="uk-text-justify">L'acceptation de cette initiative entraînerait une augmentation massive 
                                     de la charge fiscale pour les investisseurs, les entrepreneurs, les épargnants et les hauts revenus 
                                     et nuirait à l'attractivité de la Suisse en tant que site économique. Les conséquences seraient 
                                     une diminution des investissements ainsi qu'un frein à l'innovation et à l’esprit d'entreprise.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le Conseil fédéral et le Parlement sont d’avis que l’initiative affaiblit 
+                                    la place économique suisse et réduit les incitations à épargner, ce qui est dommageable pour 
+                                    l’emploi et la prospérité. En comparaison internationale, les revenus en Suisse sont répartis de 
+                                    manière équilibrée, et le capital est déjà assez lourdement imposé.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">En Suisse, les revenus sont répartis de façon plus équilibrée que dans 
+                                    la plupart des autres pays de l’OCDE. De plus, une redistribution importante se fait déjà par 
+                                    le biais des impôts et des prestations sociales : les dépenses consacrées aux prestations 
+                                    sociales représentent un bon quart de la performance économique globale. En outre, la part 
+                                    du revenu du capital est restée constante depuis le milieu des années 90 par rapport à l’ensemble 
+                                    des revenus. Il n’est donc pas nécessaire d’agir.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">L’initiative crée des injustices en demandant que le revenu du capital 
+                                    soit plus lourdement imposé que le revenu du travail. Le revenu du capital n’est pas réalisé 
+                                    sans rien faire. Le capital doit lui aussi être produit : il faut réaliser un revenu et le 
+                                    mettre de côté.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Une imposition plus élevée du revenu du capital réduirait l’incitation à 
+                                    faire des épargnes et à constituer un capital grâce à celles-ci. Le capital est nécessaire pour 
+                                    que de nouvelles entreprises (par ex. jeunes pousses) puissent être créées et pour que les 
+                                    entreprises existantes puissent faire des investissements (par ex. dans l’extension des capacités 
+                                    de production ou dans de nouvelles technologies). La constitution de capital crée ainsi des 
+                                    emplois et augmente la productivité. Entraver ces activités par des impôts plus élevés est 
+                                    dommageable pour l’emploi et pour la prospérité en Suisse.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">C’est précisément pour les personnes dont le revenu du capital est élevé 
+                                    que les impôts jouent un rôle essentiel dans le choix du domicile. L’initiative affaiblit 
+                                    l’attrait de la place économique suisse. En comparaison internationale, la charge fiscale 
+                                    pesant sur le capital en Suisse est déjà assez lourde à l’heure actuelle en raison de l’impôt 
+                                    sur la fortune et de l’imposition élevée des dividendes, en particulier en l’absence de 
+                                    participation d’au moins 10 %.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le texte de l’initiative soulève de nombreuses questions : on ne sait 
+                                    pas au-delà de quel montant les revenus du capital seraient imposés plus lourdement, quels 
+                                    éléments du revenu seraient concernés et comment les recettes supplémentaires seraient 
+                                    redistribuées. Par ailleurs, le revenu du capital est très sensible à l’imposition. Il est 
+                                    peu probable de voir se réaliser les recettes supplémentaires escomptées par les auteurs de 
+                                    l’initiative. L’objectif de redistribution visé ne devrait donc pas être atteint. En fonction 
+                                    de la mise en oeuvre, l’imposition plus élevée du capital pourrait concerner bien davantage de 
+                                    personnes que l’initiative ne le prévoit.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Alliance du NON</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Les Jeunes socialistes lancent une nouvelle offensive pour augmenter 
+                                    les impôts. Ils réclament des hausses d’impôt et une nouvelle taxe sur les revenus du capital 
+                                    dont ils espèrent 8 milliards de francs de recettes supplémentaires. La nouvelle taxe frapperait 
+                                    des revenus du capital dès le premier franc. Pire : au-delà d’un certain seuil – encore à 
+                                    déterminer – les revenus devraient être imposés à 150% ; ainsi, les Jeunes socialistes veulent 
+                                    ajouter des revenus fictifs aux revenus réels pour taxer plus lourdement les contribuables. 
+                                    L’initiative est par ailleurs très floue sur bien des points. Les citoyens ne savent donc pas 
+                                    s’ils seront concernés, ni ce qui serait fait de leur argent.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Alliance du NON</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">La rhétorique des Jeunes socialistes est celle de la lutte des classes. 
+                                    C’est simple et émotionnel : il faut faire payer les riches. Mais attention aux mauvaises surprises. 
+                                    Si une personne a investi un peu d’argent, si elle est propriétaire d’un appartement, d’une maison, 
+                                    ou d’une exploitation agricole, si une personne dirige une entreprise ou investit dans des sociétés 
+                                    innovantes (start-up), elle se retrouvera prise au piège tendu par l’initiative. Avec ce texte, les 
+                                    gains en capital seront imposés dès le premier franc ! Le débat sur le montant-seuil est donc 
+                                    trompeur, car il n’y a pas de franchise en-dessous. L’initiative ne touchera donc pas seulement le 
+                                    1% des personnes les plus riches, mais aussi la classe moyenne. </p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Alliance du NON</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Les entreprises familiales et les PME suisses, dont certaines ont été 
+                                    durement touchées par la pandémie, sont particulièrement concernées par cette nouvelle taxe. 
+                                    Après les dizaines de milliards de francs mis à disposition par la Confédération et les cantons 
+                                    pour les aider à passer le cap de la crise, il serait absurde de les faire passer à la caisse 
+                                    pour des impôts supplémentaires. L’initiative rendrait aussi la transmission des entreprises 
+                                    familiales à la génération suivante beaucoup plus difficile et risquée. La hausse des impôts 
+                                    priverait l’entreprise des fonds dont elle a besoin pour investir et innover. En vidant 
+                                    l’entreprise de son capital, l’initiative forcerait la nouvelle génération devrait s’endetter 
+                                    davantage.</p>
                             </div>
                         </div>
                     </div>

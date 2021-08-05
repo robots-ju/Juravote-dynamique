@@ -48,7 +48,7 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Prochaines votations et élections</h1>
         <hr> 
-        <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid> 
+        <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid> 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="VotationsCH/2030-2021/2021-09-26/accueil.php">
@@ -93,6 +93,23 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation communale de Moutier du 26 septembre</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="VotationsCO/Porrentruy/2021-09-26/AgrandissementSTEP.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communePorrentruy ?>" alt="Votation fédérales du 26 septembre 2021">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation communale de Porrentruy du 26 septembre</h3>
                                 </div>
                             </div>
                         </div>

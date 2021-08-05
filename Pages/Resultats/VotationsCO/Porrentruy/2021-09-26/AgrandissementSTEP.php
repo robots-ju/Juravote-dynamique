@@ -50,8 +50,7 @@
         <section style="padding: 2%;">
             <h1 class="uk-heading-large">Modernisation du traitement des boues de la STEP</h1>
             <hr>
-            <h3 style="padding-bottom: 15%">Les informations seront bientôt disponibles !
-            <!--<div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *">
+            <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *">
                 <button class="uk-button uk-button-default" type="button">Résumé</button>
                 <button class="uk-button uk-button-default" type="button">Positions des partis politiques</button>
                 <button class="uk-button uk-button-default" type="button">Arguments pour</button>
@@ -59,163 +58,52 @@
             </div>  
             <ul class="uk-switcher uk-margin">
                 <li> 
-                    <div class="uk-alert-primary" uk-alert>
-                        <a class="uk-alert-close" uk-close></a>
-                        <h3>Séance d'information</h3>
-                        <p>Une séance d'informations est prévue le jeudi 22 avril 2021 à 19 h 30 à la salle de l'Inter.
-                        En raison des restrictions sanitaires, merci de vous inscrire :
-                        <a href="mailto:prestations.population@porrentruy.ch">prestations.population@porrentruy.ch</a>
-                        ou 032 465 77 77.</p>
-                    </div>
-                    <h3>Préambule</h3>
-                    <hr>
-                    <div class="uk-column-1-2@m uk-column-1-1@s">                        
-                        <p class="uk-text-justify">Ce projet figure en bonne 
-                        place du programme de législature 2018-2022 du Conseil municipal. En effet, pour offrir 
-                        durablement des prestations de qualité aux familles, Porrentruy se 
-                        doit d'investir dans ses infrastructures dédiées aux enfants. Après la construction de l'école 
-                        primaire au début des années 2000, de premiers aménagements avaient été consentis en 2008 pour 
-                        la Maison de l'enfance pour répondre à l'évolution des modes de garde. La société a continué sa 
-                        mutation et un nouvel investissement est nécessaire pour répondre à la demande.
+                    <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 5%">      
+                        <h3>Préambule</h3>    
+                        <hr>              
+                        <p class="uk-text-justify">La station d'épuration des eaux usées (STEP), sise en zone industrielle de Porrentruy,
+                            traite les eaux de neuf communes et 16'500 habitants. Elle a été mise en service en 1987.
                         </p>
 
-                        <p class="uk-text-justify">La Maison de l'enfance accueille environ 300 enfants de 4 mois à 
-                        12 ans. Avec les sites de Coeuve, Fontenais et La Baroche, ce sont plus de 450 enfants qui 
-                        fréquentent l'institution.</p>
+                        <p class="uk-text-justify">Cela fait donc 34 années que la STEP est en service. Les 9 communes membre du SEPE
+                            (Syndicat intercommunal pour l'épuration des eaux usées) considèrent que la STEP a besoin de travaux de
+                            modernisation, ceci dans le but de répondre aux exigences actuelles, car celles-ci évoluent sans cesse.
+                        </p>
 
-                        <p class="uk-text-justify">Dans notre ville, l'institution est actuellement répartie 
-                        sur 3 sites (rue des Tilleuls, Chemin de la Condemène, école St-Paul) considérant que 
-                        le site initial de la rue des Tilleuls est depuis plusieurs années 
-                        largement trop exigu au vu de la progression du nombre d'enfants. Le projet d'agrandissement de 
-                        la Maison de l'enfance est conçu pour répondre aux objectifs suivants :</p>
+                        <p class="uk-text-justify">C'est notamment pour cela que la STEP a été équipée pour éliminer les micro-polluants
+                            en 2020. D'autres travaux seront à envisager dans les années à venir, selon le SEPE.</p>
 
-                        <ul>
-                            <li>Avoir une structure dimensionnée pour répondre à la demande actuelle et future.</li>
-                            <li>Rassembler l'ensemble des enfants sur un même site afin de permettre un
-                            fonctionnement optimal et une suppression des pertes de synergie existantes.</li>
-                        </ul>
+                        <h3>Etat des ouvrages</h3>    
+                        <hr>  
+                        <p class="uk-text-justify">La durée de vie d'une STEP est de 33 ans, mais certains ouvrages ont pu être
+                            exploités plus longtemps, grâce au travail réalisé par les exploitants.</p>
 
-                        <img src="<?php echo $MaisonEnfancePorrentruy ?>" alt="Maison de l'Enfance Porrentruy">
-                        <figcaption class="uk-text-right">Source : Municipalité de Porrentruy</figcaption>
+                        <p class="uk-text-justify">C'est la raison pour laquelle le traitement des boues, qui est une composante
+                            importante du traitement des eaux usées, doit être changé : il arrive en fin de vie. D'importants
+                            défauts sont constatés dans le système, avec l'apparition de fuites de biogaz et de corrosions sur
+                            les équipements, mais aussi des problèmes d'isolation et de fuites dans les réacteurs.</p>
+
+                        <iframe title="Plan de situation" aria-label="map" id="datawrapper-chart-i8VFn" src="https://datawrapper.dwcdn.net/i8VFn/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="535"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                        </script>
                     </div>
 
-                    <h3>Etapes réalisées</h3>  
+                    <h3>Objectifs</h3>  
                     <hr>
-                    <p class="uk-text-justify" style="padding-bottom: 2%">Le projet a démarré début 2018 et différentes étapes se sont succédées
-                    jusqu'à ce jour, validées chacune par la Commission de gestion de la Maison de l'enfance, le Conseil 
-                    municipal et le Conseil de Ville :</p>
-
                     <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 2%">  
-                        <h5>Choix du site</h5>                 
-                        <p class="uk-text-justify">7 variantes ont été étudiées à travers d'une analyse multicritères. La
-                        solution consistant à rassembler tous les enfants à un seul endroit (soit le site des Tilleuls)
-                        a obtenu le score le plus important.</p>
+                        <p class="uk-text-justify" style="padding-bottom: 5%">Afin d'éviter des accidents pour le personnel, il convient dès lors de moderniser
+                            les installations de traitement des boues. Les travaux permettront également de simplifier le système et
+                            sécuriser les ouvrages, tout comme l'optimisation énergétique de l'infrastructure. 
+                        </p>
 
-                        <p class="uk-text-justify">Pour commencer, d'un point de vue financier, la surface à construire
-                        est moins importante étant donné que le bâtiment existe déjà. D'un second point de vue, fonctionnel,
-                        le regroupement sur un seul site permettra un accueil optimal et contribuera à limiter les charges
-                        de fonctionnement. Enfin, cette solution comporte d'autres avantages : terrain communal disponible
-                        et prévu pour ce type de construction, espaces verts à proximité, proximité des écoles, accessibilité
-                        aisée en transports publics ou privés.</p>
-
-                        <h5>Définition du nombre de places d'accueil</h5>                 
-                        <p class="uk-text-justify">A l'heure actuelle, il est autorisé d'accueillir 121 enfants sur
-                        les 3 sites de Porrentruy (moyenne annuelle à respecter). En réalité, l'institution dépasse
-                        parfois le nombre de 150 enfants fréquentant l'institution en même temps. Pour rappel, en
-                        2008, le bâtiment des Tilleuls était autorisé à accueillir 73 enfants. L'augmentation à
-                        121 places s'est faite grâce à l'utilisation de locaux externes.</p>
-
-                        <p class="uk-text-justify">La mise à disposition de nouvelles zones à bâtir laisse envisager
-                        une évolution de la population. Ainsi, le Conseil communal est d'avis que le bâtiment doit
-                        être dimensionné pour permettre l'accueil de 210 enfants (déterminé selon divers critères,
-                        particulièrement par le nombre d'enfants attribués à un éducateur). Ce nombre permet
-                        d'envisager l'acueil d'écoliers supplémentaires si la journée à horaire continu devenait
-                        d'actualité à l'école primaire.</p>
-                    </div>
-                    
-                    <div class="uk-column-1-3@m uk-column-1-1@s" style="padding-bottom: 2%">  
-                        <h5>Rédaction d'un cahier des charges</h5>                 
-                        <p class="uk-text-justify">Le cahier des charges détermine le nombre de salles, 
-                        les surfaces et équipements nécessaires pour assurer un fonctionnement optimisé.</p>
-
-                        <p class="uk-text-justify">Le site des Tilleuls offrira donc des surfaces suffisantes pour
-                        les 140 places dont disposera la Maison de l'enfance. Le projet permet non seulement de
-                        regrouper sur un seul site les places existantes, mais également de doubler la capacité
-                        d'accueil du site des Tilleuls.</p>
-
-                        <h5>Etude de faisabilité</h5>                 
-                        <p class="uk-text-justify">Une bureau d'architecture a été mandaté pour une réaliser
-                        une étude de faisabilité, qui avait pour objectifs la schématisation de différentes
-                        variantes d'implantation ou la réalisation d'un nouveau bâtiment sur le site des
-                        Tilleuls. Ceci dans le respect des besoins exprimés dans le cahier des charges afin
-                        d'obtenir un chiffrage à +/- 20 %.</p>
-
-                        <h5>Appel d'offres d'honoraires à un groupement multidisciplinaire de mandataires</h5>                 
-                        <p class="uk-text-justify">Il a ensuite été publié un appel d'offres d'honoraires à un 
-                        groupement pluridisciplinaire de mandataires (architecte, ingénieur civil, ingénieur 
-                        CVSE, etc. ) selon une procédure ouverte internationale conformément aux normes des 
-                        marchés publics. Le bureau MBR Architecture SA de Saint-lmier s'est vu octroyer le mandat
-                        comprenant une tranche ferme jusqu'au vote du crédit de réalisation, puis une tranche 
-                        conditionnelle pour la phase d'exécution.</p>
-                    </div>
-
-                    <div class="uk-column-1-2@m uk-column-1-1@s">                         
-                        <h5>Crédit d'études</h5>                 
-                        <p class="uk-text-justify">Un crédit d'études d'un montant de CHF 475'QOO. - 
-                        (dont le mandat à MBR Architecture SA) pour l'élaboration du projet, y compris 
-                        les appels d'offres et les adjudications pour une précision optimale des
-                        coûts, a été approuvé par le Conseil de Ville en juillet 2019.</p>
-
-                        <h5>Permis de construire</h5>                 
-                        <p class="uk-text-justify">La demande de permis de construire a été déposée en décembre 2019. 
-                        Au terme de la procédure et après la levée d'une opposition, le permis de construire a été 
-                        délivré par le Canton à fin mai 2020.</p> 
-
-                        <h5>Appels d'offre</h5>                 
-                        <p class="uk-text-justify">Les appels d'offres ont été lancés de manière à avoir une estimation 
-                        des coûts la plus précise possible au jour du vote du crédit de réalisation. Avec 90% de coûts 
-                        reposant sur des offres adjugées (évidemment sous réserve de l'acceptation du projet en votation 
-                        populaire) l'estimation financière est solide et permet de garantir le respect de l'enveloppe du 
-                        crédit sollicité.</p>
-
-                        <p class="uk-text-justify">Parmi ces offres adjugées, près de CHF 3'000'OOQ.- de travaux seront 
-                        réalisés par des entreprises sises à Porrentruy, ce qui consiste en un soutien fort à l'économie 
-                        locale. Relativement à l'acceptation d'un postulat par le Conseil de Ville concernant la nécessité 
-                        de porter une attention particulière pour éviter les effets des perturbateurs endocriniens sur les 
-                        enfants qui fréquentent la Maison de l'enfance, un volet y est consacré dans les appels d'offres.</p>                     
-                    </div>
-
-                    <h5>Elaboration du projet de réalisation</h5>     
-                    <div class="uk-column-1-2@m uk-column-1-1@s">           
-                        <p class="uk-text-justify">Le projet consiste en la construction d'un bâtiment, plus ou moins 
-                        parallèle à l'actuel, du côté sud, qui accueillera l'ensemble des groupes de crèches. Ce 
-                        nouveau bâtiment d'une surface d'environ 1700 m2 comporte deux étages qui sont partiellement 
-                        décalés l'un de l'autre permettant un accès de plain-pied au jardin également pour les groupes 
-                        situés à l'étage supérieur.</p>
-
-                        <p class="uk-text-justify">Une labellisation Minergie-P est nécessaire pour le nouveau bâtiment 
-                        selon les dispositions légales, ce qui permettra un fonctionnement énergétique optimal. Ceci 
-                        signifie notamment de tendre à l'auto-consommation électrique pour ce nouveau bâtiment par la 
-                        pose de panneaux solaires photovoltaïques. Une réflexion est actuellement en cours pour augmenter 
-                        la surface de panneaux photovoltaïques pour ainsi tendre à une auto-consommation pour les deux 
-                        bâtiments. Parallèlement, une étude est réalisée pour évaluer les possibilités d'opter pour un 
-                        financement participatif de cette installation. En cas de concrétisation, il s'agirait d'un projet 
-                        ad hoc qui n'influencerait pas celui de la Maison de l'enfance.</p>
-
-                        <p class="uk-text-justify">Un couloir de liaison permettra de « connecter » les deux bâtiments, 
-                        surface non-chauffée qui accueillera différents locaux de rangements. Le bâtiment actuel, d'une 
-                        surface de 800 m2 environ, accueillera l'unité d'accueil pour écoliers (UAPE), ainsi que la 
-                        cuisine professionnelle. Celle-ci, déjà existante, sera agrandie et mise aux normes. Hormis la 
-                        cuisine, diverses modifications mineures des locaux de ce bâtiment sont prévues, principalement 
-                        au niveau des équipements sanitaires.</p>
-
-                        <p class="uk-text-justify" style="padding-bottom: 3%">Des aménagements pour les accès et le stationnement sont également 
-                        inclus dans te projet, tout comme la création de plusieurs zones de jeux extérieurs pour les
-                        diverses tranches d'âge d'enfants.</p>
-
-                        <img width="900" height="900" src="<?php echo $MaisonEnfancePorrentruyExterieur ?>" alt="Maison de l'Enfance Porrentruy">
-                        <figcaption class="uk-text-right" style="padding-bottom: 3%">Source : Municipalité de Porrentruy</figcaption>
-                    </div>                                         
+                        <p class="uk-text-justify">La contrainte majeure sera le maintien de l'exploitation durant les travaux.
+                            En conséquence, les travaux se dérouleront en trois phases :
+                            <ul>
+                                <li>Réhabilitation du stockeur</li>
+                                <li>Réhabilitation du digesteur</li>
+                                <li>Réfection de l'ancien flottateur</li>
+                            </ul> 
+                        </p>
+                    </div>                                     
 
                     <div class="uk-column-1-2@m uk-column-1-1@s" style="padding-bottom: 3%">     
                         <h3>Enveloppe financière</h3>
@@ -223,122 +111,126 @@
                         <table class="uk-table uk-table-striped uk-table-hover">
                             <thead>
                                 <tr>
-                                    <th>Objets et parties d'ouvrage</th>
+                                    <th>Montants devisés par objets</th>
                                     <th class="uk-text-right">Montants TTC</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>Gros oeuvre</td>
-                                    <td class="uk-text-right">2'187'000</td>
+                                    <td>Frais administratifs</td>
+                                    <td class="uk-text-right">5'000</td>
                                 </tr>
                                 <tr>
-                                    <td>Second oeuvre</td>
-                                    <td class="uk-text-right">2'418'000</td>
+                                    <td>Travaux de maçonnerie</td>
+                                    <td class="uk-text-right">370'100</td>
                                 </tr>
                                 <tr>
-                                    <td>Cuisine professionnelle</td>
-                                    <td class="uk-text-right">240'000</td>
+                                    <td>Travaux de résine</td>
+                                    <td class="uk-text-right">444'350</td>
                                 </tr>
                                 <tr>
-                                    <td>Aménagements extérieurs</td>
-                                    <td class="uk-text-right">370'000</td>
+                                    <td>Travaux de peinture</td>
+                                    <td class="uk-text-right">37'200</td>
                                 </tr>
                                 <tr>
-                                    <td>Honoraires</td>
-                                    <td class="uk-text-right">365'000</td>
+                                    <td>Travaux de serrurerie</td>
+                                    <td class="uk-text-right">145'500</td>
                                 </tr>
                                 <tr>
-                                    <td>Crédits d'études (votés par le Conseil de Ville en 2019)</td>
-                                    <td class="uk-text-right">475'000</td>
+                                    <td>Travaux de chauffage, ventilation, sanitaire</td>
+                                    <td class="uk-text-right">30'000</td>
                                 </tr>
                                 <tr>
-                                    <td>Frais annexes</td>
-                                    <td class="uk-text-right">125'000</td>
+                                    <td>Travaux d'automatisation</td>
+                                    <td class="uk-text-right">239'500</td>
                                 </tr>
                                 <tr>
-                                    <td>Divers et réserves (env. 6 % du montant total)</td>
-                                    <td class="uk-text-right">320'000</td>
+                                    <td>Travaux d'électricité</td>
+                                    <td class="uk-text-right">133'000</td>
+                                </tr>
+                                <tr>
+                                    <td>Equipements électromécaniques</td>
+                                    <td class="uk-text-right">1'024'900</td>
+                                </tr>
+                                <tr>
+                                    <td>Etudes spécifiques</td>
+                                    <td class="uk-text-right">31'200</td>
+                                </tr>
+                                <tr>
+                                    <td>Honoraires d'ingénieurs</td>
+                                    <td class="uk-text-right">255'000</td>
+                                </tr>
+                                <tr>
+                                    <td>Divers et imprévus</td>
+                                    <td class="uk-text-right">246'000</td>
                                 </tr>
                                 <tr>
                                     <td><b>Sous-total</b></td>
-                                    <td class="uk-text-right"><b>6'500'000</b></td>
+                                    <td class="uk-text-right"><b>2'961'750</b></td>
                                 </tr>
                                 <tr>
-                                    <td>./. Subvention</td>
-                                    <td class="uk-text-right">./. 200'000</td>
+                                    <td>TVA 7.70 %</td>
+                                    <td class="uk-text-right">228'055</td>
                                 </tr>
                                 <tr>
-                                    <td><b>Total</b></td>
-                                    <td class="uk-text-right"><b>6'300'000</b></td>
+                                    <td><b>Total arrondi</b></td>
+                                    <td class="uk-text-right"><b>3'190'000</b></td>
                                 </tr>
                             </tbody>
                         </table>
                         
-                        <h3>Financement</h3>  
+                        <h3>Coûts</h3>  
                         <hr>                      
-                        <p class="uk-text-justify">La planification financière prévoit un montant de CHF 5'765'OQO.- 
-                        réparti sur les années 2021 à 2024 auquel s'ajoutent les dépenses déjà réalisées et votées 
-                        de 2018 à 2020 pour CHF 475'OO0. -, soit un total de CHF 6'240'O0O. -. Le projet est donc 
-                        conforme à la planification financière.</p>
+                        <p class="uk-text-justify">Les chiffres indiqués ci-contre ont déjà fait l'objet d'appels d'offres,
+                            ce qui permet une évaluation précise des coûts. Excepté les travaux spécifiques, l'ensemble des
+                            prestations sera réalisé par des entreprises jurassiennes.
+                        </p>
 
-                        <p class="uk-text-justify">Le crédit de réalisation sera couvert par voie d'emprunt. Ceci 
-                        aura un effet sur l'endettement municipal, mais il est à relever que ce type de projets 
-                        augmentera aussi les actifs au bilan. La charge financière annuelle moyenne et théorique 
-                        relative à cet investissement se montera à CHF 315'QOO. - en prenant en compte un 
-                        amortissement sur 25 ans et un taux de 1.75%.</p>
+                        <p class="uk-text-justify">A noter que les travaux permettront un gain en efficience des productions
+                            de gaz, et par conséquent de production d'électricité. Cela permettra donc une réduction des frais
+                            d'électricité et de chauffage, avec à la clé une réduction des frais d'entretien.
+                        </p>
 
-                        <h3>Coûts de fonctionnement</h3>    
+                        <h3>Processus décisionnel</h3>    
                         <hr>                    
-                        <p class="uk-text-justify">L'évolution des coûts de fonctionnement annuels est cruciale.
-                        Les coûts seront supérieurs de 52'000 vis-à-vis de la situation actuelle (future ventilation,
-                        futur ascenseur, futures chambres froides, etc...). En revanche, le regroupement sur un seul
-                        site permet plusieurs économies (optimisation de l'organisation du personnel, suppression des
-                        locations externes) pour un montant de 103'000.- par année.</p>
+                        <p class="uk-text-justify">La décision finale appartient aux communes membres du SEPE.
+                            Porrentruy est la seule à se prononcer par voie de votation communale, les 8 autres
+                            communes doivent passer par l'Assemblée communale. Au final, il faut la majorité des communes,
+                            qui doivent représenter 50 % de la population, y soit favorable.
+                        </p>
 
-                        <p class="uk-text-justify">En vu de l'augmentation du nombre de places autorisées par le Canton,
-                        un subventionnement fixe correspondant à 146'000.- par an sera perçu. Les coûts nets de
-                        fonctionnement seraient en baisse d'environ 197'000.- par année.</p>
+                        
+                        <h3>Calendrier</h3>    
+                        <hr> 
+                        <p><ul>
+                            <li>Mai à septembre 2021 : décision des communes</li>
+                            <li>Octobre 2021 à avril 2022 : projet d'exécution</li>
+                            <li>Avril 2022 à mai 2023 : réalisation des travaux</li>
+                        </ul></p>
 
-                        <p class="uk-text-justify">Les coûts d'amortissement se montent à 118'000.- annuellement.
-                        Ceci provoque un déficit de 118'000 par année. On constate en effet que le mode de subventionnement 
-                        par le canton en vigueur depuis mi-2016 ne permet pas d'équilibrer les comptes des structures 
-                        de l'enfance. Des démarches communes avec la Ville de Delémont ont été entreprises à plusieurs 
-                        reprises auprès du Canton (lettres, rencontre avec la Ministre) et sont poursuivies.
-                    </div>
-
-                    <div class="uk-column-1-2@m uk-column-1-1@s">                       
                         <h3>Développement durable</h3>    
                         <hr>                    
-                        <p class="uk-text-justify">La pose de panneaux photovoltaïques pour couvrir au mieux les besoins 
-                        du nouveau bâtiment est un réel atout du point de vue du développement durable. Il est également 
-                        probable, comme mentionné, que la Municipalité étende la surface obligatoire et lance son premier 
-                        projet de financement participatif pour une centrale solaire considérant son souhait d'intensifier 
-                        ses actions en matière de politique énergétique.</p>
-
-                        <p class="uk-text-justify">Tout comme le bâtiment actuel, le nouveau sera raccordé au Thermoréseau. 
-                        La récupération de l'eau de pluie pour alimenter les wc du nouveau bâtiment est également à relever 
-                        tout comme le fait que le nouveau bâtiment soit conçu à partir d'une ossature bois.</p>
-                        
-                        <h3>Planning</h3> 
-                        <hr>
-                        <p class="uk-text-justify">En cas d'acceptation, les travaux pourront démarrer mi-juin 2021. 
-                        La fin des travaux est prévue pour la fin de l'année 2022.</p>
-
+                        <p class="uk-text-justify">Ce projet permet le développement économique de la région par recours à des
+                            entreprises locales et permet d'améliorer la qualité du traitement des boues. L'autoconsommation du
+                            système sera renforcée et une production plus importante de biogaz et d'électricité est attendue.
+                            Tout ceci contribue au développement durable.
+                        </p>
+                    
                         <h3>La question qui vous est posée :</h3>
                         <hr>
-                        <b><p class="uk-text-justify">Approuvez-vous un crédit maximal de CHF 6'300'O0O. -, à couvrir par voie d'emprunt,
-                        en vue de la réalisation de l'agrandissement de la Maison de l'enfance ?</p></b>
+                        <b><p class="uk-text-justify">Approuvez-vous un crédit de CHF 3'190'000.-, financé par voie d'emprunt par
+                            le SEPE, pour le projet de modernisation du traitement des boues de la STEP ?
+                        </p></b>
                     </div>
                 </li>
                 <li>
                     <div class="uk-column-1-2@m uk-column-1-1@s">  
                         <h2>Autorités communales</h2>
-                        <iframe title="Recommandations de vote des autorités_Maison de l'Enfance" aria-label="chart" id="datawrapper-chart-OVFeP" src="https://datawrapper.dwcdn.net/OVFeP/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="245"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Recommandations de vote des autorités_Maison de l'Enfance (Copy)" aria-label="Anneau de choix" id="datawrapper-chart-X6xWp" src="https://datawrapper.dwcdn.net/X6xWp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="245"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
                         </script>
 
                         <h2>Partis politiques</h2>
-                        <iframe title="Recommandations de vote des partis_Maison de l'Enfance" aria-label="chart" id="datawrapper-chart-kqNHM" src="https://datawrapper.dwcdn.net/kqNHM/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="245"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+                        <iframe title="Recommandations de vote des partis_AgrandissementSTEP2021" aria-label="Anneau de choix" id="datawrapper-chart-QKB1K" src="https://datawrapper.dwcdn.net/QKB1K/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="245"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
                         </script>
                     </div>
                 </li>  
@@ -346,122 +238,20 @@
                     <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités communales</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p class="uk-text-justify">Le projet d'agrandissement de la maison de l'enfance est un des enjeux majeurs 
-                                de la présente législature. Pour que la municipalité de Porrentruy puisse proposer 
-                                une politique familiale moderne, des infrastructures adaptées, répondant aux besoins 
-                                actuels et futurs, sont nécessaires.</p>
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p class="uk-text-justify">Ce projet permet de mieux concilier vie familiale et vie professionnelle tout 
-                                en augmentant l'attractivité de la région pour les familles. Il s'agit donc d'un 
-                                moteur de développement important.</p>
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p class="uk-text-justify">Un tel investissement est avantageux à plusieurs niveaux :
-                                    <ul>
-                                        <li class="uk-text-justify">La proximité du site avec l'école primaire permet de simplifier 
-                                        l'organisation des familles.</li>
-                                        <li class="uk-text-justify">Des infrastructures adaptées aux besoins valorisent et simplifient 
-                                        le travail du personnel.</li>
-                                        <li class="uk-text-justify">Pour une durée d'amortissement de 50 ans, le bilan financier serait 
-                                        quasiment à l'équilibre. Ce projet est donc financièrement intéressant 
-                                        pour la commune.</li>
-                                    </ul>
-                                </p>
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p class="uk-text-justify">Cet investissement, primordial pour le développement futur de la ville de Porrentruy, 
-                                doit permettre de répondre aux besoins des familles en offrant des possibilités de garde 
-                                plus nombreuses rassemblées sur un seul site au lieu de 3 actuellement.</p>
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p class="uk-text-justify">Après étude du projet, force est de constater que celui-ci est de qualité répondant 
-                                aux besoins identifiés tout en étant en adéquation avec les attentes des professionnels 
-                                de la petite enfance pour exercer leur travail correctement. De surcroît, nous relevons 
-                                à satisfaction que de nombreux choix ont été effectués afin d’avoir un projet mesuré qui 
-                                s’inscrit dans la planification financière de la commune.</p>
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p class="uk-text-justify">Certes, l’investissement de 6'300'000 CHF reste conséquent pour notre ville surtout 
-                                dans sa situation financière actuelle. Nous sommes bien entendu soucieux de cette 
-                                situation, mais nous tenons à rappeler que ce projet est attendu et qu’il répond à un 
-                                besoin réel. Nous invitons donc la population à voter OUI et ainsi investir pour l’avenir 
-                                des familles bruntrutaines.</p>
+                                <p class="uk-text-justify">Les ouvrages de la STEP sont âgés de plus de 30 ans, plusieurs équipements 
+                                    sont en fin de vie. Une modernisation et un assainissement sont nécessaires afin d’assurer un 
+                                    traitement des boues et supprimer tout danger pour les exploitants. Cet investissement n’a 
+                                    aucune influence sur les comptes communaux.</p>
                             </div>
                         </div>
                     </div>
                 </li>
                 <li>
-                <p>Il n'y a pas d'arguments contre ce projet.</p>
-                <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>                    
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil fédéral et Parlement</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Une solution satisfaisante existe déjà.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil fédéral et Parlement</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>La Suisse ne peut pas contraindre d’autres pays à prévoir une telle interdiction.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil fédéral et Parlement</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Une menace pour nos rentes et pour la place financière.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil fédéral et Parlement</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Un impact négatif sur l’industrie.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil fédéral et Parlement</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>Une politique étrangère et une politique de sécurité responsables.</p>
-                        </div>
-                    </div>
+                    <p style="padding-bottom: 10%">Il n'y a pas d'arguments contre ce projet !</p>
                 </li>
-            </ul>-->
+            </ul>
         </section>
     </main>
 </body>

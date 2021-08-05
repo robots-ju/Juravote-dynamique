@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Votation Porrentruy 09.05.2021</title>
+        <title>JuraVote | Votation Porrentruy 26.09.2021</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -47,10 +47,11 @@
         </div>
     </header>
     <main>
-    <section style="padding: 2%;">
-            <h1 class="uk-heading-large">Agrandissement de la Maison de l’enfance</h1>
+        <section style="padding: 2%;">
+            <h1 class="uk-heading-large">Modernisation du traitement des boues de la STEP</h1>
             <hr>
-            <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *">
+            <h3 style="padding-bottom: 15%">Les informations seront bientôt disponibles !
+            <!--<div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *">
                 <button class="uk-button uk-button-default" type="button">Résumé</button>
                 <button class="uk-button uk-button-default" type="button">Positions des partis politiques</button>
                 <button class="uk-button uk-button-default" type="button">Arguments pour</button>
@@ -419,7 +420,7 @@
                 </li>
                 <li>
                 <p>Il n'y a pas d'arguments contre ce projet.</p>
-                <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>                    
+                <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>                    
                     <div>
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="uk-card-badge uk-label badge uk-border-rounded">Conseil fédéral et Parlement</div>
@@ -458,9 +459,9 @@
                             <h3 class="uk-card-title"></h3>                            
                             <p>Une politique étrangère et une politique de sécurité responsables.</p>
                         </div>
-                    </div>-->
+                    </div>
                 </li>
-            </ul>
+            </ul>-->
         </section>
     </main>
 </body>

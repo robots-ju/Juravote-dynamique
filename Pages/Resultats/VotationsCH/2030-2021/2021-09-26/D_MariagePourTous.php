@@ -355,7 +355,7 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p class="uk-text-justify">es personnes du même genre qui s’aiment ne sont aujourd’hui pas égales sur le plan juridique 
+                                <p class="uk-text-justify">Les personnes du même genre qui s’aiment ne sont aujourd’hui pas égales sur le plan juridique 
                                     dans notre pays, car elles ne sont pas autorisées à se marier et se voient ainsi refuser des 
                                     droits importants. Un OUI clair au mariage pour toutes et tous serait un signal important pour 
                                     notre société, le monde du travail et surtout les jeunes. Les pays qui ont introduit le mariage
@@ -389,20 +389,6 @@
                                 <p class="uk-text-justify">La Suisse est l’un des deux derniers pays en Europe à n’avoir pas autorisé le mariage pour 
                                     les personnes de même genre. Il est grand temps de prendre enfin en compte ce changement 
                                     sociétal !</p>
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
-                                <h3 class="uk-card-title"></h3>                            
-                                <p class="uk-text-justify">Selon la Commission fédérale d’experts pour la sécurité biologique, les bactéries 
-                                résistantes aux antibiotiques représentent « une des plus grandes menaces pour la 
-                                santé publique en Suisse ». Le prix pour une production de viande et de lait de plus 
-                                en plus performante est élevé : aujourd’hui, près de 30 000 kilogrammes d’antibiotiques 
-                                sont utilisés chaque année dans les élevages en Suisse, et souvent de manière 
-                                prophylactique. Cette utilisation massive d’antibiotiques favorise le développement de 
-                                bactéries qui y sont résistantes.</p>
                             </div>
                         </div>
                     </div>

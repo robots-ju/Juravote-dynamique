@@ -119,7 +119,7 @@
                         définir dans la loi sera exonérée de cette imposition.
                         </p>
 
-                        <p class="uk-text-justify">Le montant prévu ,exonéré de l'imposition,
+                        <p class="uk-text-justify">Le montant prévu, exonéré de l'imposition,
                         est là pour protéger les petites fortunes. Les revenus jusqu'à hauteur de ce montant seront donc imposés à 100%, comme
                         actuellement, tandis que les revenus supérieurs le seront à 150%.
                         </p>
@@ -212,7 +212,7 @@
                                 de plus que ce sont les salarié·e·s, les 99 %, qui font vivre notre société. Ce sont les infirmière*ers,
                                 les caissière*ers, les logisticien·ne·s, les pharmacien·ne·s, les enseignant·e·s, les accompagnatrice*
                                 eurs d’enfants ou encore les scientifiques qui créent la richesse dans notre société, tandis
-                                que le 1 % le plus riche s’approprient les fruits de leur travail. </p>
+                                que le 1 % le plus riche s’approprie les fruits de leur travail. </p>
                             </div>
                         </div>
 

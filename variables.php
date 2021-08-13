@@ -601,8 +601,8 @@
 
 
 
-    $PHPresultatsVotationsJU = "/Juravote-dynamique/Pages/Resultats/VotationsJU/VotationsJU.php";
-    $PHPresultatsVotationsCO = "/Juravote-dynamique/Pages/Resultats/VotationsCO/VotationsCO.php";
+    $PHPresultatsVotationsJU = "/Juravote-dynamique/Pages/Resultats/VotationsJU/votationsJU.php";
+    $PHPresultatsVotationsCO = "/Juravote-dynamique/Pages/Resultats/VotationsCO/votationsCO.php";
 
     $PHPvotationselectionsAccueil = "/Juravote-dynamique/Pages/Resultats/accueilVE.php";
     $PHPelectionsAccueil = "/Juravote-dynamique/Pages/Votations et Elections/Elections/elections.php";

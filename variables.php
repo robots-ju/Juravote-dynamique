@@ -602,8 +602,8 @@
 
 
 
-    $PHPresultatsVotationsJU = "/Pages/Resultats/VotationsJU/VotationsJU.php";
-    $PHPresultatsVotationsCO = "/Pages/Resultats/VotationsCO/VotationsCO.php";
+    $PHPresultatsVotationsJU = "/Pages/Resultats/VotationsJU/votationsJU.php";
+    $PHPresultatsVotationsCO = "/Pages/Resultats/VotationsCO/votationsCO.php";
 
     $PHPvotationselectionsAccueil = "/Pages/Resultats/accueilVE.php";
     $PHPelectionsAccueil = "/Pages/Votations et Elections/Elections/elections.php";

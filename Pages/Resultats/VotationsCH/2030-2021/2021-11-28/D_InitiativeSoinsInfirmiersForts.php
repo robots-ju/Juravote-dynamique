@@ -218,17 +218,6 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p class="uk-text-justify">Le nombre d’animaux élevés pour la production de viande et d’œufs en Suisse est aujourd’hui 
-                                artificiellement augmenté par l’importation massive de 1,2 million de tonnes de fourrage par an.
-                                Il en résulte un excédent de lisier, qui entraîne la présence de nitrates cancérigènes dans
-                                l’eau potable.</p>
-                            </div>
-                        </div>
-
-                        <div>
-                            <div class="uk-card uk-card-default uk-card-body">
-                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
-                                <h3 class="uk-card-title"></h3>                            
                                 <p class="uk-text-justify">Seule l’augmentation du nombre de professionnels garantira que des soins 
                                     pourront continuer d’être prodigués à tous.</p>
                             </div>

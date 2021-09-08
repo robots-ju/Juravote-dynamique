@@ -293,6 +293,17 @@
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">L'initative permettra aux revenus du capital d’être plus fortement 
+                                    imposés. Les recettes qui en résulteront profiteront aux personnes à faibles ou moyens revenus.
+                                    L’initiative permettra une plus grande équité fiscale et une répartition plus juste des richesses.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
                                 <h3 class="uk-card-title"></h3>                            
                                 <p class="uk-text-justify">Celle-ci prévoit d’imposer plus fortement les revenus du capital du 
@@ -306,11 +317,83 @@
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">En Suisse, la richesse est créée par les 99 % de la population qui, 
+                                    chaque jour, travaillent dans des bureaux, des supermarchés ou des hôpitaux, et non par une 
+                                    poignée de super-riches qui laissent leur argent leur offrir des rendements massifs sans 
+                                    qu’elles et ils n’aient besoin de travailler . En imposant davantage les plus grands revenus 
+                                    de la fortune, nous rendons l’argent aux personnes qui contribuent réellement à notre société.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">L’augmentation des loyers et des primes d’assurance-maladie dévore une 
+                                    part toujours plus grande du revenu des gens. L’initiative 99% réduit la charge pesant sur les 
+                                    salaires grâce à des diminutions d’impôts et un renforcement du service public, notamment par 
+                                    le biais d’une augmentation des subsides pour les primes d’assurance-maladie, des investissements 
+                                    dans les crèches ou encore par le développement des transports publics.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Avec l’augmentation des inégalités de richesse, notre système économique 
+                                    menace de causer sa propre perte. La concentration de la richesse entre les mains d’une petite 
+                                    minorité favorise les crises économiques, tandis que le pouvoir d’achat de l’ensemble de la 
+                                    population diminue. Ce sont les 99 % qui en souffrent, et aussi les petites entreprises.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">En Suisse, les femmes effectuent toujours deux fois plus de travail non 
+                                    rémunéré que les hommes au sein du ménage et reçoivent un salaire inférieur pour le même travail. 
+                                    Dans notre pays, la pauvreté est avant tout féminine. L’initiative 99 % permet de développer le 
+                                    service public et de soulager les personnes aux bas revenus, ce qui profitera en particulier aux 
+                                    femmes.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">L’inégalité sociale menace de déchirer notre société. Les super-riches 
+                                    achètent des groupes de presse entiers et influencent la politique par du lobbying et des 
+                                    campagnes électorales coûteuses, ce qui donne lieu à un rapport de force anti-démocratique 
+                                    jouant en défaveur des 99%. Notre initiative veut inverser cette tendance.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
                                 <h3 class="uk-card-title"></h3>                            
                                 <p class="uk-text-justify">Elle crée un peu plus de jus­tice en Suisse, car elle éli­mine l'imposition 
                                     pri­vi­lé­giée accor­dée actuel­le­ment aux divi­dendes par rap­port aux salaires et contre­carre ainsi 
                                     l'inégalité toujours crois­sante dans le pays.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Aujourd'hui, les reve­nus du capi­tal sont pri­vi­lé­giés de diverses manières. 
+                                    Les divi­dendes ne sont impo­sés qu'à 50-70 %, alors que les salaires sont impo­sés à 100 %. 
+                                    L'initiative 99 % per­met de limi­ter ces pri­vi­lèges, qui pro­fitent prin­ci­pa­le­ment aux riches, 
+                                    tout en lut­tant contre l'inégalité crois­sante dans notre pays. Sur le fond, c'est aussi une 
+                                    ques­tion de valeurs et de moti­va­tion des tra­vailleurs : voulons-nous récom­pen­ser celui qui 
+                                    aug­mente sa for­tune en « lais­sant tra­vailler son argent » pour lui ou celui qui gagne son argent 
+                                    par un tra­vail per­sé­vé­rant ?</p>
                             </div>
                         </div>
                     </div>
@@ -372,6 +455,22 @@
                                     de la charge fiscale pour les investisseurs, les entrepreneurs, les épargnants et les hauts revenus 
                                     et nuirait à l'attractivité de la Suisse en tant que site économique. Les conséquences seraient 
                                     une diminution des investissements ainsi qu'un frein à l'innovation et à l’esprit d'entreprise.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pvl uk-border-rounded">PVL</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Les vert‘libéraux estiment qu'il est juste de moins taxer les salaires 
+                                    afin que les revenus du travail effectif soient moins durement imposés. Il est également vrai 
+                                    que la forte concentration des richesses sur les mêmes catégories de personnes pose un problème 
+                                    évident. « Une réforme de la fiscalité devrait soulager les travailleurs à tous les niveaux, et 
+                                    ainsi créer des incitations équitables sur le marché du travail. En ce sens, l'initiative 99% 
+                                    n'est pas très efficace, puisqu’elle aimerait prélever un impôt supplémentaire sur les revenus 
+                                    du capital de façon excessive en vue d’augmenter les dépenses sociales, sans préciser quelles 
+                                    seront ici les priorités. Cela bride également la capacité d'innovation de nos PME et rend les 
+                                    successions au sein d’entreprises familiales très onéreuses ».</p>
                             </div>
                         </div>
 

@@ -329,6 +329,20 @@
 
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pvl uk-border-rounded">PVL</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Les gens se marient parce qu'ils désirent pérenniser leur union, 
+                                    régler leur communauté de vie à l’aide de la loi ou encore clairement exprimer leur amour 
+                                    envers la société. À ce jour, une partie de la société s'est vue refuser le droit au mariage 
+                                    civil, le partenariat enregistré ne donnant accès qu’à ce qui peut être qualifié de « mariage 
+                                    de seconde zone ». Cette situation est pour le moins indigne d'un État de droit moderne : 
+                                    l'état n'a pas à évaluer les préférences sexuelles ou les projets de vie de ses citoyens et 
+                                    citoyennes.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
                                 <h3 class="uk-card-title"></h3>                            
                                 <p class="uk-text-justify">Les VERT-E-S veulent vivre dans une société où les couples de même sexe ont les mêmes droits 
@@ -348,6 +362,17 @@
                                     de la société et l’égalité des droits de toutes et tous, quelque soit leur mode de vie. Les VERT-E-S 
                                     sont  convaincu-e-s que l’égalité, la tolérance, la diversité et le respect mutuel sont les 
                                     fondements du vivre-ensemble.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Il est grand temps que le mariage soit possible pour tous les couples, 
+                                    peu importe leur sexe. De plus, être de bons parents n’a rien à voir avec leur sexe. Les enfants 
+                                    ont avant tout besoin d’amour et de stabilité. C’est pourquoi il est juste que la procréation 
+                                    médicalement assistée devienne accessible aux couples de femmes.</p>
                             </div>
                         </div>
 
@@ -389,6 +414,32 @@
                                 <p class="uk-text-justify">La Suisse est l’un des deux derniers pays en Europe à n’avoir pas autorisé le mariage pour 
                                     les personnes de même genre. Il est grand temps de prendre enfin en compte ce changement 
                                     sociétal !</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le mariage pour toutes et tous est un pas historique dans 
+                                    le sens de l’égalité.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le mariage pour toutes et tous offre une meilleure protection pour 
+                                    les familles et les enfants.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le mariage pour toutes et tous est un développement logique du mariage.</p>
                             </div>
                         </div>
                     </div>
@@ -575,6 +626,56 @@
                                     fran­chit une ligne rouge pour le PEV. De plus, la consti­tu­tion n'autorise la méde­cine 
                                     repro­duc­tive que pour les couples hété­ro­sexuels et seule­ment en der­nier recours, en cas 
                                     d'infertilité médi­ca­le­ment confir­mée.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Il est évident que des modi­fi­ca­tions doivent être appor­tées au sta­tut 
+                                    actuel du Par­te­na­riat enre­gis­tré dans le Droit civil de manière à ce que les couples homo­sexuels 
+                                    ne soient pas pré­té­ri­tés par rap­port aux couples hété­ro­sexuels. Tou­te­fois, nous consi­dé­rons que 
+                                    le projet de loi qui nous est sou­mis va trop loin en matière de droits des couples de même sexe.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Indé­pen­dam­ment des convic­tions reli­gieuses, cette loi sou­lève des pro­blèmes 
+                                    éthiques. Il n’est pas seule­ment ques­tion de l’union de deux per­sonnes de même sexe qui s’aiment, 
+                                    car nous ne dou­tons pas que c’est le cas ou qu’ils sont capables d’éduquer des enfants, mais nous 
+                                    déplo­rons une modi­fi­ca­tion fon­da­men­tale dans la concep­tion du couple, de la famille et 
+                                    par­ti­cu­liè­re­ment de la paren­ta­lité.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Nous dénonçons une renon­cia­tion au rôle des pères qui deviennent de 
+                                    simples pour­voyeurs de sperme (PMA) pour les couples de les­biennes. Il faut savoir éga­le­ment 
+                                    que cette loi, au nom de l’égalité des droits, crée une autre inéga­lité puisque les gays 
+                                    n’auront pas les mêmes droits que les les­biennes (puisque la Ges­ta­tion pour autrui reste 
+                                    inter­dite). Ceci dit, mal­gré les déné­ga­tions des par­ti­sans de la loi, on peut s’attendre à 
+                                    de nou­velles exi­gences dans un ave­nir proche pour intro­duire cette pos­si­bi­lité pour les 
+                                    couples gays en ins­tau­rant un mar­ché de mères por­teuses rému­né­rées en Suisse. Nous ne pou­vons 
+                                    approu­ver cette concep­tion de la pro­créa­tion entre per­sonnes de même sexe.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Nous ne fai­sons pas de dis­cri­mi­na­tion, mais de la dif­fé­ren­cia­tion. 
+                                    Nous savons que les enfants adop­tés connaissent sou­vent de fortes crises iden­ti­taires et 
+                                    sou­haitent connaître leur ori­gine. Il ne sera pas aisé de leur expliquer d’où ils viennent, 
+                                    avant leur 18° anni­ver­saire. Sont-ce les atti­rances sexuelles et les sen­ti­ments, ou bien la 
+                                    « science », qui doivent dic­ter notre éthique sociale ? </p>
                             </div>
                         </div>
 

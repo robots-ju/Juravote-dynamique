@@ -73,7 +73,7 @@
                                     <ul class="uk-nav-sub">
                                         <li><a href="Boécourt/2019_2023/GouvernementBoécourt.php">Boécourt</a></li>
                                         <li><a href="Bourrignon/2019_2023/GouvernementBourrignon.php">Bourrignon</a></li>
-                                        <li><a href="Chatillon/2019_2023/GouvernementChâtillon.php">Châtillon</a></li>
+                                        <li><a href="Châtillon/2019_2023/GouvernementChâtillon.php">Châtillon</a></li>
                                         <li><a href="Courchapoix/2019_2023/GouvernementCourchapoix.php">Courchapoix</a></li>
                                         <li><a href="Courrendlin/2019_2023/GouvernementCourrendlin.php">Courrendlin</a></li>
                                         <li><a href="Courroux/2019_2023/GouvernementCourroux.php">Courroux</a></li>

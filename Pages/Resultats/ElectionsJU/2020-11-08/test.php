@@ -13,7 +13,6 @@
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssIndex; ?>"/>
         <link rel="stylesheet" href="<?php echo $csselections; ?>"/>
-        <link rel="stylesheet" href="<?php echo $cssbadges; ?>"/>
         
         <script src="<?php echo $jsUikit ?>"></script>
         <script src="<?php echo $jsUikitIcons ?>"></script>
@@ -47,9 +46,15 @@
         </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Election du Gouvernement jurassien (1er tour) - 18 octobre 2020</h1>
+        <h1 class="uk-heading-large">Election du Gouvernement jurassien (2e tour) - 08 novembre 2020</h1>
         <hr>
-
+        <h3>Les informations sur le deuxième tour de l'Election au Gouvernement Jurassien seront disponibles la semaine suivant
+        le premier tour de la même élection !
+        <!--<div class="uk-alert-primary" uk-alert>
+            <a class="uk-alert-close" uk-close></a>
+            <p>Vous trouverez plus d'informations sur les candidates et candidats en cliquant sur leurs cartes respectives !
+            (la mise en ligne se fait au fur et à mesure des retours des candidates et candidats)</p>
+        </div>
         <div class="switcher-buttons uk-text-left" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%">
             <button class="uk-button uk-button-default" type="button">En bref</button>
             <button class="uk-button uk-button-default" type="button">Liste des candidats-es</button>
@@ -65,7 +70,6 @@
                 et le 08 novembre. Les élus-es seront connus-es lors du deuxième tour, le 08 novembre prochain.
                 </p>
             </li>
-
             <li>
                 <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
@@ -105,7 +109,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC-JDC</div>
@@ -124,7 +127,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC-JDC</div>
@@ -143,7 +145,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div>       
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
@@ -162,7 +163,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
@@ -181,7 +181,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-cspop uk-border-rounded">CS-POP</div>
@@ -238,7 +237,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
@@ -257,7 +255,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-verts uk-border-rounded">Verts</div>
@@ -276,7 +273,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pvl uk-border-rounded">PVL</div>
@@ -295,7 +291,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pvl uk-border-rounded">PVL</div>
@@ -319,13 +314,13 @@
             
             <li>
             </li>
-        </ul>        
+        </ul> -->       
     </section>
 </main>
 </body>
 <footer>
         <div class="footer">
-            <?php include $_SERVER['DOCUMENT_ROOT']."/Includes/Footer/footer.php"; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Footer/footer.php"; ?>
         </div>
     </footer>
 </html>

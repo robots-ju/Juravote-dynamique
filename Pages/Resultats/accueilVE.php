@@ -153,7 +153,7 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="VotationsCH/2030-2021/2021-11-28/accueil.php">
+                    <a href="VotationsCO/ValTerbi/2021-11-28/Accueil.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">

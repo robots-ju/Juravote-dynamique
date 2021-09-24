@@ -52,16 +52,72 @@
             équitablement le capital"</h1>
             <hr>
             <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
-                <!--<button class="uk-button uk-button-default" type="button">Résultats</button>-->
+                <button class="uk-button uk-button-default" type="button">Résultats</button>
                 <button class="uk-button uk-button-default" type="button">Résumé</button>
                 <button class="uk-button uk-button-default" type="button">Positions des partis et autorités</button>
                 <button class="uk-button uk-button-default" type="button">Arguments pour</button>
                 <button class="uk-button uk-button-default" type="button">Arguments contre</button>
             </div>  
             <ul class="uk-switcher uk-margin">
-                <!--<li>
-                    <h3 style="padding-bottom: 10%">Les résultats seront disponibles le 26 septembre dès 12:00 !</h3>
-                </li>-->
+                <li>
+                    <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                        <div>
+                            <div class="uk-card uk-card-default">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-column" uk-grid>
+                                        <h2>Informations de la votation</h2>
+                                    </div>
+                                </div>
+                                <div class="uk-card-body uk-text-left">
+                                    <p><b>Objet : </b>Initative 99%</p>
+                                    <p><b>Participation : </b>---</p>
+                                    <p><b>Résultat : </b>---</p>
+                                    <p><b>Type de la votation : </b>Votation fédérale</p>
+                                    <p><b>Mode de votation : </b>Initiative populaire</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-default">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-column" uk-grid>
+                                        <h2>Résultats</h2>
+                                    </div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <iframe title="Iniatitive99%_GLOBAL" aria-label="chart" id="datawrapper-chart-pDrpE" src="https://datawrapper.dwcdn.net/pDrpE/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="323"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-default">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-column" uk-grid>
+                                        <h2>Résultats</h2>
+                                    </div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <iframe title="Initiative99%_Suisse" aria-label="map" id="datawrapper-chart-RFEnu" src="https://datawrapper.dwcdn.net/RFEnu/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="426"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-default">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-column" uk-grid>
+                                        <h2>Résultats Jura</h2>
+                                    </div>
+                                </div>
+                                <div style="padding-top: 0.5%" class="uk-card-body">
+                                    <iframe title="Initiative99%_JURA" aria-label="map" id="datawrapper-chart-KTATX" src="https://datawrapper.dwcdn.net/KTATX/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="433"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
 
                 <li>  
                     <h3>Contexte</h3>

@@ -52,12 +52,47 @@
         pour le réaménagement du secteur du carrefour de Graitery, des réseaux souterrains et du ruisseau de la Combe Allerie.</h1>
         <hr>
         <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
+                <button class="uk-button uk-button-default" type="button">Résultats</button>        
                 <button class="uk-button uk-button-default" type="button">Résumé</button>
                 <button class="uk-button uk-button-default" type="button">Positions des partis politiques de Moutier</button>
                 <button class="uk-button uk-button-default" type="button">Arguments pour</button>
                 <button class="uk-button uk-button-default" type="button">Arguments contre</button>
             </div>  
             <ul class="uk-switcher uk-margin">
+                <li>
+                    <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                        <div>
+                            <div class="uk-card uk-card-default">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-column uk-align-left" uk-grid>
+                                        <h2>Informations de la votation</h2>
+                                    </div>
+                                </div>
+                                <div class="uk-card-body uk-text-left">
+                                    <p><b>Objet : </b>Réaménagement du carrefour du Graitery</p>
+                                    <p><b>Participation : </b>---</p>
+                                    <p><b>Résultat : </b>---</p>
+                                    <p><b>Type de la votation : </b>Votation communale (Moutier)</p>
+                                    <p><b>Mode de votation : </b>Scrutin populaire</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-card uk-card-default">
+                                <div class="uk-card-header">
+                                    <div class="uk-grid-small uk-flex-column uk-align-left" uk-grid>
+                                        <h2>Résultats communaux</h2>
+                                    </div>
+                                </div>
+                                <section style="padding: 2%;">                        
+                                    <iframe title="CarrefourGraiteryResultats" aria-label="chart" id="datawrapper-chart-FrM4p" src="https://datawrapper.dwcdn.net/FrM4p/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="323"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                                    </script>                     
+                                </section>
+                            </div>
+                        </div> 
+                    </div>
+                </li>
+                
                 <li>            
                     <div class="uk-column-1-2@m uk-column-1-1@s">
                         <h3>L'objet en résumé</h3>

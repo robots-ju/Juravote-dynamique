@@ -184,6 +184,23 @@
                     </a>
                 </div>
             </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="ElectionsCO/Montfaucon/2021-11-28/Mairie.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeMontfaucon ?>" alt="Election Montfaucon">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Montfaucon du 28 novembre</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
         </div>                
     </section>
 </main>

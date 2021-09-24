@@ -59,16 +59,16 @@ d’un-e maire</h1>
 
         <p>Les actes de candidatures
         doivent être remis au Conseil communal jusqu’au lundi
-        19 avril 2021, à 12 heures. Ils indiqueront le nom, le prénom,
+        4 octobre 2021, à 12 heures. Ils indiqueront le nom, le prénom,
         l’année de naissance et la profession du (de la) candidat-
         e. Les actes de candidature doivent porter la signature
         manuscrite du (de la) candidat-e et celles d’au moins
         cinq électeurs-trices domiciliés-es dans la commune.</p>
 
-        <h2 style="padding-bottom: 2%;">Résultats à l'issue du délai de dépôt des listes</h2>
+        <!--<h2 style="padding-bottom: 2%;">Résultats à l'issue du délai de dépôt des listes</h2>
         <p>Aucun-e candidat-e ne s'est présenté-e à l'élection complémentaire à la Mairie.
         Une élection libre aura donc lieu le 13 juin 2021.
-        </p>
+        </p>-->
         
     </section>
 </main>

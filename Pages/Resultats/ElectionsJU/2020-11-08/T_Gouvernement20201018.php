@@ -2,10 +2,12 @@
 <html lang="fr">
 <head>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
+
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Election au Gouvernement jurassien</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+
         <link rel="stylesheet" href="<?php echo $cssNormalize; ?>">
         <link rel="stylesheet" href="<?php echo $cssUikitMin; ?>"/>
         <link rel="stylesheet" href="<?php echo $cssMain; ?>"/>
@@ -17,14 +19,19 @@
         <script src="<?php echo $jsUikitIcons ?>"></script>
         <script src="<?php echo $jsUikitMin ?>"></script>
         <script src="<?php echo $jsUikitIconsMin ?>"></script>
+
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166072477-1"></script>
         <script>
             window.dataLayer = window.dataLayer || [];
+
             function gtag() {
                 dataLayer.push(arguments);
             }
+
             gtag('js', new Date());
+
             gtag('config', 'UA-166072477-1');
         </script>
     </head>
@@ -33,15 +40,15 @@
             <div class="navbar-normal">
                 <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
             </div>
+
             <div>
                 <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar-mobile.php"; ?>
             </div>
         </header>
 <main>
     <section style="padding: 2%;">
-        <h1 class="uk-heading-large">Election du Gouvernement jurassien (2e tour) - 08 novembre 2020</h1>
+        <h1 class="uk-heading-large">Election du Gouvernement jurassien (1er tour) - 18 octobre 2020</h1>
         <hr>
-        
         <div class="uk-alert-primary" uk-alert>
             <a class="uk-alert-close" uk-close></a>
             <p>Vous trouverez plus d'informations sur les candidates et candidats en cliquant sur leurs cartes respectives !
@@ -54,17 +61,16 @@
         <ul class="uk-switcher uk-margin">
             <li>
                 <h1>Les élections cantonales en bref</h1>
-                <p>Les résultats du 1er tour sont disponibles <a href="<?php echo $PHPresultatGouvernementJU20201018 ?>">ici.</a></p>
-
-                <p>Pour l'instant, les 5 Ministres sortants-es sont candidats-es à leur réelection, ainsi que X candidats-es.
-                <p>Pour l'instant, les 5 Ministres sortants-es sont candidats-es à leur réelection, ainsi que 1 candidat<!---es-->.
-                Au 1er tour, Martial Courtet (PDC) termine en 1re place, suivi de Nathalie Barthoulot (PS), de Rosalie Beuret Siess
-                (PS), de Jacques Gerber (PLR), de Stéphane Babey (PDC) et de David Eray (PCSI). Les candidats-es Verts Jura,
-                Verts-Libéraux, CS-POP et UDC figurent dans le bas de classement.</p>
+                <p>13 candidats-es sont en lice pour l'Election au Gouvernement jurassien. Ces 13 personnalités proviennent de
+                8 formations politiques pour décrocher les 5 sièges au sein de l'Exécutif.
+                </p>
+                <p>Les 5 Ministres sortants-es sont candidats-es à leur réélection. L'Election se déroule en deux tours : le 18 octobre
+                et le 08 novembre. Les élus-es seront connus-es lors du deuxième tour, le 08 novembre prochain.
+                </p>
             </li>
+
             <li>
-                <h3>Ci-dessous figurent les candidats-es qui se sont déjà annoncées pour le 2e tour !</h3>
-                <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+                <div class="uk-child-width-1-5@l uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI</div>
@@ -102,6 +108,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC-JDC</div>
@@ -120,6 +127,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">PDC-JDC</div>
@@ -138,6 +146,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div>       
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
@@ -156,6 +165,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PSJ-JSJ</div>
@@ -174,7 +184,8 @@
                             </div>
                         </div>
                     </div>
-                    <!--<div>
+
+                    <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pop uk-border-rounded">CS-POP</div>
                             <div class="uk-card-header">
@@ -230,6 +241,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div>
                         <a href="#modal-full-1" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
@@ -278,6 +290,7 @@
                                                 sociales qu'elle entraîne, et en tenant compte du fait avéré scientifiquement que les pandémies actuelles
                                                 découlent de la destruction des écosystèmes par l'homme, il est urgent de revoir nos priorités quant à
                                                 nos choix de société, et de penser à l'avenir de nos enfants. </p>
+
                                                 <h4>Priorités politiques</h4>
                                                 <p>Comme précédemment dit, mes priorités sont autant l'urgence climatique que l'urgence sociale, indissociables.
                                                 Il ne peut y avoir d'amélioration de nos conditions de vie, et de celles de tout être vivant sur cette planète,
@@ -296,9 +309,11 @@
                                                     pas la crise sociale dans laquelle nous plonge la crise sanitaire, mais que leurs conditions s'améliorent à
                                                     la sortie de la crise. Cela impliquera de revoir nos priorités en terme de société.</li>
                                                 </ul>
+
                                                 <h4>Vos loisirs</h4>
                                                 <p>Peu de loisirs malheureusement par manque de temps, mais essentiellement la découverte des musées :
                                                 art, archéologie, société, etc.....</p>
+
                                                 <h4>Vos réseaux sociaux</h4>
                                                 <ul>
                                                     <li class="icon_resaux"><a href="https://twitter.com/CelineLinder" target="_blank" uk-icon="icon: twitter; ratio: 2"></a></li>
@@ -306,6 +321,7 @@
                                                     <li class="icon_resaux"><a href="https://www.facebook.com/celine.robertcharruelinder.3" target="_blank" uk-icon="icon: facebook; ratio: 2"></a></li>
                                                 </ul>
                                             </li>
+
                                             <li>
                                                 <table class="uk-table">
                                                     <thead>
@@ -330,6 +346,7 @@
                                                     </tbody>
                                                 </table>    
                                             </li>
+
                                             <li>
                                                 <table class="uk-table">
                                                     <thead>
@@ -346,6 +363,7 @@
                                                     </tbody>
                                                 </table>
                                             </li>
+
                                             <li>          
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
@@ -362,6 +380,7 @@
                                                     </div>
                                                 </div>                                             
                                             </li>
+
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
@@ -396,6 +415,7 @@
                                                     </div>
                                                 </div>  
                                             </li>
+
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
@@ -412,6 +432,7 @@
                                                     </div>
                                                 </div>  
                                             </li>
+
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
@@ -428,6 +449,7 @@
                                                     </div>
                                                 </div>  
                                             </li>
+
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
@@ -464,6 +486,7 @@
                                                     emplois liés à ces nouvelles technologies est très important. </li>
                                                 </ul>
                                             </li>
+
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
@@ -482,6 +505,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div>
                         <a href="#modal-full-2" uk-toggle>
                             <div class="uk-card uk-card-default uk-card-hover uk-text-center">
@@ -525,19 +549,24 @@
                                                 <h4>Motivations</h4>
                                                 <p>Contribuer au développement de conditions cadre permettant
                                                 à la société de devenir durable.</p>
+
                                                 <p>Allez voter! Vive la démocratie! Prenez soin de vous!</p>
+
                                                 <h4>Priorités politiques</h4>
                                                 <p>Un partage solidaire de l'ensemble de nos ressource pour que
                                                 nous puissions en profiter toutes et tous. Plus d'égalité, de
                                                 solidarité et d'écologie, moins de pollution et de sexisme.</p>
+
                                                 <h4>Vos loisirs</h4>
                                                 <p>basket-ball, marche, vélo </p>
+
                                                 <h4>Vos réseaux sociaux</h4>
                                                 <ul>
                                                     <li class="icon_resaux"><a href="https://www.linkedin.com/in/vincent-schmitt-8a030486/ " target="_blank" uk-icon="icon: linkedin; ratio: 2"></a></li>
                                                     <li class="icon_resaux"><a href="https://www.cernievillers.ch/?page_id=65 " target="_blank" uk-icon="icon: link; ratio: 2"></a></li>
                                                 </ul>
                                             </li>
+
                                             <li>
                                                 <table class="uk-table">
                                                     <thead>
@@ -560,6 +589,7 @@
                                                     </tbody>
                                                 </table>    
                                             </li>
+
                                             <li>
                                                 <table class="uk-table">
                                                     <thead>
@@ -576,6 +606,7 @@
                                                     </tbody>
                                                 </table>
                                             </li>
+
                                             <li>          
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
@@ -592,6 +623,7 @@
                                                     </div>
                                                 </div>                                             
                                             </li>
+
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
@@ -626,6 +658,7 @@
                                                     </div>
                                                 </div>  
                                             </li>
+
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
@@ -646,6 +679,7 @@
                                                 soit 6'000.- par mois! Il ne s'agit donc pas d'un seuil d'exonération d'impôts
                                                 pour les bas revenus qui, par ailleurs, existe déjà.</p>
                                             </li>
+
                                             <li>
                                                 <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
@@ -663,6 +697,7 @@
                                                 </div> 
                                                 <p>Longue vie au CJ, une compagnie régionale à taille humaine!</p> 
                                             </li>
+
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
@@ -676,6 +711,7 @@
                                                 </div> 
                                                 <p>En l'état des connaissances, je soutien le projet de géothermie.</p>
                                             </li>
+
                                             <li>
                                                 <div class="uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
                                                     <div class="uk-card uk-card-body">       
@@ -694,6 +730,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pvl uk-border-rounded">PVL</div>
@@ -712,6 +749,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div>
                         <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                             <div class="uk-card-badge uk-label badge-pvl uk-border-rounded">PVL</div>
@@ -729,7 +767,7 @@
                                 <p class="uk-text-center text-fonction">1978 - Delémont - Architecte EPFL / Urbaniste FSU</p>
                             </div>
                         </div>  
-                    </div>-->
+                    </div>
                 </div>  
             </li>
             

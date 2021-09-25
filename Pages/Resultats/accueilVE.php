@@ -51,65 +51,14 @@
         <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid> 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="VotationsCH/2030-2021/2021-09-26/accueil.php">
+                    <a href="ElectionsCO/Pleigne/2021-11-14/ConseilCommunal.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $pouvoirFederal ?>" alt="Votation fédérales du 26 septembre 2021">
+                                    <img width="150" height="150" src="<?php echo $communePleigne ?>" alt="Election Pleigne">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations fédérales du 26 septembre</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="ElectionsCO/ValTerbi/20210926/ElectionMairie.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeValTerbi ?>" alt="Election à la Mairie de Val-Terbi">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election à la Mairie de Val-Terbi du 26 septembre</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="VotationsCO/Moutier/2021_09_26/20210926.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeMoutier ?>" alt="Votation fédérales du 26 septembre 2021">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation communale de Moutier du 26 septembre</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="VotationsCO/Porrentruy/2021-09-26/AgrandissementSTEP.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communePorrentruy ?>" alt="Votation fédérales du 26 septembre 2021">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation communale de Porrentruy du 26 septembre</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election communale Pleigne du 14 novembre</h3>
                                 </div>
                             </div>
                         </div>
@@ -127,6 +76,57 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations fédérales du 28 novembre</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="VotationsCO/ValTerbi/2021-11-28/Accueil.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeValTerbi ?>" alt="Votations Val-Terbi">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations Val-Terbi du 28 novembre</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="ElectionsCO/Chatillon/2021-11-28/CommissionFinances.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeChatillon ?>" alt="Election Châtillon">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Châtillon du 28 novembre</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="ElectionsCO/Montfaucon/2021-11-28/Mairie.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeMontfaucon ?>" alt="Election Montfaucon">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Montfaucon du 28 novembre</h3>
                                 </div>
                             </div>
                         </div>

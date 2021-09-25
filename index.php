@@ -63,7 +63,65 @@
                     </div>
                     
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s uk-flex-first@s">   
-                        <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>   
+                        <h3 class="uk-heading-divider uk-text-center">Prochaines votations</h3>  
+                        <a href="Pages/Resultats/ElectionsCO/Pleigne/2021-11-14/ConseilCommunal.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >14.11</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Pleigne</h3>
+                                </div>                          
+                            </div>
+                        </a>   
+
+                        <a href="Pages/Resultats/VotationsCH/2030-2021/2021-11-28/accueil.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.11</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votations fédérales</h3>
+                                </div>                          
+                            </div>
+                        </a>   
+                        
+                        <a href="Pages/Resultats/VotationsCO/ValTerbi/2021-11-28/Accueil.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.11</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votations Val-Terbi</h3>
+                                </div>                          
+                            </div>
+                        </a>   
+
+                        <a href="Pages/Resultats/ElectionsCO/Chatillon/2021-11-28/CommissionFinances.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.11</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Châtillon</h3>
+                                </div>                          
+                            </div>
+                        </a>   
+
+                        <a href="Pages/Resultats/ElectionsCO/Montfaucon/2021-11-28/Mairie.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.11</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Montfaucon</h3>
+                                </div>                          
+                            </div>
+                        </a>   
+                    </div>
+
+                    <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       
+                        <h3 class="uk-heading-divider uk-text-center">Derniers résultats</h3>
                         <a href="Pages/Resultats/VotationsCH/2030-2021/2021-09-26/accueil.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -108,52 +166,7 @@
                             </div>
                         </a> 
 
-                        <a href="Pages/Resultats/VotationsCH/2030-2021/2021-11-28/accueil.php">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.11</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votations fédérales</h3>
-                                </div>                          
-                            </div>
-                        </a>                             
-                    </div>
-
-                    <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       
-                        <h3 class="uk-heading-divider uk-text-center">Derniers résultats</h3>
-                        <a href="Pages/Resultats/VotationsCH/2030-2021/2021-06-13/vfederales.php">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votations fédérales</h3>
-                                </div>                          
-                            </div>
-                        </a> 
-
-                        <a href="Pages/Resultats/VotationsJU/2021-06-13/R_Egalite_Salariale.php">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Votation cantonale</h3>
-                                </div>                          
-                            </div>
-                        </a> 
-
-                        <a href="Pages/Resultats/Resultats_ScrutinsCommunaux_20210613.php">                          
-                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
-                                <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.06</div>
-                                </div>
-                                <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Scrutins communaux</h3>
-                                </div>                          
-                            </div>
-                        </a>                                             
+                                                                     
                     </div>                                        
                 </div> 
                 <div class="uk-column-1-2@m" style="padding: 2%">

@@ -31,6 +31,7 @@
     $communeLesBois = "/IMG/Logo/Communes/LesBois.png";
     $communeMovelier = "Juravote-dynamique/IMG/Logo/Communes/Movelier.png";
     $communeNoirmont = "/IMG/Logo/Communes/Noirmont.jpg";
+    $communePleigne = "/IMG/Logo/Communes/Pleigne.png";
     $communePorrentruy = "/IMG/Logo/Communes/Porrentruy.png";
     $communeValTerbi = "/IMG/Logo/Communes/ValTerbi.png";
 

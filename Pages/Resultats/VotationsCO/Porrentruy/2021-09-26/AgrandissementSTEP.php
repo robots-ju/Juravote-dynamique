@@ -69,8 +69,8 @@
                                 </div>
                                 <div class="uk-card-body uk-text-left">
                                     <p><b>Objet : </b>Modernisation du traitement des boues de la STEP</p>
-                                    <p><b>Participation : </b>---</p>
-                                    <p><b>Résultat : </b>---</p>
+                                    <p><b>Participation : </b>41.63</p>
+                                    <p><b>Résultat : </b>Accepté</p>
                                     <p><b>Type de la votation : </b>Votation communale (Porrentruy)</p>
                                     <p><b>Mode de votation : </b>Scrutin populaire</p>
                                 </div>

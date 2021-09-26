@@ -70,9 +70,10 @@
                                 </div>
                                 <div class="uk-card-body uk-text-left">
                                     <p><b>Objet : </b>Initative 99%</p>
-                                    <p><b>Participation : </b>---</p>
-                                    <p><b>Résultat de la majorité du peuple : </b>---</p>
-                                    <p><b>Résultat de la majorité des cantons : </b>---</p>
+                                    <p><b>Participation : </b>44.00 %</p>
+                                    <p><b>Résultat de la majorité du peuple : </b>32.90 %</p>
+                                    <p><b>Résultat de la majorité des cantons : </b>0 / 23</p>
+                                    <p><b>Résultat final : </b>Refusé</p>
                                     <p><b>Type de la votation : </b>Votation fédérale</p>
                                     <p><b>Mode de votation : </b>Initiative populaire</p>
                                 </div>

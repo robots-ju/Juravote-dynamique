@@ -82,7 +82,9 @@
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Loi sur le mariage pour tous</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Modification du
+                                        Code civil suisse
+                                    </h3>
                                 </div>
                             </div>
                         </div>

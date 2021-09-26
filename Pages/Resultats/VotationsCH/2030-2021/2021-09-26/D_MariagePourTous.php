@@ -48,7 +48,7 @@
     </header>
     <main>
     <section style="padding: 2%;">
-            <h1 class="uk-heading-large">Modification du Code civil suisse (Mariage pour tous)</h1>
+            <h1 class="uk-heading-large">Modification du Code civil suisse</h1>
             <hr>
             <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
                 <button class="uk-button uk-button-default" type="button">Résultats</button>
@@ -68,7 +68,7 @@
                                     </div>
                                 </div>
                                 <div class="uk-card-body uk-text-left">
-                                    <p><b>Objet : </b>Initative 99%</p>
+                                    <p><b>Objet : </b>Modification du Code civil suisse</p>
                                     <p><b>Participation : </b>---</p>
                                     <p><b>Résultat : </b>---</p>
                                     <p><b>Type de la votation : </b>Votation fédérale</p>

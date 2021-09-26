@@ -69,8 +69,8 @@
                                 </div>
                                 <div class="uk-card-body uk-text-left">
                                     <p><b>Objet : </b>Modification du Code civil suisse</p>
-                                    <p><b>Participation : </b>44.00</p>
-                                    <p><b>Résultat : </b>Accepté (provisoire)</p>
+                                    <p><b>Participation : </b>52.60</p>
+                                    <p><b>Résultat : </b>Accepté</p>
                                     <p><b>Type de la votation : </b>Votation fédérale</p>
                                     <p><b>Mode de votation : </b>Initiative populaire</p>
                                 </div>

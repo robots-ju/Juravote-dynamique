@@ -70,8 +70,8 @@
                                 </div>
                                 <div class="uk-card-body uk-text-left">
                                     <p><b>Objet : </b>Réaménagement du carrefour du Graitery</p>
-                                    <p><b>Participation : </b>---</p>
-                                    <p><b>Résultat : </b>---</p>
+                                    <p><b>Participation : </b>47.44 %</p>
+                                    <p><b>Résultat : </b>Accepté</p>
                                     <p><b>Type de la votation : </b>Votation communale (Moutier)</p>
                                     <p><b>Mode de votation : </b>Scrutin populaire</p>
                                 </div>

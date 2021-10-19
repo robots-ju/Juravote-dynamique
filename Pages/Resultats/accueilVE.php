@@ -132,6 +132,74 @@
                         </div>
                     </a>
                 </div>
+            </div>
+            
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="ElectionsCO/Bourrignon/2021-12-12/MairieBourrignon.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeBourrignon ?>" alt="Election Bourrignon">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Bourrignon du 12 décembre</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="ElectionsCO/Enfers/2021-12-19/ConseilCommunalEnfers.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeEnfers ?>" alt="Election Les Enfers">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Les Enfers du 19 décembre</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="ElectionsCO/Soubey/2021-12-19/MairieSoubey.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $communeSoubey ?>" alt="Election Soubey">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Soubey du 19 décembre</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="VotationsCH/2030-2021/2022-02-13/accueil.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $pouvoirFederal ?>" alt="Votation fédérales du 13 février 2022">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations fédérales du 13 février</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
             </div> 
         </div>                
     </section>

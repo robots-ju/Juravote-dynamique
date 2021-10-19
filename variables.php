@@ -15,6 +15,7 @@
     //communes :
     $communeBelprahon = "/Juravote-dynamique/IMG/Logo/Communes/Belprahon.png";
     $communeBoecourt = "/Juravote-dynamique/IMG/Logo/Communes/Boecourt.png";
+    $communeBourrignon = "/Juravote-dynamique/IMG/Logo/Communes/Bourrignon.png";
     $communeBonfol = "/Juravote-dynamique/IMG/Logo/Communes/Bonfol.png";
     $communeChatillon = "/Juravote-dynamique/IMG/Logo/Communes/Chatillon.png";
     $communeCourchapoix ="/Juravote-dynamique/IMG/Logo/Communes/Courchapoix.png";
@@ -26,6 +27,7 @@
     $communeGenevez = "/Juravote-dynamique/IMG/Logo/Communes/Genevez.png";
     $communeHauteSorne = "/Juravote-dynamique/IMG/Logo/Communes/HauteSorne.png";
     $communeLajoux = "/Juravote-dynamique/IMG/Logo/Communes/Lajoux.png";   
+    $communeEnfers = "/Juravote-dynamique/IMG/Logo/Communes/LesEnfers.jpg";   
     $communeMettembert = "/Juravote-dynamique/IMG/Logo/Communes/Mettembert.png"; 
     $communeMontfaucon = "/Juravote-dynamique/IMG/Logo/Communes/Montfaucon.png";
     $communeLesBois = "/Juravote-dynamique/IMG/Logo/Communes/LesBois.png";
@@ -33,6 +35,7 @@
     $communeNoirmont = "/Juravote-dynamique/IMG/Logo/Communes/Noirmont.jpg";
     $communePleigne = "/Juravote-dynamique/IMG/Logo/Communes/Pleigne.png";
     $communePorrentruy = "/Juravote-dynamique/IMG/Logo/Communes/Porrentruy.png";
+    $communeSoubey = "/Juravote-dynamique/IMG/Logo/Communes/Soubey.png";
     $communeValTerbi = "/Juravote-dynamique/IMG/Logo/Communes/ValTerbi.png";
 
     $communeMoutier = "/Juravote-dynamique/IMG/Logo/Communes/Moutier.jpg";
@@ -382,6 +385,7 @@
         $Sous = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Sous.jpg";
         $Suisse = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Suisse.png";
         $Surpopulation = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Surpopulation.jpg";
+        $Tabac = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Tabac.jpg";
         $TransportsPublics = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/TransportsPublics.jpg";
         $Tunnel = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Tunnel.jpg";
         $Vache = "/Juravote-dynamique/IMG/Votations/BANQUE_IMAGE/Vache.jpg";

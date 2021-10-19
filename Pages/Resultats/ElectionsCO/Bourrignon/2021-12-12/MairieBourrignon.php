@@ -67,7 +67,7 @@ d’un-e maire</h1>
 
         <h2 style="padding-bottom: 2%;">Résultats à l'issue du délai de dépôt des listes</h2>
         <p>Une seule liste a été déposée ce lundi 18 octobre 2021. Thierry Sautebin (sans parti) est élu tacitement à la Mairie de
-        Montfaucon. Il entrera en fonction le 1er décembre 2022.</p>
+        Bourrignon. Il entrera en fonction le 1er décembre 2022.</p>
 
         <p>En conséquence, il n'y aura pas d'élection le 12 décembre 2021.
         </p>

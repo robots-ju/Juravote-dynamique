@@ -4,8 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/Juravote-dynamique/variables.php'; ?>
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
-        <title>JuraVote | Election complémentaire par les urnes
-d’un-e Maire</title>
+        <title>JuraVote | Elections de Bourrignon</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -35,6 +34,7 @@ d’un-e Maire</title>
         </script>
     </head>
 <body>
+<!-- Barre de navigation -->
 <header>
             <div class="navbar-normal">
                 <?php include $_SERVER['DOCUMENT_ROOT']."/Juravote-dynamique/Includes/Navbar/navbar.php"; ?>
@@ -45,20 +45,22 @@ d’un-e Maire</title>
             </div>
         </header>
 <main>
-    <section style="padding: 2%">
-        <h1 class="uk-heading-large">Soubey - Election complémentaire par les urnes
-        d’un-e Maire</h1>
+    <section style="padding: 2%;">
+        <h1 class="uk-heading-large">Résultats des élections communales (Bourrignon)</h1>
         <hr>
-        <h2 style="padding-bottom: 2%;">Délai de dépôt des listes</h2>
-        <p>Les électrices et électeurs de la commune de Soubey sont convoqués aux urnes afin de procéder à l’élection complémentaire
-            d’un Maire, selon le système majoritaire à deux tours, conformément aux dispositions de la loi cantonale sur les droits
-            politiques et du règlement communal sur les élections.</p>
-
-        <p>Les actes de candidatures doivent être remis au Conseil communal jusqu’au lundi 25 octobre 2021, à 12 heures. Ils indiqueront
-            le nom, le prénom, l’année de naissance et la profession du (de la) candidat- e. Les actes de candidature doivent porter la
-            signature manuscrite du (de la) candidat-e et celles d’au moins cinq électeurs-trices domiciliés-es dans la commune.
-        </p>
-        
+        <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="2021-12-12/MairieBourrignon.php">
+                        <div class="uk-card-body">
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat uk-text-center">Election communale du 12 décembre 2021</h3>
+                                </div>
+                        </div>
+                    </a>
+                </div>      
+            </div>
+        </div>          
     </section>
 </main>
 <footer>

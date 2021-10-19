@@ -5,7 +5,7 @@
 
         <link rel="shortcut icon" href="<?php echo $juravoteIcon; ?>"/>
         <title>JuraVote | Election complémentaire par les urnes
-d’un-e Maire</title>
+d’un-e maire</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -46,17 +46,30 @@ d’un-e Maire</title>
         </header>
 <main>
     <section style="padding: 2%">
-        <h1 class="uk-heading-large">Soubey - Election complémentaire par les urnes
-        d’un-e Maire</h1>
+        <h1 class="uk-heading-large">Bourrignon - Election complémentaire par les urnes
+d’un-e maire</h1>
         <hr>
         <h2 style="padding-bottom: 2%;">Délai de dépôt des listes</h2>
-        <p>Les électrices et électeurs de la commune de Soubey sont convoqués aux urnes afin de procéder à l’élection complémentaire
-            d’un Maire, selon le système majoritaire à deux tours, conformément aux dispositions de la loi cantonale sur les droits
-            politiques et du règlement communal sur les élections.</p>
+        <p>Les électrices et électeurs de la commune de Bourrignon
+        sont convoqués aux urnes afin de procéder à
+        l’élection complémentaire d’un-e maire, selon le système
+        majoritaire à deux tours, conformément aux dispositions
+        de la loi cantonale sur les droits politiques et du règlement
+        communal sur les élections.</p>
 
-        <p>Les actes de candidatures doivent être remis au Conseil communal jusqu’au lundi 25 octobre 2021, à 12 heures. Ils indiqueront
-            le nom, le prénom, l’année de naissance et la profession du (de la) candidat- e. Les actes de candidature doivent porter la
-            signature manuscrite du (de la) candidat-e et celles d’au moins cinq électeurs-trices domiciliés-es dans la commune.
+        <p>Les actes de candidatures
+        doivent être remis au Conseil communal jusqu’au lundi
+        18 octobre 2021, à 12 heures. Ils indiqueront le nom, le prénom,
+        l’année de naissance et la profession du (de la) candidat-
+        e. Les actes de candidature doivent porter la signature
+        manuscrite du (de la) candidat-e et celles d’au moins
+        cinq électeurs-trices domiciliés-es dans la commune.</p>
+
+        <h2 style="padding-bottom: 2%;">Résultats à l'issue du délai de dépôt des listes</h2>
+        <p>Une seule liste a été déposée ce lundi 18 octobre 2021. Thierry Sautebin (sans parti) est élu tacitement à la Mairie de
+        Montfaucon. Il entrera en fonction le 1er décembre 2022.</p>
+
+        <p>En conséquence, il n'y aura pas d'élection le 12 décembre 2021.
         </p>
         
     </section>

@@ -95,33 +95,66 @@
                                     <h3 class="uk-card-title">Votations Val-Terbi</h3>
                                 </div>                          
                             </div>
-                        </a>   
-
-                        <a href="Pages/Resultats/ElectionsCO/Chatillon/2021-11-28/CommissionFinances.php">                          
+                        </a>
+                        
+                        <a href="Pages/Resultats/ElectionsCO/Enfers/2021-12-19/ConseilCommunalEnfers.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.11</div>
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >19.12</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Election Châtillon</h3>
+                                    <h3 class="uk-card-title">Election Les Enfers</h3>
                                 </div>                          
                             </div>
-                        </a>   
+                        </a>
 
+                        <a href="Pages/Resultats/ElectionsCO/Soubey/2021-12-19/MairieSoubey.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >19.12</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Soubey</h3>
+                                </div>                          
+                            </div>
+                        </a>
+
+                        <a href="Pages/Resultats/VotationsCH/2030-2021/2022-02-13/accueil.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.02</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votations fédérales</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+                    </div>
+
+                    <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       
+                        <h3 class="uk-heading-divider uk-text-center">Derniers résultats</h3>
+                        <a href="Pages/Resultats/ElectionsCO/Bourrignon/2021-12-12/MairieBourrignon.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >12.12 (18.10)</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Bourrignon</h3>
+                                </div>                          
+                            </div>
+                        </a> 
+                        
                         <a href="Pages/Resultats/ElectionsCO/Montfaucon/2021-11-28/Mairie.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.11</div>
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.11 (04.10)</div>
                                 </div>
                                 <div class="uk-card-body">
                                     <h3 class="uk-card-title">Election Montfaucon</h3>
                                 </div>                          
                             </div>
-                        </a>   
-                    </div>
+                        </a> 
 
-                    <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       
-                        <h3 class="uk-heading-divider uk-text-center">Derniers résultats</h3>
                         <a href="Pages/Resultats/VotationsCH/2030-2021/2021-09-26/accueil.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">

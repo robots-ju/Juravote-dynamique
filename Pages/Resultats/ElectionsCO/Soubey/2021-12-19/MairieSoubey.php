@@ -46,7 +46,7 @@ d’un-e Maire</title>
         </header>
 <main>
     <section style="padding: 2%">
-        <h1 class="uk-heading-large">Les Enfers - Election complémentaire par les urnes
+        <h1 class="uk-heading-large">Soubey - Election complémentaire par les urnes
         d’un-e Maire</h1>
         <hr>
         <h2 style="padding-bottom: 2%;">Délai de dépôt des listes</h2>

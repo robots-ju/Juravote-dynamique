@@ -48,7 +48,7 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Prochaines votations et élections</h1>
         <hr> 
-        <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid> 
+        <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid> 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="ElectionsCO/Pleigne/2021-11-14/ConseilCommunal.php">
@@ -93,57 +93,6 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations Val-Terbi du 28 novembre</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="ElectionsCO/Chatillon/2021-11-28/CommissionFinances.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeChatillon ?>" alt="Election Châtillon">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Châtillon du 28 novembre</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div> 
-
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="ElectionsCO/Montfaucon/2021-11-28/Mairie.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeMontfaucon ?>" alt="Election Montfaucon">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Montfaucon du 28 novembre</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            
-            <div>
-                <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="ElectionsCO/Bourrignon/2021-12-12/MairieBourrignon.php">
-                        <div class="uk-card-body">
-                            <div class="uk-grid-small uk-flex-column" uk-grid>
-                                <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeBourrignon ?>" alt="Election Bourrignon">
-                                </div>
-                                <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Bourrignon du 12 décembre</h3>
                                 </div>
                             </div>
                         </div>

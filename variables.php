@@ -15,6 +15,7 @@
     //communes :
     $communeBelprahon = "/IMG/Logo/Communes/Belprahon.png";
     $communeBoecourt = "/IMG/Logo/Communes/Boecourt.png";
+    $communeBourrignon = "/IMG/Logo/Communes/Bourrignon.png";
     $communeBonfol = "/IMG/Logo/Communes/Bonfol.png";
     $communeChatillon = "/IMG/Logo/Communes/Chatillon.png";
     $communeCourchapoix ="/IMG/Logo/Communes/Courchapoix.png";
@@ -26,6 +27,7 @@
     $communeGenevez = "/IMG/Logo/Communes/Genevez.png";
     $communeHauteSorne = "/IMG/Logo/Communes/HauteSorne.png";
     $communeLajoux = "/IMG/Logo/Communes/Lajoux.png";   
+    $communeEnfers = "/IMG/Logo/Communes/LesEnfers.jpg";   
     $communeMettembert = "/IMG/Logo/Communes/Mettembert.png"; 
     $communeMontfaucon = "/IMG/Logo/Communes/Montfaucon.png";
     $communeLesBois = "/IMG/Logo/Communes/LesBois.png";
@@ -33,6 +35,7 @@
     $communeNoirmont = "/IMG/Logo/Communes/Noirmont.jpg";
     $communePleigne = "/IMG/Logo/Communes/Pleigne.png";
     $communePorrentruy = "/IMG/Logo/Communes/Porrentruy.png";
+    $communeSoubey = "/IMG/Logo/Communes/Soubey.png";
     $communeValTerbi = "/IMG/Logo/Communes/ValTerbi.png";
 
     $communeMoutier = "/IMG/Logo/Communes/Moutier.jpg";
@@ -383,6 +386,7 @@
         $Sous = "/IMG/Votations/BANQUE_IMAGE/Sous.jpg";
         $Suisse = "/IMG/Votations/BANQUE_IMAGE/Suisse.png";
         $Surpopulation = "/IMG/Votations/BANQUE_IMAGE/Surpopulation.jpg";
+        $Tabac = "/IMG/Votations/BANQUE_IMAGE/Tabac.jpg";
         $TransportsPublics = "/IMG/Votations/BANQUE_IMAGE/TransportsPublics.jpg";
         $Tunnel = "/IMG/Votations/BANQUE_IMAGE/Tunnel.jpg";
         $Vache = "/IMG/Votations/BANQUE_IMAGE/Vache.jpg";

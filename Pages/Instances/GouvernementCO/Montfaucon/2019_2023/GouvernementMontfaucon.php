@@ -53,9 +53,8 @@
         <div class="uk-child-width-1-3@xl uk-child-width-1-3@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small" uk-grid>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge-pcsi uk-border-rounded">PCSI</div><br>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Vincent Hennin</h3>
+                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-body">Albert Gonin</h3>
                         <p>Mairie, administration générale, finances, personnel, affaires militaires</p>
                     </div>
                 </div>
@@ -80,9 +79,9 @@
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
-                    <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
+                    <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Katia Belser</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Gaétan Marchand</h3>
                         <p>Pâturages, agriculture, forêts, politique agricole</p>
                     </div>
                 </div>
@@ -100,7 +99,7 @@
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                     <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">José Noirjean</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Marc Dällenbach</h3>
                         <p>Urbanisme, développement économique, énergie, télécommunications</p>
                     </div>
                 </div>

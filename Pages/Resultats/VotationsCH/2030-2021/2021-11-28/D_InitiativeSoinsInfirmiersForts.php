@@ -145,16 +145,39 @@
                             des soins infirmiers suffisants et de qualité. 
                         </p>
 
-                        <p class="uk-text-justify">2 Ils garantissent qu’il y ait un nombre suffisant d’infirmiers diplômés 
+                        <p class="uk-text-justify" style="padding-bottom: 15%">2 Ils garantissent qu’il y ait un nombre suffisant d’infirmiers diplômés 
                             pour couvrir les besoins croissants et que l’affectation des personnes exerçant dans le domaine 
                             des soins infirmiers corresponde à leur formation et à leurs compétences. 
                         </p>
                             
-                        <h3>La question qui vous est posée : </h3>        
+                        <h3>Contre-projet des autorités</h3>
                         <hr>
-                        <b><p class="uk-text-justify" style="padding-bottom: 20%">Acceptez-vous l'initiave populaire 
-                        "Pour des soins infirmiers forts" ?</p></b>
+                        <p class="uk-text-justify">Les autorités fédérales présentent un contre-projet indirect pour renforcer
+                            davantage les professions des soins, car elles estiment que l'initiative va trop loin au niveau des
+                            conditions de travail et de la rémunération.
+                        </p>
+
+                        <p class="uk-text-justify">Le contre-projet reprend les principales demandes de l'initiative et permettrait
+                            une mise en oeuvre plus rapide. Un milliard de francs sera à disposition pendant 8 ans pour la promotion
+                            des formations :
+                            <ul>
+                                <li>Aides financières pour les étudiants infirmiers en hautes écoles (HES) ou en écoles supérieures (ES).</li>
+                                <li>Les institutions (Hôpitaux, homes, etc...) recevront des contributions de soutien pour la formation
+                                    pratique d'infirmiers diplômés.</li>
+                                <li>Les HES et les ES recevront des subventions si les places de formation augmentent.</li>
+                            </ul>
+                        </p>
+
+                        <p>Le contre-projet permettra aussi aux infirmiers de facturer certains soins à l'assurance maladie obligatoire.
+                            Il entrera en vigueur si l'initiative est rejetée le 28 novembre et si un éventuel référendum déposé contre
+                            le contre-projet n'aboutit pas.</p>
                     </div>
+
+                    
+                    <h3>La question qui vous est posée : </h3>        
+                    <hr>
+                    <b><p class="uk-text-justify" style="padding-bottom: 20%">Acceptez-vous l'initiave populaire 
+                    "Pour des soins infirmiers forts" ?</p></b>
                 </li>        
 
                 <li>
@@ -182,6 +205,20 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                                 <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le contre-projet du Parlement se concentre sur des investissements
+                                dans la formation qui sont sans effet sur les abandons
+                                de carrière précoces. Il ne prévoit pas assez de mesures pour
+                                garantir la qualité des soins et améliorer les conditions de travail.
+                                Les investissements prévus par le Parlement dans la formation
+                                seraient du gaspillage d’argent.
+                                </p>
+                            </div>
+                        </div>
+                    
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
+                                <h3 class="uk-card-title"></h3>                            
                                 <p class="uk-text-justify">L'initiative sur les soins infirmiers garantit que suffisamment d'infirmières
                                     et d'infirmiers sont formés, car le nombre de personnes ayant besoin de soins va croitre massivement
                                     dans les années à venir et il y a une pénurie d'infirmières et d'infimrmiers.
@@ -193,12 +230,10 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p class="uk-text-justify">L'initiative sur les soins infirmiers garantit la qualité des soins et la 
-                                    sécurité du patient. Pour la Suisse, deux analyses réalisées en automne 2019 par Prof. Dr Michael 
-                                    Simon et son équipe de chercheurs démontrent les effets positifs d’une dotation suffisante en 
-                                    personnel infirmier: des centaines de décès et d’hospitalisations inutiles peuvent être évitées 
-                                    dans les hôpitaux et les établissements médico-sociaux (EMS) grâce à une dotation suffisante en 
-                                    personnel infirmier. Des coûts considérables et beaucoup de souffrances peuvent ainsi être évités.
+                                <p class="uk-text-justify">
+                                L'initiative sur les soins infirmiers permet de garder plus longtemps 
+                                le personnel dans la profession. Ces professionnels n’ont pas d’incitations ni d’avantages et, 
+                                surtout, aucune ressource pour fournir des prestations qui ne sont pas objectivement justifiées.
                                 </p>
                             </div>
                         </div>
@@ -207,9 +242,9 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p class="uk-text-justify">L'initiative sur les soins infirmiers permet de garder plus longtemps 
-                                    le personnel dans la profession. Ces professionnels n’ont pas d’incitations ni d’avantages et, 
-                                    surtout, aucune ressource pour fournir des prestations qui ne sont pas objectivement justifiées.
+                                <p class="uk-text-justify">Pour des soins compétents et humains! Oui à l'initiative sur les 
+                                    soins infirmiers. Pour la qualité des soins, aussi à l'avenir! Oui à l'initiative sur les 
+                                    soins infirmiers.
                                 </p>
                             </div>
                         </div>
@@ -262,9 +297,139 @@
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div class="uk-card-badge uk-label badge uk-border-rounded">Comité d'initiative</div>
                                 <h3 class="uk-card-title"></h3>                            
-                                <p class="uk-text-justify">Pour des soins compétents et humains! Oui à l'initiative sur les 
-                                    soins infirmiers. Pour la qualité des soins, aussi à l'avenir! Oui à l'initiative sur les 
-                                    soins infirmiers.</p>
+                                <p class="uk-text-justify">L'initiative sur les soins infirmiers garantit la qualité des soins et la 
+                                sécurité du patient. Pour la Suisse, deux analyses réalisées en automne 2019 par Prof. Dr Michael 
+                                Simon et son équipe de chercheurs démontrent les effets positifs d’une dotation suffisante en 
+                                personnel infirmier: des centaines de décès et d’hospitalisations inutiles peuvent être évitées 
+                                dans les hôpitaux et les établissements médico-sociaux (EMS) grâce à une dotation suffisante en 
+                                personnel infirmier. Des coûts considérables et beaucoup de souffrances peuvent ainsi être évités.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le manque en personnel soignant est criant : 10’000 postes sont
+                                actuellement vacants et d’ici 2029 nous aurons besoin de 70’000 soignant-e-s supplémentaires.
+                                Pour y remédier, il faut que davantage de personnes embrassent le métier. Car la Suisse ne forme
+                                aujourd’hui que la moitié de son besoin annuel en personnel. Or, cette pénurie ne peut pas être
+                                résorbée à volonté par une main d’œuvre étrangère qualifiée. En effet, d’autres pays manquent
+                                également de main d’œuvre qualifiée et s’efforcent de devenir plus attrayants pour le personnel
+                                soignant. Conséquence : moins de soignant-e-s provenant de l’étranger arrivent en Suisse.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
+                                <h3 class="uk-card-title"></h3> <p class="uk-text-justify">L’initiative permettra à la Confédération et aux cantons de participer
+                                au financement de la formation initiale et continue, et donc d’augmenter rapidement le nombre
+                                de soignant-e-s. Elle relève enfin les indemnisations de formation, actuellement souvent
+                                inférieures à 1’500 francs. En améliorant les conditions de travail, on pourra attirer des
+                                personnes venant d’autres horizons professionnels.</p>
+
+                                <p class="uk-text-justify">Le contre-projet indirect du Parlement prévoit également une offensive
+                                de formation, mais rien pour que les personnes formées restent dans la profession. C’est pourquoi
+                                les VERT‑E‑S lui préfèrent l’initiative.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Environ 50% des personnes formées quittent la profession durant leur vie
+                                    active. Par conséquent, il ne suffit pas de former davantage de personnel pour remédier à la
+                                    pénurie. Les conditions de travail dans les soins doivent être également améliorées pour que
+                                    la main d’œuvre qualifiée continue à exercer. Il s’agit d’une part de relever les salaires car,
+                                    comparativement, rares sont les pays où le personnel soignant gagne en moyenne moins qu’en Suisse.
+                                    Il s’agit d’autre part d’améliorer les conditions de travail : le personnel soignant est
+                                    aujourd’hui à 90% féminin et un tiers des personnes quittant le métier ont moins de 35 ans.
+                                    Si l’on veut que la main d’œuvre qualifiée exerce plus longtemps – et ne la quitte pas après
+                                    la naissance des enfants, il faut rendre les horaires fiables et les structures favorables aux
+                                    familles, comme le veut l’initiative, car elle permet de mieux concilier les vies professionnelle
+                                    et familiale. Ce qui réduit le nombre d’abandons de la profession tout en permettant aux jeunes
+                                    parents de continuer à exercer après la naissance d’un enfant.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">La pandémie due au COVID-19 a révélé crûment ce qu’on savait déjà depuis
+                                longtemps : la sécurité des patient-e-s et la qualité des soins dépendent largement du nombre
+                                de patient‑e‑s par soignant-e. Si par exemple un établissement médico-social dispose de
+                                suffisamment de personnes formées, elles peuvent réagir rapidement à une aggravation de l’état
+                                de santé, ce qui évite complications et admissions à l’hôpital.</p>
+
+                                <p class="uk-text-justify">L’initiative sur les soins infirmiers mettra suffisamment de personnel
+                                soignant diplômé à disposition pour s’occuper des patient-e-s. Chaque soignant-e devra s’occuper
+                                de moins de patient-e-s, ce qui améliorera leur sécurité.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Nous dépendons toutes et tous de soins de qualité. C’est pourquoi la
+                                société doit prendre soin de celles et ceux qui prennent soin de nous. Applaudir ne suffit pas.
+                                Il faut maintenant voter pour l’initiative sur les soins infirmiers.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le personnel des soins et de la santé travaille à la limite de ses capacités.
+                                Avec la pandémie de coronavirus, la pression sur ce secteur a encore augmenté. Environ un tiers du
+                                personnel infirmier présente des symptômes d’épuisement professionnel, de dépression ou de troubles
+                                anxieux. Le stress est si important que plus de 40 % des infirmières et infirmiers quittent leur
+                                profession prématurément.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-ps uk-border-rounded">PS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Si la profession d’infirmier/ère est si peu considérée aujourd’hui,
+                                c’est notamment parce qu’il s’agit d’un métier majoritairement exercé par des femmes. Trop longtemps,
+                                l’idée que celles-ci sont naturellement prédisposées au travail du « care » (« des soins ») a conduit
+                                à une dévalorisation de tout un secteur où l’on attend des employé-e-s un sens inné du sacrifice.
+                                Pourtant, les infirmier-ère-s sont des travailleuses et travailleurs essentiel-le-s et, à ce titre,
+                                doivent avoir des conditions de travail décentes. Si ce métier peut être une vocation, c’est avant
+                                tout une profession qui mérite le même respect que les autres.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le contre-projet du Par­le­ment ne change rien à la sur­charge chro­nique des infir­mières qui tra­vaillent
+                                    déjà actuel­le­ment, à leurs condi­tions de tra­vail extrê­me­ment dif­fi­ciles et aux nom­breux départs pré­coces dans la pro­fes­sion.
+                                    C'est pourquoi l'initiative sur les soins infir­miers est néces­saire, puisque, à côté des dis­po­si­tions incon­tes­tées sur la
+                                    for­ma­tion du per­son­nel infir­mier, elle exige aussi un nombre maxi­mal de patients par infir­mière pour garan­tir la qua­lité des
+                                    soins infir­miers dont ceux-ci béné­fi­cient, ainsi que de meilleures condi­tions de tra­vail pour le per­son­nel.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pvl uk-border-rounded">PVL</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le contre-projet indirect à l’initiative sur les soins infirmiers présenté par le Parlement ne reflète
+                                    ni l’ampleur ni l’urgence du problème dans le domaine des soins. Contrairement à l’initiative, le contre-projet n’aborde pas
+                                    le problème de fond et ne prévoit pas de mesures visant à augmenter le nombre de longues carrières dans le domaine des soins et
+                                    ni de mesures garantissant la qualité des soins. L’amélioration des conditions de travail et de la qualité passe notamment par
+                                    une dotation en personnel adaptée aux besoins spécifiques des patients et garantissant leur sécurité. Il s’agit ici d’établir
+                                    des normes de qualité et d’éliminer les manquements du système de tarification, comme le demande l’initiative sur les soins
+                                    infirmiers.</p>
                             </div>
                         </div>
                     </div>
@@ -281,6 +446,122 @@
                                     Le Conseil fédéral redoute également des frais supplémentaires dus à l’augmentation du volume 
                                     des prestations si le personnel infirmier peut fournir et facturer des prestations sans 
                                     prescription médicale.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p>L’attrait de la profession infirmière et le maintien des
+                                soignants dans leur profession dépendent de bonnes conditions
+                                de travail et de salaires corrects. Il appartient aux hôpitaux,
+                                aux homes et aux organisations d’aide et de soins à domicile,
+                                ainsi qu’aux cantons et aux partenaires sociaux, d’y veiller
+                                conjointement. En effet, ce sont ces acteurs qui connaissent
+                                le mieux les conditions sur le terrain. Ce n’est pas à la Confédération
+                                de réglementer les salaires et les conditions de travail.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p>Les soins infirmiers sont un élément important des soins
+                                médicaux de base, qui sont déjà inscrits dans la Constitution.
+                                Le Conseil fédéral et le Parlement ne veulent pas en plus y
+                                mentionner séparément les soins infirmiers, car cela conduirait
+                                à octroyer dans la Constitution un statut privilégié à une
+                                catégorie professionnelle en particulier.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p>Le contre-projet reprend une exigence de l’initiative
+                                concernant la facturation directe, en prévoyant toutefois un
+                                mécanisme de contrôle des coûts. Le Conseil fédéral s’efforce
+                                depuis quelques années de freiner la hausse des coûts de la
+                                santé. Ainsi, ceux-ci ne doivent augmenter que dans la mesure
+                                où ils sont médicalement justifiés. Sans mécanisme de contrôle,
+                                la facturation directe pourrait entraîner une hausse des coûts
+                                de la santé et donc des primes d’assurance-maladie.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p>Le plus grand défi réside dans la pénurie de personnel
+                                infirmier. Le Conseil fédéral et le Parlement ont donc adopté
+                                un contre-projet qui prévoit de mettre à disposition rapidement
+                                un milliard de francs environ pour une campagne de
+                                formation. Celle-ci permettra de créer les places de formation
+                                en soins infirmiers urgemment requises et de soutenir financièrement
+                                la formation et la formation continue.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge uk-border-rounded">Autorités fédérales</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p>Le Conseil fédéral et le Parlement veulent renforcer les
+                                soins infirmiers de manière rapide et efficace. Leur contre-projet
+                                reprend dans une large mesure les exigences de l’initiative.
+                                Il prévoit également des mesures concrètes qui ont déjà été
+                                adoptées par le Parlement et qui peuvent donc être appliquées
+                                rapidement. Le contre-projet n’entrera pas en vigueur si
+                                l’initiative est acceptée. Le Conseil fédéral et le Parlement
+                                devraient alors préparer une nouvelle loi qui ne pourra entrer
+                                en vigueur que bien plus tard, au terme de la procédure
+                                parlementaire.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le contre-projet contient déjà tous les éléments de l’initiative sur les soins qui peuvent être mis
+                                en œuvre au niveau fédéral. Il constitue de facto une loi d’application de l’initiative sur les soins infirmiers. Par exemple,
+                                environ 1 milliard de fonds de soutien pour la formation et le perfectionnement du personnel infirmier sont prévus : c'est
+                                extrêmement généreux. D'autre part, les demandes de meilleures conditions de travail ne relèvent pas des compétences de la
+                                Confédération et ne peuvent donc pas être réglementées par le Parlement.</p>
+
+                                <p class="uk-text-justify">En effets le contre-projet prévoit une reprise des revendications applicables au niveau fédéral :
+                                investissement de CHF 469 millions par la Confédération pour la formation (> 1 milliard avec la contribution des cantons).
+                                Les cantons devront subvenir aux besoins des jeunes en formation. Il y aura ensuite une extension des compétences du personnel
+                                infirmier, avec la possibilité de facturer certaines prestations directement à la charge de la LAMal. Finalement le contre-projet
+                                met en place des mesures correctrices en cas d’augmentation injustifiée des coûts.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Si l'initiative est acceptée, le Parlement devra rédiger une loi d'application et cela prendrait
+                                    plusieurs années. Il serait plus rapide de rejeter l'initiative sur les soins infirmiers : le contre-projet indirect
+                                    entrerait alors automatiquement et immédiatement en vigueur. Il est dans l'intérêt du personnel infirmiers, mais aussi
+                                    des patients, qu'ils ne doivent pas attendre plusieurs années de plus pour une amélioration ».</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Une hausse des salaires, telle qu'envisagée par l'initiative sur les soins, signifie une hausse des
+                                coûts. La facturation directe avec l'assurance maladie conduit à un plus grand catalogue des prestations et donc à des coûts
+                                de santé et d'assurance maladie encore plus élevés. En outre, la Confédération ne réglemente pas les salaires : ce sont les
+                                partenaires sociaux qui négocient entre eux les conditions de travail et les salaires. Une réglementation des salaires au
+                                niveau fédéral constituerait un dangereux précédent d'ingérence dans un système qui fonctionne. Cela pourra susciter des
+                                désirs dangereux dans d'autres professions.</p>
                             </div>
                         </div>
                     </div>

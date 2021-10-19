@@ -91,7 +91,7 @@
                 <div class="uk-card uk-card-default uk-card-hover uk-text-center">
                     <div class="uk-card-badge uk-label badge uk-border-rounded"></div><br>
                     <div class="uk-card-body">
-                        <h3 class="uk-card-title-center text-rouge-fonce">Marcel Ackermann</h3>
+                        <h3 class="uk-card-title-center text-rouge-fonce">Nadja Parrat</h3>
                         <p>Chemins, agriculture, ruisseaux et déchetterie</p>
                     </div>
                 </div>

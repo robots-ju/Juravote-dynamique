@@ -65,10 +65,12 @@ d’un-e maire</h1>
         manuscrite du (de la) candidat-e et celles d’au moins
         cinq électeurs-trices domiciliés-es dans la commune.</p>
 
-        <!--<h2 style="padding-bottom: 2%;">Résultats à l'issue du délai de dépôt des listes</h2>
-        <p>Aucun-e candidat-e ne s'est présenté-e à l'élection complémentaire à la Mairie.
-        Une élection libre aura donc lieu le 13 juin 2021.
-        </p>-->
+        <h2 style="padding-bottom: 2%;">Résultats à l'issue du délai de dépôt des listes</h2>
+        <p>Une seule liste a été déposée ce lundi 4 octobre 2021. Albert Gonin (sans parti) est élu tacitement à la Mairie de
+        Montfaucon. Il entrera en fonction le 14 octobre.</p>
+
+        <p>En conséquence, il n'y aura pas d'élection le 28 novembre 2021.
+        </p>
         
     </section>
 </main>

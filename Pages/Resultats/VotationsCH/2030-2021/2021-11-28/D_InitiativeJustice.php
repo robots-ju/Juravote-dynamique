@@ -346,6 +346,126 @@
                                     rendus par le Tribunal fédéral.</p>
                             </div>
                         </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le comité d’initiative estime que les juges, étant sous la pression des partis, ne peuvent pas
+                                décider aujourd’hui en toute indépendance. Ce n’est pas vrai : les rétrocessions sont versées par les juges aux partis et
+                                n’offre ainsi aucun levier pour les influencer. De plus, les tribunaux sont libres dans leurs délibérations et arrêts.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Le tirage au sort proposé est une procédure hors sol peu acceptée. Contrairement au tirage au sort
+                                visant à représenter l’ensemble de la population (par exemple pour les conseils citoyens), celui de l’initiative n’est
+                                pas à même d’assurer l’équilibre des personnes choisies. La composition du Tribunal fédéral pourrait dès lors être unilatérale,
+                                car personne, pas même un-e juge, n’est totalement apolitique. Le système actuel garantit qu’une large palette de sensibilités
+                                politiques, régions et genres soient représentés au tribunal, ou plus exactement, qu’une sous-représentation puisse être corrigée.
+                                Cette représentativité est essentielle pour que les arrêts soient bien acceptés. La commission judiciaire, chargée de la
+                                présélection, assure aujourd’hui déjà que les candidatures proposées ont les compétences requises.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-verts uk-border-rounded">VERTS</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">La Suisse a besoin d’une justice forte, indépendante et largement reconnue en tant que troisième pouvoir.
+                                Nous œuvrons en ce sens au Parlement en proposant des réformes. La réélection périodique des juges est l’occasion de les attaquer,
+                                mais jusqu’ici sans succès. Les VERT-E-S se battent au Parlement afin de dépolitiser la réélection des juges.</p>
+
+                                <p class="uk-text-justify">Dans l’ensemble, le système judiciaire suisse fonctionne. C’est pourquoi l’initiative sur la justice
+                                propose – sans nécessité – une expérimentation hasardeuse, qui affaiblirait inutilement les partis politiques, cette composante
+                                importante d’une démocratie fonctionnelle. Faute d’un financement réglementé, de nombreux partis nationaux et cantonaux
+                                dépendent des rétrocessions des juges. C’est pourquoi les VERT-E-S misent sur l’alternative de financer les partis par
+                                l’État et de rendre du même coup transparent le financement de la politique. Un financement transparent des partis permettrait
+                                de renoncer aux rétrocessions des juges. Mais il s’agit avant toute chose de le garantir, faute de quoi les partis seront
+                                davantage affaiblis face aux lobbys et associations fortunées.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">La pra­tique actuelle consis­tant à élire les juges fédé­raux en tenant compte de la repré­sen­ta­tion des
+                                langues, des régions et des par­tis a fait ses preuves et est sou­te­nue par tous les camps poli­tiques. Avec la pro­cé­dure
+                                pro­po­sée par l’initiative, dans cer­taines cir­cons­tances, ce n'est plus la per­sonne la plus com­pé­tente qui sera élue, mais
+                                celle qui aura eu de la chance lors du tirage au sort.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pvl uk-border-rounded">PVL</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">« L’initiative demande que les juges les plus importants de notre pays soient élus par tirage au sort.
+                                Les tribunaux doivent représenter les différentes sensibilités de la population. Cela nécessite d’une part des connaissances
+                                et des compétences juridiques de pointe et d’autre part une personnalité faite pour un tel poste. La délégation de la sélection
+                                des candidatures à un organe d’experts, comme le prévoit l’initiative, ne ferait que déplacer le problème, s’il en existe un. »</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pdc uk-border-rounded">Le Centre</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">L’initiative ne reconnaît pas que l’élection des juges fédéraux par le Parlement confère au pouvoir
+                                judiciaire un haut degré de légitimité démocratique. Un tirage au sort ne peut pas le faire. Ce serait un mécanisme étranger au
+                                système de notre Constitution fédérale. Lors de son élection, le Parlement tient compte non seulement de la représentation
+                                proportionnelle des partis, mais aussi du sexe, de l’appartenance cantonale et de la langue, ce qui contribue à garantir que les
+                                tribunaux fédéraux reflètent les différentes positions de base sociopolitiques. Cela renforce la légitimité de la plus haute
+                                juridiction de notre pays.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">L'élection par l'Assemblée fédérale confère aux juges fédéraux une véritable légitimité démocratique.
+                                    Une loterie ne peut pas remplacer la démocratie. En outre, les différentes valeurs et positions politiques sont représentées
+                                    de manière équilibrée au sein du Tribunal fédéral grâce à la représentation des partis. Ceci est important pour la légitimité
+                                    des juges et pour l'acceptation de leurs jugements. En plus, le tirage au sort empêche une sélection des candidats en fonction
+                                    de leur qualité.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Les initiants montrent une image sombre et injuste d’un système judicaire dépendant des partis politiques.
+                                Un coup d’œil au passé montre que le contraire est vrai : il n’y a la moindre preuve que les juges fédéraux ne soient pas
+                                indépendants. En outre, le système judiciaire suisse jouit également d'une très bonne réputation au niveau international.</p>
+
+                                <p class="uk-text-justify">Le seul besoin réel de correction se trouve dans les « contributions d’élus ». Celles-ci peuvent donner
+                                l'impression que les juges sont dépendants des parties. C'est là qu'intervient l'initiative parlementaire du conseiller national
+                                Beat Walti (PLR, ZH) 20.468 « Juges fédéraux. Renforcer l’indépendance judiciaire en interdisant les contributions d’élus et les
+                                dons aux partis ».</p>
+
+                                <p class="uk-text-justify">Il n'y a simplement pas une dépendance vis-à-vis des partis politiques : les partis politiques suisses
+                                ont exprimé à plusieurs reprises leur mécontentement à l'égard des décisions de "leurs" juges. Toutefois, les juges fédéraux
+                                n'ont jamais été démis de leurs fonctions pour cette raison - ce qui sous-tend l'indépendance des juges fédéraux.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Une commission d'experts doit déterminer qui est admis à la loterie. La décision de nomination est donc
+                                simplement transférée du Parlement démocratiquement élu à une commission d'experts. Cela ne renforce pas l'indépendance
+                                politique. Après tout, la loterie est nettement moins transparente qu'une procédure électorale ouverte. Avant tout, il n'est
+                                pas nécessaire, et n'a pas de sens, de révolutionner un système équilibré et qui fonctionne bien.</p>
+                            </div>
+                        </div>
                     </div>
                 </li>
             </ul>

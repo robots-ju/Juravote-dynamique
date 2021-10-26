@@ -146,7 +146,7 @@
                         </p>
 
                         <p class="uk-text-justify">Le Conseil fédéral garantit que les employés du secteur agricole et de la
-                            construction otn la possiblité de se restaurer dans des établissements de restauration, malgré la
+                            construction ont la possiblité de se restaurer dans des établissements de restauration, malgré la
                             fermeture ordonnée par les autorités.
                         </p>
 

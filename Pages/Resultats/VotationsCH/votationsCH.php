@@ -85,7 +85,7 @@
                                     <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid>
                                         <div>
                                             <div class="uk-card uk-card-default uk-card-hover">
-                                                <a href="2030-2021/2021-09-26/vfederales.php">
+                                                <a href="2030-2021/2021-09-26/accueil.php">
                                                     <div class="uk-card-body">
                                                             <div class="uk-width-expand">
                                                                 <h3 class="uk-card-title uk-margin-remove-bottom montserrat

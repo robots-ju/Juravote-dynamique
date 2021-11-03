@@ -432,6 +432,26 @@
                                     infirmiers.</p>
                             </div>
                         </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Que ce soient nos parents, nos enfants ou nous-mêmes, lorsque nous
+                                avons besoin de soins, nous savons combien nous apprécions de pouvoir compter sur du personnel
+                                infirmier compétent, motivé et disponible. Malheureusement nous savons aussi que la situation
+                                actuelle est loin d’être aussi idyllique: trop peu de personnel, soignants surchargés, conditions
+                                salariales et de travail qui ne sont pas à la hauteur de l’importance et des exigences de la
+                                profession, paperasse lourde et improductive, vie privée chahutée par des tableaux de service
+                                chargés, hachés et en perpétuel changement, etc.Résultat: un nombre important de professionnels
+                                de la santé quittent leur profession bien trop tôt, ce qui aggrave encore le manque de personnel
+                                infirmier.Pour des ressources accrues au niveau de la formation et des conditions salariales du
+                                personnel infirmier,pour une limitation du nombre de patients qui doivent être pris en charge par
+                                chaque soignant et pour une réduction des tâches administratives des infirmières indépendantes,
+                                votez OUI à l’initiative sur les soins infirmiers. Le PEV Suisse et le PEV Jura vous le demandent
+                                unanimement.</p>
+                            </div>
+                        </div>
                     </div>
                 </li>
 

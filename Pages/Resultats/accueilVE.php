@@ -48,7 +48,7 @@
     <section style="padding: 2%;">
         <h1 class="uk-heading-large">Prochaines votations et élections</h1>
         <hr> 
-        <div class="uk-child-width-1-6@m uk-grid-small uk-grid-match" uk-grid> 
+        <div class="uk-child-width-1-4@m uk-grid-small uk-grid-match" uk-grid> 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
                     <a href="ElectionsCO/Pleigne/2021-11-14/ConseilCommunal.php">
@@ -102,14 +102,14 @@
 
             <div>
                 <div class="uk-card uk-card-default uk-card-hover">
-                    <a href="ElectionsCO/Enfers/2021-12-19/ConseilCommunalEnfers.php">
+                    <a href="VotationsCO/Courtetelle/2021-11-28/Accueil.php">
                         <div class="uk-card-body">
                             <div class="uk-grid-small uk-flex-column" uk-grid>
                                 <div class="uk-width-auto">
-                                    <img width="150" height="150" src="<?php echo $communeEnfers ?>" alt="Election Les Enfers">
+                                    <img width="150" height="150" src="<?php echo $communeCourtetelle ?>" alt="Votations Courtételle">
                                 </div>
                                 <div class="uk-width-expand">
-                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Election Les Enfers du 19 décembre</h3>
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations Courtételle du 28 novembre</h3>
                                 </div>
                             </div>
                         </div>
@@ -144,6 +144,23 @@
                                 </div>
                                 <div class="uk-width-expand">
                                     <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votations fédérales du 13 février</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+
+            <div>
+                <div class="uk-card uk-card-default uk-card-hover">
+                    <a href="VotationsJU/2022-02-13/FinancementPartis.php">
+                        <div class="uk-card-body">
+                            <div class="uk-grid-small uk-flex-column" uk-grid>
+                                <div class="uk-width-auto">
+                                    <img width="150" height="150" src="<?php echo $pouvoirCantonal ?>" alt="Votation Jura du 13 février 2022">
+                                </div>
+                                <div class="uk-width-expand">
+                                    <h3 class="uk-card-title uk-margin-remove-bottom montserrat">Votation cantonale du 13 février</h3>
                                 </div>
                             </div>
                         </div>

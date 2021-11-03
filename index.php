@@ -96,18 +96,18 @@
                                 </div>                          
                             </div>
                         </a>
-                        
-                        <a href="Pages/Resultats/ElectionsCO/Enfers/2021-12-19/ConseilCommunalEnfers.php">                          
+
+                        <a href="Pages/Resultats/VotationsCO/Courtetelle/2021-11-28/Accueil.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
-                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >19.12</div>
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >28.11</div>
                                 </div>
                                 <div class="uk-card-body">
-                                    <h3 class="uk-card-title">Election Les Enfers</h3>
+                                    <h3 class="uk-card-title">Votations Courtételle</h3>
                                 </div>                          
                             </div>
                         </a>
-
+                        
                         <a href="Pages/Resultats/ElectionsCO/Soubey/2021-12-19/MairieSoubey.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">
@@ -129,10 +129,32 @@
                                 </div>                          
                             </div>
                         </a> 
+
+                        <a href="Pages/Resultats/VotationsJU/2022-02-13/FinancementPartis.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >13.02</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Votation cantonale</h3>
+                                </div>                          
+                            </div>
+                        </a> 
                     </div>
 
                     <div class="uk-card uk-card-body uk-padding-remove uk-width-1-4@s">                       
                         <h3 class="uk-heading-divider uk-text-center">Derniers résultats</h3>
+                        <a href="Pages/Resultats/ElectionsCO/Enfers/2021-12-19/ConseilCommunalEnfers.php">                          
+                            <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
+                                <div class="uk-card-header uk-padding-remove-bottom">
+                                    <div class="uk-card-badge uk-label uk-border-rounded" style="background-color: #D20603;" >19.12 (25.10)</div>
+                                </div>
+                                <div class="uk-card-body">
+                                    <h3 class="uk-card-title">Election Les Enfers</h3>
+                                </div>                          
+                            </div>
+                        </a>
+
                         <a href="Pages/Resultats/ElectionsCO/Bourrignon/2021-12-12/MairieBourrignon.php">                          
                             <div class="uk-card uk-card-hover uk-width-1-1 uk-padding-remove">
                                 <div class="uk-card-header uk-padding-remove-bottom">

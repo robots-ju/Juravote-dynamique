@@ -49,8 +49,7 @@
         <h1 class="uk-heading-large">Crédit-cadre de Fr. 3'600'000.- pour
         le projet de rénovation de l'Ecole secondaire du Val-Terbi</h1>
         <hr>
-        <h3>Les informations seront bientôt disponibles !</h3>
-        <!--
+
         <div class="switcher-buttons" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%;">
                 <button class="uk-button uk-button-default" type="button">Résumé</button>
                 <button class="uk-button uk-button-default" type="button">Positions des partis de Val-Terbi</button>
@@ -59,303 +58,134 @@
             </div>  
             <ul class="uk-switcher uk-margin">
                 <li> 
-                    <div class="uk-column-1-2@m uk-column-1-1@s">
-                        <h3>Préambule</h3>
-                        <p>Le règlement d'organisation et d'administration des eaux du Val-Terbi (SEVT) fixe l'ensemble des règles
-                        et des prescriptions assurant le bon fonctionnement du Service des eaux du Val-Terbi. A la suite de l'
-                        intégration de Corban dans la Commune de Val-Terbi le 1er janvier 2018, une adaptation du règlement d'
-                        organisation s'impose afin de tenir compte de la nouvele situation. Pour mémoire, les domaines d'activités
-                        du SEVT sont :
+                    <h3>Préambule</h3>
+                    <p>L'ESVT accueille les élèves de Courchapoix, de Courroux, de Mervelier et de Val-Terbi. Le bâtiment appartient au Syndicat de l'ESVT et les charges sont réparties comme suit entre les communes :
+                    </p>
+
+                    <ol style="padding-bottom: 5%">
+                        <li>Courchapoix : 5.45%</li>
+                        <li>Courroux : 45.00%</li>
+                        <li>Mervelier : 5.80%</li>
+                        <li>Val-Terbi : 43.75%</li>
+                    </ol>                        
+
+                    <h3>Descriptif du projet</h3>
+                    <hr>
+                    <div class="uk-column-1-2@m uk-column-1-1@s"> 
+                        <h4>Contexte général</h4>
+                        <p>Construit en 1960, le bâtiment principal a été rejoint par des agrandissements en 1978, en 1994 et en 2004. Le projet de rénovation comprend les deux premiers bâtiments (1960 et 1978) et a pour vocation d'offrir des conditions optimales aux élèves et aux enseignants de l'ESVT, car les salles de classes n'ont fait l'objet d'aucune rénovation à ce jour.
                         </p>
 
-                        <ol>
-                            <li>L'élaboration des projets et la réalisation des installations d'approvisionnement, d'adduction,
-                            d'interconnexion et de distribution des réseaux publics d'eau potable ;</li>
-                            <li>L'entretien, le maintien et l'état, l'exploitation et l'extension des ouvrages, des installations,
-                            des conduites et des équipements servant au captage, à l'approvisionnement, l'adduction, l'interconnexion,
-                            la distribution de l'eau potable, pour les communes de Courchapoix, Mervelier et les localités de Corban,
-                            Montsevelier et Vicques</li>
-                        </ol>                        
+                        <h4>Objectif de la rénovation</h4>
+                        <h5>Rénovation intérieure</h5>
+                        <p style="padding-bottom: 5%">Les locaux seront rénovés entièrement (sols, équipement électrique, mobilier, peinture et installations sanitaires). De plus, les salles seront équipés de faux-plafonds phoniques et de luminaires LED.</p>
 
-                        <h3>Contenu</h3>
-                        <p>Le Comité du SEVT a procédé à une révision du règlement actuellement en vigueur. Les principales
-                        modifications sont les suivantes :
-                        </p>
+                        <h5>Assainissement de la halle de gymnastique</h5>
+                        <p>L'isolation thermique des murs et de la toiture sera réalisée (critères Minergie), car inexistante. Certaines infrastructures seront refaites pour répondre aux normes actuelles de sécurité et un nouvel éclairage sera réalisé.</p>
 
-                        <ol>
-                            <li>Le travail de révision a consisté avant tout en un toilettage à la suite de l'intégration de Corban
-                            dans la Commune de Val-Terbi ;</li>
-                            <li>La composition des différents organes a été revue ;</li>
-                            <li>Dans la foulée, une augmentation des seuils de compétences financières a été prévue, afin d'offrir
-                            une plus grande marge de manoeuvre au comité.</li>
-                        </ol>
+                        <h5>Assainissement énergétique</h5>
+                        <p>Afin de réduire les frais énergétiques, les combles seront isolées, des luminaires LED posés, des fenêtres seront remplacées et une installation photovoltaïque réalisée. Un label Minergie global a été mis de côté, car les coûts d'obtention sont trop élevés.</p>
+
+                        <h5>Réaménagement des extérieurs</h5>
+                        <p>Les couverts à vélos seront remplacés et déplacés, les places alentours seront remises en état et la végétation améliorée. Le couvert de l'entrée principale sera également rénové complètement afin de contribuer, avec les espaces extérieurs, au bien-être des enseignants et des élèves, mais aussi afin de remplir un rôle de carte de visite.</p>
                     </div>
 
+                    <h3>Financement</h3>
+                    <p>Dans le but de ne pas surcharger les finances communales, il est prévu de recourir à l'emprunt et, de plus, les travaux sont prévus durant les vacances scolaires de l'année 2022, afin de garantir ile bon déroulement de la vie de l'école.</p>
                     <table class="uk-table uk-table-hover uk-table-striped"  style="padding-top: 2%;">
                         <thead>
                             <tr>
-                                <th class="uk-width-auto">Objet</th>
-                                <th>Règlement actuel</th>
-                                <th>Règlement futur</th>
+                                <th class="uk-width-auto">Travaux</th>
+                                <th class="uk-text-right">Coûts</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td><b>Comité</b></td>
-                                <td>Le comité se compose de 5 membres, un pour chacune des communes de Corban, Mervelier et
-                                Courchapoix, et 2 pour val-Terbi, ainsi que d'un suppléant par commune choisi parmi les membres
-                                des conseils communaux ou généraux et désignés par les conseils communaux.</td>
-                                <td>Le comité se compose de 7 membres, deux pour chacune des communes de Mervelier
-                                Courchapoix, et 3 pour Val-Terbi, domiciliés dans la mesure du possible dans chacune des localités,
-                                ainsi que d'un suppléant par commune. Ils sont choisis parmi les membres des conseils communaux ou
-                                généraux et désignés par les communes.</td>
+                                <td>Bâtiment Sud</td>
+                                <td class="uk-text-right">CHF 730'660.00</td>
                             </tr>
 
                             <tr>
-                                <td><b>Assemblée des Délégués</b></td>
-                                <td>L'Assemblée des Délégués se compose des représentants des communes membres du SEVT, selon la
-                                répartition suivante :
-                                    <ul>
-                                        <li>1 délégué et 1 suppléant faisant partie des conseils communaux et désignés par ces
-                                        derniers, en incluant d'office ceux qui sont membres du comité du SEVT ;</li>
-                                        <li>2 autres délégués et 1 suppléant par commune, nommés conformément à l'article 4,
-                                        alinéa 1, lettre 3, jusqu'à 400 habitants ;</li>
-                                        <li>1 délégué nommé conformément à l'article 4, alinéa 1, lettre e, par tranche
-                                        supplémentaire de 400 habitants.</li>
-                                    </ul>
-                                </td>
-                                <td>L'Assemblée des Délégués se compose de onze membres. Cinq délégués et un suppléant pour
-                                la commune de Val Terbi, trois délégués et un suppléant pour la commune de Courchapoix et trois
-                                délégués et un suppléant pour la commune de Mervelier.</td>
+                                <td>Bâtiment Centre</td>
+                                <td class="uk-text-right">CHF 536'750.00</td>
                             </tr>
 
                             <tr>
-                                <td><b>Compétences financières (communes)</b></td>
-                                <td>Dépenses nouvelles dépassant le 10 % du budget de fonctionnement.
-                                </td>
-                                <td><p>Dépenses nouvelles dépassant le 10 % du budget de fonctionnement</p>
-                                    <p>Crédits supplémentaires dépassant 10 % du budget de fonctionnement.</p></td>
+                                <td>Extensions 1994 - 2004</td>
+                                <td class="uk-text-right">CHF 98'580.00</td>
                             </tr>
 
                             <tr>
-                                <td><b>Compétences financières (Assemblée des Délégués)</b></td>
-                                <td><p>Dépenses nouvelles dépassant Fr. 25'000.- par objet.</p>
-                                    <p>Crédits supplémentaires dépassant de plus de Fr 25'000.- les crédits autorisés.</p>
-                                    <p>Acquisition ou vente de biens-fonds et constitution de droits réels sur les immeubles
-                                    lorsque le prix dépasse Fr. 25'000.-.</p>
-                                </td>
-                                <td><p>Dépenses nouvelles dépassant Fr. 50'000.- par objet.</p>
-                                    <p>Crédits supplémentaires dépassant de plus de Fr 50'000.- les crédits autorisés.</p>
-                                    <p>Acquisition ou vente de biens-fonds et constitution de droits réels sur les immeubles
-                                    lorsque le prix dépasse Fr. 50'000.-.</p>
-                                </td>
+                                <td>Halle de gymnastique</td>
+                                <td class="uk-text-right">CHF 1'278'900.00</td>
                             </tr>
 
                             <tr>
-                                <td><b>Compétences financières (Comité)</b></td>
-                                <td><p>Dépenses nouvelles dépassant et crédits complémentaires inférieurs à
-                                    Fr. 25'000.- par objet.</p>
-                                    <p>Acquisition ou vente de biens-fonds et constitution de droits réels sur les immeubles
-                                    lorsque le prix est inférieur Fr. 25'000.-.</p>
-                                </td>
-                                <td><p>Dépenses nouvelles dépassant et crédits complémentaires inférieurs à
-                                    Fr. 50'000.- par objet.</p>
-                                    <p>Acquisition ou vente de biens-fonds et constitution de droits réels sur les immeubles
-                                    lorsque le prix est inférieur Fr. 50'000.-.</p>
-                                </td>
+                                <td>Isolation des combles</td>
+                                <td class="uk-text-right">CHF 125'040.00</td>
+                            </tr>
+
+                            <tr>
+                                <td>Aménagements extérieurs</td>
+                                <td class="uk-text-right">CHF 290'360.00</td>
+                            </tr>
+
+                            <tr>
+                                <td>Photovoltaïques</td>
+                                <td class="uk-text-right">CHF 128'010.00</td>
+                            </tr>
+
+                            <tr>
+                                <td>Honoraires architecte</td>
+                                <td class="uk-text-right">CHF 242'400.00</td>
+                            </tr>
+
+                            <tr>
+                                <td>Honoraires autres ingénierus</td>
+                                <td class="uk-text-right">CHF 117'200.00</td>
+                            </tr>
+
+                            <tr>
+                                <td>Travaux préparatoires et nettoyages</td>
+                                <td class="uk-text-right">CHF 52'100.00</td>
+                            </tr>
+
+                            <tr>
+                                <td><b>Total du crédit TTC<b></td>
+                                <td class="uk-text-right"><b>CHF 3'600'000.00<b></td>
                             </tr>
                         </tbody>
                     </table>
+
+                    <p>Le projet de rénovation et l'installation photovoltaïque ont fait l'objet de demandes de subventions auprès des Autorités cantonales. Il peut être attendu un subventionnement de CHF 18'000.00.</p>
+
+                    <h3>La question qui vous est posée :</h3>
+                        <hr>
+                        <b><p class="uk-text-justify">Acceptez-vous un crédit-cadre de CHF 3'600'000 pour la rénovation de l'Ecole Secondaire du Val-Terbi ?
+                        </p></b>
                 </li>  
-                <li>            
-                    <h2>Partis de Val-Terbi</h2>
-                    <table class="uk-table">
-                        <thead>
-                            <tr>
-                                <th class="uk-text-center">PDC</th>
-                                <th class="uk-text-center">Val-Terbi Ensemble</th>
-                                <th class="uk-text-center">COVAL</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
-                                <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
-                                <td class="uk-text-center"><span class="uk-badge" style="background-color: grey;">LIBRE</span></td>
-                            </tr>
-                        </tbody>
-                    </table>    
-                    <h2>Autorités communales</h2>
-                    <table class="uk-table">
-                        <thead>
-                            <tr>
-                                <th class="uk-text-center">Conseil communal</th>
-                                <th class="uk-text-center">Conseil général</th>
-                                <th class="uk-text-center">Assemblée des Délégués du SEVT</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                                <td class="uk-text-center"><span class="uk-badge" style="background-color: green;">OUI</span></td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </li>
+
                 <li>
-                <h4>Aucun argument n'a été formulé par les partisans du texte !</h4>
-                
-                <!--<div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
-                        <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
+                    <div class="uk-column-1-1@m uk-column-1-1@s">  
+                        <h2>Autorités communales</h2>
+                        <iframe title="Recommandations de vote des autorités_ValTerbi_ESVT" aria-label="Graphique en colonnes" id="datawrapper-chart-Kmmch" src="https://datawrapper.dwcdn.net/Kmmch/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="204"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                        </script>
 
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
+                        <!--<h2>Partis politiques</h2>
+                        <iframe title="Recommandations de vote des partis_AgrandissementSTEP2021" aria-label="Anneau de choix" id="datawrapper-chart-QKB1K" src="https://datawrapper.dwcdn.net/QKB1K/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="245"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                        </script>-->
                     </div>
+                </li>  
 
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
+                <li>    
+                <p style="padding-bottom: 10%">Il n'y a pas d'arguments pour ce projet !</p>
                 </li>
+
                 <li>
-                    <h4>Il n'y a pas d'oppositions à ce projet !</h4>
-                    <div class="uk-child-width-1-5@m uk-grid-small uk-grid-match" uk-grid>
-                        <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="uk-card uk-card-default uk-card-body">
-                            <div class="uk-card-badge uk-label badge uk-border-rounded">Comité référendaire</div>
-                            <h3 class="uk-card-title"></h3>                            
-                            <p>TEXTE</p>
-                        </div>
-                    </div>
+                    <p style="padding-bottom: 10%">Il n'y a pas d'arguments contre ce projet !</p>
                 </li>
             </ul>
-    </section>-->
+    </section>
 </main>
 </body>
 

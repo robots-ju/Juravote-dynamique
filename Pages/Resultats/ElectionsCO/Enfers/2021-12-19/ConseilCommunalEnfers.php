@@ -59,7 +59,11 @@ d’un-e Conseiller-ère communal-e</title>
         doivent porter la signature manuscrite du (de la) candidat-e et celles d’au moins cinq électeurs-trices domiciliés-es
         dans la commune.
         </p>
-        
+
+        <h2 style="padding-bottom: 2%;">Résultats à l'issue du délai de dépôt des listes</h2>
+        <p>Une seule liste a été déposée ce lundi 25 octobre 2021. Monsieur Vincent Schmitt (Les VERTS) est élu tacitement au
+        Conseil communal des Enfers. Il entrera en fonction le 1er janvier 2022. En conséquence, il n'y aura pas d'élection le 19
+        décembre 2021.</p>        
     </section>
 </main>
 <footer>

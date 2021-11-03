@@ -45,6 +45,10 @@
     $districtFranchesMontagnes = "/Juravote-dynamique/IMG/Logo/Districts/Franches-montagnes.png";
     $districtPorrentruy = "/Juravote-dynamique/IMG/Logo/Districts/Porrentruy.png";
 
+    //ElectionsCO
+        //PleigneNovembre2021
+        $PapeNicolas = "/Juravote-dynamique/IMG/Personnalites/PapeNicolas.JPG";
+
     //ElectionsJU2020
         //Gouvernement
         $RobertCelineGVTGrand = "/Juravote-dynamique/IMG/Personnalites/ElectionsJU/Gouvernement/VERTS_RobertCelineGRAND.jpg";

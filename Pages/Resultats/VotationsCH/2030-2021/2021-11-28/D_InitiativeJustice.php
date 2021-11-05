@@ -313,6 +313,24 @@
                                     au sort est la meilleure garantie de cette indépendance.</p>
                             </div>
                         </div>
+
+                        <div>
+                            <div class="uk-card uk-card-default uk-card-body">
+                                <div class="uk-card-badge uk-label badge-pev uk-border-rounded">PEV Jura</div>
+                                <h3 class="uk-card-title"></h3>                            
+                                <p class="uk-text-justify">Les liens contre nature entre les pouvoirs législatif et judiciaire ne
+                                    sont plus à démontrer. Les partis, par exemple,reçoivent des contributions financières des juges
+                                    fédéraux appartenant à leur parti et qu’ils ont contribué à nommer. Quel juge a le courage de se
+                                    présenter sans être un adhérent récent ou de longue date d’un parti présent sous la coupole
+                                    fédérale? Et lorsqu’il s’agit de retirer aux députés fédéraux leur privilège de nommer ces
+                                    juges, comme par hasard, ils votent quasiment unanimement contre l’initiative.Dans la mesure
+                                    où celle-ci prévoit qu’une commission d’experts s’assure que tous les juges qui se présentent
+                                    aient les compétences professionnelles et morales nécessaires à la fonction à laquelle ils
+                                    prétendent, autant que ce soit le sort qui décide des heureux élus plutôt que les savantes
+                                    négociations entre partis.C’est pourquoi, nous vous suggérons de voter OUI à l’initiative
+                                    sur la justice.</p>
+                            </div>
+                        </div>
                     </div>
                 </li>
 

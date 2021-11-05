@@ -58,7 +58,351 @@ d’un-e Maire</title>
             le nom, le prénom, l’année de naissance et la profession du (de la) candidat- e. Les actes de candidature doivent porter la
             signature manuscrite du (de la) candidat-e et celles d’au moins cinq électeurs-trices domiciliés-es dans la commune.
         </p>
-        
+
+        <h2 style="padding-bottom: 2%;">Candidats</h2>
+        <div class="uk-child-width-1-2@l uk-child-width-1-2@m uk-child-width-1-1@s uk-grid-small uk-grid-match" uk-grid>
+            <div>
+                <!--<a href="#modal-full-1" uk-toggle>-->
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <!--<div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>-->
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Christophe Noirjean">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Christophe Noirjean</h3>
+                            <!--<p class="uk-text-center text-fonction">Cliquez ici pour obtenir plus d'informations !</p>-->
+                        </div>
+                    </div>
+                <!--</a>
+                <div id="modal-full-1" class="uk-modal-full uk-text-justify" uk-modal>
+                    <div class="uk-modal-dialog">
+                        <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+                        <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
+                            <div class="uk-background-cover" style="background-image: url(<?php echo $inconnu ?>);" uk-height-viewport></div>
+                            <div class="uk-padding-large">
+                                <h2>Gabriel Martinoli</h2>
+
+                                <div class="switcher-buttons uk-text-left" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%">
+                                    <button class="uk-button uk-button-default" type="button">Présentation</button>
+                                    <button class="uk-button uk-button-default" type="button">Priorités</button>
+                                    <button class="uk-button uk-button-default" type="button">Votations 7 mars</button> 
+                                    <button class="uk-button uk-button-default" type="button">Votations 13 juin</button>
+                                    <button class="uk-button uk-button-default" type="button">Positions</button> 
+                                </div>
+
+                                <ul class="uk-switcher uk-margin">
+                                    <li>
+                                        <h4>Présentation</h4>
+                                        <p>Né en 1951, Marié, 3 enfants, retraité (employé d'Etat jusqu'en 2016)</p>
+
+                                        <h4>Formations</h4>
+                                        <p>Domaines bancaire, commercial et fiscal</p>
+
+                                        <h4>Vos loisirs</h4>
+                                        <p>Cynologie, (travail avec les chiens), musique.</p>
+
+                                        <h4>Motivations</h4>                                        
+                                        <p>Réel intérêt pour la chose publique. Mettre mes disponibilités et compétences au service de 
+                                        la Communauté et plaisir de conduire les affaires communales. Cet exercice est pour moi l'occasion 
+                                        de rendre à la communauté l'accueil reçu en 1890 lors de 
+                                        la migration d'Italie de mon grand-père et honorer mes parents.</p>                                        
+                                    </li>
+
+                                    <li>
+                                        <h4>Priorités politiques</h4>
+                                        <p>Aménagement du territoire, écologie, soutien pour un développement harmonieux, 
+                                        amélioration des infrastructures existantes et soutien aux sociétés locales.</p>                                      
+
+                                        <h4>Quels projets souhaitez-vous réaliser ?</h4>
+                                        <p>Le carré du village (rue du Doubs, rue de la Croix, rue du Marché, rue du Pâquier et jardin d'enfants), 
+                                        Secteur sous-la-Cure, nouveau réservoir des Combes.</p>
+
+                                        <h4>Quels sont les thèmes d'actualité qui méritent d'être mis en avant au Noirmont ?</h4>
+                                        <p>Zone AIC, PAL, PDR</p>
+
+                                        <h4>Quels sont les dossiers prioritaires de la Commune du Noirmont ?</h4>
+                                        <p>Nouveau réservoir des Combes, secteur Sous-la-Cure, carré du village, nouvelle décharge, 
+                                        pose de détecteur au lampadaires LED existants.</p>
+
+                                        <h4>Êtes-vous prêt à vous engager pour les prochaines élections communales ?</h4>
+                                        <p>Si tout va bien dans ma santé et ma famille, oui en 2023, mais en tant que conseiller communal.</p>
+                                    </li>
+
+                                    <li>
+                                        <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Initiative "anti-burqa"</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Loi sur les services d'identification électronique</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Accord avec l'Indonésie</div>
+                                            </div>
+                                        </div>  
+                                    </li>
+
+                                    <li>
+                                        <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Initiative "Pour une eau potable propre"</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Initiative "Pour une Suisse libre de pesticides"</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Loi COVID-19</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Loi sur le CO2</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Loi sur les mesures policières de lutte contre le terrorisme</div>
+                                            </div>
+                                        </div> 
+                                    </li>
+
+                                    <li>
+                                        <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: red;">Non</span>                                            
+                                                <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Droit de vote à 16 ans ?</div>
+                                            </div>  
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
+                                            </div>  
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
+                                            </div>    
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
+                                            </div> 
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Bonne</span>                                            
+                                                <div class="uk-card uk-card-body">Stratégie COVID du Conseil fédéral</div>
+                                            </div> 
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Réouverture des établissements le 22 mars ?</div>
+                                            </div> 
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Développement de la zone d'activité d'intérêt cantonal au Noirmont?</div>
+                                            </div>                                   
+                                        </div>  
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>-->
+            </div>
+
+            <div>
+                <!--<a href="#modal-full-1" uk-toggle>-->
+                    <div class="uk-card uk-card-default uk-card-hover uk-text-center">
+                        <!--<div class="uk-card-badge uk-label badge-plr uk-border-rounded">PLR</div>-->
+                        <div class="uk-card-header">
+                            <div class="uk-grid-small uk-flex-column uk-grid uk-grid-stack" uk-grid>
+                                <div class="uk-width-auto uk-first-column">
+                                    <img class="uk-border-circle photo-personne"
+                                        src="<?php echo $inconnu ?>"
+                                        alt="Jean-Marie Houlmann">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-card-body">
+                            <h3 class="uk-card-title-center text-rouge-fonce">Jean-Marie Houlmann</h3>
+                            <!--<p class="uk-text-center text-fonction">Cliquez ici pour obtenir plus d'informations !</p>-->
+                        </div>
+                    </div>
+                <!--</a>
+                <div id="modal-full-1" class="uk-modal-full uk-text-justify" uk-modal>
+                    <div class="uk-modal-dialog">
+                        <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+                        <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
+                            <div class="uk-background-cover" style="background-image: url(<?php echo $inconnu ?>);" uk-height-viewport></div>
+                            <div class="uk-padding-large">
+                                <h2>Gabriel Martinoli</h2>
+
+                                <div class="switcher-buttons uk-text-left" uk-switcher="animation: uk-animation-fade; toggle: > *" style="padding-bottom: 2%">
+                                    <button class="uk-button uk-button-default" type="button">Présentation</button>
+                                    <button class="uk-button uk-button-default" type="button">Priorités</button>
+                                    <button class="uk-button uk-button-default" type="button">Votations 7 mars</button> 
+                                    <button class="uk-button uk-button-default" type="button">Votations 13 juin</button>
+                                    <button class="uk-button uk-button-default" type="button">Positions</button> 
+                                </div>
+
+                                <ul class="uk-switcher uk-margin">
+                                    <li>
+                                        <h4>Présentation</h4>
+                                        <p>Né en 1951, Marié, 3 enfants, retraité (employé d'Etat jusqu'en 2016)</p>
+
+                                        <h4>Formations</h4>
+                                        <p>Domaines bancaire, commercial et fiscal</p>
+
+                                        <h4>Vos loisirs</h4>
+                                        <p>Cynologie, (travail avec les chiens), musique.</p>
+
+                                        <h4>Motivations</h4>                                        
+                                        <p>Réel intérêt pour la chose publique. Mettre mes disponibilités et compétences au service de 
+                                        la Communauté et plaisir de conduire les affaires communales. Cet exercice est pour moi l'occasion 
+                                        de rendre à la communauté l'accueil reçu en 1890 lors de 
+                                        la migration d'Italie de mon grand-père et honorer mes parents.</p>                                        
+                                    </li>
+
+                                    <li>
+                                        <h4>Priorités politiques</h4>
+                                        <p>Aménagement du territoire, écologie, soutien pour un développement harmonieux, 
+                                        amélioration des infrastructures existantes et soutien aux sociétés locales.</p>                                      
+
+                                        <h4>Quels projets souhaitez-vous réaliser ?</h4>
+                                        <p>Le carré du village (rue du Doubs, rue de la Croix, rue du Marché, rue du Pâquier et jardin d'enfants), 
+                                        Secteur sous-la-Cure, nouveau réservoir des Combes.</p>
+
+                                        <h4>Quels sont les thèmes d'actualité qui méritent d'être mis en avant au Noirmont ?</h4>
+                                        <p>Zone AIC, PAL, PDR</p>
+
+                                        <h4>Quels sont les dossiers prioritaires de la Commune du Noirmont ?</h4>
+                                        <p>Nouveau réservoir des Combes, secteur Sous-la-Cure, carré du village, nouvelle décharge, 
+                                        pose de détecteur au lampadaires LED existants.</p>
+
+                                        <h4>Êtes-vous prêt à vous engager pour les prochaines élections communales ?</h4>
+                                        <p>Si tout va bien dans ma santé et ma famille, oui en 2023, mais en tant que conseiller communal.</p>
+                                    </li>
+
+                                    <li>
+                                        <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Initiative "anti-burqa"</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Loi sur les services d'identification électronique</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Accord avec l'Indonésie</div>
+                                            </div>
+                                        </div>  
+                                    </li>
+
+                                    <li>
+                                        <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Initiative "Pour une eau potable propre"</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Initiative "Pour une Suisse libre de pesticides"</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Loi COVID-19</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Loi sur le CO2</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Loi sur les mesures policières de lutte contre le terrorisme</div>
+                                            </div>
+                                        </div> 
+                                    </li>
+
+                                    <li>
+                                        <div class="uk-child-width-1-3@m uk-child-width-1-1@s uk-grid-match" uk-grid>                                      
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: red;">Non</span>                                            
+                                                <div class="uk-card uk-card-body">Fusions et regroupements de communes ?</div>
+                                            </div>
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Droit de vote à 16 ans ?</div>
+                                            </div>  
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Attribution du réseau de lignes de bus à CarPostal ?</div>
+                                            </div>  
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Développement de l'éolien dans le Jura ?</div>
+                                            </div>    
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Introduction de la 5G dans le Jura ?</div>
+                                            </div> 
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Bonne</span>                                            
+                                                <div class="uk-card uk-card-body">Stratégie COVID du Conseil fédéral</div>
+                                            </div> 
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: grey;">Neutre</span>                                            
+                                                <div class="uk-card uk-card-body">Réouverture des établissements le 22 mars ?</div>
+                                            </div> 
+
+                                            <div class="uk-card uk-card-body" style="padding: 1%">       
+                                                <span class="uk-badge" style="background-color: green;">Oui</span>                                            
+                                                <div class="uk-card uk-card-body">Développement de la zone d'activité d'intérêt cantonal au Noirmont?</div>
+                                            </div>                                   
+                                        </div>  
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>-->
+            </div>
+        </div>
     </section>
 </main>
 <footer>

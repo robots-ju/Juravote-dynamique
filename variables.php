@@ -47,7 +47,8 @@
 
     //ElectionsCO
         //PleigneNovembre2021
-        $PapeNicolas = "/IMG/Personnalites/PapeNicolas.JPG";
+        $PapeNicolas = "/Juravote-dynamique/IMG/Personnalites/PapeNicolas.JPG";
+        $ChételatFlorian = "/Juravote-dynamique/IMG/Personnalites/ChételatFlorian.JPG";
 
     //ElectionsJU2020
         //Gouvernement
